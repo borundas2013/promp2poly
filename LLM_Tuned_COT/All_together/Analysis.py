@@ -137,9 +137,9 @@ if __name__ == "__main__":
     # output_file = "All_together/deduplicated_small_non_reactive.csv"
     # deduplicate_csv(input_file, output_file)
 
-    input_file = "All_together/combined_large_reactive.csv"
+    input_file = "LLM_Tuned_COT/All_together/combined_large_reactive.csv"
     analyze_temperatures(input_file)
-    input_file = "All_together/combined_small_reactive.csv"
+    input_file = "LLM_Tuned_COT/All_together/combined_small_reactive.csv"
     analyze_temperatures(input_file)
 
 
