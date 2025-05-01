@@ -1,0 +1,27 @@
+{
+    "model_name": "GPT4o",
+    "timestamp": "2025-04-30T18:24:51.432423",
+    "smiles_metrics": {
+        "total_pairs": 1205,
+        "valid_pairs": 1205,
+        "unique_pairs": 175,
+        "validity_rate": 100.0,
+        "uniqueness_rate": 14.52,
+        "unique_prompts": 18,
+        "avg_pairs_per_query": 9.72
+    },
+    "property_metrics": {
+        "total_analyzed": 116,
+        "property_alignment": 3,
+        "alignment_rate": 2.59,
+        "mean_tg_error": 60.1,
+        "mean_er_error": 46.95
+    },
+    "group_metrics": {
+        "total_analyzed": 100,
+        "correct_assignments": 61,
+        "reactive_pairs": 42,
+        "matching_accuracy": 61.0,
+        "reactive_rate": 42.0
+    }
+}

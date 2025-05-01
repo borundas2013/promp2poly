@@ -1,0 +1,27 @@
+{
+    "model_name": "Llama32",
+    "timestamp": "2025-04-30T18:25:14.559550",
+    "smiles_metrics": {
+        "total_pairs": 1393,
+        "valid_pairs": 1393,
+        "unique_pairs": 394,
+        "validity_rate": 100.0,
+        "uniqueness_rate": 28.28,
+        "unique_prompts": 64,
+        "avg_pairs_per_query": 6.16
+    },
+    "property_metrics": {
+        "total_analyzed": 257,
+        "property_alignment": 3,
+        "alignment_rate": 1.17,
+        "mean_tg_error": 63.56,
+        "mean_er_error": 60.73
+    },
+    "group_metrics": {
+        "total_analyzed": 277,
+        "correct_assignments": 75,
+        "reactive_pairs": 80,
+        "matching_accuracy": 27.08,
+        "reactive_rate": 28.88
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "model_name": "DeepSeek",
+    "timestamp": "2025-04-30T18:25:56.831475",
+    "smiles_metrics": {
+        "total_pairs": 1738,
+        "valid_pairs": 1738,
+        "unique_pairs": 388,
+        "validity_rate": 100.0,
+        "uniqueness_rate": 22.32,
+        "unique_prompts": 63,
+        "avg_pairs_per_query": 6.16
+    },
+    "property_metrics": {
+        "total_analyzed": 270,
+        "property_alignment": 7,
+        "alignment_rate": 2.59,
+        "mean_tg_error": 60.43,
+        "mean_er_error": 45.24
+    },
+    "group_metrics": {
+        "total_analyzed": 285,
+        "correct_assignments": 114,
+        "reactive_pairs": 65,
+        "matching_accuracy": 40.0,
+        "reactive_rate": 22.81
+    }
+}
