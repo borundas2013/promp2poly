@@ -160,42 +160,81 @@ def run_analysis(input_dir, output_dir, model_name=''):
     temp_analyzer.analyze(json_files)
     
     
-    # Run property analysis
-    print("\nRunning property analysis...")
-    property_analyzer.analyze(json_files)
+    # # Run property analysis
+    # print("\nRunning property analysis...")
+    # property_analyzer.analyze(json_files)
     
-    # Run group analysis
-    print("\nRunning group analysis...")
+    # # Run group analysis
+    # print("\nRunning group analysis...")
 
-    group_analyzer.analyze(json_files)
+    # group_analyzer.analyze(json_files)
     
-    # Run SMILES pair analysis
-    print("\nRunning SMILES pair analysis...")
-    smiles_analyzer.analyze(json_files)
+    # # Run SMILES pair analysis
+    # print("\nRunning SMILES pair analysis...")
+    # smiles_analyzer.analyze(json_files)
 
-    # Print comprehensive statistics
+    # # Print comprehensive statistics
     print_comprehensive_stats(temp_analyzer, property_analyzer, group_analyzer, smiles_analyzer, model_name)
 
+
+
 def main():
-    input_dir = 'GPT4o/Output'
-    output_dir = 'GPT4o/Output'
-    model_name = 'GPT4o'
-    run_analysis(input_dir, output_dir, model_name)
+    """
+    Main function to analyze and compare temperature distributions across models
+    """
+    # Model configurations
+    models = {
+        'GPT4o': ('GPT4o/Output', 'GPT4o/Output'),
+        'Llama32': ('Llama32/Output', 'Llama32/Output'),
+        'MistralAI': ('MistralAI/Output', 'MistralAI/Output'),
+        'DeepSeek': ('DeepSeek/Output', 'DeepSeek/Output')
+    }
+    
+    # Collect temperature data for each model
+    temp_analyzer = TemperatureAnalyzer()
+    temp_analyzer.set_output_directory("analysis_results")
+    model_temp_data = {}
+    
+    for model_name, (input_dir, output_dir) in models.items():
+        print(f"\nProcessing {model_name}...")
+        # Get JSON files from directory
+        json_files = [os.path.join(input_dir, f) for f in os.listdir(input_dir) 
+                     if f.endswith('_s.json')]
+        if not json_files:
+            print(f"No JSON files found in {input_dir}")
+            continue
+            
+        unique_temp_data, duplicate_temp_data = temp_analyzer.analyze_model_temperature(json_files)
+        model_temp_data[model_name] = {'unique': unique_temp_data, 'duplicate': duplicate_temp_data}
 
-    input_dir = 'Llama32/Output'
-    output_dir = 'Llama32/Output'
-    model_name = 'Llama32'
-    run_analysis(input_dir, output_dir, model_name)
+    #print(model_temp_data)
+    
+    # Generate comparative visualizations
+    if model_temp_data:
+        print("\nGenerating comparative plots...")
+        temp_analyzer.create_model_comparison_plot(model_temp_data, "analysis_results")
 
-    input_dir = 'MistralAI/Output'
-    output_dir = 'MistralAI/Output'
-    model_name = 'MistralAI'
-    run_analysis(input_dir, output_dir, model_name)
 
-    input_dir = 'DeepSeek/Output'
-    output_dir = 'DeepSeek/Output'
-    model_name = 'DeepSeek'
-    run_analysis(input_dir, output_dir, model_name)
+# def main():
+#     input_dir = 'GPT4o/Output'
+#     output_dir = 'GPT4o/Output'
+#     model_name = 'GPT4o'
+#     run_analysis(input_dir, output_dir, model_name)
+
+#     input_dir = 'Llama32/Output'
+#     output_dir = 'Llama32/Output'
+#     model_name = 'Llama32'
+#     run_analysis(input_dir, output_dir, model_name)
+
+#     input_dir = 'MistralAI/Output'
+#     output_dir = 'MistralAI/Output'
+#     model_name = 'MistralAI'
+#     run_analysis(input_dir, output_dir, model_name)
+
+#     input_dir = 'DeepSeek/Output'
+#     output_dir = 'DeepSeek/Output'
+#     model_name = 'DeepSeek'
+#     run_analysis(input_dir, output_dir, model_name)
 
 if __name__ == "__main__":
     main()

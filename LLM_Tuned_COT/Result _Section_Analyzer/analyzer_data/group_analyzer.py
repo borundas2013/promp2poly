@@ -74,61 +74,50 @@ class GroupAnalyzer(BaseAnalyzer):
 
     def analyze(self, input_files):
         self.results = []  # Reset results
+        data = self.load_json_data(input_files)
+        all_pairs = self.extract_pairs(data)
         
-        for file_path in input_files:
-            try:
-                with open(file_path, 'r') as f:
-                    data = json.load(f)
-                
-                for entry in data:
-                    all_pairs = []
-                    if 'unique_pairs' in entry:
-                        all_pairs.extend(entry['unique_pairs'])
-                    
-                    for pair in all_pairs:
-                        if 'prompt' not in pair or 'smile1' not in pair or 'smile2' not in pair:
-                            continue
+        for pair in all_pairs:
+            if 'prompt' not in pair or 'smile1' not in pair or 'smile2' not in pair:
+                continue
                             
-                        prompt_groups = self.extract_chemical_groups([pair['prompt']])
-                        if not prompt_groups:
-                            continue
+            prompt_groups = self.extract_chemical_groups([pair['prompt']])
+            if not prompt_groups:
+                continue
                             
-                        groups = prompt_groups[0]['groups']
-                        if len(groups) < 2:
-                            continue
+            groups = prompt_groups[0]['groups']
+            if len(groups) < 2:
+                continue
 
-                        group1, group2 = groups[0], groups[1]
-                        smile1, smile2 = pair['smile1'], pair['smile2']
-                        reaction_validity = pair['reaction']
+            group1, group2 = groups[0], groups[1]
+            smile1, smile2 = pair['smile1'], pair['smile2']
+            reaction_validity = pair['reaction']
 
-                        match_results = {
-                            'prompt': pair['prompt'],
-                            'group1': group1,
-                            'group2': group2,
-                            'smile1': smile1,
-                            'smile2': smile2,
-                            'smile1_contains_group1': self.check_smiles_for_group(smile1, group1[1]),
-                            'smile1_contains_group2': self.check_smiles_for_group(smile1, group2[1]),
-                            'smile2_contains_group1': self.check_smiles_for_group(smile2, group1[1]),
-                            'smile2_contains_group2': self.check_smiles_for_group(smile2, group2[1]),
-                            'reaction_validity': reaction_validity,
-                        }
+            match_results = {
+                'prompt': pair['prompt'],
+                'group1': group1,
+                'group2': group2,
+                'smile1': smile1,
+                'smile2': smile2,
+                'smile1_contains_group1': self.check_smiles_for_group(smile1, group1[1]),
+                'smile1_contains_group2': self.check_smiles_for_group(smile1, group2[1]),
+                'smile2_contains_group1': self.check_smiles_for_group(smile2, group1[1]),
+                'smile2_contains_group2': self.check_smiles_for_group(smile2, group2[1]),
+                'reaction_validity': reaction_validity,
+            }
                         
-                        correct_assignment = (
+            correct_assignment = (
                             (match_results['smile1_contains_group1'] and 
                              match_results['smile2_contains_group2']) or
                             (match_results['smile1_contains_group2'] and 
                              match_results['smile2_contains_group1'])
                         )
 
-                        match_results['correct_group_assignment'] = correct_assignment
-                        self.results.append(match_results)  # Store in instance variable
+            match_results['correct_group_assignment'] = correct_assignment
+            self.results.append(match_results)  # Store in instance variable
                         
-                        self._print_group_analysis(match_results)
+            #self._print_group_analysis(match_results)
                         
-            except Exception as e:
-                print(f"Error processing file {file_path}: {str(e)}")
-        
         self._print_group_summary(self.results)
         return self.results
 

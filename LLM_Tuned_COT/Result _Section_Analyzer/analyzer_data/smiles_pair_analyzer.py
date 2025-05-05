@@ -62,8 +62,12 @@ class SMILESPairAnalyzer(BaseAnalyzer):
                 data_list = json.load(f)
             
             all_unique_pairs = []
+            all_duplicate_pairs = []
+            
             for data_dict in data_list:
+                
                 unique_pairs = data_dict.get('unique_pairs', [])
+                duplicate_pairs = data_dict.get('duplicates', [])
                 for pair in unique_pairs:
                     extracted_pair = {
                         'smile1': pair.get('smile1', ''),
@@ -74,8 +78,19 @@ class SMILESPairAnalyzer(BaseAnalyzer):
                         'prompt': pair.get('prompt', '')
                     }
                     all_unique_pairs.append(extracted_pair)
-            
-            return all_unique_pairs
+                for pair in duplicate_pairs:
+                    extracted_pair = {
+                        'smile1': pair.get('smile1', ''),
+                        'smile2': pair.get('smile2', ''),
+                        'reaction': pair.get('reaction', False),
+                        'temperature': pair.get('temperature', 0),
+                        'groups': pair.get('groups', []),
+                        'prompt': pair.get('prompt', '')
+                    }
+                    all_duplicate_pairs.append(extracted_pair)
+                
+                      
+            return all_unique_pairs, all_duplicate_pairs
         
         except FileNotFoundError:
             print(f"Error: File {file_path} not found")
@@ -95,7 +110,7 @@ class SMILESPairAnalyzer(BaseAnalyzer):
         os.makedirs(os.path.join(self.output_dir), exist_ok=True)
         
         for input_file in input_files:
-            all_pairs = self.load_tsmp_data(input_file)
+            all_pairs, all_duplicate_pairs = self.load_tsmp_data(input_file)
             reactive_pairs = self.filter_by_reaction(all_pairs, True)
             non_reactive_pairs = self.filter_by_reaction(all_pairs, False)
             
@@ -118,7 +133,9 @@ class SMILESPairAnalyzer(BaseAnalyzer):
             } for pair in non_reactive_pairs])
             
             print(f"\nStatistics for {input_file.split('/')[-1]}:")
-            print(f"Total pairs analyzed: {len(all_pairs)}")
+            print(f"Total unique pairs analyzed: {len(all_pairs)}")
+            print(f"Total duplicate pairs analyzed: {len(all_duplicate_pairs)}")
+            print(f"Total pairs analyzed: {len(all_pairs) + len(all_duplicate_pairs)}")
             print(f"Reactive pairs found: {len(reactive_pairs)}")
             print(f"Non-reactive pairs found: {len(non_reactive_pairs)}")
         

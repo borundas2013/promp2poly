@@ -38,6 +38,17 @@ class BaseAnalyzer(ABC):
             if include_duplicates and 'duplicates' in entry:
                 all_pairs.extend(entry['duplicates'])
         return all_pairs
+
+    def extract_pairs_d(self, data, include_duplicates=False):
+        """Extract SMILES pairs from data"""
+        unique_pairs = []
+        duplicates = []
+        for entry in data:
+            if 'unique_pairs' in entry:
+                unique_pairs.extend(entry['unique_pairs'])
+            if include_duplicates and 'duplicates' in entry:
+                duplicates.extend(entry['duplicates'])
+        return unique_pairs, duplicates
     
     @abstractmethod
     def analyze(self, input_files):

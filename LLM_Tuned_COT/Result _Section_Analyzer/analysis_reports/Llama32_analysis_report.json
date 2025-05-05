@@ -1,6 +1,6 @@
 {
     "model_name": "Llama32",
-    "timestamp": "2025-04-30T18:25:14.559550",
+    "timestamp": "2025-05-05T15:42:42.509334",
     "smiles_metrics": {
         "total_pairs": 1393,
         "valid_pairs": 1393,
