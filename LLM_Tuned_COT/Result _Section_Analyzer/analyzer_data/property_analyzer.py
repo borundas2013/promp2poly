@@ -5,6 +5,7 @@ import sys
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import pandas as pd
 from base_analyzer import BaseAnalyzer
 
 # Add parent directory to Python path for property prediction
@@ -125,9 +126,11 @@ class PropertyAnalyzer(BaseAnalyzer):
 
         # Only visualize if we have data
         if self.pairs_with_properties > 0:
+            
             self.visualize(self.tg_absolute_errors, self.er_absolute_errors)
+            self.save_to_csv()
         else:
-            print("\nNo property data to visualize.")
+            print("\nNo property data to visualize or save.")
 
     def visualize(self, tg_errors, er_errors):
         """Create error distribution plots for Tg and Er"""
@@ -207,3 +210,106 @@ class PropertyAnalyzer(BaseAnalyzer):
             plt.savefig(os.path.join(self.output_dir, 'property_analysis.png'), 
                        dpi=300, bbox_inches='tight', facecolor='white')
         plt.close()
+
+    def save_to_csv(self):
+        """Save the analysis data to a CSV file"""
+        if not self.data:
+            print("\nNo data to save to CSV.")
+            return
+        
+        df = pd.DataFrame(self.data)
+        if self.output_dir:
+            csv_path = os.path.join(self.output_dir, 'property_analysis.csv')
+            df.to_csv(csv_path, index=False)
+            print(f"\nData saved to: {csv_path}")
+        else:
+            print("\nNo output directory specified. Data not saved.")
+
+    def analyze_reactive(self, input_files):
+        """Analyze property predictions from input files"""
+        self.data = []
+        self.tg_absolute_errors = []
+        self.er_absolute_errors = []
+        self.tg_actual = []
+        self.tg_predicted = []
+        self.er_actual = []
+        self.er_predicted = []
+        self.pairs_with_properties = 0
+        all_pairs = []
+       
+        self.reaction_data = pd.read_csv(input_files[0])
+        self.non_reaction_data = pd.read_csv(input_files[1])
+        self.data_all = pd.concat([self.reaction_data, self.non_reaction_data], ignore_index=True)
+       
+        # reaction_pair = {
+        #     'prompt': self.reaction_data['Prompt'],
+        #     'smile1': self.reaction_data['SMILE1'],
+        #     'smile2': self.reaction_data['SMILE2'],
+        #     'temperature': self.reaction_data['Temperature'],
+        # }
+        # non_reaction_pair = {
+        #     'prompt': self.non_reaction_data['Prompt'],
+        #     'smile1': self.non_reaction_data['SMILE1'],
+        #     'smile2': self.non_reaction_data['SMILE2'],
+        #     'temperature': self.non_reaction_data['Temperature'],
+        # }
+        # all_pairs.append(reaction_pair)
+        # #all_pairs.append(non_reaction_pair)
+
+        
+        
+        
+
+        for index, row in self.data_all.iterrows():
+            self.total_pairs += 1
+            prompt = row['Prompt']
+            smile1 = row['SMILE1']
+            smile2 = row['SMILE2']
+                        
+            tg_value, er_value = self.get_property_from_prompt(prompt)
+            if tg_value is None or er_value is None:
+                continue
+                            
+            self.pairs_with_properties += 1
+            scores = predict_property(smile1, smile2)
+                        
+            tg_error = scores['tg_score'] - tg_value
+            er_error = scores['er_score'] - er_value
+                        
+            # Store actual and predicted values
+            self.tg_actual.append(tg_value)
+            self.tg_predicted.append(scores['tg_score'])
+            self.er_actual.append(er_value)
+            self.er_predicted.append(scores['er_score'])
+                        
+            # Store absolute errors
+            self.tg_absolute_errors.append(abs(tg_error))
+            self.er_absolute_errors.append(abs(er_error))
+                        
+            analysis_result = {
+                            'prompt': prompt,
+                            'smile1': smile1,
+                            'smile2': smile2,
+                            'tg_actual': tg_value,
+                            'tg_predicted': scores['tg_score'],
+                            'er_actual': er_value,
+                            'er_predicted': scores['er_score'],
+                            'tg_error': tg_error,
+                            'er_error': er_error
+                        }
+            self.data.append(analysis_result)
+                        
+            # print(f"\nPrompt: {prompt}")
+            # print(f"Target Tg: {tg_value:.2f}°C, Predicted: {scores['tg_score']:.2f}°C (Error: {tg_error:.2f}°C)")
+            # print(f"Target Er: {er_value:.2f}MPa, Predicted: {scores['er_score']:.2f}MPa (Error: {er_error:.2f}MPa)")
+            # print("-" * 80)
+
+        # Only visualize if we have data
+        if self.pairs_with_properties > 0:
+            
+            self.visualize(self.tg_absolute_errors, self.er_absolute_errors)
+            self.save_to_csv()
+        else:
+            print("\nNo property data to visualize or save.")
+
+    

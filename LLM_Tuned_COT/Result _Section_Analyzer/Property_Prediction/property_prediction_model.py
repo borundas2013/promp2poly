@@ -15,26 +15,30 @@ from rdkit.Chem import Descriptors
 class PropertyNet(nn.Module):
     def __init__(self, input_size=208):
         super(PropertyNet, self).__init__()
+        
+        # Batch normalization layers
+        self.bn1 = nn.BatchNorm1d(256)
+        self.bn2 = nn.BatchNorm1d(128)
+        self.bn3 = nn.BatchNorm1d(64)
+        
         self.model = nn.Sequential(
-            # Input layer with dropout
-            nn.Linear(input_size, 512),
+            # Input layer
+            nn.Linear(input_size, 256),
+            self.bn1,
             nn.ReLU(),
-            nn.Dropout(0.3),
+            nn.Dropout(0.5),
             
             # First hidden layer
-            nn.Linear(512, 256),
+            nn.Linear(256, 128),
+            self.bn2,
             nn.ReLU(),
-            nn.Dropout(0.2),
+            nn.Dropout(0.4),
             
             # Second hidden layer
-            nn.Linear(256, 128),
-            nn.ReLU(), 
-            nn.Dropout(0.2),
-            
-            # Third hidden layer
             nn.Linear(128, 64),
-            nn.ReLU(),
-            nn.Dropout(0.1),
+            self.bn3,
+            nn.ReLU(), 
+            nn.Dropout(0.3),
             
             # Output layer
             nn.Linear(64, 1)
@@ -45,7 +49,7 @@ class PropertyNet(nn.Module):
         
     def _init_weights(self, module):
         if isinstance(module, nn.Linear):
-            torch.nn.init.xavier_uniform_(module.weight)
+            torch.nn.init.kaiming_normal_(module.weight, nonlinearity='relu')
             if module.bias is not None:
                 module.bias.data.zero_()
                 
@@ -134,6 +138,25 @@ class PropertyPredictor:
             return None
 
     def train(self, train_data, validation_split=0.2, epochs=100, batch_size=32):
+        # Add L2 regularization and set initial learning rate
+        weight_decay = 0.02
+        initial_lr = 0.001
+        self.er_optimizer = optim.AdamW(self.er_model.parameters(), lr=initial_lr, weight_decay=weight_decay)
+        self.tg_optimizer = optim.AdamW(self.tg_model.parameters(), lr=initial_lr, weight_decay=weight_decay)
+        
+        # Learning rate schedulers
+        er_scheduler = optim.lr_scheduler.ReduceLROnPlateau(self.er_optimizer, mode='min', factor=0.5, patience=10, verbose=True)
+        tg_scheduler = optim.lr_scheduler.ReduceLROnPlateau(self.tg_optimizer, mode='min', factor=0.5, patience=10, verbose=True)
+        
+        # Early stopping parameters
+        best_er_loss = float('inf')
+        best_tg_loss = float('inf')
+        patience = 20
+        er_patience_counter = 0
+        tg_patience_counter = 0
+        best_er_model_state = None
+        best_tg_model_state = None
+        
         # Generate features for all pairs
         features = []
         for s1, s2, r1, r2 in zip(train_data['smiles1'], train_data['smiles2'], 
@@ -158,26 +181,91 @@ class PropertyPredictor:
         er_scaled = self.er_scaler.transform(er_values)
         tg_scaled = self.tg_scaler.transform(tg_values)
         
-        # Create datasets
-        er_dataset = MolecularDataset(features_scaled, er_scaled)
-        tg_dataset = MolecularDataset(features_scaled, tg_scaled)
+        # Split data into train and validation sets
+        num_samples = len(features_scaled)
+        indices = np.random.permutation(num_samples)
+        num_train = int(num_samples * (1 - validation_split))
         
-        # Create dataloaders
-        er_loader = DataLoader(er_dataset, batch_size=batch_size, shuffle=True)
-        tg_loader = DataLoader(tg_dataset, batch_size=batch_size, shuffle=True)
+        train_indices = indices[:num_train]
+        val_indices = indices[num_train:]
         
-        # Training loop
+        # Training data
+        train_features = features_scaled[train_indices]
+        train_er = er_scaled[train_indices]
+        train_tg = tg_scaled[train_indices]
+        
+        # Validation data
+        val_features = features_scaled[val_indices]
+        val_er = er_scaled[val_indices]
+        val_tg = tg_scaled[val_indices]
+        
+        # Create datasets and dataloaders
+        train_er_dataset = MolecularDataset(train_features, train_er)
+        train_tg_dataset = MolecularDataset(train_features, train_tg)
+        val_er_dataset = MolecularDataset(val_features, val_er)
+        val_tg_dataset = MolecularDataset(val_features, val_tg)
+        
+        train_er_loader = DataLoader(train_er_dataset, batch_size=batch_size, shuffle=True)
+        train_tg_loader = DataLoader(train_tg_dataset, batch_size=batch_size, shuffle=True)
+        val_er_loader = DataLoader(val_er_dataset, batch_size=batch_size)
+        val_tg_loader = DataLoader(val_tg_dataset, batch_size=batch_size)
+        
+        # Training loop with early stopping
         print("Training Er model...")
-        self._train_model(self.er_model, self.er_optimizer, er_loader, epochs)
+        er_history = self._train_model(
+            self.er_model, 
+            self.er_optimizer,
+            er_scheduler,
+            train_er_loader,
+            val_er_loader,
+            epochs,
+            patience,
+            'er'
+        )
         
         print("Training Tg model...")
-        self._train_model(self.tg_model, self.tg_optimizer, tg_loader, epochs)
+        tg_history = self._train_model(
+            self.tg_model,
+            self.tg_optimizer,
+            tg_scheduler,
+            train_tg_loader,
+            val_tg_loader,
+            epochs,
+            patience,
+            'tg'
+        )
+        
+        # Load best models
+        if er_history['best_model_state'] is not None:
+            self.er_model.load_state_dict(er_history['best_model_state'])
+        if tg_history['best_model_state'] is not None:
+            self.tg_model.load_state_dict(tg_history['best_model_state'])
+        
+        # Return combined history
+        history = {
+            'er_loss': er_history['train_loss'],
+            'er_val_loss': er_history['val_loss'],
+            'tg_loss': tg_history['train_loss'],
+            'tg_val_loss': tg_history['val_loss']
+        }
+        
+        return history
 
-    def _train_model(self, model, optimizer, dataloader, epochs):
-        model.train()
+    def _train_model(self, model, optimizer, scheduler, train_loader, val_loader, epochs, patience, model_name):
+        history = {
+            'train_loss': [],
+            'val_loss': [],
+            'best_model_state': None
+        }
+        
+        best_val_loss = float('inf')
+        # patience_counter = 0  # Commented out early stopping
+        
         for epoch in range(epochs):
-            total_loss = 0
-            for batch_features, batch_targets in dataloader:
+            # Training phase
+            model.train()
+            total_train_loss = 0
+            for batch_features, batch_targets in train_loader:
                 batch_features = batch_features.to(self.device)
                 batch_targets = batch_targets.to(self.device)
                 
@@ -185,12 +273,52 @@ class PropertyPredictor:
                 outputs = model(batch_features)
                 loss = self.criterion(outputs, batch_targets)
                 loss.backward()
-                optimizer.step()
                 
-                total_loss += loss.item()
+                # Gradient clipping
+                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+                
+                optimizer.step()
+                total_train_loss += loss.item()
+            
+            avg_train_loss = total_train_loss / len(train_loader)
+            history['train_loss'].append(avg_train_loss)
+            
+            # Validation phase
+            model.eval()
+            total_val_loss = 0
+            with torch.no_grad():
+                for batch_features, batch_targets in val_loader:
+                    batch_features = batch_features.to(self.device)
+                    batch_targets = batch_targets.to(self.device)
+                    
+                    outputs = model(batch_features)
+                    loss = self.criterion(outputs, batch_targets)
+                    total_val_loss += loss.item()
+            
+            avg_val_loss = total_val_loss / len(val_loader)
+            history['val_loss'].append(avg_val_loss)
+            
+            # Learning rate scheduling
+            scheduler.step(avg_val_loss)
+            
+            # Track best model (without early stopping)
+            if avg_val_loss < best_val_loss:
+                best_val_loss = avg_val_loss
+                history['best_model_state'] = model.state_dict().copy()
+                # patience_counter = 0  # Commented out early stopping
+            # else:
+            #     patience_counter += 1  # Commented out early stopping
+            
+            # Early stopping check (commented out)
+            # if patience_counter >= patience:
+            #     print(f'Early stopping triggered for {model_name} model at epoch {epoch + 1}')
+            #     break
                 
             if (epoch + 1) % 10 == 0:
-                print(f'Epoch [{epoch+1}/{epochs}], Loss: {total_loss/len(dataloader):.4f}')
+                print(f'Epoch [{epoch+1}/{epochs}]')
+                print(f'Train Loss: {avg_train_loss:.4f}, Val Loss: {avg_val_loss:.4f}')
+        
+        return history
 
     def predict(self, smiles1, smiles2, ratio_1, ratio_2):
         """Predict Er and Tg values for a SMILES pair"""

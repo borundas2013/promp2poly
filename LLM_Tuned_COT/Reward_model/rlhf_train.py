@@ -305,122 +305,65 @@ class RLHFTrainer:
 
     
     
-    def prepare_properties_conversation(self, i, temp):
-        try:
-            conversation = []
-            starter_prompt = random.choice(conversational_tsmp_templates)
-            conversation.append({"from": "human", "value": starter_prompt})
-            
-            # Get initial response
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=1, temperature=temp)
-            if not responses or not responses[0]:
-                print("Warning: Empty initial response")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses[0]})
-            
-            # Get property response
-            property_prompt = random.choice(property_preference_responses)
-            conversation.append({"from": "human", "value": property_prompt})
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=1, temperature=temp)
-            if not responses or not responses[0]:
-                print("Warning: Empty property response")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses[0]})
-            
-            # Get final responses
-            user_prompt = random.choice(USER_PROPERTY_PROMPT)
-            user_prompt = user_prompt.format(Tg=TEST_PROPERTIES[i]['Tg'], Er=TEST_PROPERTIES[i]['Er'])
-            conversation.append({"from": "human", "value": user_prompt})
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=20, temperature=temp)
-            if not responses:
-                print("Warning: No valid responses generated")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses})
-            
-            return conversation, user_prompt
-            
-        except Exception as e:
-            print(f"Error in prepare_properties_conversation: {str(e)}")
-            return None, None
-    def prepare_group_conversation(self, i, temp):
-        try:
-            conversation = []
-            starter_prompt = random.choice(conversational_tsmp_templates)
-            conversation.append({"from": "human", "value": starter_prompt})
-            
-            # Get initial response
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=1, temperature=temp)
-            if not responses or not responses[0]:
-                print("Warning: Empty initial response in group conversation")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses[0]})
+    def prepare_properties_conversation(self,i, temp):
+        conversation = []
+        starter_prompt = random.choice(conversational_tsmp_templates)
+        conversation.append({"from": "human", "value": starter_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=1,temperature=temp)[0]
+        conversation.append({"from": "assistant", "value": assistant_reply})
+       
+       
 
-            # Get property response
-            property_prompt = random.choice(group_preference_responses)
-            conversation.append({"from": "human", "value": property_prompt})
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=1, temperature=temp)
-            if not responses or not responses[0]:
-                print("Warning: Empty property response in group conversation")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses[0]})
+        property_prompt = random.choice(property_preference_responses)
+        conversation.append({"from": "human", "value": property_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=1,temperature=temp)[0]
+        conversation.append({"from": "assistant", "value": assistant_reply})
+        
 
-            # Get final responses
-            user_prompt = random.choice(USER_GROUP_PROMPT)
-            user_prompt = user_prompt.format(Group1=TEST_PROPERTIES[i]['Group1'], Group2=TEST_PROPERTIES[i]['Group2'])
-            conversation.append({"from": "human", "value": user_prompt})
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=20, temperature=temp)
-            if not responses:
-                print("Warning: No valid responses generated in group conversation")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses})
-            
-            return conversation, user_prompt
-            
-        except Exception as e:
-            print(f"Error in prepare_group_conversation: {str(e)}")
-            return None, None
-    def prepare_mix_conversation(self, i, temp):
-        try:
-            conversation = []
-            starter_prompt = random.choice(conversational_tsmp_templates)
-            conversation.append({"from": "human", "value": starter_prompt})
-            
-            # Get initial response
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=1, temperature=temp)
-            if not responses or not responses[0]:
-                print("Warning: Empty initial response in mix conversation")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses[0]})
+        user_prompt = random.choice(USER_PROPERTY_PROMPT)
+        user_prompt = user_prompt.format(Tg=TEST_PROPERTIES[i]['Tg'], Er=TEST_PROPERTIES[i]['Er'])
+        conversation.append({"from": "human", "value": user_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=20,temperature=temp)
+        conversation.append({"from": "assistant", "value": assistant_reply})
+       
+        return conversation, user_prompt
+    def prepare_group_conversation(self,i, temp):
+        conversation = []
+        starter_prompt = random.choice(conversational_tsmp_templates)
+        conversation.append({"from": "human", "value": starter_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=1,temperature=temp)[0]
+        conversation.append({"from": "assistant", "value": assistant_reply})
 
-            # Get property response
-            property_prompt = random.choice(both_preference_responses)
-            conversation.append({"from": "human", "value": property_prompt})
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=1, temperature=temp)
-            if not responses or not responses[0]:
-                print("Warning: Empty property response in mix conversation")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses[0]})
+        property_prompt = random.choice(group_preference_responses)
+        conversation.append({"from": "human", "value": property_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=1,temperature=temp)[0]
+        conversation.append({"from": "assistant", "value": assistant_reply})
 
-            # Get final responses
-            user_prompt = random.choice(MIX_PROMPT)
-            user_prompt = user_prompt.format(
-                Group1=TEST_PROPERTIES[i]['Group1'], 
-                Group2=TEST_PROPERTIES[i]['Group2'],
-                Tg=TEST_PROPERTIES[i]['Tg'], 
-                Er=TEST_PROPERTIES[i]['Er']
-            )
-            conversation.append({"from": "human", "value": user_prompt})
-            responses = self.sample_n_responses(self.build_prompt(conversation), n_samples=20, temperature=temp)
-            if not responses:
-                print("Warning: No valid responses generated in mix conversation")
-                return None, None
-            conversation.append({"from": "assistant", "value": responses})
-            
-            return conversation, user_prompt
-            
-        except Exception as e:
-            print(f"Error in prepare_mix_conversation: {str(e)}")
-            return None, None
+        user_prompt = random.choice(USER_GROUP_PROMPT)
+        user_prompt = user_prompt.format(Group1=TEST_PROPERTIES[i]['Group1'], Group2=TEST_PROPERTIES[i]['Group2'])
+        conversation.append({"from": "human", "value": user_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=20,temperature=temp)
+        conversation.append({"from": "assistant", "value": assistant_reply})
+        return conversation, user_prompt
+    def prepare_mix_conversation(self,i, temp):
+        conversation = []
+        starter_prompt = random.choice(conversational_tsmp_templates)
+        conversation.append({"from": "human", "value": starter_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=1,temperature=temp)[0]
+        conversation.append({"from": "assistant", "value": assistant_reply})
+
+        property_prompt = random.choice(both_preference_responses)
+        conversation.append({"from": "human", "value": property_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=1,temperature=temp)[0]
+        conversation.append({"from": "assistant", "value": assistant_reply})
+
+        user_prompt = random.choice(MIX_PROMPT)
+        user_prompt = user_prompt.format(Group1=TEST_PROPERTIES[i]['Group1'], Group2=TEST_PROPERTIES[i]['Group2'],
+                                         Tg=TEST_PROPERTIES[i]['Tg'], Er=TEST_PROPERTIES[i]['Er'])
+        conversation.append({"from": "human", "value": user_prompt})
+        assistant_reply = self.sample_n_responses(self.build_prompt(conversation), n_samples=20,temperature=temp)
+        conversation.append({"from": "assistant", "value": assistant_reply})
+        return conversation, user_prompt
 
     def train(
         self,

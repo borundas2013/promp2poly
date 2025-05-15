@@ -1,6 +1,6 @@
 {
     "model_name": "MistralAI",
-    "timestamp": "2025-05-05T15:42:59.888425",
+    "timestamp": "2025-05-12T16:28:55.474458",
     "smiles_metrics": {
         "total_pairs": 1835,
         "valid_pairs": 1835,
@@ -12,10 +12,10 @@
     },
     "property_metrics": {
         "total_analyzed": 171,
-        "property_alignment": 1,
-        "alignment_rate": 0.58,
-        "mean_tg_error": 71.75,
-        "mean_er_error": 44.29
+        "property_alignment": 0,
+        "alignment_rate": 0.0,
+        "mean_tg_error": 40.21,
+        "mean_er_error": 80.35
     },
     "group_metrics": {
         "total_analyzed": 156,

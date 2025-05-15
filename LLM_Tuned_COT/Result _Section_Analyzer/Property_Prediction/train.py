@@ -3,15 +3,43 @@ from data_processor import DataProcessor
 from constants import Constants
 import os
 from pathlib import Path
+import matplotlib.pyplot as plt
+
+def plot_training_history(history, save_dir):
+    # Create Er Loss plot
+    plt.figure(figsize=(10, 6))
+    plt.plot(history['er_loss'], label='Training Loss')
+    plt.plot(history['er_val_loss'], label='Validation Loss')
+    plt.title('Er Model Loss')
+    plt.xlabel('Epoch')
+    plt.ylabel('Loss')
+    plt.legend()
+    plt.grid(True)
+    plt.savefig(save_dir / 'er_loss_plot.pdf')
+    plt.close()
+
+    # Create Tg Loss plot
+    plt.figure(figsize=(10, 6))
+    plt.plot(history['tg_loss'], label='Training Loss')
+    plt.plot(history['tg_val_loss'], label='Validation Loss')
+    plt.title('Tg Model Loss')
+    plt.xlabel('Epoch')
+    plt.ylabel('Loss')
+    plt.legend()
+    plt.grid(True)
+    plt.savefig(save_dir / 'tg_loss_plot.pdf')
+    plt.close()
 
 def main():
     # Get the root directory and setup paths
-    root_dir = Path(__file__).parent.parent.parent.parent # Gets the directory containing train.py
+    root_dir = Path(__file__).parent.parent.parent # Gets the directory containing train.py
     data_path = root_dir / 'Data' / 'unique_smiles_Er.csv'
-    model_save_dir = root_dir / 'PropertyRewards' / 'Property_Prediction' / 'saved_models'
+    model_save_dir = root_dir / 'Result _Section_Analyzer'/'Property_Prediction'/'PropertyRewards' / 'Property_Prediction' / 'saved_models22'
+    plots_dir = model_save_dir / 'training_plots'
     
-    # Create directories if they don't exist
+    # Create directories if they don't exist    
     model_save_dir.mkdir(parents=True, exist_ok=True)
+    plots_dir.mkdir(parents=True, exist_ok=True)
     
     print(f"Loading data from: {data_path}")
     print(f"Models will be saved to: {model_save_dir}")
@@ -30,18 +58,22 @@ def main():
         print("Initializing model...")
         predictor = PropertyPredictor(model_path=model_save_dir)
         
-        print("Training model...")
-        predictor.train(
+        # print("Training model...")
+        history = predictor.train(
             train_data,
             validation_split=Constants.VALIDATION_SPLIT,
             epochs=Constants.DEFAULT_EPOCHS
         )
         
-        # Save model
-        print("Saving model...")
-        predictor.save_models(model_save_dir)
-        # Load the saved models
-        print("\nLoading saved models...")
+        # # Plot and save training history
+        # print("Saving training plots...")
+        # plot_training_history(history, plots_dir)
+        
+        # # Save model
+        # print("Saving model...")
+        # predictor.save_models(model_save_dir)
+        # # Load the saved models
+        # print("\nLoading saved models...")
         loaded_predictor = PropertyPredictor(model_path=model_save_dir)
         
         # Make predictions using loaded model

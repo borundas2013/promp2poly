@@ -11,7 +11,7 @@ from rdkit import Chem
 def load_predictor():
     """Load the trained predictor model"""
     root_dir = Path(__file__).parent.parent
-    model_dir = root_dir / 'Property_Prediction/saved_models'
+    model_dir = root_dir / 'Property_Prediction/saved_models22'
     return PropertyPredictor(model_path=str(model_dir))
 
 def predict_properties(smiles1: str, smiles2: str, ratio_1: float, ratio_2: float) -> tuple:
@@ -24,7 +24,7 @@ def predict_properties_batch(smiles1: list[str], smiles2: list[str], ratio_1: fl
     predictor = load_predictor()
     scores = []
     for i in range(len(smiles1)):
-        pred_tg, pred_er = predict_properties(smiles1[i], smiles2[i], 0.5, 0.5)
+        pred_er, pred_tg= predict_properties(smiles1[i], smiles2[i], 0.5, 0.5)
         print(f"Predictions - Tg: {pred_tg:.2f}, Er: {pred_er:.2f}")
         print(f"Actuals    - Tg: {actual_tg:.2f}, Er: {actual_er:.2f}")
         scores.append(
@@ -36,7 +36,7 @@ def predict_properties_batch(smiles1: list[str], smiles2: list[str], ratio_1: fl
     return scores
 
 def predict_property(smiles1, smiles2):
-    tg, er = predict_properties(smiles1, smiles2, 0.1, 0.9)
+    er, tg = predict_properties(smiles1, smiles2, 0.1, 0.9)
     return {
         "tg_score": tg,
         "er_score": er

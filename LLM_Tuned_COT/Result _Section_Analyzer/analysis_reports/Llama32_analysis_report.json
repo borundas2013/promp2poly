@@ -1,6 +1,6 @@
 {
     "model_name": "Llama32",
-    "timestamp": "2025-05-05T15:42:42.509334",
+    "timestamp": "2025-05-12T16:28:38.387136",
     "smiles_metrics": {
         "total_pairs": 1393,
         "valid_pairs": 1393,
@@ -12,10 +12,10 @@
     },
     "property_metrics": {
         "total_analyzed": 257,
-        "property_alignment": 3,
-        "alignment_rate": 1.17,
-        "mean_tg_error": 63.56,
-        "mean_er_error": 60.73
+        "property_alignment": 0,
+        "alignment_rate": 0.0,
+        "mean_tg_error": 62.97,
+        "mean_er_error": 77.97
     },
     "group_metrics": {
         "total_analyzed": 277,

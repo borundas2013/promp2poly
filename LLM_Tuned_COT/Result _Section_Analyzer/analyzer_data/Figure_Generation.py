@@ -106,7 +106,7 @@ def create_model_comparison_plots():
     
     # Save figures with extra padding at the top for the title
     plt.savefig('model_analysis.pdf', format='pdf', bbox_inches='tight', pad_inches=0.5)
-    plt.savefig('model_analysis.png', dpi=600, bbox_inches='tight', pad_inches=0.5)
+    plt.savefig('model_analysis_1.svg', format='svg',  dpi=600, bbox_inches='tight', pad_inches=0.5)
     plt.close()
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 {
     "model_name": "GPT4o",
-    "timestamp": "2025-05-05T15:42:16.355051",
+    "timestamp": "2025-05-12T16:28:15.450905",
     "smiles_metrics": {
         "total_pairs": 1205,
         "valid_pairs": 1205,
@@ -12,10 +12,10 @@
     },
     "property_metrics": {
         "total_analyzed": 116,
-        "property_alignment": 3,
-        "alignment_rate": 2.59,
-        "mean_tg_error": 60.1,
-        "mean_er_error": 46.95
+        "property_alignment": 1,
+        "alignment_rate": 0.86,
+        "mean_tg_error": 44.27,
+        "mean_er_error": 74.53
     },
     "group_metrics": {
         "total_analyzed": 100,

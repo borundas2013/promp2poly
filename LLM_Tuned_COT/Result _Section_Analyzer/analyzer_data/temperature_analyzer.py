@@ -280,3 +280,138 @@ class TemperatureAnalyzer(BaseAnalyzer):
         print("- model_temperature_comparison.png")
         print("- model_temperature_comparison.pdf")
         print("- temperature_statistics.txt")
+
+    def create_alternative_plots(self, model_data_dict, output_dir):
+        """
+        Create alternative visualizations for temperature distributions
+        Args:
+            model_data_dict (dict): Dictionary containing model data
+            output_dir (str): Directory to save the plots
+        """
+        if not model_data_dict:
+            print("No data available for plotting")
+            return
+
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # Set global font parameters
+        plt.rcParams['font.weight'] = 'bold'
+        plt.rcParams['axes.titleweight'] = 'bold'
+        plt.rcParams['axes.labelweight'] = 'bold'
+        plt.rcParams['figure.titleweight'] = 'bold'
+        plt.rcParams['figure.dpi'] = 640
+        plt.rcParams['font.size'] = 42
+        plt.rcParams['axes.titlesize'] = 42
+        plt.rcParams['axes.labelsize'] = 42
+        plt.rcParams['xtick.labelsize'] = 42
+        plt.rcParams['ytick.labelsize'] = 42
+        plt.rcParams['legend.fontsize'] = 42
+        
+        # Process data the same way as create_model_comparison_plot
+        processed_data = {}
+        plot_data = []
+        
+        for model_name, data in model_data_dict.items():
+            if data is not None:
+                # Get temperature counts for unique and duplicate pairs
+                unique_temps = data['unique']
+                duplicate_temps = data['duplicate']
+                
+                # Calculate statistics
+                unique_counts = unique_temps['temperature'].value_counts()
+                duplicate_counts = duplicate_temps['temperature'].value_counts()
+                
+                # Add to processed data for plotting
+                processed_data[model_name] = {
+                    'unique': unique_counts,
+                    'duplicate': duplicate_counts
+                }
+                
+                # Convert to plot data
+                for temp, count in unique_counts.items():
+                    plot_data.extend([{'Temperature': temp, 'Type': 'Unique', 
+                                     'Model': model_name} for _ in range(count)])
+                for temp, count in duplicate_counts.items():
+                    plot_data.extend([{'Temperature': temp, 'Type': 'Duplicate', 
+                                     'Model': model_name} for _ in range(count)])
+        
+        if not plot_data:
+            print("No data available for plotting")
+            return
+            
+        df = pd.DataFrame(plot_data)
+        
+        # Create figure with subplots - make plots wider with less right margin
+        fig = plt.figure(figsize=(30, 20))
+        # Adjust margins to bring legends closer
+        plt.subplots_adjust(right=0.98, hspace=0.4)
+        gs = fig.add_gridspec(3, 1, height_ratios=[1, 1, 1], hspace=0.4)
+        
+        # 1. Box Plot
+        ax1 = fig.add_subplot(gs[0])
+        sns.boxplot(data=df, x='Model', y='Temperature', hue='Type', ax=ax1,
+                   palette=['#2ecc71', '#e74c3c'])  # Green and Red
+        ax1.set_title('Temperature Distribution by Model', fontsize=22, fontweight='bold', pad=15)
+        ax1.set_xlabel('Model', fontsize=20, fontweight='bold', labelpad=10)
+        ax1.set_ylabel('Temperature (°C)', fontsize=20, fontweight='bold', labelpad=10)
+        legend1 = ax1.legend(title='SMILES Pair Type', title_fontproperties={'weight': 'bold', 'size': 18}, 
+                           bbox_to_anchor=(1.01, 1), loc='upper left')
+        plt.setp(legend1.get_texts(), fontweight='bold', fontsize=16)
+        
+        # Make tick labels bold and bigger
+        ax1.tick_params(axis='both', which='major', labelsize=16)
+        for label in ax1.get_xticklabels() + ax1.get_yticklabels():
+            label.set_fontweight('bold')
+            label.set_fontsize(16)
+        
+        # 2. Violin Plot
+        ax2 = fig.add_subplot(gs[1])
+        sns.violinplot(data=df, x='Model', y='Temperature', hue='Type', ax=ax2,
+                      palette=['#3498db', '#f1c40f'])  # Blue and Yellow
+        ax2.set_title('Temperature Distribution by Model', fontsize=22, fontweight='bold', pad=15)
+        ax2.set_xlabel('Model', fontsize=20, fontweight='bold', labelpad=10)
+        ax2.set_ylabel('Temperature (°C)', fontsize=20, fontweight='bold', labelpad=10)
+        legend2 = ax2.legend(title='SMILES Pair Type', title_fontproperties={'weight': 'bold', 'size': 18}, 
+                           bbox_to_anchor=(1.01, 1), loc='upper left')
+        plt.setp(legend2.get_texts(), fontweight='bold', fontsize=16)
+        
+        # Make tick labels bold and bigger
+        ax2.tick_params(axis='both', which='major', labelsize=16)
+        for label in ax2.get_xticklabels() + ax2.get_yticklabels():
+            label.set_fontweight('bold')
+            label.set_fontsize(16)
+        
+        # 3. Line Plot with Rolling Average
+        ax3 = fig.add_subplot(gs[2])
+        for model in df['Model'].unique():
+            for pair_type in ['Unique', 'Duplicate']:
+                model_data = df[(df['Model'] == model) & (df['Type'] == pair_type)]
+                if not model_data.empty:
+                    temps = model_data['Temperature'].value_counts().sort_index()
+                    rolling_avg = temps.rolling(window=3, min_periods=1, center=True).mean()
+                    ax3.plot(rolling_avg.index, rolling_avg.values, 
+                            label=f'{model} ({pair_type})', marker='o')
+        
+        ax3.set_title('Temperature Distribution Trend (Rolling Average)', fontsize=22, fontweight='bold', pad=15)
+        ax3.set_xlabel('Temperature (°C)', fontsize=20, fontweight='bold', labelpad=10)
+        ax3.set_ylabel('Count (3-point rolling average)', fontsize=20, fontweight='bold', labelpad=10)
+        legend3 = ax3.legend(bbox_to_anchor=(1.01, 1), loc='upper left', prop={'size': 16, 'weight': 'bold'})
+        plt.setp(legend3.get_texts(), fontweight='bold', fontsize=16)
+        ax3.grid(True, linestyle='--', alpha=0.7)
+        
+        # Make tick labels bold and bigger
+        ax3.tick_params(axis='both', which='major', labelsize=16)
+        for label in ax3.get_xticklabels() + ax3.get_yticklabels():
+            label.set_fontweight('bold')
+            label.set_fontsize(16)
+        
+        # Save plots
+        plt.savefig(os.path.join(output_dir, 'temperature_alternative_plots.png'), 
+                   bbox_inches='tight', pad_inches=0.3)
+        plt.savefig(os.path.join(output_dir, 'temperature_alternative_plots.pdf'), 
+                   bbox_inches='tight', pad_inches=0.3)
+        plt.close()
+        
+        print(f"\nAlternative plots saved in {output_dir}:")
+        print("- temperature_alternative_plots.png")
+        print("- temperature_alternative_plots.pdf")
