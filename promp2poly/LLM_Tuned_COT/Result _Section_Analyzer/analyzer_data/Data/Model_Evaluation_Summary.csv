@@ -1,0 +1,5 @@
+Model,Validity (%),Uniqueness (%),#Unique Generated Valid Samples,Valid Samples,Group Match (%),Reactive (%),Total Response,No of samples generated per query,Number of query,temperature per query,Total case
+GPT-4o-mini,55.78,14.52,175,1205,61,42,2160,20,6,6,3
+MistralAI,84.95,12.97,238,1835,35.26,23.72,2160,20,6,6,3
+DeepSeek,80.46,22.32,388,1738,40,22.81,2160,20,6,6,3
+Llama 3.2,64.49,28.28,394,1393,27.08,28.88,2160,20,6,6,3

@@ -1,0 +1,310 @@
+[
+    {
+        "role": "User",
+        "message": "Hey, I'm looking to make a thermoset shape memory polymer - any ideas?"
+    },
+    {
+        "role": "Assistant",
+        "message": "Should we design your TSMP around certain chemical groups, or focus on achieving specific properties?"
+    },
+    {
+        "role": "User",
+        "message": "Properties are what matter most for my needs."
+    },
+    {
+        "role": "Assistant",
+        "message": "What are your target values for Tg and Er? These two properties (glass transition temp and stress recovery) are essential for the design."
+    },
+    {
+        "role": "User",
+        "message": "Create a thermoset polymer with Tg around 40\u00b0C and Er near 80 MPa."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4\nMonomer 2: CCc1cc(C)c(N)c(CC)c1N",
+            "Here is a TSMP designed for Tg = 40\u00c2\u00b0C and Er = 80Mpa:\nMonomer 1: CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS\nMonomer 2: C=Cc1ccccc1"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4",
+                        "smile2": "CCc1cc(C)c(N)c(CC)c1N",
+                        "prompt": "Create a thermoset polymer with Tg around 40\u00b0C and Er near 80 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS",
+                        "smile2": "C=Cc1ccccc1",
+                        "prompt": "Create a thermoset polymer with Tg around 40\u00b0C and Er near 80 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "Would you mind helping me put together a TSMP system?"
+    },
+    {
+        "role": "Assistant",
+        "message": "For your polymer system, are you more interested in the chemistry (functional groups) or the properties (Tg/Er)?"
+    },
+    {
+        "role": "User",
+        "message": "Let's design based on specific properties."
+    },
+    {
+        "role": "Assistant",
+        "message": "Your TSMP will be designed around two properties: Tg (glass transition temperature) and Er (stress recovery). What values should we target?"
+    },
+    {
+        "role": "User",
+        "message": "Create a thermoset polymer with Tg around 100\u00b0C and Er near 100 MPa."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Here is a TSMP designed for Tg \u00e2\u2030\u02c6 100\u00c2\u00b0C and Er \u00e2\u2030\u02c6 100Mpa:\nMonomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCN",
+            "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6",
+                        "smile2": "COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCN",
+                        "prompt": "Create a thermoset polymer with Tg around 100\u00b0C and Er near 100 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O",
+                        "smile2": "C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O",
+                        "prompt": "Create a thermoset polymer with Tg around 100\u00b0C and Er near 100 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "What monomers would work well for a shape memory polymer?"
+    },
+    {
+        "role": "Assistant",
+        "message": "What makes you consider a particular monomer pair for TSMP development?"
+    },
+    {
+        "role": "User",
+        "message": "The property-based approach would work better."
+    },
+    {
+        "role": "Assistant",
+        "message": "Your TSMP will be designed around two properties: Tg (glass transition temperature) and Er (stress recovery). What values should we target?"
+    },
+    {
+        "role": "User",
+        "message": "Create a thermoset polymer with Tg around 150\u00b0C and Er near 200 MPa."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "To achieve Tg of 150\u00c2\u00b0C and Er of 200Mpa, consider this monomer combination:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4\nMonomer 2: CCc1cc(C)c(N)c(CC)c1N",
+            "Sure! Here's a TSMP that matches your request:\nMonomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O\nMonomer 2: C=CCOC(CC)(CO)CO"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4",
+                        "smile2": "CCc1cc(C)c(N)c(CC)c1N",
+                        "prompt": "Create a thermoset polymer with Tg around 150\u00b0C and Er near 200 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O",
+                        "smile2": "C=CCOC(CC)(CO)CO",
+                        "prompt": "Create a thermoset polymer with Tg around 150\u00b0C and Er near 200 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "I need a TSMP - what monomers would you recommend?"
+    },
+    {
+        "role": "Assistant",
+        "message": "Should we design your TSMP around certain chemical groups, or focus on achieving specific properties?"
+    },
+    {
+        "role": "User",
+        "message": "Let's work towards particular property values."
+    },
+    {
+        "role": "Assistant",
+        "message": "Could you share your desired values for Tg (glass transition temp) and Er (stress recovery)? These are the two properties we'll use."
+    },
+    {
+        "role": "User",
+        "message": "Design a TSMP with a glass transition temperature of 140\u00b0C and an elastic recovery of 80 MPa."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Here's a TSMP designed for Tg 140\u00c2\u00b0C and Er 80Mpa:\nMonomer 1: C=CCOC(CC)(CO)CO\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",
+            "To achieve Tg of 140\u00c2\u00b0C and Er of 80Mpa, consider this monomer combination:\nMonomer 1: c3cc(N(CC1CC1)CC2CO2)ccc3OCC4CO4\nMonomer 2: CCCCCCCCCN"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "C=CCOC(CC)(CO)CO",
+                        "smile2": "C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",
+                        "prompt": "Design a TSMP with a glass transition temperature of 140\u00b0C and an elastic recovery of 80 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "c3cc(N(CC1CC1)CC2CO2)ccc3OCC4CO4",
+                        "smile2": "CCCCCCCCCN",
+                        "prompt": "Design a TSMP with a glass transition temperature of 140\u00b0C and an elastic recovery of 80 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "I'm working on a thermoset shape memory polymer - what should I use?"
+    },
+    {
+        "role": "Assistant",
+        "message": "Should we design your TSMP around certain chemical groups, or focus on achieving specific properties?"
+    },
+    {
+        "role": "User",
+        "message": "I prefer to focus on the final properties."
+    },
+    {
+        "role": "Assistant",
+        "message": "Let's get specific about the properties - what glass transition temperature (Tg) and stress recovery (Er) do you need?"
+    },
+    {
+        "role": "User",
+        "message": "Propose two monomers that form a TSMP with Tg = 60\u00b0C and Er = 100 MPa."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Here's a TSMP designed for Tg \u00e2\u2030\u02c6 60\u00c2\u00b0C and Er \u00e2\u2030\u02c6 100Mpa:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O",
+            "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4\nMonomer 2: CCc1cc(C)c(N)c(CC)c1N"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2",
+                        "smile2": "C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O",
+                        "prompt": "Propose two monomers that form a TSMP with Tg = 60\u00b0C and Er = 100 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4",
+                        "smile2": "CCc1cc(C)c(N)c(CC)c1N",
+                        "prompt": "Propose two monomers that form a TSMP with Tg = 60\u00b0C and Er = 100 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "What would be a good TSMP combination for my project?"
+    },
+    {
+        "role": "Assistant",
+        "message": "Are you looking to use particular functional groups, or do you have specific properties in mind?"
+    },
+    {
+        "role": "User",
+        "message": "I prefer to focus on the final properties."
+    },
+    {
+        "role": "Assistant",
+        "message": "Could you share your desired values for Tg (glass transition temp) and Er (stress recovery)? These are the two properties we'll use."
+    },
+    {
+        "role": "User",
+        "message": "Generate a thermoset shape memory polymer with Tg = 100\u00b0C and Er = 100 MPa."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",
+            "Based on your requirements, I suggest the following monomers:\nMonomer 1: Nc2ccc(Oc1ccc(N)cc1)cc2\nMonomer 2: NCCNCCN"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "C=C(C)C(=C)OCOCCOC(=O)C(=C)C",
+                        "smile2": "CC(N)COCC(C)OCC(C)OCC(C)N",
+                        "reaction": false,
+                        "groups": [],
+                        "prompt": "Generate a thermoset shape memory polymer with Tg = 100\u00b0C and Er = 100 MPa.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "Nc2ccc(Oc1ccc(N)cc1)cc2",
+                        "smile2": "NCCNCCN",
+                        "prompt": "Generate a thermoset shape memory polymer with Tg = 100\u00b0C and Er = 100 MPa.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    }
+]

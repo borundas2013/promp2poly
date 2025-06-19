@@ -1,0 +1,321 @@
+[
+    {
+        "role": "User",
+        "message": "I need a TSMP - what monomers would you recommend?"
+    },
+    {
+        "role": "Assistant",
+        "message": "For your TSMP, are you more interested in the chemistry (functional groups) or the properties (Tg/Er)?"
+    },
+    {
+        "role": "User",
+        "message": "I'd prefer to work with the chemical groups."
+    },
+    {
+        "role": "Assistant",
+        "message": "To proceed with the design, I need your target values for glass transition temperature (Tg) and stress recovery (Er)."
+    },
+    {
+        "role": "User",
+        "message": "Suggest a TSMP system with one monomer having epoxy(C1OC1) groups and the other featuring imine(NC) groups."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Based on your request, I designed this TSMP with the specified functionalities:\nMonomer 1 (contains C1OC1): CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N",
+            "Based on your request, I suggest the following monomers:\nMonomer 1 (contains C1OC1): O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4\nMonomer 2 (contains NC): C=C(C)C(=C)OCOC(=O)C(=C)C"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6",
+                        "smile2": "CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N",
+                        "prompt": "Suggest a TSMP system with one monomer having epoxy(C1OC1) groups and the other featuring imine(NC) groups.",
+                        "temperature": 1.6
+                    }
+                ]
+            },
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4",
+                        "smile2": "C=C(C)C(=C)OCOC(=O)C(=C)C",
+                        "reaction": true,
+                        "groups": [
+                            "C=C(C=O)",
+                            "C=C"
+                        ],
+                        "prompt": "Suggest a TSMP system with one monomer having epoxy(C1OC1) groups and the other featuring imine(NC) groups.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "I'm working on a thermoset shape memory polymer - what should I use?"
+    },
+    {
+        "role": "Assistant",
+        "message": "If you'd like to design a thermoset shape, I need two things: the groups to use in the monomers (functional groups) and the intended Tg/Er values. Could you share your preference?"
+    },
+    {
+        "role": "User",
+        "message": "Let's start with specific functional groups."
+    },
+    {
+        "role": "Assistant",
+        "message": "Your TSMP will be designed around two properties: Tg (glass transition temperature) and Er (stress recovery). What values should we target?"
+    },
+    {
+        "role": "User",
+        "message": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) groups and the other includes hydroxyl(=O) groups."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "To meet the criteria of Tg = 64\u00c2\u00b0C, Er = 41Mpa, and include C=C and =O groups, I suggest:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: CCCC(=O)OCCCC",
+            "Here is a TSMP designed for Tg \u00e2\u2030\u02c6 169\u00c2\u00b0C and Er \u00e2\u2030\u02c6 54Mpa, containing C=C and =O groups:\nMonomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2",
+                        "smile2": "CCCC(=O)OCCCC",
+                        "reaction": false,
+                        "groups": [],
+                        "prompt": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) groups and the other includes hydroxyl(=O) groups.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            },
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O",
+                        "smile2": "C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",
+                        "reaction": true,
+                        "groups": [
+                            "C=C",
+                            "CCS"
+                        ],
+                        "prompt": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) groups and the other includes hydroxyl(=O) groups.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "I'd like to create a shape memory polymer - can you recommend some monomers?"
+    },
+    {
+        "role": "Assistant",
+        "message": "These monomers match well for the target properties:"
+    },
+    {
+        "role": "User",
+        "message": "Let's go with the functional group approach."
+    },
+    {
+        "role": "Assistant",
+        "message": "Let's get specific about the functional groups - I'll need to know your preferred \u00e2\u2030\u00a5 and C functionalities."
+    },
+    {
+        "role": "User",
+        "message": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) groups and the other includes thiol(CCS) groups."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1: C=CC(=O)OCCCC\nMonomer 2: C=C(C)CS",
+            "For the target property of Tg \u00e2\u2030\u02c6 34\u00c2\u00b0C and Er \u00e2\u2030\u02c6 9Mpa, with functional groups c3cc(N(CC1CO1)CC2CO2)ccc3 and CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS, try:\nMonomer 1: CC1(C)CC(N)CC(C)(CN)C1\nMonomer 2: CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "C=CC(=O)OCCCC",
+                        "smile2": "C=C(C)CS",
+                        "reaction": false,
+                        "groups": [],
+                        "prompt": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) groups and the other includes thiol(CCS) groups.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            },
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "CC1(C)CC(N)CC(C)(CN)C1",
+                        "smile2": "CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS",
+                        "reaction": false,
+                        "groups": [],
+                        "prompt": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) groups and the other includes thiol(CCS) groups.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "Would you mind helping me put together a TSMP system?"
+    },
+    {
+        "role": "Assistant",
+        "message": "Should we design your TSMP around particular chemical groups, or focus on achieving certain properties?"
+    },
+    {
+        "role": "User",
+        "message": "I prefer to work with specific chemical groups."
+    },
+    {
+        "role": "Assistant",
+        "message": "Please specify your desired functional groups."
+    },
+    {
+        "role": "User",
+        "message": "Design a thermoset shape memory polymer using monomers that include thiol(CCS) and vinyl(C=C) functionalities."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Based on your input, I designed monomers with the specified functionalities:\nMonomer 1 with CCS: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1\nMonomer 2 with C=C: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3",
+            "To achieve Tg of 157\u00c2\u00b0C and Er of 47Mpa, consider this monomer combination:\nMonomer 1: Nc2ccc(SSc1ccc(N)cc1)cc2\nMonomer 2: CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": []
+            },
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "Nc2ccc(SSc1ccc(N)cc1)cc2",
+                        "smile2": "CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS",
+                        "reaction": false,
+                        "groups": [],
+                        "prompt": "Design a thermoset shape memory polymer using monomers that include thiol(CCS) and vinyl(C=C) functionalities.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "I'm working on a thermoset shape memory polymer - what should I use?"
+    },
+    {
+        "role": "Assistant",
+        "message": "Are you looking to use monomers with specific functionalities (epoxy, vinyl, hydroxyl) or create a custom TSMP?"
+    },
+    {
+        "role": "User",
+        "message": "Let's design it based on functional groups."
+    },
+    {
+        "role": "Assistant",
+        "message": "I'll customize your TSMP based on two properties: Tg (glass transition temp) and Er (stress recovery). What values should we target?"
+    },
+    {
+        "role": "User",
+        "message": "Create a monomer pair for TSMPs where one contains vinyl(C=C) groups and the other contains vinyl(C=C) groups."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "These monomers match the required group profile:\nMonomer 1 (C=C): O=C(OCC1CO1)C3CC2OC2CC3C(=O)OCC4CO4\nMonomer 2 (C=C): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O",
+            "Here's a compatible monomer pair:\nMonomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2: C=Cc1cccc(C=C)c1"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [
+                    {
+                        "smile1": "O=C(OCC1CO1)C3CC2OC2CC3C(=O)OCC4CO4",
+                        "smile2": "C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O",
+                        "reaction": false,
+                        "groups": [],
+                        "prompt": "Create a monomer pair for TSMPs where one contains vinyl(C=C) groups and the other contains vinyl(C=C) groups.",
+                        "temperature": 1.6
+                    }
+                ],
+                "duplicates": []
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "C=C(C)C(=C)OCOCCOC(=O)C(=C)C",
+                        "smile2": "C=Cc1cccc(C=C)c1",
+                        "prompt": "Create a monomer pair for TSMPs where one contains vinyl(C=C) groups and the other contains vinyl(C=C) groups.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "role": "User",
+        "message": "Hey, I'm looking to make a thermoset shape memory polymer - any ideas?"
+    },
+    {
+        "role": "Assistant",
+        "message": "Would you like to design your TSMP based on specific functional groups or target properties?"
+    },
+    {
+        "role": "User",
+        "message": "Let's design around chemical functionalities."
+    },
+    {
+        "role": "Assistant",
+        "message": "Could you share your desired values for Tg (glass transition temp) and Er (stress recovery)? These are the two properties we'll use."
+    },
+    {
+        "role": "User",
+        "message": "Provide a pair of monomers suitable for TSMPs, one rich in acrylate(C=C(C=O)) and the other in vinyl(C=C) groups."
+    },
+    {
+        "role": "Assistant",
+        "message": [
+            "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C): C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",
+            "These monomers match the required group profile: \n- Monomer 1 contains C=C and C=C(C=O) groups.\n- Monomer 2 contains C=C and C=C=C groups.\nHere's a compatible combination:\nMonomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+        ],
+        "processed_samples": [
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",
+                        "smile2": "C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",
+                        "prompt": "Provide a pair of monomers suitable for TSMPs, one rich in acrylate(C=C(C=O)) and the other in vinyl(C=C) groups.",
+                        "temperature": 1.6
+                    }
+                ]
+            },
+            {
+                "unique_pairs": [],
+                "duplicates": [
+                    {
+                        "smile1": "c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7",
+                        "smile2": "COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",
+                        "prompt": "Provide a pair of monomers suitable for TSMPs, one rich in acrylate(C=C(C=O)) and the other in vinyl(C=C) groups.",
+                        "temperature": 1.6
+                    }
+                ]
+            }
+        ]
+    }
+]
