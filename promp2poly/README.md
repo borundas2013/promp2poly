@@ -1,1 +1,0 @@
-# promp2poly

@@ -1,0 +1,48 @@
+
+Checklist: What to Prepare Before Writing the Results Section
+
+1. Generated Response Data
+   - Collected outputs from all four models (GPT-4o-mini, Mistral, DeepSeek, Llama 3.2)
+   - Covers different query types:
+     • Property-based
+     • Group-based
+     • Hybrid
+     • Multi-turn and single-turn formats
+   - Generated at multiple temperatures (e.g., 0.5 to 2.0)
+   - Final generation responses with 20 samples each
+
+2. Evaluation Tags Per Sample
+   - Chemical validity check using RDKit
+   - Uniqueness per query (per-model deduplication)
+   - Novelty check against fine-tuning dataset
+   - Property alignment (Tg and Er within tolerance)
+   - Group matching (e.g., requested functional groups present)
+   - Reactive group combination check (e.g., epoxy–imine, ≥2 per monomer)
+   - Notes column for failure cases or observations
+
+3. Aggregated Evaluation Summary (per model)
+   - Validity rate (% valid SMILES)
+   - Average uniqueness per query
+   - Novelty percentage
+   - Property alignment rate
+   - Group matching accuracy
+   - Reactive group success rate
+   - Dialogue consistency (qualitative notes)
+
+4. Sample Output Examples
+   - 2–3 high-quality examples per model showing good generation
+   - 1–2 edge/failure cases to analyze limitations
+   - At least one multi-turn dialogue sample showing context handling
+
+5. Visualizations (optional but useful)
+   - Metric comparison table across models
+   - Example SMILES response table
+   - Case study box for a sample prompt
+   - Optional plot (e.g., diversity vs. temperature)
+
+6. Tools/References Used
+   - RDKit for SMILES validation
+   - Surrogate model or rule-based checks for Tg/Er
+   - Group-matching logic / SMARTS definitions
+
+Make sure all of the above is collected and verified before drafting Section 4.
