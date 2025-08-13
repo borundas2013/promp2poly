@@ -1,0 +1,372 @@
+SL,Monomer 1,Monomer 2,Output_text,Group1,Group2,Temperature,Tg,Er,Prompt
+1,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC1(C)CC(N)CC(C)(CN)C1,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC1(C)CC(N)CC(C)(CN)C1",N/A,N/A,0.3,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+2,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+3,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)=O,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)=O",N/A,N/A,0.3,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+4,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+5,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+6,CC(C)(c2ccc(OCCOCCOCCOCCOCC1)cc1)cc4OCCOCCOCCOCC3/c2ccc(OC4CCN4CC(OCC3)(OCC3)CC4)cc1,NCc1cccc(CN)c1,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCCOCC1)cc1)cc4OCCOCCOCCOCC3/c2ccc(OC4CCN4CC(OCC3)(OCC3)CC4)cc1
+Monomer 2: NCc1cccc(CN)c1",N/A,N/A,0.5,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+7,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+8,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+9,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCCOCCOCCCN",N/A,N/A,0.5,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+10,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)N,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+11,CCCCCCCCCCC1OC1CCCCCCCCCC(=O)OC(=O)CCCCCCCCCC1OCC(COC(=O)CCCCCCCCCC1OCC(OCC(OCC3OCC(C)C(C)O3)OCC2OCC2C(=O)OCC4OCC(CO4)CO4)CO2)CO1,CC(C)(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CCCCCCCCCCC1OC1CCCCCCCCCC(=O)OC(=O)CCCCCCCCCC1OCC(COC(=O)CCCCCCCCCC1OCC(OCC(OCC3OCC(C)C(C)O3)OCC2OCC2C(=O)OCC4OCC(CO4)CO4)CO2)CO1
+Monomer 2: CC(C)(C)N",N/A,N/A,0.7,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+12,CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C,CCCCCCCCC(=O)OCC(CC)(COC(=O)CC(C)C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)OCC(CC)(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC,"To achieve Tg of 100°C and Er of 40Mpa, I suggest the following monomers:
+Monomer 1: CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C
+Monomer 2: CCCCCCCCC(=O)OCC(CC)(COC(=O)CC(C)C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)COC(=O)CC(C)OCC(CC)(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC",N/A,N/A,0.7,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+13,CC(C)(c2ccc(OCCOCCOCCOC1CCC1)cc2)c4ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)c6ccc(OCCOCCOCCOCC(O)Cc5ccc(C(C)(C)C)cc5)cc4,CC1(C)CC2(C)CC1C(=O)OC2(C)C,"To achieve Tg of 100°C and Er of 40Mpa, we could use the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CCC1)cc2)c4ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)c6ccc(OCCOCCOCCOCC(O)Cc5ccc(C(C)(C)C)cc5)cc4Monomer 2: CC1(C)CC2(C)CC1C(=O)OC2(C)C",N/A,N/A,0.7,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+14, C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,"Great choice of properties and groups. Here's a compatible monomer pair:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=C)OCOCCOC(=O)C(=C)C",N/A,N/A,0.7,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+15,CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6,NCCCOCCOCCCN,"To achieve Tg of 100°C and Er of 40Mpa, I suggest this monomer combination:
+Monomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6
+Monomer 2: NCCCOCCOCCCN",N/A,N/A,0.7,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+16,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(C)C(=O)OC(C)(C)C,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OC(C)(C)C",N/A,N/A,0.9,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+17,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.9,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+18,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCN(CC)CCc1ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCc2ccc(OCCc3ccc(N(CC)CC)cc3)cc2,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCN(CC)CCc1ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCc2ccc(OCCc3ccc(N(CC)CC)cc3)cc2",N/A,N/A,0.9,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+19,OC(\\C=C\\OCCOC(=O)C(C)(C)C)(c2ccc(OCCOC(=O)C(C)(C)C)cc2)cc4OC(c3ccc(OCCOC(=O)C(C)(C)C)cc3)CC4,CC(C)(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: OC(\C=C\OCCOC(=O)C(C)(C)C)(c2ccc(OCCOC(=O)C(C)(C)C)cc2)cc4OC(c3ccc(OCCOC(=O)C(C)(C)C)cc3)CC4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.9,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+20,C=CC(=O)OC(C=C)(C=C)C(C)(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C=C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C=C)(C)C,C=C(C)C(=C)OCC(COC(=O)C)(COC(=O)C)COC(=O)C,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: C=CC(=O)OC(C=C)(C=C)C(C)(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C=C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C=C)(C)C
+Monomer 2: C=C(C)C(=C)OCC(COC(=O)C)(COC(=O)C)COC(=O)C",N/A,N/A,0.9,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+21,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCC3OCC3)cc4,NCCCN,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCC3OCC3)cc4
+Monomer 2: NCCCN",N/A,N/A,1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+22,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+23,C=CC(=O)OC(C)(C)C,C=CCOCc2ccc(C=C)cc1OCC1=c2,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: C=CC(=O)OC(C)(C)C
+Monomer 2: C=CCOCc2ccc(C=C)cc1OCC1=c2",N/A,N/A,1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+24,CC(C)(c2ccc(OCCOCCOCCC1CO1)cc2)c4ccc(OCCOCCC3CO3)cc4,CC(C)(C)N,"To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCC1CO1)cc2)c4ccc(OCCOCCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+25,CC(CC1)(CC2)OCS(=O)(=O)NCC3CC3N(CC4CC4)CC6CC6N(CC5CC5)CC1CC2,CCC(CC)(CC)OCC(CC)(COC(CC)(CC)OCC(OCC(C)COC(C)(C)OCC(C)OCC(C)OCC1(C)CO1)C(=O)NCC2(C)CC(OCC3(C)CC(C(=O)NCC4(C)CC(OCC5(C)CC(C(=O)NCC6(C)CC(OCC7(C)CC(C(=O)NCC8(C)CC(OCC9(C)CC(C(=O)NCC10(C)CC(OCC11(C)CC(C(=O)NCC12(C)CC(OCC13(C)CC(C(=O)NCC14(C)CC(OCC15(C)CC(C(=O)NCC16(C)CC(OCC17(C)CC(C(=O)NCC18(C)CC(OCC19(C)CC(C(=O)NCC20(C)CC(OCC21(C)CC(C(=O)NCC22(C)CC(OCC23(C)CC(C(=O)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(CC1)(CC2)OCS(=O)(=O)NCC3CC3N(CC4CC4)CC6CC6N(CC5CC5)CC1CC2
+Monomer 2: CCC(CC)(CC)OCC(CC)(COC(CC)(CC)OCC(OCC(C)COC(C)(C)OCC(C)OCC(C)OCC1(C)CO1)C(=O)NCC2(C)CC(OCC3(C)CC(C(=O)NCC4(C)CC(OCC5(C)CC(C(=O)NCC6(C)CC(OCC7(C)CC(C(=O)NCC8(C)CC(OCC9(C)CC(C(=O)NCC10(C)CC(OCC11(C)CC(C(=O)NCC12(C)CC(OCC13(C)CC(C(=O)NCC14(C)CC(OCC15(C)CC(C(=O)NCC16(C)CC(OCC17(C)CC(C(=O)NCC18(C)CC(OCC19(C)CC(C(=O)NCC20(C)CC(OCC21(C)CC(C(=O)NCC22(C)CC(OCC23(C)CC(C(=O)N",N/A,N/A,1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+26,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+27,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCOCCOCCN,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCOCCOCCN",N/A,N/A,0.3,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+28,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+29,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+30,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+31,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+32,c3cc(N(CC1CO1)CC2CO2)ccc3,CC(N)COCC(CC)(CO)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)N,"To achieve Tg of 150°C and Er of 30Mpa, consider this combination:
+Monomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3
+Monomer 2: CC(N)COCC(CC)(CO)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)N",N/A,N/A,0.5,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+33,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.5,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+34,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.5,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+35,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+36,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N",N/A,N/A,0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+37,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 150°C and Er of 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+38,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+39,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCCCCCCCCN,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCCCCCCCCN",N/A,N/A,0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+40,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg ≈ 150°C and Er ≈ 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+41,c3cc(N(CC1CO1)CC2CO2)ccc3N(CC4CO4)CC5CO5,CC1(C)CC(N)CC(C)(CN)C1(C)CC(C)(CN)C(CC(C)N)(CC(C)N)CC(C)N,"To achieve Tg of 150°C and Er of 30Mpa, consider this monomer combination:
+Monomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3N(CC4CO4)CC5CO5
+Monomer 2: CC1(C)CC(N)CC(C)(CN)C1(C)CC(C)(CN)C(CC(C)N)(CC(C)N)CC(C)N",N/A,N/A,0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+42,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"Sure! Here's a monomer pair that matches your requirements:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+43,CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4,Nc2ccc(Cc1=CN(CC1)CC2=CN(CC2)CC3=CN(CC3)CC4=CN(CC4)CC(=C)Cc5ccc(Nc6ccc(Cc7=CN(CC7)CC8=CN(CC8)CC9=CN(CC9)CC(=C)Cc10ccc(Nc11ccc(Cc12=CN(CC12)CC13=CN(CC13)CC14=CN(CC14)CC(=C)Cc15ccc(Nc16ccc(Cc17=CN(CC17)CC18=CN(CC18)CC19=CN(CC19)CC(=C)Cc20ccc(Nc21ccc(Cc22=CN(CC22)CC23=CN(CC23)CC24=CN(CC24)CC(=C)Cc25ccc(Nc26ccc(Cc27=CN(CC27)CC28=CN(CC28)CC29=CN(CC29)CC(=C)Cc30ccc(Nc31ccc(Cc32=CN(CC32)CC33=CN(CC33)CC34=CN(CC),"Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:
+Monomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4
+Monomer 2: Nc2ccc(Cc1=CN(CC1)CC2=CN(CC2)CC3=CN(CC3)CC4=CN(CC4)CC(=C)Cc5ccc(Nc6ccc(Cc7=CN(CC7)CC8=CN(CC8)CC9=CN(CC9)CC(=C)Cc10ccc(Nc11ccc(Cc12=CN(CC12)CC13=CN(CC13)CC14=CN(CC14)CC(=C)Cc15ccc(Nc16ccc(Cc17=CN(CC17)CC18=CN(CC18)CC19=CN(CC19)CC(=C)Cc20ccc(Nc21ccc(Cc22=CN(CC22)CC23=CN(CC23)CC24=CN(CC24)CC(=C)Cc25ccc(Nc26ccc(Cc27=CN(CC27)CC28=CN(CC28)CC29=CN(CC29)CC(=C)Cc30ccc(Nc31ccc(Cc32=CN(CC32)CC33=CN(CC33)CC34=CN(CC",N/A,N/A,0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+44,O=C(OCC1CO1)C3CC2OC2CC3OCC4CO4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"To achieve Tg of 150°C and Er of 30Mpa, consider this monomer combination:
+Monomer 1: O=C(OCC1CO1)C3CC2OC2CC3OCC4CO4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+45,O=C(OCC1CO1)C3CC2OC2CC3OCC4CO4,CC(C)(CNC(=O)OCC(CC)OCC(CC)OCC5CO5)NC(=O)OCC(CC)OCC(CC)OCC(C)OCC(C)OCC(C)OCC(C)OCC(CC)OCC(CC)OCC(CC)OCC(CC)OCC(CC)N,"To achieve Tg of 150°C and Er of 30Mpa, consider this monomer combination:
+Monomer 1: O=C(OCC1CO1)C3CC2OC2CC3OCC4CO4
+Monomer 2: CC(C)(CNC(=O)OCC(CC)OCC(CC)OCC5CO5)NC(=O)OCC(CC)OCC(CC)OCC(C)OCC(C)OCC(C)OCC(C)OCC(CC)OCC(CC)OCC(CC)OCC(CC)OCC(CC)N",N/A,N/A,0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+46,Cc2cc(OCC1CO1)cc(C)c2Cc4cc(OCC3CO3)cc(C)c4,CCC(COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N)N,"To achieve Tg of 150°C and Er of 30Mpa, consider this monomer combination:
+Monomer 1: Cc2cc(OCC1CO1)cc(C)c2Cc4cc(OCC3CO3)cc(C)c4
+Monomer 2: CCC(COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N)N",N/A,N/A,1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+47,CC(C)(C)N,CCCCc1cccc(C(=O)OCCCC)(c1=O),"To achieve Tg of 150°C and Er of 30Mpa, consider this monomer combination:
+Monomer 1: CC(C)(C)N
+Monomer 2: CCCCc1cccc(C(=O)OCCCC)(c1=O)",N/A,N/A,1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+48,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCN",N/A,N/A,1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+49,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,CC(N)COCC(CC)(CO)COC(CC)(COC(=O)CC)(COC(=O)CC)COC(=O)CC,"To achieve Tg of 150°C and Er of 30Mpa , consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: CC(N)COCC(CC)(CO)COC(CC)(COC(=O)CC)(COC(=O)CC)COC(=O)CC",N/A,N/A,1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+50,c2ccc1c(=O)c3cc(CC1=c2)c(=O)n3Cc4ccc(N(CCc3=O)CCc2=O)cc4,NCc1ccc(Cc2ccc(Nc3cccc(Cc4ccc(Nc5cccc(Cc1)cc5)cc4)cc3)cc2)cc6,"To achieve Tg of 150°C and Er of 30Mpa, consider this monomer combination:
+Monomer 1: c2ccc1c(=O)c3cc(CC1=c2)c(=O)n3Cc4ccc(N(CCc3=O)CCc2=O)cc4
+Monomer 2: NCc1ccc(Cc2ccc(Nc3cccc(Cc4ccc(Nc5cccc(Cc1)cc5)cc4)cc3)cc2)cc6",N/A,N/A,1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+51,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+52,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 200°C and Er of 27Mpa, I suggest this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+53,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,CC1(C)CC(N)CC(C)(CN)C1(C)C,"To achieve Tg of 200°C and Er of 27Mpa, I suggest this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: CC1(C)CC(N)CC(C)(CN)C1(C)C",N/A,N/A,0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+54,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,Nc1cccc(S(=O)(=O)c2cccc(N)c2)c1,"To achieve Tg of 200°C and Er of 27Mpa, I suggest this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: Nc1cccc(S(=O)(=O)c2cccc(N)c2)c1",N/A,N/A,0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+55,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO",N/A,N/A,0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+56,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+57,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+58,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+59,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+60,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+61,c3cc(N(CC1CO1)CC2CO2)ccc3N(CC4CO4)CC5CO5,NCCOCCOCCN,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3N(CC4CO4)CC5CO5
+Monomer 2: NCCOCCOCCN",N/A,N/A,0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+62,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,Nc1ccc(Cc2cccc(Nc2)c1)cc3cccc(Nc3Cc6cccc(Nc5CCCC5)cc6)N,"To achieve Tg of 200°C and Er of 27Mpa, I suggest this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: Nc1ccc(Cc2cccc(Nc2)c1)cc3cccc(Nc3Cc6cccc(Nc5CCCC5)cc6)N",N/A,N/A,0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+63,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(C)C(=C)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=C)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O",N/A,N/A,0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+64,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCCC3CO3)cc4,NCc1cccc(CN)c1,"Based on your requirements, I propose the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCCC3CO3)cc4
+Monomer 2: NCc1cccc(CN)c1",N/A,N/A,0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+65,CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCC(c3ccc(OCCOCCOCCOCC(O)CC1CO1)CC3)CC4,NCCOCCOCCOCCOCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCC(c3ccc(OCCOCCOCCOCC(O)CC1CO1)CC3)CC4
+Monomer 2: NCCOCCOCCOCCOCCN",N/A,N/A,0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+66,CC(C)(c2ccc(OCCOCCOCCOCCOCCOCCOCCOCC1)cc2)c4ccc(OCCOCCOCCOCC3)cc4,O=c1n(CCS)c(Nc2ccc(S(=O)(=O)c6ccc(C(=O)OCC(C)C(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)N(c5ccc(S(=O)(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)N(CCS)CCS)c5)cc4)c2c1OCC(C)(C)OCC(C)(C)OCC(C)(C)OCC(C)(C)OCC(C)(C)N(CCS)CCS,"To achieve Tg of 200°C and Er of 27MPa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCCOCCOCCOCCOCC1)cc2)c4ccc(OCCOCCOCCOCC3)cc4
+Monomer 2: O=c1n(CCS)c(Nc2ccc(S(=O)(=O)c6ccc(C(=O)OCC(C)C(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)N(c5ccc(S(=O)(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)OCC(C)C(=O)N(CCS)CCS)c5)cc4)c2c1OCC(C)(C)OCC(C)(C)OCC(C)(C)OCC(C)(C)OCC(C)(C)N(CCS)CCS",N/A,N/A,0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+67,CC(C)(c2cccc(OCC1CO1)c2)c4ccc(OCC3CO3)c(=O)c6ccc(OCC4CO4)c(=O)c3ccc(OCC2CO2)c(=O)c6c,Nc1ccc(Cc1)CC(N)COC(CC(N)C)CC(N)COc2ccc(CC(N)COc3ccc(N)cc3)cc2,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2cccc(OCC1CO1)c2)c4ccc(OCC3CO3)c(=O)c6ccc(OCC4CO4)c(=O)c3ccc(OCC2CO2)c(=O)c6c
+Monomer 2: Nc1ccc(Cc1)CC(N)COC(CC(N)C)CC(N)COc2ccc(CC(N)COc3ccc(N)cc3)cc2",N/A,N/A,0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+68,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+69,CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC(=O)OCC(C(=O)OCC(COC(=O)CCCCCC4OC4CC3OC3CC2OC2CC(=O)OCC(C(=O)OCC,C(=O)OCC(COC(=O)CCCCCC2OC2CC1OC1CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC6OC6CC5OC5CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC10OC10CC9OC9CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC14OC14CC13OC13CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC18OC18CC17OC17CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCC,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC(=O)OCC(C(=O)OCC(COC(=O)CCCCCC4OC4CC3OC3CC2OC2CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC2OC2CC1OC1CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC6OC6CC5OC5CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC10OC10CC9OC9CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC14OC14CC13OC13CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCCCC18OC18CC17OC17CC(=O)OCC(C(=O)OCC(C(=O)OCC(COC(=O)CCCC",N/A,N/A,0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+70,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27MPa:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+71,c3cc(N(CC1CO1)CC2CO2)ccc3N(CC4CO4)CC5CO5,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Based on your requirements, I propose the following monomers:
+Monomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3N(CC4CO4)CC5CO5
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+72,O=C(OCC1CO1)C4CC3(C(=O)OCC2CO2)CC(=C)C4(C)C3(=C)C(=O)OCC6CO6,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"To achieve Tg of 200°C and Er of 27MPa, I suggest this monomer combination:
+Monomer 1: O=C(OCC1CO1)C4CC3(C(=O)OCC2CO2)CC(=C)C4(C)C3(=C)C(=O)OCC6CO6
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+73,CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)C6,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)C6
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+74,C1OC1(C)C1COC1COC1COC1COC1COC1COC1COC1COC1COC1COC1COC1OCC4OCC3OCC2OCC1OCC1OCC2OCC3OCC4OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C), OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C),"To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:
+Monomer 1: C1OC1(C)C1COC1COC1COC1COC1COC1COC1COC1COC1COC1COC1COC1OCC4OCC3OCC2OCC1OCC1OCC2OCC3OCC4OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)O",N/A,N/A,1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+75,CCC(CC)(c1ccc(OCC(O)COc2ccc(C(C)(C)c4ccc(OCC(O)COc3ccc2)ccc4)ccc3)ccc2)ccc1,CC(C)(C)c1ccc(OCC(O)COc3cccc(C(C)(C)c2ccc(OCC(O)COc1)ccc2)ccc3)ccc4OCC(O)COc4,"To achieve Tg of 200°C and Er of 27MPa, I designed these monomers:
+Monomer 1: CCC(CC)(c1ccc(OCC(O)COc2ccc(C(C)(C)c4ccc(OCC(O)COc3ccc2)ccc4)ccc3)ccc2)ccc1
+Monomer 2: CC(C)(C)c1ccc(OCC(O)COc3cccc(C(C)(C)c2ccc(OCC(O)COc1)ccc2)ccc3)ccc4OCC(O)COc4",N/A,N/A,1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+76,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"To achieve Tg of 100°C and Er of 100Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+77,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 100°C and Er of 100Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+78,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"To achieve Tg of 100°C and Er of 100Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+79,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,CC(C)(C)N,"To achieve Tg of 100°C and Er of 100Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.3,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+80,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+81,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 100°C and Er of 100Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+82,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+83,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCCOCCOCCCN",N/A,N/A,0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+84,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+85,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+86,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCCC(=O)OCCCCC,"To achieve Tg of 100°C and Er of 100Mpa, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCCC(=O)OCCCCC",N/A,N/A,0.7,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+87,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCCOCCOCCCN",N/A,N/A,0.7,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+88,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCCCCCCCCCCCN,"To achieve Tg of 100°C and Er of 100Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCCCCCCCCCCCN",N/A,N/A,0.7,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+89,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"Great choice of properties and groups. Here's a compatible monomer pair:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,0.7,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+90,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCCOCCOCCCN",N/A,N/A,0.7,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+91,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)S,"Great choice of properties and groups. Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(CCS)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)S",N/A,N/A,0.9,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+92,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)CO,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)CO",N/A,N/A,0.9,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+93,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCOCCOCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCOCCOCCN",N/A,N/A,0.9,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+94,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCCOCCOCCCN",N/A,N/A,0.9,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+95,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS",N/A,N/A,0.9,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+96,Cc2cccc1c2C(=O)OC(=O)Cc2ccc(OCC1CO1)c2CCc2ccc(OCC3CO3)c2OCC4CO4,Nc1c(S)n(S)c1n(S)c2c(N)n(S)c1c1c(N)n(S)c2c(S)n(S)c1N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: Cc2cccc1c2C(=O)OC(=O)Cc2ccc(OCC1CO1)c2CCc2ccc(OCC3CO3)c2OCC4CO4
+Monomer 2: Nc1c(S)n(S)c1n(S)c2c(N)n(S)c1c1c(N)n(S)c2c(S)n(S)c1N",N/A,N/A,1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+97,C=CC(=O)OC(C=C)C(=O)OCC(C)=OCC(C)=OCC(C)(C)C,CC(=O)NCC1(C)CC(NC(=O)CC2(C)CC(C2)NCC(=O)OCC3(C)CC(C3)N)CC4(C)CC(NC(=O)CC5(C)CC(C5)N)CC1,"To achieve Tg of 100°C and Er of 100Mpa, consider this monomer pair:
+Monomer 1: C=CC(=O)OC(C=C)C(=O)OCC(C)=OCC(C)=OCC(C)(C)C
+Monomer 2: CC(=O)NCC1(C)CC(NC(=O)CC2(C)CC(C2)NCC(=O)OCC3(C)CC(C3)N)CC4(C)CC(NC(=O)CC5(C)CC(C5)N)CC1",N/A,N/A,1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+98,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(C)(C)N,"Based on your requirements, I recommend the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+99,Nc2ccc(OCC1CO1)c2Cc4ccc(Nc3ccc(OCC4CO4)c3)cc1,CC1(C)CC(N)CC(C)(CN)C1,"Here's a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: Nc2ccc(OCC1CO1)c2Cc4ccc(Nc3ccc(OCC4CO4)c3)cc1
+Monomer 2: CC1(C)CC(N)CC(C)(CN)C1",N/A,N/A,1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+100,CC(C)(c2ccc(OCCOCCOCCCOCC1CO1)cc2)c4ccc(OCCOCCOCCCOCC3CO3)cc4,O=c1n(CCSCC)c(=O)n(CCSCC)c(=O)n1CCSCC,"Based on your requirements, I recommend the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCCOCC1CO1)cc2)c4ccc(OCCOCCOCCCOCC3CO3)cc4
+Monomer 2: O=c1n(CCSCC)c(=O)n(CCSCC)c(=O)n1CCSCC",N/A,N/A,1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+101,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+102,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+103,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+104,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+105,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.3,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+106,CC(C)(c2ccc(OCCOCCOCCOC1CC1)cc2)c4ccc(OCCOCCOCCOCCOCCOCCOC3CC3)cc4,NCCCOCCCOCCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CC1)cc2)c4ccc(OCCOCCOCCOCCOCCOCCOC3CC3)cc4
+Monomer 2: NCCCOCCCOCCCOCCCN",N/A,N/A,0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+107,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+108,CC(C)(c2ccc(OCCOCCOCCOCC1CCC1)cc2)c4ccc(OCCOCCOCCOCC3CCC3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CCC1)cc2)c4ccc(OCCOCCOCCOCC3CCC3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+109,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCCOCCOCCCN,"To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCCOCCOCCCN",N/A,N/A,0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+110,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+111, CC(=O)OCCn1c(=O)n(CCOC(=O)C(C)C(C)(C)C)CN(CCOC(=O)C(C)C(C)(C)C)CCOC(=O)C(C)C(C)(C),CC(C)(C)N,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: CC(=O)OCCn1c(=O)n(CCOC(=O)C(C)C(C)(C)C)CN(CCOC(=O)C(C)C(C)(C)C)CCOC(=O)C(C)C(C)(C)C
+Monomer 2: CC(C)(C)N",N/A,N/A,0.7,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+112,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)N",N/A,N/A,0.7,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+113,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCN(CCN(C)CCN(CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C),"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCN(CCN(C)CCN(CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)CCN(CCN(C)CCN(C)CCN(C)CCN(C)CCN(C)",N/A,N/A,0.7,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+114,CCCC(c3ccc(OCCOCCOCCOCC1)(c2ccc(OCCOCCOCCOCC4)cc2)cc3)CCc6ccc(OCCOCCOCCOCC5)cc6,NCc1cc(CN)ccc1C(CN)CCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CCCC(c3ccc(OCCOCCOCCOCC1)(c2ccc(OCCOCCOCCOCC4)cc2)cc3)CCc6ccc(OCCOCCOCCOCC5)cc6
+Monomer 2: NCc1cc(CN)ccc1C(CN)CCN",N/A,N/A,0.7,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+115,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(=O)N1,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(=O)N1",N/A,N/A,0.7,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+116,CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)C6,CC(C)N,"To achieve Tg of 50°C and Er of 20Mpa, consider this combination:
+Monomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)C6
+Monomer 2: CC(C)N",N/A,N/A,0.9,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+117,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC,"To achieve Tg ≈ 50°C and Er ≈ 20Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC(C)COC(=O)NCC",N/A,N/A,0.9,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+118,CC(=O)OCC(COC(=O)CC)(COC(=O)CC)COC(=O)CC,CC(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)O,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: CC(=O)OCC(COC(=O)CC)(COC(=O)CC)COC(=O)CC
+Monomer 2: CC(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)OCC(CC)(CO)C(=O)O",N/A,N/A,0.9,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+119,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCN(CCN1CCCC1)CCN(CCN2CCCC2)CCN3CCCC3,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCN(CCN1CCCC1)CCN(CCN2CCCC2)CCN3CCCC3",N/A,N/A,0.9,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+120,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,NCc5ccc(Cc4ccc(N)c(OCC(O)COc2ccc(N)c1)cc4)cc5,"To achieve Tg of 50°C and Er of 20Mpa, consider this combination:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: NCc5ccc(Cc4ccc(N)c(OCC(O)COc2ccc(N)c1)cc4)cc5",N/A,N/A,0.9,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+121,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCCl,"To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCCl",N/A,N/A,1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+122,c1ccc(OC3CO3)cc1,C(C)(C)N,"To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:
+Monomer 1: c1ccc(OC3CO3)cc1
+Monomer 2: C(C)(C)N",N/A,N/A,1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+123,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,CC(C)(C)N,"To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: CC(C)(C)N",N/A,N/A,1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+124,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CCCCCCCCCCCCCCCCCN,"Sure! Here's a monomer pair that matches your request:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CCCCCCCCCCCCCCCCCN",N/A,N/A,1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+125,CC(C)(c4ccc(OCCOCCOCCOC3CC(C2CCC(C1CCC(C(C)C2)CC1)C3)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)NCC1(C(=O)OCC(=O)N)CC(N)(C(=O)OCC(=O)N)C(=O)OCC(=O)NCC1)C(=O)NCC(=O)OCC(=O)NCC(=O)OCC(=O)NCC1(C(=O)OCC(=O)N)CC(N)(C(=O)OCC(=O)N)C(=O)OCC(=O)NCC1)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC,N/A,"To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:
+Monomer 1: CC(C)(c4ccc(OCCOCCOCCOC3CC(C2CCC(C1CCC(C(C)C2)CC1)C3)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)NCC1(C(=O)OCC(=O)N)CC(N)(C(=O)OCC(=O)N)C(=O)OCC(=O)NCC1)C(=O)NCC(=O)OCC(=O)NCC(=O)OCC(=O)NCC1(C(=O)OCC(=O)N)CC(N)(C(=O)OCC(=O)N)C(=O)OCC(=O)NCC1)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC",N/A,N/A,1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
