@@ -237,6 +237,8 @@ def read_multiple_csv_with_validation(csv_filepaths):
         all_results = []
         total_valid_count = 0
         total_count = 0
+        total_not_valid_count = 0
+        total_without_SMILES_count = 0
         
         print(f"\nProcessing {len(csv_filepaths)} CSV files...")
         print("=" * 80)
@@ -256,19 +258,14 @@ def read_multiple_csv_with_validation(csv_filepaths):
                     df = pd.read_csv(csv_filepath, encoding='latin-1')
                 except UnicodeDecodeError:
                     df = pd.read_csv(csv_filepath, encoding='cp1252')
-            
-            # Check if required columns exist
-            if 'Monomer 1' not in df.columns or 'Monomer 2' not in df.columns:
-                print(f"Required columns 'Monomer 1' and 'Monomer 2' not found in {csv_filepath}")
-                continue
-            
             # Create fixed monomer columns
             df['Fixed Monomer 1'] = df['Monomer 1'].copy()
             df['Fixed Monomer 2'] = df['Monomer 2'].copy()
             
             # Validate monomers
             valid_count = 0
-            not_found_count = 0
+            not_valid_count = 0
+            without_SMILES_count = 0
             total_rows = len(df)
             
             for idx, row in df.iterrows():
@@ -276,7 +273,11 @@ def read_multiple_csv_with_validation(csv_filepaths):
                 monomer2 = str(row['Monomer 2']).strip()
                 
                 # Skip if monomers are empty or invalid
-                if monomer1 in ['nan', 'Not found', 'N/A', ''] and monomer2 in ['nan', 'Not found', 'N/A', '']:
+                if monomer1 in ['nan', 'Not found', 'N/A', ''] or monomer2 in ['nan', 'Not found', 'N/A', '']:
+                    df['Fixed Monomer 1'][idx] = 'Not found'
+                    df['Fixed Monomer 2'][idx] = 'Not found'
+                    not_valid_count += 1
+                    without_SMILES_count += 1
                     continue
                 
                 # Try to create MOL files first
@@ -294,7 +295,7 @@ def read_multiple_csv_with_validation(csv_filepaths):
                     pass
                 
                 # Only apply fixes if parsing failed
-                if mol1 is None and monomer1 not in ['nan', 'Not found', 'N/A', '']:
+                if mol1 is None:
                     monomer1 = fix_smiles_parsing_issues(monomer1)
                     monomer1 = detect_and_fix_dangling_rings(monomer1)
                     try:
@@ -302,7 +303,7 @@ def read_multiple_csv_with_validation(csv_filepaths):
                     except:
                         pass
                 
-                if mol2 is None and monomer2 not in ['nan', 'Not found', 'N/A', '']:
+                if mol2 is None:
                     monomer2 = fix_smiles_parsing_issues(monomer2)
                     monomer2 = detect_and_fix_dangling_rings(monomer2)
                     try:
@@ -311,51 +312,47 @@ def read_multiple_csv_with_validation(csv_filepaths):
                         pass
                 
                 # Count as valid if both monomers are valid
-                if mol1 is not None and mol2 is not None:
+                if mol1 is not None or mol2 is not None:
                     df['Fixed Monomer 1'][idx] = monomer1
                     df['Fixed Monomer 2'][idx] = monomer2
                     valid_count += 1
                 else:
                     df['Fixed Monomer 1'][idx] = 'Not found'
                     df['Fixed Monomer 2'][idx] = 'Not found'
-                    not_found_count += 1
+                    not_valid_count += 1
             
             total_count += total_rows
             total_valid_count += valid_count
+            total_not_valid_count += not_valid_count
+            total_without_SMILES_count += without_SMILES_count
             
             # Store file results
             success_rate = (valid_count / total_rows) * 100 if total_rows > 0 else 0
             all_results.append({
                 'file': csv_filepath,
                 'valid_count': valid_count,
-                'not_found_count': not_found_count,
+                'not_valid_count': not_valid_count,
                 'total_count': total_rows,
                 'success_rate': success_rate
             })
             
             print(f"Valid pairs: {valid_count}/{total_rows} ({success_rate:.1f}%)")
-            print(f"Not found pairs: {not_found_count}")
-            print(f"Valid pairs (excluding 'Not found'): {valid_count}/{valid_count + not_found_count} ({(valid_count / (valid_count + not_found_count)) * 100:.1f}%)")
-            df.to_csv("Output/"+os.path.basename(csv_filepath).replace(".csv", "_fixed.csv"), index=False)
+            print(f"Not found pairs: {not_valid_count}")
+            print(f"Valid pairs (excluding 'Not found'): {valid_count}/{valid_count + not_valid_count} ({(valid_count / (valid_count + not_valid_count)) * 100:.1f}%)")
+            #df.to_csv("Output/"+os.path.basename(csv_filepath).replace(".csv", "_fixed.csv"), index=False)
         
         # Overall summary
         print("\n" + "=" * 80)
         print("OVERALL SUMMARY")
         print("=" * 80)
-        print(f"Total valid pairs: {total_valid_count}/{total_count}")
+        print(f"Total pairs: {total_count}")
+        print(f"Total not valid pairs: {total_not_valid_count}")
+        print(f"Total valid pairs: {total_valid_count}")
+        print("Response with SMILES: ", total_count-total_without_SMILES_count)
+        print(f"Total without SMILES pairs: {total_without_SMILES_count}")
         overall_success_rate = (total_valid_count / total_count) * 100 if total_count > 0 else 0
         print(f"Overall success rate: {overall_success_rate:.1f}%")
-        
-        # Calculate statistics excluding 'Not found' items
-        total_not_found = sum(result.get('not_found_count', 0) for result in all_results)
-        total_valid_excluding_not_found = total_valid_count
-        total_processed_excluding_not_found = total_valid_count + total_not_found
-        
-        if total_processed_excluding_not_found > 0:
-            success_rate_excluding_not_found = (total_valid_excluding_not_found / total_processed_excluding_not_found) * 100
-            print(f"Success rate (excluding 'Not found'): {success_rate_excluding_not_found:.1f}%")
-            print(f"Valid pairs: {total_valid_excluding_not_found}/{total_processed_excluding_not_found}")
-            print(f"Not found pairs: {total_not_found}")
+
          
         
         # Save the fixed dataframe for the last processed file
@@ -412,25 +409,20 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
             for col in df.columns:
                 print(f"  - {col}")
             return None
-        
+        total_monomer_pairs = len(df)
         monomer_1= df[df['Fixed Monomer 1']!='Not found']['Fixed Monomer 1'].tolist()
         monomer_2= df[df['Fixed Monomer 2']!='Not found']['Fixed Monomer 2'].tolist()
         df=pd.DataFrame({'Fixed Monomer 1':monomer_1,'Fixed Monomer 2':monomer_2})
-        total_monomer_pairs = len(df)
-        df=df.drop_duplicates()
-        #total_monomer_pairs = len(df)
         
-        smiles1_list, smiles2_list, er_list, tg_list = load_dataset_gpt4()
-        training_monomers_pairs = list(zip(smiles1_list, smiles2_list))
-        unique_monomers_count = 0
-        for index, row in df.iterrows() :
-            if (row['Fixed Monomer 1'], row['Fixed Monomer 2']) not in training_monomers_pairs:
-                unique_monomers_count += 1
-
-        print(f"Unique monomer pairs: {unique_monomers_count}")
+        df=df.drop_duplicates()
+        unique_monomer_pairs = len(df)
+        
+        
+        print(f"Unique monomer pairs: {unique_monomer_pairs}")
         print(f"Total monomer pairs: {total_monomer_pairs}")
-        print(f"Unique monomer pairs: {unique_monomers_count/total_monomer_pairs*100:.2f}%")
+        print(f"Unique monomer pairs: {unique_monomer_pairs/total_monomer_pairs*100:.2f}%")
         print(f"Total monomer pairs: {total_monomer_pairs}")
+        #df.to_csv(output_csv, index=False)
        
         # return df_no_duplicates
         
@@ -476,9 +468,13 @@ def load_dataset_gpt4():
 
 
 
-# save_monomers_to_csv("Output/generation_results_gpt4o_mini_group.json","Output/generation_results_gpt4o_mini_group-u1.csv")
-# save_monomers_to_csv("Output/generation_results_gpt4o_mini_property.json","Output/generation_results_gpt4o_mini_property-u1.csv")
-# save_monomers_to_csv("Output/generation_results_gpt4o_mini_mix.json","Output/generation_results_gpt4o_mini_mix-u1.csv")
+# save_monomers_to_csv("Output/Zeroshot/generation_results_gpt4o_mini_group_zeroshot.json","Output/Zeroshot/generation_results_gpt4o_mini_group_zeroshot.csv")
+# save_monomers_to_csv("Output/Zeroshot/generation_results_gpt4o_mini_property_zeroshot.json","Output/Zeroshot/generation_results_gpt4o_mini_property_zeroshot.csv")
+# save_monomers_to_csv("Output/Zeroshot/generation_results_gpt4o_mini_mix_zeroshot.json","Output/Zeroshot/generation_results_gpt4o_mini_mix_zeroshot.csv")
+
+# save_monomers_to_csv("Output/Fewshot/generation_results_gpt4o_mini_group_fewshot.json","Output/Fewshot/generation_results_gpt4o_mini_group_fewshot.csv")
+# save_monomers_to_csv("Output/Fewshot/generation_results_gpt4o_mini_property_fewshot.json","Output/Fewshot/generation_results_gpt4o_mini_property_fewshot.csv")
+# save_monomers_to_csv("Output/Fewshot/generation_results_gpt4o_mini_mix_fewshot.json","Output/Fewshot/generation_results_gpt4o_mini_mix_fewshot.csv")
 
 
 # csv_files = [
@@ -487,14 +483,14 @@ def load_dataset_gpt4():
 #   "Output/old/extracted_monomers_gpt4o_mini_property.csv"
 # ]
 csv_files = [
-    "Output/generation_results_gpt4o_mini_group_u1C.csv",
-  "Output/generation_results_gpt4o_mini_mix_u1C.csv",
-  "Output/generation_results_gpt4o_mini_property_u1C.csv"
+    "Output/Fewshot/generation_results_gpt4o_mini_group_fewshot.csv",
+   "Output/Fewshot/generation_results_gpt4o_mini_mix_fewshot.csv",
+ "Output/Fewshot/generation_results_gpt4o_mini_property_fewshot.csv"
 ]
 
 
-#read_multiple_csv_with_validation(csv_files)
-remove_duplicate_monomer_pairs("Output/Combined_both.csv")
+read_multiple_csv_with_validation(csv_files)
+#remove_duplicate_monomer_pairs("Output/Combined_fewshot.csv")
 
 
 

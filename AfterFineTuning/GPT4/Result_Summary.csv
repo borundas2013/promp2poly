@@ -1,2 +1,5 @@
-﻿,Property Query,Group Query,Mix Query,Toatl Query,Total Response,Total Response  With SMILES,No Response/Partial Response,Valid SMILES ( Both SMILES),Valid SMILES ( At least One Monomer),Valid SMILES Rate ( Both Monomer),Valid SMILES Rate ( At least one Monomer),Unique Sample ( Both Monomer),Unique Sample Rate ( Both Monomer),Group Matching Rate ( Both Monomer),Reactivity Rate ( Both Monomer)
-GPT,125,125,125,375,375,360,15,290,352,80.6,97.7,196,68,66,75.8
+﻿,Property Query,Group Query,Mix Query,Toatl Query,Total Response,Total Response  With SMILES,No Response/Partial Response,Valid SMILES ( Both SMILES),Valid Samples Rate ( Both Monomer),Unique Sample ( Both Monomer),Unique Sample Rate ( Both Monomer),Group Matching Rate ( Both Monomer),Reactivity Rate ( Both Monomer)
+GPT(Fine-Tuned),125,125,125,375,375,360,15,290,77.3,196,57,70,76.21
+,,,,,,,,,,,,,
+GPT (Zero Shot),125,125,125,375,375,235,140,199,53.1,197,52.53,67.34,71.36
+GPT(Fewshot),125,125,125,375,375,243,132,216,57.6,215,57.3,76,73.15

@@ -1,0 +1,1402 @@
+SL,Monomer 1,Monomer 2,Output_text,Group1,Group2,Temperature,Tg,Er,Prompt,Fixed Monomer 1,Fixed Monomer 2
+1,C1=CC=C(C=C1C(C2CO2)C2CO2)C(C2CO2)C2CO2,C1=CC=C(C=C1C(C2=CC=CC=C2)N=C(N)C(C2=CC=CC=C2)N)C(C2=CC=CC=C2)N,"Here are the designed monomers that meet your requirements for a thermoset polymer with Tg = 100°C and Er = 40 MPa:
+
+**Monomer 1 (Epoxy C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1C(C2CO2)C2CO2)C(C2CO2)C2CO2
+
+**Monomer 2 (Imine NC):**  
+Structure: N,N'-bis(2-(aminomethyl)phenyl)ethanediamine  
+SMILES: C1=CC=C(C=C1C(C2=CC=CC=C2)N=C(N)C(C2=CC=CC=C2)N)C(C2=CC=CC=C2)N
+
+These monomers are designed to provide the necessary functional groups while also targeting the desired thermal and mechanical properties.",epoxy(C1OC1),imine(NC),0.3,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C1=CC=C(C=C1C(C2CO2)C2CO2)C(C2CO2)C2CO2,C1=CC=C(C=C1C(C2=CC=CC=C2)N=C(N)C(C2=CC=CC=C2)N)C(C2=CC=CC=C2)N
+2,C1C(O)C(C1O)C(C(C)C)C1C(O)C(C1O)C(C(C)C)C,C1=CC(C(C)C)C(=N)C(C)C(=N)C1,"Here’s a suitable pair of monomers designed to meet your requirements for a thermoset polymer with Tg = 100°C and Er = 40 MPa:
+
+**Monomer 1 (epoxy C1OC1):**  
+Structure:  
+- A rigid structure with two epoxy groups to enhance crosslinking and achieve the desired Tg.  
+
+SMILES:  
+`C1C(O)C(C1O)C(C(C)C)C1C(O)C(C1O)C(C(C)C)C`
+
+**Monomer 2 (imine NC):**  
+Structure:  
+- A flexible structure with two imine groups to enhance the desired mechanical properties while maintaining the required functionality.  
+
+SMILES:  
+`C1=CC(C(C)C)C(=N)C(C)C(=N)C1`
+
+This combination of monomers should provide the necessary properties for your thermoset shape memory polymer.",epoxy(C1OC1),imine(NC),0.3,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C1C(O)C(C1O)C(C(C)C)C1C(O)C(C1O)C(C(C)C)C,C1=CC(C(C)C)C(=N)C(C)C(=N)C1
+3,C1=CC=C(C=C1C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C,,"Here’s a suitable monomer pair designed to meet your requirements for epoxy and imine functionalities, along with the specified Tg and Er values:
+
+**Monomer 1 (epoxy C1OC1):**  
+Structure: 1,2-Bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C)O)C(C(C",epoxy(C1OC1),imine(NC),0.3,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+4, C(C1CO1)C(C1CO1)C1=CC=C(C=C1)C(C1CO1)C(C1CO1)C,NC(C1=CC=CC=C1)C(C1=CC=CC=C1)N,"Here is a suitable pair of monomers designed to meet the specified requirements:
+
+**Monomer 1 (Epoxy C1OC1):**  
+Structure: 1,4-bis(2,3-epoxypropyl)benzene  
+SMILES: C(C1CO1)C(C1CO1)C1=CC=C(C=C1)C(C1CO1)C(C1CO1)C
+
+**Monomer 2 (Imine NC):**  
+Structure: N,N'-bis(2-(aminomethyl)phenyl)ethane-1,2-diamine  
+SMILES: NC(C1=CC=CC=C1)C(C1=CC=CC=C1)N
+
+These monomers are designed to provide the necessary functional groups while achieving the desired thermal and mechanical properties.",epoxy(C1OC1),imine(NC),0.3,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C(C1CO1)C(C1CO1)C1=CC=C(C=C1)C(C1CO1)C(C1CO1)C,NC(C1=CC=CC=C1)C(C1=CC=CC=C1)N
+5,C1C(C2C1C(C(C2)O)O)OCC1C(C1O)C(C)C(C)C)OCC1OCC1,C(C(C(C=NC(C)C)C(C)C)C=NC(C)C)C)C,"Here is a suitable pair of monomers designed to meet the specified requirements:
+
+**Monomer 1 (C1OC1 - epoxy groups):**  
+Structure: A bicyclic compound with two epoxy groups and moderate rigidity to achieve the desired Tg.  
+SMILES: `C1C(C2C1C(C(C2)O)O)OCC1C(C1O)C(C)C(C)C)OCC1OCC1`
+
+**Monomer 2 (NC - imine groups):**  
+Structure: A flexible chain with two imine groups that can provide the necessary crosslinking while maintaining the desired Er.  
+SMILES: `C(C(C(C=NC(C)C)C(C)C)C=NC(C)C)C)C`
+
+This combination of monomers should provide the desired thermal and mechanical properties for your thermoset shape memory polymer.",epoxy(C1OC1),imine(NC),0.3,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+6,C1=CC=C(C=C1C2(C(C(CO)O)C(C2)O)C(C(C)C)O)C(CO)O)C(C)C,C1=CC=NC(=C1)C(C2=CC=NC(=C2)C)N,"Here’s a suitable pair of monomers designed to meet the specified requirements:
+
+**Monomer 1 (rich in epoxy C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1C2(C(C(CO)O)C(C2)O)C(C(C)C)O)C(CO)O)C(C)C
+
+**Monomer 2 (rich in imine NC):**  
+Structure: N,N'-bis(2-pyridyl)ethylenediamine  
+SMILES: C1=CC=NC(=C1)C(C2=CC=NC(=C2)C)N
+
+These monomers are designed to provide the necessary functional groups while achieving the target Tg of 100°C and an Er of 40 MPa through appropriate molecular rigidity and crosslinking density.",epoxy(C1OC1),imine(NC),0.5,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+7,C(C1CO1)C(C1CO1)C1=CC=CC=C1C(C1CO1)C(C1CO1),C(C=NC(C)C)C(C=NC(C)C)C1=CC=CC=C1C(C=NC(C)C)C(C=NC(C)C),"Here’s a suitable monomer pair designed to meet your specifications for a thermoset polymer:
+
+**Monomer 1 (C1OC1 - epoxy groups):**  
+Structure: 1,4-bis(2,3-epoxypropyl)benzene  
+SMILES: C(C1CO1)C(C1CO1)C1=CC=CC=C1C(C1CO1)C(C1CO1)  
+
+**Monomer 2 (NC - imine groups):**  
+Structure: 1,4-bis(2-iminoethyl)benzene  
+SMILES: C(C=NC(C)C)C(C=NC(C)C)C1=CC=CC=C1C(C=NC(C)C)C(C=NC(C)C)  
+
+This combination aims to achieve a Tg of around 100°C and an Er of approximately 40 MPa through careful molecular design and crosslinking density optimization.",epoxy(C1OC1),imine(NC),0.5,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C(C1CO1)C(C1CO1)C1=CC=CC=C1C(C1CO1)C(C1CO1),C(C=NC(C)C)C(C=NC(C)C)C1=CC=CC=C1C(C=NC(C)C)C(C=NC(C)C)
+8,C1CC(C2C1C(C(C2O)C(C)C)O)C(C)(C)O)C(C)(C)O,C1=CC2=C(C=C1)C(=C(C2=O)C(C)C)N(CCN)C(C)C,"Here is a proposed pair of monomers that fulfill the specified requirements for a thermoset polymer:
+
+**Monomer 1 (Epoxy C1OC1):**  
+Structure: 2,2-bis(3,4-epoxycyclohexyl)propane  
+SMILES: C1CC(C2C1C(C(C2O)C(C)C)O)C(C)(C)O)C(C)(C)O
+
+**Monomer 2 (Imine NC):**  
+Structure: N,N'-bis(2-(1,3-benzodioxol-5-yl)ethyl)ethylenediamine  
+SMILES: C1=CC2=C(C=C1)C(=C(C2=O)C(C)C)N(CCN)C(C)C
+
+These monomers are designed to provide the required epoxy and imine functionalities while targeting the desired Tg and Er values through appropriate molecular rigidity and crosslinking density.",epoxy(C1OC1),imine(NC),0.5,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+9,C1C(C2=C(C1)C(=C(C=C2)C(C3CC(C(C3)O)O)O)C(C4CC(C(C4)O)O)O)O),C(CNCC(C)N)C(CNCC(C)N)C(CNCC(C)N)N,"Here is a suitable pair of monomers that meet your requirements for epoxy (C1OC1) and imine (NC) functionalities while targeting a Tg of 100°C and an Er of 40 MPa:
+
+**Monomer 1 (Epoxy, C1OC1):**  
+Structure: 2,2-bis(3,4-epoxycyclohexyl)propane  
+SMILES: C1C(C2=C(C1)C(=C(C=C2)C(C3CC(C(C3)O)O)O)C(C4CC(C(C4)O)O)O)O)O
+
+**Monomer 2 (Imine, NC):**  
+Structure: N,N'-bis(3-aminopropyl)ethylenediamine  
+SMILES: C(CNCC(C)N)C(CNCC(C)N)C(CNCC(C)N)N
+
+These monomers are designed to provide the required functionalities and achieve the desired thermal and mechanical properties in the final thermoset polymer.",epoxy(C1OC1),imine(NC),0.5,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",OC1CC(C(O)C2CCC3C(O)CCC3C2C(O)C2CC(O)C(O)C2)CC1O,C(CNCC(C)N)C(CNCC(C)N)C(CNCC(C)N)N
+10,C1CC(C2C(C1)C(C2O)O)C(C2C(C1)C(C2O)O)C(C)O,C1=CC=C(C=C1)NCCNCCN=C(C2=CC=CC=C2)C,"Here is a proposed pair of monomers that meet your requirements for epoxy (C1OC1) and imine (NC) functionalities, along with the specified Tg and Er values:
+
+**Monomer 1 (epoxy C1OC1):**  
+Structure: 2,2-bis(3,4-epoxycyclohexyl)propane  
+SMILES: `C1CC(C2C(C1)C(C2O)O)C(C2C(C1)C(C2O)O)C(C)O`
+
+**Monomer 2 (imine NC):**  
+Structure: N,N'-bis(2-(2-aminoethyl)phenyl)ethanediamine  
+SMILES: `C1=CC=C(C=C1)NCCNCCN=C(C2=CC=CC=C2)C`
+
+This combination provides the required functional groups while targeting the desired thermal and mechanical properties.",epoxy(C1OC1),imine(NC),0.5,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+11,C(C1OC2CC2C(C1)OCC(O)OCC1OC1)C1OC2CC2C(C1)OCC(O)OCC1OC1,NC(C1=CC=CC=C1)C(C1=CC=CC=C1)C(C1=CC=CC=C1)C1=CC=CC=C1,"Here’s a suitable pair of monomers that aligns with your specified requirements:
+
+**Monomer 1 (rich in epoxy - C1OC1):**  
+**Structure:** 1,2-Bis(2,3-epoxypropoxy)ethane  
+**SMILES:** C(C1OC2CC2C(C1)OCC(O)OCC1OC1)C1OC2CC2C(C1)OCC(O)OCC1OC1  
+
+**Monomer 2 (rich in imine - NC):**  
+**Structure:** N,N'-bis(2-aminobenzyl)ethanediamine  
+**SMILES:** NC(C1=CC=CC=C1)C(C1=CC=CC=C1)C(C1=CC=CC=C1)C1=CC=CC=C1
+
+These monomers are designed to achieve a Tg of 100°C and an Er of 40 MPa while fulfilling the functional group requirements.",epoxy(C1OC1),imine(NC),0.7,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C(C1OC2CC2C(C1)OCC(O)OCC1OC1)C1OC2CC2C(C1)OCC(O)OCC1OC1,NC(C1=CC=CC=C1)C(C1=CC=CC=C1)C(C1=CC=CC=C1)C1=CC=CC=C1
+12,C(C1=CC2=C(C=C1)C(=C(C=C2)C(C3=CC=CC=C3)O)C(C1=CC2=C(C=C1)C(=C(C=C2)C(C(=O)O)O)C)C)C,CC1=C(C(=C(C=C1)C=NC(=N)C)C(N)C(C=O)C)C(C=O)=C(N)C,"Here is a suitable monomer pair designed to meet your specifications for a thermoset polymer with the required functionalities, Tg, and Er values:
+
+**Monomer 1 (containing epoxy C1OC1):**  
+**Structure:** 2,2-bis(3,4-epoxycyclohexyl)propane  
+**SMILES:** C(C1=CC2=C(C=C1)C(=C(C=C2)C(C3=CC=CC=C3)O)C(C1=CC2=C(C=C1)C(=C(C=C2)C(C(=O)O)O)C)C)C  
+- Contains multiple epoxy groups to ensure sufficient crosslinking density.
+
+**Monomer 2 (containing imine NC):**  
+**Structure:** 2,6-bis(iminomethyl)-4-methylphenol  
+**SMILES:** CC1=C(C(=C(C=C1)C=NC(=N)C)C(N)C(C=O)C)C(C=O)=C(N)C  
+- Contains multiple imine groups to facilitate the formation of a robust network.
+
+This monomer pair is designed to achieve the desired Tg of 100°C and Er of 40 MPa while fulfilling the functional group requirements.",epoxy(C1OC1),imine(NC),0.7,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C(C1=CC2=C(C=C1)C(=C(C=C2)C(C3=CC=CC=C3)O)C(C1=CC2=C(C=C1)C(=C(C=C2)C(C(=O)O)O)C)C)C,CC1=C(C(=C(C=C1)C=NC(=N)C)C(N)C(C=O)C)C(C=O)=C(N)C
+13,C1CC(C2=C(C1)C(=C(C=C2)C(C)C)C(C)OCC1OC1)C1CC(C2=C(C1)C(=C(C=C2)C(C)C)C(C)OCC1OC1)C1,C1=CC(=CN=C1C=C(C2=C(C(C=C2)C)C)C(C)C)C(C)C,"Here is a proposed pair of monomers that meet your requirements for a thermoset polymer with epoxy (C1OC1) and imine (NC) functionalities:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+- Structure: 2,2-bis(3,4-epoxycyclohexyl)propane  
+- SMILES: C1CC(C2=C(C1)C(=C(C=C2)C(C)C)C(C)OCC1OC1)C1CC(C2=C(C1)C(=C(C=C2)C(C)C)C(C)OCC1OC1)C1
+
+**Monomer 2 (Imine - NC):**  
+- Structure: 1,2-bis(2-(aminomethyl)pyridin-1-yl)ethene  
+- SMILES: C1=CC(=CN=C1C=C(C2=C(C(C=C2)C)C)C(C)C)C(C)C
+
+This combination provides sufficient rigidity to achieve the desired Tg of 100°C and a crosslinking density that supports an elastic modulus (Er) of 40 MPa.",epoxy(C1OC1),imine(NC),0.7,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+14,C1=CC=C(C=C1C(CO)O)C(C2CO2)OCC1CO1,C1=CC(C(=N)C(C)N)C=C(C=C1)N(C)C(=N)C,"Here’s a suitable monomer pair designed to meet your requirements:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,4-bis(oxiran-2-ylmethoxy)benzene  
+SMILES: C1=CC=C(C=C1C(CO)O)C(C2CO2)OCC1CO1
+
+**Monomer 2 (Imine - NC):**  
+Structure: 2,5-bis(aminomethyl)furan  
+SMILES: C1=CC(C(=N)C(C)N)C=C(C=C1)N(C)C(=N)C
+
+This combination ensures that Monomer 1 has multiple epoxy groups and Monomer 2 has multiple imine groups, while also considering the desired Tg and Er values for the thermoset polymer.",epoxy(C1OC1),imine(NC),0.7,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C1=CC=C(C=C1C(CO)O)C(C2CO2)OCC1CO1,C1=CC(C(=N)C(C)N)C=C(C=C1)N(C)C(=N)C
+15,N(C(C1=CN=CN1)CC(C1=CN=CN1)CC)CC,C(C1OC(C(C)O)C(C)O)C(C1O)C(C1OC(C(C)O)C(C)O)C(C1O,"Here is a novel monomer pair designed to meet your specifications for a thermoset polymer with the required Tg and Er values:
+
+**Monomer 1 (C1OC1 - Epoxy groups)**:  
+Structure: 1,2-bis(2,3-epoxypropoxy)ethane  
+SMILES: C(C1OC(C(C)O)C(C)O)C(C1O)C(C1OC(C(C)O)C(C)O)C(C1O)  
+*This monomer contains two epoxy groups and contributes to the rigidity required for a Tg of 100°C.*
+
+**Monomer 2 (NC - Imine groups)**:  
+Structure: N,N-bis(2-(1H-imidazol-1-yl)ethyl)ethanediamine  
+SMILES: N(C(C1=CN=CN1)CC(C1=CN=CN1)CC)CC  
+*This monomer contains two imine groups which will aid in the crosslinking density needed for achieving an Er of 40 MPa.*
+
+These monomers are designed to achieve the desired properties effectively while adhering to the specified functional groups.",epoxy(C1OC1),imine(NC),0.7,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",N(C(C1=CN=CN1)CC(C1=CN=CN1)CC)CC,CC(O)C(OC1CC(C2CC(O)C2OC(C(C)O)C(C)O)C1O)C(C)O
+16,C(C1OCC1)C(C1OCC1)C(C1=CC=C(C=C1)C)C,N=C(C1=NC=CC=C1)N=C(C1=NC=CC=C1)N,"Here’s a structured response for a thermoset polymer with your specified properties and functional groups:
+
+**Monomer 1 (epoxy, C1OC1):**  
+Structure: 1,4-bis(2,3-epoxypropoxy)benzene  
+SMILES: C(C1OCC1)C(C1OCC1)C(C1=CC=C(C=C1)C)C
+
+**Monomer 2 (imine, NC):**  
+Structure: 2,5-bis(N-(2-pyridyl)imino)-1,3,4-thiadiazole  
+SMILES: N=C(C1=NC=CC=C1)N=C(C1=NC=CC=C1)N
+
+These monomers have been designed to achieve a Tg of approximately 100°C, with sufficient crosslinking density to obtain an elastic modulus (Er) of around 40 MPa. The functional groups are distributed to meet the specified requirements.",epoxy(C1OC1),imine(NC),0.9,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C(C1OCC1)C(C1OCC1)C(C1=CC=C(C=C1)C)C,N=C(C1=NC=CC=C1)N=C(C1=NC=CC=C1)N
+17,CC1(C(CO)C(C1)C2=CC=CC=C2)COC(C)CC(C)(C)C(CC(C)(C)C)OCC1C(C)(C)C(OCC1OCC1C(C)C)C,NCC(C)N(C(C)C)CC(C)NC(C(C)C)C(C)C=CC(C)(C)CC(C)(C)(C)C,"Here are the suggested monomers designed to meet the specified requirements:
+
+**Monomer 1 (rich in epoxy C1OC1):**  
+Structure:  **1,2-bis(2,3-epoxypropyl)benzene**  
+SMILES: **CC1(C(CO)C(C1)C2=CC=CC=C2)COC(C)CC(C)(C)C(CC(C)(C)C)OCC1C(C)(C)C(OCC1OCC1C(C)C)C**
+
+**Monomer 2 (rich in imine NC):**  
+Structure: **N,N'-bis(2-aminoethyl)terephthalamide**  
+SMILES: **NCC(C)N(C(C)C)CC(C)NC(C(C)C)C(C)C=CC(C)(C)CC(C)(C)(C)C**
+
+This monomer pair is structured to have greater functional group presence while also achieving the desired Tg and Er values through appropriate molecular rigidity and crosslinking density.",epoxy(C1OC1),imine(NC),0.9,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+18,C(C1=CC=C(C=C1C(C)C)C(C2COC(C)C2)C2COC(C)C2)C(C)=C(C(C)C)C(C)C,CCCCC(NC(C)C)C(=C(NC(C)C)C)C,"Here is a suitable monomer pair that meets the requirements for epoxy and imine functional groups, while also targeting the specified Tg and Er values:
+
+**Monomer 1 (Epoxy, C1OC1):**  
+Structure: 2,5-bis(2,3-epoxypropyl)-1,5-dimethylbenzene  
+**SMILES:** C(C1=CC=C(C=C1C(C)C)C(C2COC(C)C2)C2COC(C)C2)C(C)=C(C(C)C)C(C)C
+
+**Monomer 2 (Imine, NC):**  
+Structure: N,N’-bis(3-aminobutyl)ethylenediamine  
+**SMILES:** CCCCC(NC(C)C)C(=C(NC(C)C)C)C
+
+This combination is designed to provide the desired properties of Tg = 100°C and Er = 40 MPa while maintaining compliance with the specified functional group requirements.",epoxy(C1OC1),imine(NC),0.9,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C(C1=CC=C(C=C1C(C)C)C(C2COC(C)C2)C2COC(C)C2)C(C)=C(C(C)C)C(C)C,CCCCC(NC(C)C)C(=C(NC(C)C)C)C
+19,C(C1OC(C)C1)CC(C1OC(C)C1)C(C1OC(C)C1)OC(=O)C,CC(C)N=C(C(C)C)C(C(C)C)N,"Here’s a suitable pair of monomers designed to meet your specified requirements:
+
+**Monomer 1 (rich in epoxy C1OC1 groups):**  
+Structure: Bis(2,3-epoxypropyl) ether  
+SMILES: C(C1OC(C)C1)CC(C1OC(C)C1)C(C1OC(C)C1)OC(=O)C
+
+**Monomer 2 (rich in imine NC groups):**  
+Structure: N,N'-bis(2,4-dimethylphenyl)ethanediamine  
+SMILES: CC(C)N=C(C(C)C)C(C(C)C)N
+
+These monomers have been designed to provide a Tg of approximately 100°C and a Young’s modulus (Er) of around 40 MPa, while satisfying the functional group requirements.",epoxy(C1OC1),imine(NC),0.9,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",C(C1OC(C)C1)CC(C1OC(C)C1)C(C1OC(C)C1)OC(=O)C,CC(C)N=C(C(C)C)C(C(C)C)N
+20,C1C(C(C(C1)OCC(C)C)OC2=C(C(C(C(C2)O)C)OCC(O)C)C)OCC(C)C)C1,C1C(C2=C(C(C(C(C2)N)C(C)O)N)C(C)N)C1N)OCC(C)C,"Here are the designed monomers that meet the specified functional group requirements and target properties:
+
+**Monomer 1 (rich in epoxy C1OC1):**  
+Structure: A rigid structure with two epoxy groups to ensure high cross-linking density while maintaining flexibility for the desired Tg.  
+SMILES: `C1C(C(C(C1)OCC(C)C)OC2=C(C(C(C(C2)O)C)OCC(O)C)C)OCC(C)C)C1`
+
+**Monomer 2 (rich in imine NC):**  
+Structure: A flexible structure with two imine groups to complement the cross-linking functionality.  
+SMILES: `C1C(C2=C(C(C(C(C2)N)C(C)O)N)C(C)N)C1N)OCC(C)C`
+
+These monomers are designed with the necessary functional groups and structured to achieve the target Tg of 100°C and Er of 40 MPa through careful selection of rigidity and potential cross-linking capability.",epoxy(C1OC1),imine(NC),0.9,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+21,C1=CC=C(C=C1C(C2C(C(C(O2)C)O)O)O)C(C(C)C)C)C(C)C,C1=CC=C(C=C1C(C(C)C)C)C(C(C)C)C(=N)N(C(C)C)CC,"Here are the designed monomer pairs that satisfy the specified requirements:
+
+**Monomer 1 (containing ≥2 epoxy groups, C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1C(C2C(C(C(O2)C)O)O)O)C(C(C)C)C)C(C)C
+
+**Monomer 2 (containing ≥2 imine groups, NC):**  
+Structure: N,N'-bis(2-(2-aminophenyl)ethyl)ethylenediamine  
+SMILES: C1=CC=C(C=C1C(C(C)C)C)C(C(C)C)C(=N)N(C(C)C)CC
+
+These monomers have been selected to achieve the desired Tg of 100°C and Er of 40 MPa while fulfilling the requirement of containing the specified functional groups.",epoxy(C1OC1),imine(NC),1.0,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+22,C1(C(C(O1C(C(C)C)C(C)C)C)C)(C(C)C)C)C(O)C(C)C,NCC(C=NC(C)C)C(C)(C)N,"Here’s a tailored set of monomers meeting your specifications:
+
+**Monomer 1 (C1OC1 - Epoxy):**  
+Name: 1,1-bis(epoxy)cyclohexane  
+SMILES: C1(C(C(O1C(C(C)C)C(C)C)C)C)(C(C)C)C)C(O)C(C)C
+
+**Monomer 2 (NC - Imine):**  
+Name: N,N'-bis(2-aminoethyl)ethylenediamine  
+SMILES: NCC(C=NC(C)C)C(C)(C)N
+
+These monomers provide the required functional groups and have been designed to achieve the target Tg of 100°C and Er of 40 MPa through careful consideration of structural rigidity and crosslinking density.",epoxy(C1OC1),imine(NC),1.0,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+23,O1C=C(C2=C1C(=C)C2)C(C)C1OC1(C(O)C)C(=C)C,C1=C(C=CC=NCC)C2=C(N=C1)C=CN=C2,"Here’s a suggested monomer pair designed to meet your requirements for epoxy and imine functionalities, while achieving a Tg of 100°C and an Er of 40 MPa:
+
+**Monomer 1 (C1OC1 - Epoxy groups):**  
+Bicyclo[2.2.1]hept-2-ene-1,7-diol  (contains two epoxy groups while providing sufficient molecular rigidity)  
+**SMILES:** O1C=C(C2=C1C(=C)C2)C(C)C1OC1(C(O)C)C(=C)C
+
+**Monomer 2 (NC - Imine groups):**  
+Bis(2-pyridyl)ethylene-1,2-diamine (contains two imine groups, provides good crosslinking capability)  
+**SMILES:** C1=C(C=CC=NCC)C2=C(N=C1)C=CN=C2
+
+This combination maintains the necessary requirements for functional groups while targeting the specified property values.",epoxy(C1OC1),imine(NC),1.0,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",O1C=C(C2=C1C(=C)C2)C(C)C1OC1(C(O)C)C(=C)C,C1=C(C=CC=NCC)C2=C(N=C1)C=CN=C2
+24,C(C(C1OC2(C(C(C1OC2)O)N=C(O)C)O)O)O)C(C(C1OC2(C(C(C1OC2)O)N=C(O)C)O)O)O,CCCCC(C(=N)N=)CCCCC(C(=N)N=)CCCCC(C(=N)N=)CCCC,"Here are the designed monomers based on your specifications:
+
+**Monomer 1 (epoxy, C1OC1):**  
+- Structure: 2,2-bis(3-glycidyloxypropyl)propane  
+- SMILES: C(C(C1OC2(C(C(C1OC2)O)N=C(O)C)O)O)O)C(C(C1OC2(C(C(C1OC2)O)N=C(O)C)O)O)O
+
+**Monomer 2 (imine, NC):**  
+- Structure: N,N'-bis(3-aminopropyl)butane-1,4-diamine  
+- SMILES: CCCCC(C(=N)N=)CCCCC(C(=N)N=)CCCCC(C(=N)N=)CCCC
+
+This combination aims to achieve a Tg of approximately 100°C and an elastic modulus (Er) of around 40 MPa through the selection of appropriate structural rigidity and crosslinking potential.",epoxy(C1OC1),imine(NC),1.0,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",Not found,Not found
+25,CC(C)(C)C1=CC=CC2=C1C(=C(C)C2(C1CO1)OC(C)OCC)OCC1OC1,NC(CCCN=C(N)C(C)CCCCN)C(C)CC,"Here is a suitable pair of monomers based on your requirements for the thermoset polymer:
+
+**Monomer 1 (rich in epoxy C1OC1):**  
+- Structure: 4,4'-Diglycidyl-1,3,3-trimethyl-2-methylindole  
+- SMILES: CC(C)(C)C1=CC=CC2=C1C(=C(C)C2(C1CO1)OC(C)OCC)OCC1OC1
+
+**Monomer 2 (rich in imine NC):**  
+- Structure: N,N'-Bis(3-aminopropyl)ethylenediamine  
+- SMILES: NC(CCCN=C(N)C(C)CCCCN)C(C)CC
+
+This combination of monomers should achieve a thermoset polymer with a Tg of approximately 100°C and an Er of around 40 MPa through appropriate crosslinking and structural arrangement.",epoxy(C1OC1),imine(NC),1.0,100,40,"Create a thermoset polymer with Tg = 100°C, Er = 40 MPa, and monomers featuring epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",CC(C)(C)C1=CC=CC2=C1C(=C(C)C2(C1CO1)OC(C)OCC)OCC1OC1,NC(CCCN=C(N)C(C)CCCCN)C(C)CC
+26,C=C(C1=CC=C(C=C)C=C1)C=C,C(CS)C1=CC=C(CS)C=C1C(CS),"Here is a suggested monomer pair that meets your requirements for vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (rich in C=C):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C)C=C1)C=C
+
+**Monomer 2 (rich in CCS):**  
+Structure: 1,4-bis(thiol)benzene  
+SMILES: C(CS)C1=CC=C(CS)C=C1C(CS)
+
+This combination is designed to achieve a Tg of approximately 150°C and an Er of around 30 MPa, balancing the functional groups and molecular structure to meet the specified targets.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C1=CC=C(C=C)C=C1)C=C,C(CS)C1=CC=C(CS)C=C1C(CS)
+27,C=CC1=CC=C(C=C)C=C1C2=CC=C(C=C)C=C2,C1=CC=C(C=C1C(CS)C(CS)C)C(CS)C,"Here’s a suitable monomer pair designed to meet your requirements for vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (rich in C=C):**  
+**Structure:** 2,5-bis(2-vinylphenyl)thiophene  
+**SMILES:** C=CC1=CC=C(C=C)C=C1C2=CC=C(C=C)C=C2
+
+**Monomer 2 (rich in CCS):**  
+**Structure:** 1,4-bis(mercaptomethyl)benzene  
+**SMILES:** C1=CC=C(C=C1C(CS)C(CS)C)C(CS)C
+
+This combination is designed to achieve a Tg of approximately 150°C and an Er of around 30 MPa, balancing the functional groups and molecular rigidity.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=CC1=CC=C(C=C)C=C1C2=CC=C(C=C)C=C2,C1=CC=C(C=C1C(CS)C(CS)C)C(CS)C
+28,C=C(C1=CC=C(C=C1)C=C)C=C,C1=CC(C(CS)C(CS)=C1)C(CS)C(CS)=C1,"Here is a suitable monomer pair designed to meet your requirements for vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (rich in C=C groups):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C=C)C=C  
+
+**Monomer 2 (rich in CCS groups):**  
+Structure: 1,3-bis(mercaptomethyl)benzene  
+SMILES: C1=CC(C(CS)C(CS)=C1)C(CS)C(CS)=C1  
+
+This combination provides the necessary functional groups while targeting the desired Tg and Er values through appropriate molecular rigidity and crosslinking density.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,Not found,Not found
+29,C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C,C(CS)C(CS)C1=CC=CC=C1,"Here’s a suitable monomer pair designed to meet your requirements for vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,4-bis(2-vinylphenyl)butane  
+SMILES: C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C
+
+**Monomer 2 (CCS groups):**  
+Structure: 1,3-bis(mercaptomethyl)benzene  
+SMILES: C(CS)C(CS)C1=CC=CC=C1
+
+This combination provides the necessary functional groups while targeting a Tg of approximately 150°C and an Er of around 30 MPa, balancing crosslinking density and molecular rigidity effectively.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C,C(CS)C(CS)C1=CC=CC=C1
+30,CCS(=O)N(CCS)CCS(=O)N,C=C1CCCCC1=C(C=C)C,"Here’s a proposed monomer pair that meets the specified requirements for vinyl (C=C) and thiol (CCS) functionalities, along with the target Tg and Er values:
+
+**Monomer 1 (rich in C=C):**  
+Structure: 1,4-bis(vinyl)cyclohexane  
+SMILES: C=C1CCCCC1=C(C=C)C
+
+**Monomer 2 (rich in CCS):**  
+Structure: 2,2'-dithiobis(ethylamine)  
+SMILES: CCS(=O)N(CCS)CCS(=O)N
+
+This combination provides a balance of functional groups while targeting the desired thermal and mechanical properties for a shape memory polymer.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,CCS(=O)N(CCS)CCS(=O)N,C=C1CCCCC1=C(C=C)C
+31,C=CC(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)C)C=C,C(CS)C(CS)C1=CC=C(C=C1)C(CS)C(CS),"Here is a suitable monomer pair designed to meet your requirements for a shape memory polymer:
+
+**Monomer 1 (vinyl C=C groups):**  
+Structure: 1,3-bis(4-vinylphenyl)propane  
+SMILES: C=CC(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)C)C=C
+
+**Monomer 2 (thiol CCS groups):**  
+Structure: 1,3-bis(mercaptomethyl)benzene  
+SMILES: C(CS)C(CS)C1=CC=C(C=C1)C(CS)C(CS)
+
+This combination aims to achieve a Tg of approximately 150°C and an Er of around 30 MPa by balancing the rigidity and crosslinking density appropriately.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=CC(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)C)C=C,C(CS)C(CS)C1=CC=C(C=C1)C(CS)C(CS)
+32,C=C(C(C=C)C)C1CCCCC1,C1(CCS)CC(CCS)CC1,"Here’s a suitable monomer pair designed to meet the specified functional groups and property targets:
+
+**Monomer 1 (vinyl C=C groups):**  
+**Structure:** 1,1-bis(vinyl)cyclohexane  
+**SMILES:** C=C(C(C=C)C)C1CCCCC1
+
+**Monomer 2 (thio functional CCS groups):**  
+**Structure:** 1,4-bis(mercapto)cyclohexane  
+**SMILES:** C1(CCS)CC(CCS)CC1
+
+These monomers contain the required functional groups while balancing the necessary molecular rigidity and crosslinking density to achieve the target Tg and Er values.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C(C=C)C)C1CCCCC1,C1(CCS)CC(CCS)CC1
+33,C=C(C1=CC=C(C=C1)C=C)C=C,CCS(C(CS)C)CS,"Here is a monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (rich in C=C groups):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C=C)C=C
+
+**Monomer 2 (rich in CCS groups):**  
+Structure: 2,2-bis(thiol)propane  
+SMILES: CCS(C(CS)C)CS
+
+This combination provides the necessary functional groups while targeting the desired Tg and Er values through the selection of molecular rigidity and crosslinking density.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C1=CC=C(C=C1)C=C)C=C,CCS(C(CS)C)CS
+34,C=CC1=CC=CC=C1C(C(C)C)C(C=C)(C)C,C(C(C)C)C(CCS)C(C(C)C)C(CCS)C,"Here’s a suitable monomer pair designed to meet your requirements for vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (rich in C=C groups):**  
+**Structure:** 1,4-bis(2-vinylphenyl)butane  
+**SMILES:** C=CC1=CC=CC=C1C(C(C)C)C(C=C)(C)C
+
+**Monomer 2 (rich in CCS groups):**  
+**Structure:** 1,2-bis(mercaptomethyl)cyclohexane  
+**SMILES:** C(C(C)C)C(CCS)C(C(C)C)C(CCS)C
+
+This combination provides the desired properties while ensuring the appropriate functional groups are present in sufficient quantities.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=CC1=CC=CC=C1C(C(C)C)C(C=C)(C)C,C(C(C)C)C(CCS)C(C(C)C)C(CCS)C
+35,C=C(C)C1=CC=C(C=C1)C2=CC(=C(C2=C)C=C(C)C)C=C(C)C,C(CS)C1=CC=C(C=C1)C(CS)C,"Here’s a suitable monomer pair designed to meet your requirements for vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C groups):**  
+- Structure: 2,5-bis(2-vinyl-4-methylphenyl)furan  
+- SMILES: C=C(C)C1=CC=C(C=C1)C2=CC(=C(C2=C)C=C(C)C)C=C(C)C
+
+**Monomer 2 (CCS groups):**  
+- Structure: 1,3-bis(mercaptomethyl)benzene  
+- SMILES: C(CS)C1=CC=C(C=C1)C(CS)C
+
+These monomers have been designed to provide the required functional groups while also targeting the desired Tg and Er values through appropriate structural rigidity and crosslinking density.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C)C1=CC=C(C=C1)C2=CC(=C(C2=C)C=C(C)C)C=C(C)C,C(CS)C1=CC=C(C=C1)C(CS)C
+36,C=C(C1=CC=CC=C1)SCC(C1=CC=CC=C1)S=C(C)C,C(C(CS)C(CS)C)C1COC1,"Here is a proposed monomer pair that meets the specified requirements for Tg and Er with the desired functional groups:
+
+**Monomer 1 (rich in C=C groups):**  
+Structure: 1,1-bis[(2-vinylphenyl)thio]ethane  
+SMILES: C=C(C1=CC=CC=C1)SCC(C1=CC=CC=C1)S=C(C)C
+
+**Monomer 2 (rich in CCS groups):**  
+Structure: 3,3-bis(mercaptomethyl)oxetane  
+SMILES: C(C(CS)C(CS)C)C1COC1
+
+This combination ensures both functional groups are included adequately while targeting the desired thermal and mechanical properties for shape memory applications.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C1=CC=CC=C1)SCC(C1=CC=CC=C1)S=C(C)C,C(C(CS)C(CS)C)C1COC1
+37,C1CC(C=C)CC,CCCC(S)C(S)CCC,"Here is a monomer pair designed to meet your specifications for a shape memory polymer with vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,4-bis(vinyl)cyclohexane  
+SMILES: C=C1CC(C=C)CC1
+
+**Monomer 2 (CCS groups):**  
+Structure: 1,4-bis(mercaptobutane)  
+SMILES: CCCC(S)C(S)CCC
+
+This combination provides the necessary functional groups while aiming for the desired thermal and mechanical properties.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,CCC(CC)CC,CCCC(S)C(S)CCC
+38,C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C,C(C1=CC=C(=S)C=C1)C(C1=CC=C(=S)C=C1)C,"Here is a monomer pair designed to meet your requirements for a shape memory polymer with vinyl and thiol functionalities:
+
+**Monomer 1 (rich in C=C)**:  
+Structure: 1,3-bis(2-vinylphenyl)propane  
+SMILES: C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C  
+
+**Monomer 2 (rich in CCS)**:  
+Structure: 1,3-bis(2-thiolphenyl)propane  
+SMILES: C(C1=CC=C(S)C=C1)C(C1=CC=C(S)C=C1)C  
+
+These monomers are designed to achieve the target Tg of approximately 150°C and Er of approximately 30 MPa, while containing the required functional groups.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C,CC(CC1CCC(S)CC1)C1CCC(S)CC1
+39,C=CC1=CC=C(C=C)C=C(C=C)C1CCCCC,CCCCC(CCS)C1=CC=C(C=C)C=C1CCS,"Here is a pair of novel monomers designed to meet your requirements for a shape memory polymer with vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (rich in C=C)**:  
+Structure: 1,4-bis(2-vinylphenyl)butane  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C1CCCCC  
+
+**Monomer 2 (rich in CCS)**:  
+Structure: 1,3-benzenedithiol with additional alkyl chain  
+SMILES: CCCCC(CCS)C1=CC=C(C=C)C=C1CCS  
+
+This combination aims to achieve a Tg close to 150°C and an elasticity modulus (Er) around 30 MPa, balancing the functional group requirements while maintaining the desired properties.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=CC1=CC=C(C=C)C=C(C=C)C1CCCCC,CCCCC(CCS)C1=CC=C(C=C)C=C1CCS
+40,C=C(C)C(=O)C(C)C(C(=O)O)C=C(C),C(CS)C(CS)C(CS)C(CS)C(CS),"Here is a proposed pair of monomers designed to meet your requirements for a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa, incorporating vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (rich in C=C):**  
+Structure: A vinyl-based monomer with a rigid backbone to achieve the desired Tg.  
+SMILES: C=C(C)C(=O)C(C)C(C(=O)O)C=C(C)C  
+
+**Monomer 2 (rich in CCS):**  
+Structure: A thiol-based monomer that also provides flexibility to balance the overall properties.  
+SMILES: C(CS)C(CS)C(CS)C(CS)C(CS)  
+
+This combination should provide the necessary functional groups while also targeting the desired thermal and mechanical properties.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C)C(=O)C(C)C(C(=O)O)C=C(C),C(CS)C(CS)C(CS)C(CS)C(CS)
+41,C=C(C)C(C)(C)C(=O)OCC(C)=C(C)C,CCS(C(=O)N(C)CCSC(C)S)C(=O)N(C)CCS,"Here's a monomer pair designed to meet the specified requirements for vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (rich in C=C groups):**  
+- Structure: Vinyl-based monomer with sufficient rigidity to achieve the target Tg.  
+- SMILES: C=C(C)C(C)(C)C(=O)OCC(C)=C(C)C
+
+**Monomer 2 (rich in CCS groups):**  
+- Structure: Thiol-based monomer designed to provide the desired mechanical properties and crosslinking density.  
+- SMILES: CCS(C(=O)N(C)CCSC(C)S)C(=O)N(C)CCS
+
+This pair is designed to achieve a Tg of approximately 150°C and an Er of around 30 MPa, balancing the functionalities with appropriate molecular rigidity and crosslinking potential.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C)C(C)(C)C(=O)OCC(C)=C(C)C,CCS(C(=O)N(C)CCSC(C)S)C(=O)N(C)CCS
+42,C=C(C)C(=C)Cc(cc1)CC(C)C(C=CC=C)CC(C)C,C(C(C(C)(C)C)S)C(C)C(C)(C)CS,"Here is a proposed monomer pair that satisfies your requirements for vinyl (C=C) and thiol (CCS) functionalities while targeting a Tg of approximately 150°C and an Er of approximately 30 MPa:
+
+**Monomer 1 (vinyl C=C groups):**  
+- Structure: 3,3-bis(allyl)phenol  
+- SMILES: C=C(C)C(=C)Cc(cc1)CC(C)C(C=CC=C)CC(C)C
+
+**Monomer 2 (thiol CCS groups):**  
+- Structure: 1,2-bis(mercaptomethyl)cyclohexane  
+- SMILES: C(C(C(C)(C)C)S)C(C)C(C)(C)CS
+
+This design utilizes the specified functionalities and balances molecular rigidity and crosslinking density to achieve the desired thermal and mechanical properties in the resulting shape memory polymer.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,Not found,Not found
+43,C=C(C)C(C)(C)C(=O)CC(=C)C(C)(C)C,CCS(CCS)(CCS)C(CS)OCCO,"Here is a pair of novel monomers designed to meet your specified requirements while ensuring the correct functional groups are included:
+
+**Monomer 1 (vinyl C=C groups):**  
+- Structure: A rigid vinyl-containing structure to provide adequate Tg.   
+- SMILES: C=C(C)C(C)(C)C(=O)CC(=C)C(C)(C)C
+
+**Monomer 2 (thio functional CCS groups):**  
+- Structure: A flexible thiol-containing structure that allows for some mobility to achieve the desired Er while ensuring multiple thiol functionalities.  
+- SMILES: CCS(CCS)(CCS)C(CS)OCCO
+
+These monomers collectively aim to achieve a Tg of approximately 150°C and an Er of around 30 MPa by providing rigidity from the vinyl groups of Monomer 1 and flexibility from the thiol groups of Monomer 2.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C)C(C)(C)C(=O)CC(=C)C(C)(C)C,CCS(CCS)(CCS)C(CS)OCCO
+44,C=C(C)C1=CC=C(C=C)C=C1C2(C(C)C)OCCOCC(O)C2,CCS(C(CS)C(CS)(C)C)CC(CS)C,"Here’s a monomer pair designed to meet the specified functional groups and property targets:
+
+**Monomer 1 (rich in vinyl C=C groups):**  
+Structure: 1,4-bis(2-vinylphenyl)-2,5-dimethyl-1,3-dioxane  
+SMILES: C=C(C)C1=CC=C(C=C)C=C1C2(C(C)C)OCCOCC(O)C2
+
+**Monomer 2 (rich in thiol CCS groups):**  
+Structure: 2,2-bis(thiol-ethyl)propane-1,3-diol  
+SMILES: CCS(C(CS)C(CS)(C)C)CC(CS)C
+
+This combination of monomers will help achieve the desired Tg and Er values while satisfying the functional group requirements.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C)C1=CC=C(C=C)C=C1C2(C(C)C)OCCOCC(O)C2,CCS(C(CS)C(CS)(C)C)CC(CS)C
+45,C=C(C(C)C)C(=O)OCC(C(C)C)C(=C)C, CCS(C(C)C)CC(=O)S(C(C)C)CCS,"Here’s a proposed monomer pair with the specified functionalities and target properties:
+
+**Monomer 1 (C=C groups)**: 
+- Structure: Vinyl-based monomer with rigidity to achieve the desired Tg.
+- SMILES: C=C(C(C)C)C(=O)OCC(C(C)C)C(=C)C
+
+**Monomer 2 (CCS groups)**: 
+- Structure: Thiol-based monomer designed to enhance crosslinking.
+- SMILES: CCS(C(C)C)CC(=O)S(C(C)C)CCS
+
+This combination aims to provide the necessary crosslinking density while achieving the desired glass transition temperature and elastic modulus.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C(C)C)C(=O)OCC(C(C)C)C(=C)C,CCS(C(C)C)CC(=O)S(C(C)C)CCS
+46,C=CC(=O)OCC(C)CCCC(CC)C(=C)C,CC(C)CSCC(C)(C)SSCC(C)(C)C,"Here's a structured response with the monomer pair that satisfies your request:
+
+**Monomer 1 (rich in C=C groups):**  
+- Structure: A rigid vinyl monomer with ester linkages for improved Tg.  
+- SMILES: C=CC(=O)OCC(C)CCCC(CC)C(=C)C  
+
+**Monomer 2 (rich in CCS groups):**  
+- Structure: A flexible thiol monomer strategically incorporating carbon chains for lower stiffness, balancing the overall polymer properties.  
+- SMILES: CC(C)CSCC(C)(C)SSCC(C)(C)C  
+
+This pair aims for a Tg around 150°C and Er around 30 MPa, balancing functional group requirements and mechanical properties.",vinyl(C=C),thiol(CCS),1.0,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=CC(=O)OCC(C)CCCC(CC)C(=C)C,CC(C)CSCC(C)(C)SSCC(C)(C)C
+47,CC(C)(C)c1ccc(C=C)c(C)cc1OC,CC(CCS)CC(CCS)S,"Here is a suitable monomer pair designed to meet the specified requirements for a shape memory polymer with the desired functionalities and properties:
+
+**Monomer 1 (rich in vinyl C=C groups):**  
+Structure:  
+4-vinyl-2,6-dimethylphenol, which can provide flexibility alongside the necessary vinyl groups.  
+
+**SMILES:**  
+CC(C)(C)c1ccc(C=C)c(C)cc1OC
+
+**Monomer 2 (rich in thiol CCS groups):**  
+Structure:  
+2,2'-thiodiethanol, which provides two thiol functionalities, allowing for effective crosslinking.  
+
+**SMILES:**  
+CC(CCS)CC(CCS)S
+
+This combination aims to provide a balance of rigidity and flexibility to achieve the target Tg of approximately 150°C while enabling an effective crosslink network to obtain the desired Er of approximately 30 MPa.",vinyl(C=C),thiol(CCS),1.0,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,Not found,Not found
+48,CC(=C(C)C1=CC=C(C=C1)C)CC(=C(C)C1=CC=C(C=C1)C),CC(CS)C(S)C(CS)C(S)C(C)C,"Here’s a suitable monomer pair tailored to your specifications for Tg and Er with the required functionalities:
+
+**Monomer 1 (rich in C=C groups):**  
+Structure: 1,1-Bis(4-vinylphenyl)ethylene  
+SMILES: CC(=C(C)C1=CC=C(C=C1)C)CC(=C(C)C1=CC=C(C=C1)C)
+
+**Monomer 2 (rich in CCS groups):**  
+Structure: 2,2-bis(thiolyl)propane  
+SMILES: CC(CS)C(S)C(CS)C(S)C(C)C
+
+This pair provides the necessary vinyl and thiol functionalities while aiming for the desired thermal and mechanical properties in the final shape memory polymer.",vinyl(C=C),thiol(CCS),1.0,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,CC(=C(C)C1=CC=C(C=C1)C)CC(=C(C)C1=CC=C(C=C1)C),CC(CS)C(S)C(CS)C(S)C(C)C
+49,C=C(C)C(C(=O)C(C)(C)O)C(C)(C)C=C,CCS(C(C)(C)C(S)C(C)(C)C(S)C(C)(C)C)CC,"Here are the proposed monomers that satisfy your requirements for functional groups, Tg, and Er:
+
+**Monomer 1 (C=C groups)**:  
+**Structure**: A vinyl-based monomer with enhanced rigidity.  
+**SMILES**: C=C(C)C(C(=O)C(C)(C)O)C(C)(C)C=C  
+This structure provides a healthy crosslink density due to the two vinyl groups and offers considerable rigidity, contributing to the target Tg.
+
+**Monomer 2 (CCS groups)**:  
+**Structure**: A thiol-based monomer designed to introduce flexibility and maintain the required crosslinking capability.  
+**SMILES**: CCS(C(C)(C)C(S)C(C)(C)C(S)C(C)(C)C)CC  
+This monomer provides two thiol functionalities which enhance crosslinking density while maintaining desired mechanical properties.
+
+Together, these monomers form a network capable of achieving the desired properties in the thermoset shape memory polymer.",vinyl(C=C),thiol(CCS),1.0,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,C=C(C)C(C(=O)C(C)(C)O)C(C)(C)C=C,CCS(C(C)(C)C(S)C(C)(C)C(S)C(C)(C)C)CC
+50,CC(CCCCC(=C)C)C(=O)OCC(C)C(=C(C)C)C(=O)O,CC(C)(C)(CCS)C(CC(C)(C)S)C(CC(C)(C)S)=C(C(C)(C)C)C1=O,"Here are the monomers I designed to meet your requirements for a shape memory polymer with vinyl (C=C) and thiol (CCS) groups:
+
+**Monomer 1 (rich in C=C):**  
+A vinyl-based monomer designed for rigidity:  
+**Structure:** 3-(2-((2-((2-vinyl-4-methyl-phenyl)thio)methyl)-1,3-dioxolan-2-yl)methyl)-5-methyl-furan-2-yl)acrylic acid  
+**SMILES:** `CC(CCCCC(=C)C)C(=O)OCC(C)C(=C(C)C)C(=O)O`
+
+**Monomer 2 (rich in CCS):**  
+A thiol-based monomer designed to facilitate crosslinking:  
+**Structure:** 2,2-bis((2-thioethyl-1,3-dioxolan-4-yl)methyl)propane-1,3-diol  
+**SMILES:** `CC(C)(C)(CCS)C(CC(C)(C)S)C(CC(C)(C)S)=C(C(C)(C)C)C=O`
+
+These monomers balance the required functional groups while aiming for the desired Tg and Er values.",vinyl(C=C),thiol(CCS),1.0,150,30,Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.,Not found,Not found
+51,C=CC1=CC=C(C=C)C=C(C=C)C=C1C=C,C=CC1=CC=C(C=C)C=C(C=C)C1CC=C,"Here’s a novel monomer pair designed to meet your requirements for vinyl functionalities, Tg, and Er:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 1,4-bis(2-vinylphenyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C=C1C=C
+
+**Monomer 2 (vinyl C=C):**  
+Structure: 1,3-bis(4-vinylphenyl)propane  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C1CC=C
+
+These monomers are designed to provide the necessary rigidity and crosslinking density to achieve a Tg of 200°C and an Er of 27 MPa.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=C(C=C)C=C(C=C)C=C1C=C,C=CC1=CC=C(C=C)C=C(C=C)C1CC=C
+52,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C,,"Here’s a monomer pair designed to meet the specified requirements for vinyl (C=C) functionalities, Tg of 200°C, and Er of 27 MPa:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,4-bis(2-vinylphenyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C
+
+**Monomer 2 (C=C groups):**  
+Structure: 1,4-bis(3-vinylphenyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C
+
+This pair incorporates two instances of the vinyl group in each monomer and is designed to achieve the desired Tg and Er values through their rigid aromatic structures.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",Not found,Not found
+53,C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C,C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C(C)C,"Here’s a monomer pair designed to meet your requirements for vinyl (C=C) functionalities, Tg of 200°C, and Er of 27 MPa:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,1-bis(4-vinylphenyl)ethane  
+SMILES: C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C
+
+**Monomer 2 (C=C groups):**  
+Structure: 1,4-bis(4-vinylphenyl)butane  
+SMILES: C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C(C)C
+
+This pair contains two instances of the vinyl group in each monomer, while also being designed to achieve the desired Tg and Er values through their structural rigidity and crosslinking potential.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C,C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C(C)C
+54,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C)C=C,C=C(C1=CC=C(C=C1)C2CCCCC2)C=C,"To achieve a thermoset shape memory polymer (TSMP) with the specified properties (Tg = 200°C and Er = 27 MPa) using two monomers that both contain vinyl (C=C) functional groups, here is a proposed pair:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,4-bis(4-vinylphenyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C)C=C
+
+**Monomer 2 (C=C groups):**  
+Structure: 1,4-bis(4-vinylphenyl)cyclohexane  
+SMILES: C=C(C1=CC=C(C=C1)C2CCCCC2)C=C
+
+### Explanation:
+- **Monomer 1** and **Monomer 2** both contain two instances of the vinyl group (C=C), fulfilling the requirement for the functional groups.
+- The structures are designed to provide sufficient rigidity to achieve a high Tg while maintaining a moderate crosslinking density to reach the desired Er value. The presence of aromatic rings contributes to the rigidity needed for the high Tg.
+- The overall structure is balanced to meet both the functional group requirements and the target properties. 
+
+Feel free to ask for further modifications or additional monomer pairs!",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C)C=C,C=C(C1=CC=C(C=C1)C2CCCCC2)C=C
+55,C=CC1=CC=C(C=C)C=C(C=C)C=C1C(C)=C(C)C,,"Here’s a pair of novel monomers designed to meet your requirements for vinyl (C=C) functionalities, with the specified Tg and Er values:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,4-bis(3-vinylphenyl)-2,5-dimethylbenzene  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C=C1C(C)=C(C)C
+
+**Monomer 2 (C=C groups):**  
+Structure: 1,3-bis(4-vinylphenyl)propane  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C1C(C)=C(C)C
+
+These monomers provide the required dual vinyl functionalities while being designed to achieve the desired thermal and mechanical properties.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",Not found,Not found
+56,C=CC1=CC=C(C=C)C=C(C=C)C=C1C(C)=C,C=CC1=C(C=C(C)C=C)C=C(C)C=C1C(C)=C,"Here are two novel monomers designed to meet the specified requirements for a thermoset shape memory polymer (TSMP) with both functional groups being vinyl (C=C):
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,4-bis(2-ethenyl-4-methylphenyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C=C1C(C)=C
+
+**Monomer 2 (C=C groups):**  
+Structure: 1,4-bis(2-ethenyl-3,5-dimethylphenyl)benzene  
+SMILES: C=CC1=C(C=C(C)C=C)C=C(C)C=C1C(C)=C
+
+These monomers are designed to provide sufficient rigidity and crosslinking density to achieve the desired Tg of 200°C and Er of 27 MPa while incorporating the required vinyl functional groups.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=C(C=C)C=C(C=C)C=C1C(C)=C,C=CC1=C(C=C(C)C=C)C=C(C)C=C1C(C)=C
+57,C=CC1=CC=C(C=C)C=C(C=C)C=C1,C=CC1=CC=C(C=C)C=C(C=C)C2=CC=CC=C2C(C=C)C1,"Here’s a pair of novel monomers designed to meet your requirements for vinyl (C=C) functionalities, with the specified Tg and Er values:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 1,4-bis(3-vinylphenyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C=C1  
+
+**Monomer 2 (vinyl C=C):**  
+Structure: 4,4'-bis(vinylphenyl)diphenylmethane  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C2=CC=CC=C2C(C=C)C1  
+
+These monomers are designed to provide the necessary molecular rigidity to achieve a high Tg of 200°C while maintaining a lower crosslinking density to meet the Er target of 27 MPa.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=C(C=C)C=C(C=C)C=C1,C=CC1=CC=C(C=C)C=C(C=C)C2=CC=CC=C2C(C=C)C1
+58,C=CC1=CC=CC=C1C(C=C)C1=CC=CC=C1,C=CC1=CC=C(C=C)C=C1C1=CC=C(C=C)C=C1,"Here is a novel monomer pair designed to meet your specifications for a thermoset shape memory polymer (TSMP) with both vinyl (C=C) functionalities:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,2-bis(3-vinylphenyl)ethane  
+SMILES: C=CC1=CC=CC=C1C(C=C)C1=CC=CC=C1
+
+**Monomer 2 (C=C groups):**  
+Structure: 4,4'-bis(vinylphenyl)cyclohexane  
+SMILES: C=CC1=CC=C(C=C)C=C1C1=CC=C(C=C)C=C1
+
+This combination is designed to achieve a high Tg of 200°C and a lower Er of 27 MPa through strategic placement of the vinyl groups to enhance crosslinking while maintaining flexibility in the overall structure.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=CC=C1C(C=C)C1=CC=CC=C1,C=CC1=CC=C(C=C)C=C1C1=CC=C(C=C)C=C1
+59,C=CC1=CC=CC=C1C(=O)C(C=C)C(=O)C1=CC=CC=C1C=C,C=CC(=O)C1(C=CC(=O)C1)C=CC(=O)C1(C=CC(=O)C1),"Here’s a novel pair of monomers designed to meet your requirements for vinyl (C=C) functionality:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,4-bis(3-vinylphenyl)-1,4-butanedione  
+SMILES: C=CC1=CC=CC=C1C(=O)C(C=C)C(=O)C1=CC=CC=C1C=C  
+
+**Monomer 2 (C=C groups):**  
+Structure: 2,5-bis(vinyl)cyclopentanedione  
+SMILES: C=CC(=O)C1(C=CC(=O)C1)C=CC(=O)C1(C=CC(=O)C1)  
+
+These monomers are designed to provide the necessary crosslinking density and molecular rigidity to achieve the target Tg of 200°C and Er of 27 MPa.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=CC=C1C(=O)C(C=C)C(=O)C1=CC=CC=C1C=C,C=CC(=O)C1(C=CC(=O)C1)C=CC(=O)C1(C=CC(=O)C1)
+60,C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C,C=C(C1=CC=C(C=C1)C=C)C=C,"Here is a monomer pair designed with the specified functionalities:
+
+**Monomer 1 (C=C groups):**  
+Structure: 1,1-bis(4-vinylphenyl)ethane  
+SMILES: C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C
+
+**Monomer 2 (C=C groups):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C=C)C=C
+
+These monomers are designed to provide the necessary rigidity and crosslinking density to achieve the target Tg of 200°C and Er of 27 MPa.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C1)C(C=C)C2=CC=C(C=C2)C)C,C=C(C1=CC=C(C=C1)C=C)C=C
+61,C=C(C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)C(=O)O)C=C,C=C(C(=O)O)C1=C(C(=O)O)C=C(C=C1)C=C,"Here’s a suitable monomer pair designed to meet your criteria:
+
+**Monomer 1 (C=C groups):**  
+Structure: 4,4'-bis(vinyl)benzophenone  
+SMILES: C=C(C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)C(=O)O)C=C  
+
+**Monomer 2 (C=C groups):**  
+Structure: 1,3-bis(vinyl)cyclohexane-1,3-dicarboxylic acid  
+SMILES: C=C(C(=O)O)C1=C(C(=O)O)C=C(C=C1)C=C  
+
+These monomers should provide the necessary rigidity for a Tg of 200°C while allowing for a crosslinking density suitable to achieve an Er of 27 MPa.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)C(=O)O)C=C,C=C(C(=O)O)C1=C(C(=O)O)C=C(C=C1)C=C
+62,C=C(C1=CC=C(C=C1)C(C)C(C)(C)C)C=C,C=C(C=CC1=CC=C(C=C1)C(=O)O)C(C)C,"To create a thermoset shape memory polymer (TSMP) with the specified properties and functionalities, here is a suitable monomer pair:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 3,3-bis(4-vinylphenyl)hexane  
+SMILES: C=C(C1=CC=C(C=C1)C(C)C(C)(C)C)C=C
+
+**Monomer 2 (vinyl C=C):**  
+Structure: 4-vinylbenzyl acrylate  
+SMILES: C=C(C=CC1=CC=C(C=C1)C(=O)O)C(C)C
+
+This combination aims to provide the necessary crosslinking density and rigidity to achieve the target Tg of 200°C and the desired Er of 27 MPa.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C1)C(C)C(C)(C)C)C=C,C=C(C=CC1=CC=C(C=C1)C(=O)O)C(C)C
+63,C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C,C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C,"To create a thermoset shape memory polymer (TSMP) with the specified Tg and Er values using only vinyl (C=C) functional groups, here’s a suitable monomer pair:
+
+**Monomer 1 (vinyl functional groups):**  
+**Structure:** 1,1-bis(4-vinylphenyl)ethane  
+**SMILES:** C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C
+
+**Monomer 2 (vinyl functional groups):**  
+**Structure:** 1,2-bis(4-vinylphenyl)ethane  
+**SMILES:** C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C
+
+These monomers provide the required functionalities while allowing for the desired rigidity and crosslinking density to achieve the target properties of Tg = 200°C and Er = 27 MPa.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C,C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C
+64,C=CC1=CC=NN1C(=C)C2=NN=C(S2)C(=C)C,C=CC1=CC=NN1C(=C)C2=CC=NN2C(C)(C),"Here is a pair of novel monomers designed to meet your specifications for vinyl (C=C) functionalities:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 2,5-bis(1-vinyl-1H-pyrazol-4-yl)-1,3,4-thiadiazole  
+SMILES: C=CC1=CC=NN1C(=C)C2=NN=C(S2)C(=C)C
+
+**Monomer 2 (vinyl C=C):**  
+Structure: 1,2-bis(1-vinyl-1H-pyrazol-4-yl)ethane  
+SMILES: C=CC1=CC=NN1C(=C)C2=CC=NN2C(C)(C)
+
+This combination of monomers balances the required Tg and Er values while satisfying the functional group requirements.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=NN1C(=C)C2=NN=C(S2)C(=C)C,C=CC1=CC=NN1C(=C)C2=CC=NN2C(C)(C)
+65,C=CC(C1=CC=CC=C1)(C=CC2=CC=CC=C2)C=CC,C=CC(C1=CC=C(C=C)C=C1)(C2=CC=C(C=C)C=C2)C=CC,"Here is a monomer pair designed with two instances of the vinyl (C=C) functional group and targeting the specified Tg and Er values:
+
+**Monomer 1 (C=C groups):**  
+**Structure:** 1,4-Bis(3-phenyl-2-propenyl)benzene  
+**SMILES:** C=CC(C1=CC=CC=C1)(C=CC2=CC=CC=C2)C=CC
+
+**Monomer 2 (C=C groups):**  
+**Structure:** 1,4-Bis(4-vinylphenyl)benzene  
+**SMILES:** C=CC(C1=CC=C(C=C)C=C1)(C2=CC=C(C=C)C=C2)C=CC
+
+This pair contains two instances of the vinyl functionality in each monomer while being designed to achieve the desired thermal and mechanical properties.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC(C1=CC=CC=C1)(C=CC2=CC=CC=C2)C=CC,C=CC(C1=CC=C(C=C)C=C1)(C2=CC=C(C=C)C=C2)C=CC
+66,C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C,C=C(C1=CC(=C(C=C)C=C1)C2=CC(=C(C=C)C=C2)C),"Here is a novel monomer pair designed to meet the specified requirements with functional groups vinyl (C=C):
+
+**Monomer 1 (vinyl C=C):**  
+- Structure: 1,1-bis(4-vinylphenyl)ethane  
+- SMILES: C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C
+
+**Monomer 2 (vinyl C=C):**  
+- Structure: 2,2-bis(3-vinylphenyl)propane  
+- SMILES: C=C(C1=CC(=C(C=C)C=C1)C2=CC(=C(C=C)C=C2)C)C
+
+This combination is designed to achieve the desired Tg of 200°C and Er of 27 MPa through enhanced rigidity and sufficient crosslinking density.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C)C=C1)C(C1=CC=C(C=C)C=C1)C,C=C(C1=CC(=C(C=C)C=C1)C2=CC(=C(C=C)C=C2)C)
+67,C=CC1=C(C(=O)C(=CC1=O)C)C=C(C)C,C=CC(=O)C=C(C(=O)C)C=C,"Here is a monomer pair that fulfills the requirements for vinyl functional groups while targeting a high Tg of 200°C and a moderate Er of 27 MPa:
+
+**Monomer 1 (vinyl with C=C groups):**  
+Structure: 4-vinyl-1,3-cyclohexanedione  
+SMILES: C=CC1=C(C(=O)C(=CC1=O)C)C=C(C)C
+
+**Monomer 2 (vinyl with C=C groups):**  
+Structure: 1,6-hexadiene-2,5-dione  
+SMILES: C=CC(=O)C=C(C(=O)C)C=C
+
+These monomers contain two instances of the vinyl (C=C) functional group each, and their structures promote sufficient rigidity to achieve the targeted Tg and allow for the desired crosslinking density for Er.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=C(C(=O)C(=CC1=O)C)C=C(C)C,C=CC(=O)C=C(C(=O)C)C=C
+68,C=C1C(=C)C(CC(=O)O)C(=C)C1C(=O)O,C=C(c1ccc(C=C)(c1)C)C(c2ccc(C=C)(c2)C)C,"Here’s a monomer pair including two instances of the vinyl (C=C) functionality while targeting the specified thermal and mechanical properties:
+
+**Monomer 1 (vinyl C=C):**
+- Structure: 4-vinylcyclohexene-1,2-dicarboxylic anhydride
+- SMILES: C=C1C(=C)C(CC(=O)O)C(=C)C1C(=O)O
+
+**Monomer 2 (vinyl C=C):**
+- Structure: 1,2-bis(4-vinylphenyl)ethane
+- SMILES: C=C(c1ccc(C=C)(c1)C)C(c2ccc(C=C)(c2)C)C
+
+This combination of monomers aims for a high Tg through molecular rigidity while maintaining the specified Er by optimizing crosslinking density.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C1C(=C)C(CC(=O)O)C(=C)C1C(=O)O,C=C(c1ccc(C=C)(c1)C)C(c2ccc(C=C)(c2)C)C
+69,C=CC1=CC=C(C=C)C=C(C=C)C=C1,C=CC(C(C)(C)O)C1=CC=C(C=C)C=C(C=C)C=C1,"Here’s a proposed monomer pair with the required functionalities:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 1,3-bis(4-vinylphenyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C=C1  
+
+**Monomer 2 (vinyl C=C):**  
+Structure: 1,3-bis(4-vinylphenyl)propane-1,3-diol  
+SMILES: C=CC(C(C)(C)O)C1=CC=C(C=C)C=C(C=C)C=C1  
+
+These monomers are designed to achieve the desired Tg and Er values while having multiple vinyl functionalities.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=C(C=C)C=C(C=C)C=C1,C=CC(C(C)(C)O)C1=CC=C(C=C)C=C(C=C)C=C1
+70,CCCC(=C)C(C=C)c1ccc(cc1)C(=C)c2ccc(cc2)C(=C)CC,O=C(C=C)c1ccc(cc1)C(=C)c2ccc(cc2)C(=C)C(=O)OC(C=C)c3cccc(c3)C(=C),"To achieve the desired Tg of 200°C and Er of 27 MPa with the specified functional groups (both being vinyl, C=C), the following monomer pair is proposed:
+
+**Monomer 1 (vinyl functional groups)**:  
+Structure: 1,1-bis(4-vinylphenyl)ethane  
+SMILES: CCCC(=C)C(C=C)c1ccc(cc1)C(=C)c2ccc(cc2)C(=C)CC
+
+**Monomer 2 (vinyl functional groups)**:  
+Structure: 3,3-bis(4-vinylphenyl)phthalate  
+SMILES: O=C(C=C)c1ccc(cc1)C(=C)c2ccc(cc2)C(=C)C(=O)OC(C=C)c3cccc(c3)C(=C)
+
+This monomer pair contains multiple instances of vinyl groups and is structured to enhance rigidity, contributing to the targeted Tg while maintaining a balance for the desired Er value through crosslinking density optimization.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",CCCC(=C)C(C=C)c1ccc(cc1)C(=C)c2ccc(cc2)C(=C)CC,O=C(C=C)c1ccc(cc1)C(=C)c2ccc(cc2)C(=C)C(=O)OC(C=C)c3cccc(c3)C(=C)
+71,C=C(C1=CC=CC=C1)C(C)C(C1=CC=CC=C1)C=,C=C(C1=CC=CC=C1)C(C)C(C1=CC=CC=C1)C=C,"Here’s a pair of novel monomers designed to meet the specified requirements:
+
+**Monomer 1 (vinyl C=C):**  
+**Structure:** 1,3-bis(2-vinylphenyl)propane  
+**SMILES:** C=C(C1=CC=CC=C1)C(C)C(C1=CC=CC=C1)C=C
+
+**Monomer 2 (vinyl C=C):**  
+**Structure:** 1,4-bis(2-vinylphenyl)butane  
+**SMILES:** C=C(C1=CC=CC=C1)C(C)C(C1=CC=CC=C1)C=C 
+
+Both monomers contain multiple vinyl (C=C) functionalities while being structurally rigid enough to achieve the desired Tg, and their design allows for moderate crosslinking density to reach the target Er.",vinyl(C=C),vinyl(C=C),1.0,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",CC(C1CCCCC1)C(C)C(C)C1CCCCC1,C=C(C1=CC=CC=C1)C(C)C(C1=CC=CC=C1)C=C
+72,C=C(C1=CC=C(C=C1)C(=O)O)C2=CC(=C(C=C2)C1=CC=C(C=C1)OCC)C(C)C(C=C),C=C(C1=CC=C(C=C1)OC(=O)C(=C)C(C(C)OCC))C(=O)C2=CC(=C(C=C2)O)OC(C)C,"To create a thermoset shape memory polymer (TSMP) with the desired properties, I will structure two monomers that both contain vinyl (C=C) functionalities and achieve the target Tg and Er values:
+
+**Monomer 1 (C=C groups):**  
+- Structure: 4-((2-hydroxyethyl)vinyl)phenol  
+- SMILES: C=C(C1=CC=C(C=C1)C(=O)O)C2=CC(=C(C=C2)C1=CC=C(C=C1)OCC)C(C)C(C=C)
+
+**Monomer 2 (C=C groups):**  
+- Structure: 3,4-dimethoxy-1-vinylbenzene  
+- SMILES: C=C(C1=CC=C(C=C1)OC(=O)C(=C)C(C(C)OCC))C(=O)C2=CC(=C(C=C2)O)OC(C)C
+
+These monomers will provide sufficient rigidity and crosslinking potential through their vinyl functionalities, aligning with the set Tg and Er targets.",vinyl(C=C),vinyl(C=C),1.0,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=C(C1=CC=C(C=C1)C(=O)O)C2=CC(=C(C=C2)C1=CC=C(C=C1)OCC)C(C)C(C=C),C=C(C1=CC=C(C=C1)OC(=O)C(=C)C(C(C)OCC))C(=O)C2=CC(=C(C=C2)O)OC(C)C
+73,CC(=O)C(C=Cc1ccccc1)C(=O)C(C=Cc1ccccc1),C=C(Cc1nnc(=N)c(=N)c1=C=C)C=C,"Here is a suitable monomer pair with the specified functionalities:
+
+**Monomer 1 (vinyl C=C):**
+- Structure: 1,4-bis(2-vinylphenyl)-1,4-butanedione
+- SMILES: CC(=O)C(C=Cc1ccccc1)C(=O)C(C=Cc1ccccc1)
+
+**Monomer 2 (vinyl C=C):**
+- Structure: 3,6-bis(vinyl)-1,2,4,5-tetrazine
+- SMILES: C=C(Cc1nnc(=N)c(=N)c1=C=C)C=C
+
+These monomers are designed to achieve a high Tg (200°C) through their rigid structures while balancing the crosslinking density to obtain the desired modulus (Er = 27 MPa) for the thermoset shape memory polymer.",vinyl(C=C),vinyl(C=C),1.0,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",CC(=O)C(C=Cc1ccccc1)C(=O)C(C=Cc1ccccc1),CCc1c(CC(C)CC)nnc(N)c1N
+74,C=CC1=CC=C(C=C)C=C(C=C)C2=CC=CC=C2C1CCC(C)C,C=CC1=CC=C(C=C)C2(C=CC=C(C=C)C1)C(C2)C=CC=C,"Here are the monomers designed to fit the specified requirements for a thermoset shape memory polymer with high Tg and lower Er:
+
+**Monomer 1 (vinyl functionality):**  
+Structure: 1,3-bis(4-vinylphenyl)hexane  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C2=CC=CC=C2C1CCC(C)C  
+
+**Monomer 2 (vinyl functionality):**  
+Structure: 4,4'-bis(vinylphenyl)cyclohexane  
+SMILES: C=CC1=CC=C(C=C)C2(C=CC=C(C=C)C1)C(C2)C=CC=C
+
+These two monomers will contribute to achieving the desired thermoset shape memory properties with a Tg of approximately 200°C and a modulus of elasticity (Er) of around 27 MPa.",vinyl(C=C),vinyl(C=C),1.0,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",C=CC1=CC=C(C=C)C=C(C=C)C2=CC=CC=C2C1CCC(C)C,C=CC1=CC=C(C=C)C2(C=CC=C(C=C)C1)C(C2)C=CC=C
+75,{C}C(=C)C(C)(C)C(=C)C\\text{(CN)C}C(C)(C)C,CC(=C)C(C)(C)C(=C)C(CN)C(C)(C)C,"To achieve the desired Tg and Er values while ensuring that both monomers are rich in vinyl (C=C) functional groups, I present the following monomer pair:
+
+**Monomer 1 (C=C groups):**  \[ \text{C}C(=C)C(C)(C)C(=C)C\text{(CN)C}C(C)(C)C \]  
+**SMILES:** `CC(=C)C(C)(C)C(=C)C(CN)C(C)(C)C`
+
+**Monomer 2 (C=C groups):**  \[ \text{C}C(=C)C(C)(C)C(=C)C(CO)C(C)(C)C \]  
+**SMILES:** `CC(=C)C(C)(C)C(=C)C(CO)C(C)(C)C`
+
+**Rationale:**
+- Both monomers contain substantial vinyl (C=C) groups that will allow for sufficient crosslinking to achieve the targeted properties.
+- The inclusion of bulky side groups raises the Tg values, contributing to the flexibility needed to achieve an Er around 27 MPa while integrating sufficient vinyl functionalities. 
+
+This design follows your specifications and maintains the required structure for targeted properties.",vinyl(C=C),vinyl(C=C),1.0,200,27,"Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",Not found,Not found
+76,C(C(C(=O)OCC=C)OCC=C)C(C(=O)OCC=C)OCC=C,C=CC1=CC=C(C=C)C=C1C=CC,"Here is a monomer pair designed to meet your requirements for Tg and Er, while incorporating the specified functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: 2,2-bis(3-acryloyloxypropyl)propane  
+SMILES: C(C(C(=O)OCC=C)OCC=C)C(C(=O)OCC=C)OCC=C
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C1C=CC
+
+This combination is designed to achieve a Tg of approximately 100°C and an Er of around 100 MPa through optimized crosslinking density and molecular rigidity.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C(C(C(=O)OCC=C)OCC=C)C(C(=O)OCC=C)OCC=C,C=CC1=CC=C(C=C)C=C1C=CC
+77, C=CC1CC(C=C)CC1C=C,C(C(=O)OCCO)C(=C)C(=O)O,"Here is a monomer pair designed to meet your requirements for Tg = 100°C and Er = 100 MPa, incorporating acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: 2-hydroxyethyl 2-(acryloyloxy)propanoate  
+SMILES: C(C(=O)OCCO)C(=C)C(=O)O
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: 1,2-bis(vinyl)cyclohexane  
+SMILES: C=CC1CC(C=C)CC1C=C
+
+This combination provides the necessary functional groups while balancing the molecular structure to achieve the desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC1CC(C=C)CC1C=C,C(C(=O)OCCO)C(=C)C(=O)O
+78,C=C(C(=O)OCCOC(=O)C=C)C(=O)OCCOC(=O)C=C,C=C(C1=CC=C(C=C1)C=C)C=C,"Here’s a monomer pair designed to meet your requirements for Tg = 100°C and Er = 100 MPa, incorporating acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: 2-(acryloyloxy)ethyl 2-(acryloyloxy)ethyl carbonate  
+SMILES: C=C(C(=O)OCCOC(=O)C=C)C(=O)OCCOC(=O)C=C
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C=C)C=C
+
+This combination of monomers provides the necessary functionalities while targeting the desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=C(C(=O)OCCOC(=O)C=C)C(=O)OCCOC(=O)C=C,C=C(C1=CC=C(C=C1)C=C)C=C
+79,C=CC(=O)OCCOCC(=O)C1=CC=C(C=C1)C(=O)OCC=C, C=CC1=CC=C(C=C1)C=CC=C,"Here’s a suitable monomer pair designed to meet your requirements for Tg and Er while incorporating the specified functionalities:
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 2-(Acryloyloxy)ethyl 4-(acryloyloxy)benzoate  
+SMILES: C=CC(=O)OCCOCC(=O)C1=CC=C(C=C1)C(=O)OCC=C
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=CC1=CC=C(C=C1)C=CC=C
+
+This combination provides the necessary functionalities while targeting the desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(=O)OCCOCC(=O)C1=CC=C(C=C1)C(=O)OCC=C,C=CC1=CC=C(C=C1)C=CC=C
+80,C(C(C(=O)OCC=C)OCC=C)C(C(=O)OCC=C)C,C=CC1=CC=C(C=C)C=C1C=CC,"Here’s a monomer pair designed to meet the specified requirements for Tg and Er, while incorporating both acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: 2,2-bis(3-acryloxy-2-hydroxypropyl)propane  
+SMILES: C(C(C(=O)OCC=C)OCC=C)C(C(=O)OCC=C)C
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C1C=CC
+
+This combination provides the necessary functional groups and is designed to achieve the desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C(C(C(=O)OCC=C)OCC=C)C(C(=O)OCC=C)C,C=CC1=CC=C(C=C)C=C1C=CC
+81,CC(=O)C(=C)C(=O)OCCOCC(C=O)C(=C)C(=O)C,C=CC1=CC=C(C=C)C=C1C=CC,"Here is a monomer pair designed to meet the specified requirements for acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 2-Hydroxyethyl 2-acrylamido-3-phenylpropanoate  
+SMILES: CC(=O)C(=C)C(=O)OCCOCC(C=O)C(=C)C(=O)C
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,4-Bis(vinyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C1C=CC
+
+This combination aims to achieve the desired Tg of 100°C and an Er of 100 MPa, balancing the functional groups and molecular rigidity for enhanced crosslinking density.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",CC(=O)C(=C)C(=O)OCCOCC(C=O)C(=C)C(=O)C,C=CC1=CC=C(C=C)C=C1C=CC
+82,C=CC(=O)OCC(C1=CC=CC=C1)C(=O)OCC(C1=CC=CC=C1)C=,C=CC1=CC=C(C=C1)C=CC2=CC=C(C=C2)C=C,"Here’s a monomer pair designed to meet your requirements for acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: 2,2-bis(4-acryloyloxyphenyl)propane (BAAP)  
+SMILES: C=CC(=O)OCC(C1=CC=CC=C1)C(=O)OCC(C1=CC=CC=C1)C=C  
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: 1,4-bis(vinyl)benzene (BVB)  
+SMILES: C=CC1=CC=C(C=C1)C=CC2=CC=C(C=C2)C=C  
+
+This combination of monomers is designed to achieve a Tg of approximately 100°C and an Er of around 100 MPa by ensuring adequate rigidity and crosslinking density.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",CCC(O)OCC(C1CCCCC1)C(O)OCC(C)C1CCCCC1,C=CC1=CC=C(C=C1)C=CC2=CC=C(C=C2)C=C
+83,C=CC(=O)OCC(C=C)C(=O)OCC(C=C)C(=O)O,C=C(C)C(C=C(C)C)C(C=C(C)C)C(C=C(C)C)C,"Here’s a suitable monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (Acrylate functionality - C=C(C=O)):**  
+SMILES: C=CC(=O)OCC(C=C)C(=O)OCC(C=C)C(=O)O  
+Description: This monomer contains two acrylate groups, providing the necessary reactivity for crosslinking while contributing to the desired Tg and Er values.
+
+**Monomer 2 (Vinyl functionality - C=C):**  
+SMILES: C=C(C)C(C=C(C)C)C(C=C(C)C)C(C=C(C)C)C  
+Description: This monomer features multiple vinyl groups that enhance the crosslinking density, aiding in achieving the target Er value while also contributing to the overall rigidity for the Tg requirement.
+
+This combination should effectively create a thermoset shape memory polymer system with the desired properties.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(=O)OCC(C=C)C(=O)OCC(C=C)C(=O)O,C=C(C)C(C=C(C)C)C(C=C(C)C)C(C=C(C)C)C
+84,C=C(C(=O)OCC(C(=O)O)C=C)C(C)C,C=C(C1=CC=C(C=C1)C=C)C=,"Here’s a suitable monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: 2,2-Bis(acryloyloxy)propane  
+SMILES: C=C(C(=O)OCC(C(=O)O)C=C)C(C)C
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: 1,4-Bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C=C)C=C
+
+These monomers are designed to achieve the target Tg of 100°C and an elastic modulus (Er) of 100 MPa through optimized crosslinking density and structural rigidity.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=C(C(=O)OCC(C(=O)O)C=C)C(C)C,CCC1CCC(C(C)C)CC1
+85,C=CC(=O)C(C1=CC=C(C=C1)O)C(C1=CC=C(C=C1)O)C=CC(=O),C=CC(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C,"Here is a monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (Acrylate functionality, C=C(C=O)):**
+- Structure: 
+  - Acryloyl-1,3-bis(4-hydroxyphenyl)propane
+- SMILES: 
+  - C=CC(=O)C(C1=CC=C(C=C1)O)C(C1=CC=C(C=C1)O)C=CC(=O)
+
+**Monomer 2 (Vinyl functionality, C=C):**
+- Structure: 
+  - 1,4-bis(2-vinylphenyl)butane
+- SMILES: 
+  - C=CC(C1=CC=CC=C1)C(C1=CC=CC=C1)C=CC
+
+This combination ensures that both monomers have the required functionalities while targeting the desired Tg and Er values through appropriate molecular rigidity and crosslinking density.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(=O)C(C1=CC=C(C=C1)O)C(C1=CC=C(C=C1)O)C=CC(=O),C=CC(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C
+86,CC(=C(C=O)O)C1=CC=C(C=C1)C(C(=O)O)C,C=CC1=CC=C(C=C1)C=CC,"Here is a proposed monomer pair that meets your requirements for acrylate and vinyl functionalities, along with the targeted Tg and Er values:
+
+**Monomer 1 (Acrylate, C=C(C=O))**:  
+Structure: 4-(Acryloyloxy)-2-methylphenol  
+SMILES: `CC(=C(C=O)O)C1=CC=C(C=C1)C(C(=O)O)C`
+
+**Monomer 2 (Vinyl, C=C)**:  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: `C=CC1=CC=C(C=C1)C=CC`
+
+This monomer pair is designed to achieve a Tg of approximately 100°C and an Er of about 100 MPa, while ensuring the required functionalities are present.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",CC(=C(C=O)O)C1=CC=C(C=C1)C(C(=O)O)C,C=CC1=CC=C(C=C1)C=CC
+87, C=C(C(=O)O)C(C)(C)C(=O)NCC(C)C,C=C(C)C1CC(C=C)CC1C(C)C=C,"Here’s a suitable monomer pair designed to meet your requirements:
+
+**Monomer 1 (Acrylate functionality):**  
+Structure: 2-(Acrylamido)-2-methylpropanoic acid  
+SMILES: C=C(C(=O)O)C(C)(C)C(=O)NCC(C)C
+
+**Monomer 2 (Vinyl functionality):**  
+Structure: 1,2-bis(vinyl)cyclohexane  
+SMILES: C=C(C)C1CC(C=C)CC1C(C)C=C
+
+This pair is designed to achieve a Tg of approximately 100°C and an Er of about 100 MPa while fulfilling the requirements for acrylate and vinyl functionalities.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=C(C(=O)O)C(C)(C)C(=O)NCC(C)C,C=C(C)C1CC(C=C)CC1C(C)C=C
+88,C=C(C(=O)OCC(C)(C)C)C(C)(C)C,C=CC1CC(C=C)CC1C=C,"Here’s a suitable monomer pair designed to meet the specified Tg and Er requirements:
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 3-(Acryloyloxy)-1,2,2-trimethylcyclopropan-1-ol  
+SMILES: C=C(C(=O)OCC(C)(C)C)C(C)(C)C
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,2-Bis(vinyl)cyclohexane  
+SMILES: C=CC1CC(C=C)CC1C=C
+
+This combination balances the acrylate and vinyl functionalities while targeting the desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=C(C(=O)OCC(C)(C)C)C(C)(C)C,C=CC1CC(C=C)CC1C=C
+89,C=CC(=O)OCC(C)(C)C(=O)OCC(C)(C)C=CC(=O)O,C=C(C)(C)C=C(C)(C)C,"Here’s a monomer pair designed to achieve the specified Tg and Er values while incorporating acrylate and vinyl functionalities.
+
+**Monomer 1 (Acrylate - C=C(C=O)):**
+- Structure: 2-Acrylamido-2-methylpropane-1,3-diol diacrylate
+- SMILES: C=CC(=O)OCC(C)(C)C(=O)OCC(C)(C)C=CC(=O)O
+
+**Monomer 2 (Vinyl - C=C):**
+- Structure: 1,3-butadiene-1,3-diol
+- SMILES: C=C(C)(C)C=C(C)(C)C
+
+This combination should provide the right balance of functionalities and properties to meet the target requirements.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(=O)OCC(C)(C)C(=O)OCC(C)(C)C=CC(=O)O,CC(C)(C)CC(C)(C)C
+90,C=C(C(=O)O)C(C)(C)C(=O)OCC(C)(C)C,C=C(C(C)C=C)C(C)C(C)C=C,"Here is a suitable monomer pair designed to meet your specifications of Tg = 100°C and Er = 100 MPa, while including acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+**Structure:** 2-Acrylamido-2-methylpropane-1,3-diol diacrylate  
+**SMILES:** C=C(C(=O)O)C(C)(C)C(=O)OCC(C)(C)C
+
+**Monomer 2 (Vinyl, C=C):**  
+**Structure:** 1,2-Bis(vinyl)cyclohexane  
+**SMILES:** C=C(C(C)C=C)C(C)C(C)C=C
+
+These monomers should provide the required functional groups along with the necessary thermal and mechanical properties for the TSMP system.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=C(C(=O)O)C(C)(C)C(=O)OCC(C)(C)C,C=C(C(C)C=C)C(C)C(C)C=C
+91,CC(=C(C=O)C(=O)O)C(CC(=C)C(=O)O)C ,C=CC(C)C(C=C)C(C)CC=C,"Here is a suitable monomer pair designed to fulfill the specified requirements:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+SMILES: CC(=C(C=O)C(=O)O)C(CC(=C)C(=O)O)C  
+- This monomer contains two acrylate functionalities and is designed with enough molecular rigidity to achieve the target Tg.
+
+**Monomer 2 (Vinyl, C=C):**  
+SMILES: C=CC(C)C(C=C)C(C)CC=C  
+- This monomer has two vinyl functionalities and is structured to promote crosslinking density, targeting the desired Er value.
+
+Together, these monomers should provide a thermoset shape memory polymer with the desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",CC(=C(C=O)C(=O)O)C(CC(=C)C(=O)O)C,C=CC(C)C(C=C)C(C)CC=C
+92,C=C(C(=O)O)C(C)(C)C(C)(O)O,C=C(C1=CC=C(C=C1)C=C)C=C,"Here’s a monomer pair designed to meet your specified requirements for Tg and Er, incorporating acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: 2-Acrylamido-2-methylpropane-1,2-diol acrylate  
+SMILES: C=C(C(=O)O)C(C)(C)C(C)(O)O
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: 1,4-Bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C1)C=C)C=C
+
+This combination ensures both acrylate and vinyl functionalities while targeting the desired properties, with appropriate molecular rigidity and crosslinking density.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=C(C(=O)O)C(C)(C)C(C)(O)O,C=C(C1=CC=C(C=C1)C=C)C=C
+93,C=CC(=O)C(C=C(C=O)C)C(C)C,C=CC(C)(C)C=CC(C)C,"Here is the suggested monomer pair that meets the specified functional groups and property targets:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+- Structure: A robust acrylate with rigid backbone to achieve the target Tg and Er.  
+- SMILES: C=CC(=O)C(C=C(C=O)C)C(C)C
+
+**Monomer 2 (Vinyl, C=C):**  
+- Structure: A vinyl monomer designed with additional crosslinking potential to reach the desired Er.  
+- SMILES: C=CC(C)(C)C=CC(C)C
+
+This combination includes two instances of each functional group while considering the molecular rigidity and crosslinking density required to achieve the desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(=O)C(C=C(C=O)C)C(C)C,C=CC(C)(C)C=CC(C)C
+94, C=CC(=O)OCC(C=CC(=O)O)C(C=CC(=O)O),C=CC(C)C(C=CC(C)C)C(C=CC(C)C)(C=CC(C)C),"Here's a suitable monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (acrylate, C=C(C=O)):**  
+SMILES: C=CC(=O)OCC(C=CC(=O)O)C(C=CC(=O)O)C  
+This monomer contains three acrylate groups and is designed to provide rigidity while ensuring a moderate Tg.
+
+**Monomer 2 (vinyl, C=C):**  
+SMILES: C=CC(C)C(C=CC(C)C)C(C=CC(C)C)(C=CC(C)C)  
+This monomer contains multiple vinyl groups, enhancing crosslinking density while keeping the structure reasonably flexible.
+
+This combination of monomers targets the desired properties of Tg = 100°C and Er = 100 MPa, while satisfying the functional group requirements.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(=O)OCC(C=CC(=O)O)C(C=CC(=O)O),C=CC(C)C(C=CC(C)C)C(C=CC(C)C)(C=CC(C)C)
+95,C=CC(=O)OCC(C=C)C(C=C)C(=O)OCC , C=CC(C)C(C=C)C(C=C)C(C=C)C,"Here is a suggested monomer pair that satisfies your requirements for acrylate and vinyl functionalities, along with the specified Tg and Er values:
+
+**Monomer 1 (acrylate, C=C(C=O)):**  
+SMILES: C=CC(=O)OCC(C=C)C(C=C)C(=O)OCC  
+This monomer contains 2 instances of the acrylate functional group, providing adequate rigidity while enabling higher crosslinking for the desired properties.
+
+**Monomer 2 (vinyl, C=C):**  
+SMILES: C=CC(C)C(C=C)C(C=C)C(C=C)C  
+This monomer has 3 instances of the vinyl functional group and contributes additional flexibility and crosslinking sites.
+
+Together, these monomers are designed to yield a thermoset shape memory polymer with the target properties of Tg = 100°C and Er = 100 MPa.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(=O)OCC(C=C)C(C=C)C(=O)OCC,C=CC(C)C(C=C)C(C=C)C(C=C)C
+96,C=CC(C(=O)O)C(C(=O)O)C=CC,C=C(C)C=C(C)C(C)C,"Here’s a suitable monomer pair that meets your requirements for Tg = 100°C and Er = 100 MPa, while incorporating acrylate and vinyl functionalities:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+**Structure:** C=CC(C(=O)O)C(C(=O)O)C=CC  
+**SMILES:** C=CC(C(=O)O)C(C(=O)O)C=CC
+
+**Monomer 2 (Vinyl, C=C):**  
+**Structure:** C=C(C)C=C(C)C(C)C  
+**SMILES:** C=C(C)C=C(C)C(C)C
+
+This combination uses a rigid and functionalized structure to achieve both the desired glass transition temperature and the required elastic modulus through increased crosslinking density.",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=CC(C(=O)O)C(C(=O)O)C=CC,C=C(C)C=C(C)C(C)C
+97,CC(=O)C(=C)C(=O)OCC(C(=C)C(=O))C(=C)C(=O),C=CC(C=CC)C=C(C=CC)C,"Here is a suggested monomer pair that incorporates the required acrylate and vinyl functionalities, tailored to meet the specified Tg and Er values:
+
+**Monomer 1 (acrylate functionality, with ≥2 instances of C=C(C=O)):**  
+**Structure:** A unique acrylate monomer with two acrylate groups that enhances rigidity.  
+**SMILES:** `CC(=O)C(=C)C(=O)OCC(C(=C)C(=O))C(=C)C(=O)`
+
+**Monomer 2 (vinyl functionality, with ≥2 instances of C=C):**  
+**Structure:** A vinyl monomer that contributes to crosslinking density.  
+**SMILES:** `C=CC(C=CC)C=C(C=CC)C`
+
+This pair combines the acrylate and vinyl functionalities, promotes a higher Tg through structural rigidity, and achieves the desired Er value through effective crosslinking.",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",CC(=O)C(=C)C(=O)OCC(C(=C)C(=O))C(=C)C(=O),C=CC(C=CC)C=C(C=CC)C
+98,C=C(C=O)C(=O)OC(CC)C(=C(C=O))C(=O)O,C=C(C(C)C)C(C(C)C)C(C(C)C)C(C(C)C)C,"Here's a valid monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (rich in acrylate - C=C(C=O)):**  
+SMILES: `C=C(C=O)C(=O)OC(CC)C(=C(C=O))C(=O)O`
+
+**Monomer 2 (rich in vinyl - C=C):**  
+SMILES: `C=C(C(C)C)C(C(C)C)C(C(C)C)C(C(C)C)C`
+
+This combination ensures both monomers contain the required number of functional groups while targeting the desired Tg and Young's modulus (Er). The structural designs facilitate increased crosslinking density contributing to the required properties.",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C=C(C=O)C(=O)OC(CC)C(=C(C=O))C(=O)O,C=C(C(C)C)C(C(C)C)C(C(C)C)C(C(C)C)C
+99,C(=O)C(C=C(C=O))C(C(=O)O)C(CC(=O)O)C(C)=C(C(=O)O)C,C=C(C)(C)C(=C(C)C=C(C)C)CC(=C(C(C)C)C=C),"Here is a suitable monomer pair that incorporates the specified functionalities and meets your desired Tg and Er values:
+
+**Monomer 1 (Acrylate C=C(C=O)):**  
+Name: 3-(Acrylate further-substituted)  
+SMILES: CC(=O)C(C=C(C=O))C(C(=O)O)C(CC(=O)O)C(C)=C(C(=O)O)C
+
+**Monomer 2 (Vinyl C=C):**  
+Name: 2,6-Divinyl-substituted compound  
+SMILES: C=C(C)(C)C(=C(C)C=C(C)C)CC(=C(C(C)C)C=C)
+
+This monomer pair is designed to achieve a Tg of 100°C through sufficient rigidity and an Er of 100 MPa via optimized crosslinking density.",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",C(=O)C(C=C(C=O))C(C(=O)O)C(CC(=O)O)C(C)=C(C(=O)O)C,CCC(CCC(C(C)CC(C)C)C(C)(C)C)C(C)C
+100,CC(=C(C=O)C(=C)C(=O)OC1=CC=CC=C1)C(=C)C(=O)O,,"Here’s a configuration for the desired TSMP system with specified Tg, Er, and functional groups:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+- Structure: 4-(Acryloyloxy)phenyl acrylate  
+- SMILES: `CC(=C(C=O)C(=C)C(=O)OC1=CC=CC=C1)C(=C)C(=O)O`  
+
+**Monomer 2 (Vinyl, C=C):**  
+- Structure: 1,6-hexadiene  
+- SMILES: `C=CCCC=C`  
+
+This design features the specified functionalities and is structured to meet the target properties of Tg = 100°C and Er = 100 MPa by ensuring adequate molecular rigidity and optimizing crosslinking density through the arrangement of functionalities in the molecular framework.",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities.",Not found,Not found
+101,C=C(C)C(C(C)C)C(=O)OCC(C)C(C=C)C,O=C(C(C)C)C(C(C)C)(O)C(=O)C(C)C,"Here is a suitable monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (rich in vinyl C=C):**  
+SMILES: C=C(C)C(C(C)C)C(=O)OCC(C)C(C=C)C
+
+**Monomer 2 (rich in hydroxyl =O):**  
+SMILES: O=C(C(C)C)C(C(C)C)(O)C(=O)C(C)C
+
+This combination provides the necessary functionalities while targeting the desired Tg and Er values.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C)C(C(C)C)C(=O)OCC(C)C(C=C)C,O=C(C(C)C)C(C(C)C)(O)C(=O)C(C)C
+102,C=C(C1CCCCC1)(C=C)C(C(=O)O)C(C(=O)O),C(C(=O)O)(C(C(=O)O)C(C)O)C(C)O,"Here’s a monomer pair designed to meet your requirements for Tg = 50°C and Er = 20 MPa, incorporating vinyl (C=C) and hydroxyl (=O) functionalities:
+
+**Monomer 1 (rich in C=C):**  
+**Structure:** 1,4-bis(vinyl)cyclohexane-1,4-diol  
+**SMILES:** C=C(C1CCCCC1)(C=C)C(C(=O)O)C(C(=O)O)  
+
+**Monomer 2 (rich in =O):**  
+**Structure:** 2,3-bis(hydroxymethyl)butanedioic acid  
+**SMILES:** C(C(=O)O)(C(C(=O)O)C(C)O)C(C)O  
+
+This combination provides the necessary functional groups while targeting the desired thermal and mechanical properties.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",CCC(C)(C1CCCCC1)C(CC(O)O)C(O)O,C(C(=O)O)(C(C(=O)O)C(C)O)C(C)O
+103,C=CC(C)C(=O)OCC(C)C(=C)C(=O)O,C(C(=O)O)C(C(=O)O)C=CC(C(=O)O)C(C(=O)O),"Here is a suitable monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (rich in C=C functionalities):**  
+Structure: Vinyl-terminated oligomer with hydroxyl groups.  
+SMILES: C=CC(C)C(=O)OCC(C)C(=C)C(=O)O
+
+**Monomer 2 (rich in =O functionalities):**  
+Structure: Hydroxyl-functionalized compound with vinyl groups.  
+SMILES: C(C(=O)O)C(C(=O)O)C=CC(C(=O)O)C(C(=O)O)
+
+This combination provides the necessary functionalities while targeting the desired Tg and Er values.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=CC(C)C(=O)OCC(C)C(=C)C(=O)O,C(C(=O)O)C(C(=O)O)C=CC(C(=O)O)C(C(=O)O)
+104,C=C(C)C1=CC=C(C=C)C=C1C(C)=C(C)C,C1(C(=O)O)C(=O)C(C1=O)C(C(C)C)C(C)C,"Here is a suitable monomer pair designed to meet the specified requirements for vinyl (C=C) and hydroxyl (=O) functionalities:
+
+**Monomer 1 (rich in C=C):**  
+Structure: 2,5-bis(2-vinyl-4-methylphenyl)-1,3,4-oxadiazole  
+SMILES: C=C(C)C1=CC=C(C=C)C=C1C(C)=C(C)C
+
+**Monomer 2 (rich in =O):**  
+Structure: 2,4-bis(4-hydroxyphenyl)-1,3-dioxane-5,6-dione  
+SMILES: C1(C(=O)O)C(=O)C(C1=O)C(C(C)C)C(C)C
+
+This combination is designed to achieve a Tg of approximately 50°C and an Er of around 20 MPa, while ensuring the required functionalities are present in sufficient quantities.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C)C1=CC=C(C=C)C=C1C(C)=C(C)C,C1(C(=O)O)C(=O)C(C1=O)C(C(C)C)C(C)C
+105,C=C(C)C=CC=C(C=C)C(C1)C(C)C(=O)OCCO,O=C(C(C(C(C(=O)O)O)C)C)C(=O)O,"Here’s a suitable monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 2,5-bis(2-vinyl-4-methylphenyl)-1,3-dioxane  
+SMILES: C=C(C)C1=CC=C(C=C)C(C1)C(C)C(=O)OCCO
+
+**Monomer 2 (hydroxyl =O):**  
+Structure: 2,3-bis(hydroxymethyl)pentanedioic acid  
+SMILES: O=C(C(C(C(C(=O)O)O)C)C)C(=O)O
+
+This combination of monomers is designed to achieve the desired Tg of 50°C and Er of 20 MPa while fulfilling the functional group requirements.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",CCC(CCCC(C)C)C(C)C(C)C(O)OCCO,O=C(C(C(C(C(=O)O)O)C)C)C(=O)O
+106,C=C(C(C)(C)C)C(=O)OCC(C)(C)C,CC(O)OCC(C)C(=O)OCC(C)C,"Here is a suitable monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (vinyl C=C functionality):**  
+SMILES: C=C(C(C)(C)C)C(=O)OCC(C)(C)C
+
+**Monomer 2 (hydroxyl =O functionality):**  
+SMILES: CC(=O)OCC(C)C(=O)OCC(C)C
+
+This combination of monomers incorporates the required functional groups while aiming for the target Tg of 50°C and Er of 20 MPa.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C(C)(C)C)C(=O)OCC(C)(C)C,CC(O)OCC(C)C(=O)OCC(C)C
+107,C=C(C)C1(COC(C)(C)C1=O)C=C(C)C,C(C(C(=O)O)C(=O)O)C(C)(C)OCC(C)(C)O,"Here is a monomer pair designed to meet your requirements:
+
+**Monomer 1 (vinyl C=C functionality):**  
+- Structure: 2,5-bis(2-propenyl)-2,5-dimethyl-1,3-dioxane  
+- SMILES: C=C(C)C1(COC(C)(C)C1=O)C=C(C)C
+
+**Monomer 2 (hydroxyl =O functionality):**  
+- Structure: 2,3-bis(hydroxymethyl)butanedioic acid  
+- SMILES: C(C(C(=O)O)C(=O)O)C(C)(C)OCC(C)(C)O
+
+This combination aims to achieve the desired Tg of 50°C and Er of 20 MPa through appropriate molecular design and crosslinking density.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C)C1(COC(C)(C)C1=O)C=C(C)C,C(C(C(=O)O)C(=O)O)C(C)(C)OCC(C)(C)O
+108,C=C(C1=CC=C(C=C1)O)C,O=C(C1=CC=CC=C1)C(COCC)OCC,"Here’s a suitable monomer pair designed to meet your requirements for vinyl (C=C) and hydroxyl (=O) functionalities:
+
+**Monomer 1 (rich in C=C):**  
+Structure: 4-vinylphenol  
+SMILES: C=C(C1=CC=C(C=C1)O)C
+
+**Monomer 2 (rich in =O):**  
+Structure: Bis(2-hydroxyethyl) terephthalate  
+SMILES: O=C(C1=CC=CC=C1)C(COCC)OCC
+
+This combination provides the desired functionalities while targeting the specified Tg and Er values.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C1=CC=C(C=C1)O)C,O=C(C1=CC=CC=C1)C(COCC)OCC
+109,C=CC1=CC=CC=C1OCC(C=CC1=CC=CC=C1O)CC,CC(C(C(=O)O)C(C(=O)O)CC)C(C)C,"Here’s a monomer pair designed to meet your specifications for vinyl (C=C) and hydroxyl (=O) functionalities:
+
+**Monomer 1 (rich in C=C):**  
+**Structure:** 1,4-bis(2-vinylphenoxy)butane  
+**SMILES:** C=CC1=CC=CC=C1OCC(C=CC1=CC=CC=C1O)CC
+
+**Monomer 2 (rich in =O):**  
+**Structure:** 2,3-bis(hydroxymethyl)butyric acid  
+**SMILES:** CC(C(C(=O)O)C(C(=O)O)CC)C(C)C
+
+This combination is designed to achieve the target Tg of 50°C and Er of 20 MPa, with the proper distribution of the requested functionalities.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=CC1=CC=CC=C1OCC(C=CC1=CC=CC=C1O)CC,CC(C(C(=O)O)C(C(=O)O)CC)C(C)C
+110,C=C(C)C(=O)OCC(C)C(=O)OCC(C)C,C(C(=O)OCC)C(C(=O)OCC)C(C(=O)OCC)C(C(=O)OCC),"Here’s a monomer pair designed to meet your specifications:
+
+**Monomer 1 (vinyl C=C groups):**  
+Structure: Vinyl group with flexible backbone to achieve lower Tg and Er.  
+SMILES: C=C(C)C(=O)OCC(C)C(=O)OCC(C)C
+
+**Monomer 2 (hydroxyl =O groups):**  
+Structure: Hydroxyl group with a moderate rigidity to balance the overall properties.  
+SMILES: C(C(=O)OCC)C(C(=O)OCC)C(C(=O)OCC)C(C(=O)OCC)
+
+This combination should help achieve a Tg around 50°C and an Er of approximately 20 MPa, while fulfilling the functional group requirements.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C)C(=O)OCC(C)C(=O)OCC(C)C,C(C(=O)OCC)C(C(=O)OCC)C(C(=O)OCC)C(C(=O)OCC)
+111,C=C(C)C(C)C(=O)OCC(C)C(=C)C,CC(=O)C(=O)OCC(C)CC(=O)C,"Here is a suitable monomer pair designed to meet your requirements for vinyl (C=C) and hydroxyl (=O) functionalities, along with the specified Tg and Er values:
+
+**Monomer 1 (rich in C=C):**  
+SMILES: C=C(C)C(C)C(=O)OCC(C)C(=C)C  
+Description: This monomer contains two vinyl groups and a structure that provides relatively low rigidity, suitable for achieving a Tg of 50°C.
+
+**Monomer 2 (rich in =O):**  
+SMILES: CC(=O)C(=O)OCC(C)CC(=O)C  
+Description: This monomer has two carbonyl (ketone) groups that contribute to the overall hydroxyl functionality and enhance crosslinking density for achieving the desired mechanical properties.
+
+This combination should achieve the targets for both Tg and Er effectively.",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C)C(C)C(=O)OCC(C)C(=C)C,CC(=O)C(=O)OCC(C)CC(=O)C
+112,C=C1CCCCC1C=C,C1=CC(=C(C=C1C(CO)C)C(CO)C)C(CO),"Here is a suitable monomer pair that meets your requirements for vinyl (C=C) and hydroxyl (=O) functionalities while targeting a Tg of 50°C and an Er of 20 MPa:
+
+**Monomer 1 (C=C groups):**  
+**Structure:** 1,4-bis(vinyl)cyclohexane  
+**SMILES:** C=C1CCCCC1C=C
+
+**Monomer 2 (hydroxyl groups):**  
+**Structure:** 1,3-bis(hydroxymethyl)benzene  
+**SMILES:** C1=CC(=C(C=C1C(CO)C)C(CO)C)C(CO)C
+
+In this design:
+- Monomer 1 contains two instances of the vinyl group (C=C), providing flexibility and the desired functional group.
+- Monomer 2 includes multiple hydroxyl (–OH) groups integrated into the structure, ensuring sufficient crosslinking potential to achieve the desired Er.
+- The structures are designed to achieve the appropriate Tg and Er values based on the molecular rigidity and crosslinking characteristics.",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C1CCCCC1C=C,C1=CC(=C(C=C1C(CO)C)C(CO)C)C(CO)
+113,C=CC(C(C(C)O)C(C)O)C=CC(C(C)O)C(C)O,,"Here is a suitable monomer pair designed to meet your specified functional groups and property targets:
+
+**Monomer 1 (rich in C=C):**  
+Structure: Vinyl-terminated diol  
+SMILES: C=CC(C(C(C)O)C(C)O)C=CC(C(C)O)C(C)O
+
+**Monomer 2 (rich in =O):**  
+Structure: Hydroxyl-containing diisocyanate  
+SMILES: O=C(NC(C)C)C(=O)N(C(C)C)C(=O)O
+
+These monomers incorporate the required functionalities while targeting the desired Tg and Er values.",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",Not found,Not found
+114,C=CC1=CC=C(C=C)C=C(C=C)C=C1,C(C(=O)OCCOCCO)C(=O)O,"Here’s a suggested monomer pair that meets your requirements for vinyl and hydroxyl functionalities:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 4-vinylphenol  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C=C1
+
+**Monomer 2 (hydroxyl =O):**  
+Structure: Diethylene glycol diacrylate  
+SMILES: C(C(=O)OCCOCCO)C(=O)O
+
+This pair should provide the necessary properties with the specified Tg of approximately 50°C and Er around 20 MPa, while ensuring the functional group requirements are satisfied.",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=CC1=CC=C(C=C)C=C(C=C)C=C1,C(C(=O)OCCOCCO)C(=O)O
+115,C=CC(C)(C)C(CO)OCC(C=C)OCC(C)(C)C,CC(C(=O)C(C(=O)C)C(C)(C)C)OCC(C)(C)C,"Here is a suggested monomer pair designed to meet the specified requirements:
+
+**Monomer 1 (vinyl C=C functionality):**  
+Structure: 2-(2-(2-(2-(3-butenyl)prop-2-yl)-2-hydroxyethyl)-2-methyl-1,3-dioxolane)-1-yl)ethanol  
+SMILES: C=CC(C)(C)C(CO)OCC(C=C)OCC(C)(C)C
+
+**Monomer 2 (hydroxyl =O functionality):**  
+Structure: 2,4-bis(hydroxymethyl)-2-methyl-3-pentanedione  
+SMILES: CC(C(=O)C(C(=O)C)C(C)(C)C)OCC(C)(C)C
+
+This pair should achieve the desired Tg and Er values while incorporating the required functionalities.",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=CC(C)(C)C(CO)OCC(C=C)OCC(C)(C)C,CC(C(=O)C(C(=O)C)C(C)(C)C)OCC(C)(C)C
+116,C=C(C(C)(C)C)C(=O)OCC(C)(C)C,CC(=O)OCC(C(=O)O)CC(=O)O,"Here’s a suitable monomer pair designed to meet the specified requirements of Tg = 50°C and Er = 20 MPa:
+
+**Monomer 1 (rich in C=C functionalities):**  
+Structure: Vinyl group incorporated into a more flexible structure to achieve the desired Tg.  
+SMILES: `C=C(C(C)(C)C)C(=O)OCC(C)(C)C`
+
+**Monomer 2 (rich in =O functionalities):**  
+Structure: Hydroxyl-functionalized monomer that allows for some crosslinking density yet remains flexible enough to meet the Tg requirement.  
+SMILES: `CC(=O)OCC(C(=O)O)CC(=O)O`
+
+This combination provides both the necessary functionalities and is designed for the targeted mechanical properties.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C(C)(C)C)C(=O)OCC(C)(C)C,CC(=O)OCC(C(=O)O)CC(=O)O
+117,(C=C)CC(C=C)C(C=C)C(C(C=C)C,O=CC(C)C(C)CC(OH),"Here is a monomer pair that meets your specifications for vinyl (C=C) and hydroxyl (=O) functionalities, while targeting the desired Tg and Er values:
+
+**Monomer 1 (C=C functionalities):**  
+Name: 1,4-Polybutadiene diol  
+Structure: (C=C)CC(C=C)C(C=C)C(C(C=C)C=O)O  
+SMILES: C=C(CC=C)CC(C=C)C(C(=O)C)O
+
+**Monomer 2 (hydroxyl functionalities):**  
+Name: Dihydroxyethyl methacrylate  
+Structure: O=CC(C)C(C)CC(OH)C(C)C(=O)O  
+SMILES: CC(C)(=O)C(C)C(=O)OCC(=O)C(=O)O
+
+This combination has been designed to achieve the required balance of functionality and the targeted properties.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",Not found,Not found
+118,C=C(C1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)C(C)(C)C)OC(C)C(=O)C(C)C,C=CC(=O)OCC(C)(O)C(C)(O)C(=O)OCC(C)(O)C,"Here’s a monomer pair that meets the specified requirements for functionalities, Tg, and Er:
+
+**Monomer 1 (vinyl C=C)**:  
+1,4-bis(2-vinylphenyl)-2,5-dimethyl-1,3-dioxane  
+- SMILES: C=C(C1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)C(C)(C)C)OC(C)C(=O)C(C)C  
+
+**Monomer 2 (hydroxyl =O)**:  
+2,3-bis(hydroxy)propyl acrylate  
+- SMILES: C=CC(=O)OCC(C)(O)C(C)(O)C(=O)OCC(C)(O)C  
+
+These monomers are designed to achieve the desired Tg of 50°C and Er of 20 MPa through the appropriate balance of flexibility and functionality.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)C(C)(C)C)OC(C)C(=O)C(C)C,C=CC(=O)OCC(C)(O)C(C)(O)C(=O)OCC(C)(O)C
+119,C=C(C(C)C)C(C)C(=O)OCC(C)C, O=C(C(C)N)(CC(C)C)OCC(C)O,"Here is a proposed monomer pair that meets your requirements for Tg = 50°C and Er = 20 MPa, incorporating vinyl (C=C) and hydroxyl (–OH) functionalities:
+
+**Monomer 1 (C=C groups):**  
+Structure: Vinyl-functional monomer with two vinyl groups for effective cross-linking and moderate rigidity.  
+SMILES: C=C(C(C)C)C(C)C(=O)OCC(C)C
+
+**Monomer 2 (–OH groups):**  
+Structure: Hydroxyl-functional monomer with two hydroxyl groups to enhance the material's properties.  
+SMILES: O=C(C(C)N)(CC(C)C)OCC(C)O
+
+This combination provides the needed properties along with the required functionalities.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C(C)C)C(C)C(=O)OCC(C)C,CC(C)CC(O)(OCC(C)O)C(C)N
+120,CCCCCCCCCCC(=O)OCC=C,C(C(CO)OCCOCC)OCC(C(CO)OCCOCC)C,"Here is a suitable monomer pair for the requested TSMP system:
+
+**Monomer 1 (C=C functionalities):**  
+**Structure:**  Vinyl-terminated dodecanedioic acid  
+**SMILES:** CCCCCCCCCCC(=O)OCC=C 
+
+**Monomer 2 (hydroxyl functionalities):**  
+**Structure:**  Diethylene glycol bis(2-hydroxypropyl) ether  
+**SMILES:** C(C(CO)OCCOCC)OCC(C(CO)OCCOCC)C 
+
+This selection balances the requested functionalities and satisfies the Tg and Er targets.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",CCCCCCCCCCC(=O)OCC=C,C(C(CO)OCCOCC)OCC(C(CO)OCCOCC)C
+121,C=CC1=CC(=O)OC1O,C(C(=O)O)C(C)O,"Here’s a proposed monomer pair that meets your requirements for Tg and Er, while incorporating the specified functionalities:
+
+**Monomer 1 (vinyl C=C):**  
+**Structure:** 2-Vinyl-1,3-dioxolan-4-one  
+**SMILES:** C=CC1=CC(=O)OC1O
+
+**Monomer 2 (hydroxyl =O):**  
+**Structure:** 2-Hydroxypropanoic acid (Lactic acid)  
+**SMILES:** C(C(=O)O)C(C)O
+
+This pair maintains the required functionalities and is designed to achieve the targeted thermal and mechanical properties.",vinyl(C=C),hydroxyl(=O),1.0,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=CC1=CC(=O)OC1O,C(C(=O)O)C(C)O
+122,C=C(C1=CC=C(C=C1)C(O)C=C)C,OCC(C(=O)OCC(C(=O)O))OCC,"Here is a suitable monomer pair designed to achieve the requested properties and functional groups:
+
+**Monomer 1 (C=C groups)**:  
+4-vinylphenol (contains vinyl and hydroxyl groups)  
+**SMILES**: C=C(C1=CC=C(C=C1)C(O)C=C)C
+
+**Monomer 2 (hydroxyl groups)**:  
+Bis(2-hydroxyethyl) succinate (contains two hydroxyls)  
+**SMILES**: OCC(C(=O)OCC(C(=O)O))OCC
+
+These monomers should result in a thermoset shape memory polymer with the desired Tg of 50°C and Er of 20 MPa, while also incorporating the specified functionalities.",vinyl(C=C),hydroxyl(=O),1.0,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(C1=CC=C(C=C1)C(O)C=C)C,OCC(C(=O)OCC(C(=O)O))OCC
+123,CCOCC(=O)C(CO)C(=O)C(CO)O,,"Here’s a suitable monomer pair for your specified requirements:
+
+**Monomer 1 (rich in vinyl C=C):**  
+SMILES: C=CC(C(=O)O)C(C(=O)O)C=CC  
+Description: This monomer contains multiple vinyl groups and introduces hydroxyl (carboxylic acid, -COOH) functionalities to promote crosslinking.
+
+**Monomer 2 (rich in hydroxyl =O):**  
+SMILES: CCOCC(=O)C(CO)C(=O)C(CO)O  
+Description: This monomer contains several hydroxyl (-OH) groups and carbonyl (C=O) functionalities, enhancing compatibility and increasing crosslinking potential.
+
+These monomers are designed to help achieve a Tg of around 50°C and an Er of approximately 20 MPa, balancing the inclusion of the required functional groups with the desired mechanical properties.",vinyl(C=C),hydroxyl(=O),1.0,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",Not found,Not found
+124,C(C(=O)OH)C(=O)(C)C(C(=O)OH)C(C)C(=O)OH,C=C(C)(C)C(=O)C(C=C)C(=O)O,"For a thermoset shape memory polymer (TSMP) system that meets the specified Tg and Er values with vinyl (C=C) and hydroxyl (=O) functionalities, here are two designed monomers:
+
+**Monomer 1 (C=C groups):**  
+Description: This monomer contains multiple vinyl groups designed to provide lower rigidity suitable for a Tg of 50°C while maintaining the necessary crosslinking density for desired properties.  
+Structure:  
+SMILES: `C=C(C)(C)C(=O)C(C=C)C(=O)O`
+
+**Monomer 2 (hydroxyl groups):**  
+Description: This monomer contains hydroxyl groups and is designed to balance the flexibility and crosslinking required to reach the target Er value.  
+Structure:  
+SMILES: `C(C(=O)OH)C(=O)(C)C(C(=O)OH)C(C)C(=O)OH`
+
+These combined create a system targeting your specified mechanical properties while ensuring the presence of the required functional groups.",vinyl(C=C),hydroxyl(=O),1.0,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",Not found,Not found
+125,C=C(Cc1ccc(cc1)C(=C)C)c1ccc(cc1)C(=C)C, CC(C(C(=O)O)O)(C)C,"Here’s a monomer pair designed with the specified functionalities and properties:
+
+**Monomer 1 (vinyl C=C):**  
+Structure: 2,2-bis(4-vinylphenyl)propane  
+SMILES: C=C(Cc1ccc(cc1)C(=C)C)c1ccc(cc1)C(=C)C
+
+**Monomer 2 (hydroxyl =O):**  
+Structure: 2-hydroxy-3-(hydroxymethyl)butanoic acid  
+SMILES: CC(C(C(=O)O)O)(C)C
+
+This combination should provide a Tg of approximately 50°C and an Er of about 20 MPa, balancing the functional groups and the requirements needed for a thermoset shape memory polymer.",vinyl(C=C),hydroxyl(=O),1.0,50,20,"Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",C=C(Cc1ccc(cc1)C(=C)C)c1ccc(cc1)C(=C)C,CC(C(C(=O)O)O)(C)C

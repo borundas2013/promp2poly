@@ -92,20 +92,15 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
                 print(f"  - {col}")
             return None
         
-        valid_df= df[df['Fixed Monomer 1']!='Not found']
-       
-        total_monomer_pairs = len(valid_df)
-        print(f"Total monomer pairs: {total_monomer_pairs}")
-        valid_df=valid_df.drop_duplicates()
-        #total_monomer_pairs = len(df)
         
-        smiles1_list, smiles2_list, er_list, tg_list = load_dataset_gpt4()
-        training_monomers_pairs = list(zip(smiles1_list, smiles2_list))
-        for index, row in valid_df.iterrows() :
-            if (row['Fixed Monomer 1'], row['Fixed Monomer 2']) in training_monomers_pairs:
-                valid_df.drop(index, inplace=True)
-
-        print(f"Total monomer pairs after removing duplicates: {len(valid_df)}")
+        valid_df= df[(df['Fixed Monomer 1']!='Not found') & (df['Fixed Monomer 2']!='Not found')]
+       
+        #df=pd.DataFrame({'Fixed Monomer 1':monomer_1,'Fixed Monomer 2':monomer_2})
+        
+        valid_df=valid_df.drop_duplicates()
+        
+        
+       
         number_of_group_smiles=0
         group1_match=0
         reaction_match=0
@@ -213,51 +208,9 @@ def check_group_consistency(group1, group2, smiles1, smiles2):
      
 
 
-def load_dataset_gpt4():
-    try:
-        # Read Excel file
-        
-        excel_path = os.path.join(os.path.dirname(__file__), '..', 'Dataset', 'unique_smiles_Er.csv')
-        df = pd.read_csv(excel_path)
-    
-
-        # Initialize lists for storing data
-        smiles1_list = []
-        smiles2_list = []
-        er_list = []
-        tg_list = []
-        
-        # Process each row
-        for _, row in df.iterrows():
-            try:
-                # Extract the two SMILES from the SMILES column
-                smiles_pair = eval(row['Smiles'])  # Safely evaluate string representation of list
-                if len(smiles_pair) == 2:
-                    smiles1, smiles2 = smiles_pair[0], smiles_pair[1]
-                    smiles1_list.append(smiles1)
-                    smiles2_list.append(smiles2)
-                    er_list.append(row['Er'])
-                    tg_list.append(row['Tg'])
-            except:
-                print(f"Skipping malformed SMILES pair: {row['SMILES']}")
-                continue
-
-        return smiles1_list, smiles2_list, er_list, tg_list
-    except Exception as e:
-        print(f"Error processing Excel file: {str(e)}")
-        raise
-
-
-
-
-csv_files = [
-    "Output/generation_results_gpt4o_mini_group_u1C.csv",
-  "Output/generation_results_gpt4o_mini_mix_u1C.csv",
-  "Output/generation_results_gpt4o_mini_property_u1C.csv"
-]
 
 
 #read_multiple_csv_with_validation(csv_files)
-remove_duplicate_monomer_pairs("Output/Combined_both.csv")
+remove_duplicate_monomer_pairs("Output/Combined_fewshot.csv")
 
 

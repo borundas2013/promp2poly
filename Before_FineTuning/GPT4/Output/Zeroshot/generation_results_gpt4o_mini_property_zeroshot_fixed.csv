@@ -1,0 +1,2306 @@
+SL,Monomer 1,Monomer 2,Output_text,Group1,Group2,Temperature,Tg,Er,Prompt,Fixed Monomer 1,Fixed Monomer 2
+1,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following novel monomer pairs with appropriate structures and functional groups.
+
+**Monomer 1:**
+- **Structure:** 4,4'-diaminodiphenyl ether (DADPE)
+- **Molecular Weight:** 250 g/mol
+- **Functional Group:** Amine
+- **Description:** This monomer has a rigid aromatic structure that contributes to a higher Tg due to the increased stiffness of the polymer backbone. The presence of two amine groups allows for potential crosslinking with epoxy groups, enhancing the overall mechanical properties.
+
+**Monomer 2:**
+- **Structure:** Bisphenol A diglycidyl ether (BADGE)
+- **Molecular Weight:** 340 g/mol
+- **Functional Group:** Epoxy
+- **Description:** This monomer is known for its high crosslinking potential due to the presence of epoxy groups. The rigid bisphenol A structure contributes to a higher Tg, and the diglycidyl ether form allows for effective crosslinking with the amine groups from Monomer 1, which will help achieve the desired Er.
+
+**Crosslinking Strategy:**
+- The reaction between the amine groups of DADPE and the epoxy groups of BADGE will form a highly crosslinked",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+2,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, we can design two novel monomers that meet the critical design rules outlined. 
+
+### Monomer Design:
+
+**Monomer 1: Rigid Epoxy Monomer**
+- **Structure:** A bisphenol A-based epoxy with an additional aromatic ring to enhance rigidity.
+- **Molecular Formula:** C15H14O2
+- **Functional Groups:** Epoxy group for crosslinking.
+- **Rationale:** The presence of the aromatic rings increases the rigidity of the polymer backbone, contributing to a higher Tg. The epoxy group allows for effective crosslinking during polymerization.
+
+**Monomer 2: Flexible Thiol Monomer**
+- **Structure:** A dithiol with a flexible aliphatic chain (e.g., 1,6-hexanedithiol).
+- **Molecular Formula:** C6H14S2
+- **Functional Groups:** Thiol groups for crosslinking.
+- **Rationale:** The flexible aliphatic chain provides some elasticity to the polymer network, which is essential for achieving the desired Er. The thiol groups can react with the epoxy groups in Monomer 1 to form a crosslinked network.
+
+### Crosslinking Strategy:
+- **Crosslinking Method:** Use a thiol-epoxy click reaction to form a highly crosslinked network",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+3,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, we can design two novel monomers that will meet these criteria through careful selection of molecular structures and crosslinking strategies.
+
+### Monomer 1: 
+**Structure:** 4,4'-Bis(3,4-epoxycyclohexyl) sulfone  
+**Molecular Weight:** Approximately 300 g/mol  
+**Functional Group:** Epoxy  
+**Description:** This monomer features a rigid sulfone group that enhances the thermal stability and increases Tg due to its high stiffness. The epoxy groups allow for effective crosslinking, contributing to the desired mechanical properties.
+
+### Monomer 2: 
+**Structure:** 1,3-Bis(4-isocyanatophenyl) propane  
+**Molecular Weight:** Approximately 250 g/mol  
+**Functional Group:** Isocyanate  
+**Description:** This monomer provides additional rigidity and facilitates crosslinking through urethane formation when reacted with hydroxyl groups or amines. The presence of isocyanate groups will enhance the crosslink density, which is crucial for achieving the target Er.
+
+### Crosslinking Strategy:
+To achieve the desired properties, the polymerization can be conducted via a two-step process:
+1. **Prepolymer Formation:** Mix Monomer 1 and Monomer 2 in a stoichiometric",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+4,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, we can design two novel monomers that will provide the necessary properties when polymerized and crosslinked appropriately.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:** A rigid aromatic epoxy monomer such as 4,4'-di(2,3-epoxypropyl)diphenyl ether.
+
+- **Molecular Weight:** Approximately 300 g/mol.
+- **Functional Groups:** Epoxy groups for crosslinking.
+- **Rationale:** The rigid aromatic structure contributes to a higher Tg due to increased chain stiffness and reduced chain mobility, which is essential for achieving the target Tg of 100°C.
+
+### Monomer 2: Flexible Dithiol Monomer
+**Structure:** A flexible dithiol monomer such as 1,6-hexanedithiol.
+
+- **Molecular Weight:** Approximately 118 g/mol.
+- **Functional Groups:** Thiol groups for crosslinking.
+- **Rationale:** The flexible dithiol allows for increased crosslinking density while providing some flexibility to the network, which is crucial for achieving the desired stress recovery (Er) of 40 MPa.
+
+### Crosslinking Strategy:
+- **Crosslinking Reaction:** The epoxy groups from Monomer 1 can react with the thiol groups from Monomer 2",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+5,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, we can design two novel monomers that will fulfill these requirements through careful selection of molecular structures and crosslinking strategies.
+
+**Monomer 1: Rigid Aromatic Epoxy Monomer**
+- **Structure**: A bisphenol-based epoxy monomer with a rigid aromatic backbone.
+- **Molecular Formula**: C15H14O2
+- **Functional Group**: Epoxy group for crosslinking.
+- **Description**: This monomer features two epoxy groups and a rigid aromatic structure, which increases the Tg due to the high stiffness of the aromatic rings. The presence of the epoxy groups allows for effective crosslinking, contributing to the desired mechanical properties.
+
+**Monomer 2: Flexible Dithiol Monomer**
+- **Structure**: A dithiol with a flexible aliphatic chain.
+- **Molecular Formula**: C8H18S2
+- **Functional Group**: Thiol groups for crosslinking.
+- **Description**: This monomer contains two thiol groups and a flexible aliphatic chain, which can help in adjusting the crosslinking density. The flexibility allows for some movement in the polymer matrix, which can enhance the stress recovery properties (Er) while still maintaining a high Tg when crosslinked with the epoxy monomer.
+
+",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+6,,,"To achieve a thermoset shape memory polymer system with a target glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, we will design two novel monomers that can be crosslinked to form the desired polymer network.
+
+**Monomer 1: 4,4'-Dihydroxy-3,3'-dimethylbenzophenone (DMDP)**
+- Structure: This monomer contains two hydroxyl groups that can participate in crosslinking reactions. The rigid benzophenone structure contributes to a higher Tg.
+- Molecular Weight: Approximately 250 g/mol.
+- Functional Group: Hydroxyl groups (-OH) for crosslinking via urethane or epoxy reactions.
+
+**Monomer 2: 2,2'-Bis(3-(triethoxysilyl)propyl)propane-1,3-diol (BTPD)**
+- Structure: This monomer has a flexible siloxane backbone and two triethoxysilyl groups that can form crosslinks through condensation reactions. The siloxane contributes to flexibility while maintaining some rigidity.
+- Molecular Weight: Approximately 400 g/mol.
+- Functional Group: Triethoxysilyl groups that can undergo crosslinking through sol-gel chemistry.
+
+**Crosslinking Strategy:**
+- The combination of DMDP and BTPD allows for a network that incorporates both rigid and flexible elements. The rigid",epoxy(C1OC1),imine(NC),0.5,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+7,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following monomer pairs:
+
+**Monomer 1:**  
+**Structure:** 4,4'-Di(2,3-epoxypropyl) diphenyl ether  
+**Molecular Weight:** Approximately 350 g/mol  
+**Functional Group:** Epoxy  
+**Characteristics:** This monomer has a rigid aromatic backbone that will contribute to a higher Tg due to its structural rigidity. The presence of two epoxy groups allows for effective crosslinking, which is essential for achieving the desired mechanical properties.
+
+**Monomer 2:**  
+**Structure:** 2,2-bis(4-hydroxyphenyl)propane (Bisphenol A)  
+**Molecular Weight:** Approximately 228 g/mol  
+**Functional Group:** Hydroxyl  
+**Characteristics:** This monomer provides additional crosslinking sites through its hydroxyl groups. The incorporation of Bisphenol A will enhance the thermal stability and mechanical properties of the resulting polymer while allowing for a controlled crosslinking density to achieve the desired Er.
+
+### Crosslinking Strategy:
+To achieve the desired Tg and Er values, the following crosslinking strategy can be employed:
+
+- **Crosslinking Method:** Epoxy-amine curing system, where the epoxy groups from Monomer 1 react with",epoxy(C1OC1),imine(NC),0.5,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+8,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following novel monomer pairs:
+
+**Monomer 1:**  
+**Structure:** A rigid aromatic diisocyanate, specifically 4,4'-methylenediphenyl diisocyanate (MDI) derivative.  
+**Molecular Weight:** Approximately 250 g/mol.  
+**Functional Groups:** Isocyanate (-N=C=O) groups for crosslinking.  
+**Rationale:** The rigid aromatic structure contributes to a higher Tg due to increased chain stiffness and reduced chain mobility.
+
+**Monomer 2:**  
+**Structure:** A flexible aliphatic diamine, such as 1,6-hexanediamine.  
+**Molecular Weight:** Approximately 116 g/mol.  
+**Functional Groups:** Amine (-NH2) groups for reaction with isocyanates.  
+**Rationale:** The aliphatic nature provides flexibility in the polymer network, allowing for the optimization of crosslinking density to achieve the desired Er.
+
+**Crosslinking Design:**  
+To achieve the target Tg and Er, the ratio of isocyanate groups from Monomer 1 to amine groups from Monomer 2 should be carefully controlled. A higher crosslinking density can be achieved by using an excess of the diis",epoxy(C1OC1),imine(NC),0.5,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+9,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following novel monomer pairs:
+
+**Monomer 1:**  
+**Structure:** 4,4'-Di(4-hydroxyphenyl) sulfone (DHS)  
+**Molecular Weight:** 254.3 g/mol  
+**Functional Group:** Phenolic hydroxyl groups for crosslinking  
+**Description:** This monomer provides a rigid structure due to the sulfone group, which increases the Tg. The presence of multiple hydroxyl groups allows for effective crosslinking.
+
+**Monomer 2:**  
+**Structure:** 1,3-Bis(2,3-epoxypropyl)benzene (BEPB)  
+**Molecular Weight:** 250.3 g/mol  
+**Functional Group:** Epoxy groups for crosslinking  
+**Description:** The epoxy groups in BEPB enhance crosslinking density and provide thermal stability, contributing to the desired Tg and Er values.
+
+**Crosslinking Strategy:**  
+A crosslinking reaction between the phenolic hydroxyl groups of DHS and the epoxy groups of BEPB can be employed. This reaction will form a network structure that increases the rigidity of the polymer, thereby raising the Tg to around 100°C. The high density of crosslinks will also contribute to achieving an Er value of approximately ",epoxy(C1OC1),imine(NC),0.5,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+10,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following novel monomer pairs:
+
+**Monomer 1:** 
+- **Structure:** 4,4'-Diaminodiphenyl sulfone (DADS)
+- **Molecular Weight:** 202.25 g/mol
+- **Functional Groups:** Primary amine groups (-NH2) for crosslinking
+- **Rationale:** The rigid aromatic structure contributes to a higher Tg due to increased chain stiffness. The sulfone group enhances thermal stability.
+
+**Monomer 2:**
+- **Structure:** Diglycidyl ether of bisphenol A (DGEBA)
+- **Molecular Weight:** 340.35 g/mol
+- **Functional Groups:** Epoxy groups (-O-CH2-CH-CH2-O-) for crosslinking
+- **Rationale:** This monomer provides a high degree of crosslinking upon curing with the amine from DADS, which is essential for achieving the desired Er. The presence of the epoxy groups also contributes to the overall rigidity of the polymer network.
+
+**Crosslinking Strategy:**
+- The DADS will react with the epoxy groups of DGEBA to form a crosslinked network, resulting in a thermoset polymer. The degree of crosslinking can be adjusted by varying the stoichi",epoxy(C1OC1),imine(NC),0.5,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+11,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following novel monomer pair:
+
+**Monomer 1:**  
+**Name:** 4,4'-Methylenedianiline Diacrylate (MDDA)  
+**Structure:** This monomer features two acrylate functional groups attached to a rigid aromatic diamine backbone. The rigid structure of the aromatic system contributes to a higher Tg due to increased intermolecular interactions. The acrylate groups will allow for effective crosslinking.  
+
+**Molecular Weight:** Approximately 300 g/mol (calculated for the diacrylate form).  
+**Functional Groups:** Acrylate (for crosslinking)  
+
+**Monomer 2:**  
+**Name:** 1,3-Bis(3-aminophenyl)urea (BAPU)  
+**Structure:** This monomer consists of a urea linkage that introduces additional rigidity and hydrogen bonding capabilities. The presence of two amine groups allows for further crosslinking through epoxy or isocyanate reactions if combined with an appropriate crosslinker.  
+
+**Molecular Weight:** Approximately 250 g/mol.  
+**Functional Groups:** Amine (for potential crosslinking and hydrogen bonding)  
+
+**Design Considerations:**  
+1. **Tg Achievement:** The combination of the",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+12,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of about 40 MPa, we will select two novel monomers that provide the desired properties when crosslinked appropriately.
+
+**Monomer 1:**
+
+- Structure: 2,6-Bis(4-ethoxyphenyl)-4-methylphenol (BEPM)
+- Functional Groups: Two hydroxy groups for potential crosslinking through epoxy or phenolic curing.
+- Molecular Weight: Approximately 300 g/mol.
+- Rationale: The rigid aromatic structure contributes to a higher Tg due to increased chain stiffness, while the ethoxy groups reduce the overall brittleness, maintaining some flexibility. With a Tg estimated around 110-120°C, this monomer is suitable for the target Tg.
+
+**Monomer 2:**
+
+- Structure: 3,3'-Diamino-4,4'-diethylbenzophenone (DEBP)
+- Functional Groups: Two amine groups for crosslinking via imine formation with aldehydes or epoxy groups.
+- Molecular Weight: Approximately 350 g/mol.
+- Rationale: The presence of the amine groups allows for a high degree of crosslinking, which is essential for achieving the target Er of 40 MPa. The bulky structure provides additional rigidity, contributing further to the Tg.
+
+**Crosslinking Strategy:**
+- A cross",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+13,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following novel monomer pairs:
+
+### Monomer 1: 
+**Name:** 2,6-Bis(3,4-epoxycyclohexyl)dimethylsilane  
+**Structure:**  
+- Contains two epoxy groups and a silane backbone, which increases rigidity and enhances thermal stability.  
+- The presence of the cyclohexyl rings contributes to the overall rigidity needed to achieve a higher Tg.
+
+### Monomer 2: 
+**Name:** 1,4-Bis(2-thiophenyl)butane  
+**Structure:**  
+- This monomer features thiol functional groups that can engage in crosslinking reactions.  
+- The aromatic thiophenyl groups provide additional rigidity, which helps to elevate the Tg.
+
+### Crosslinking Strategy:
+- **Crosslinking Method:** Utilize a thiol-epoxy reaction, where the thiol groups from Monomer 2 react with the epoxy groups of Monomer 1. This reaction can create a highly crosslinked network, enhancing the mechanical properties and increasing the Er value.
+- **Crosslinking Density:** The ratio of the monomers can be adjusted to optimize the crosslinking density, thus achieving the desired Er. A higher stoichiometric ratio of thiol to epoxy will lead to",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+14,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery modulus (Er) of around 40 MPa, we can design a novel pair of monomers that will provide the desired properties through careful selection of their structures and crosslinking capabilities. Below is the proposed polymer system:
+
+**Monomer 1:**  
+**4,4'-Diaminodiphenylsulfone (DDS)**  
+- Structure: A rigid, aromatic diamine that provides a high Tg due to its rigid backbone and aromatic character.  
+- Molecular Weight: Approximately 200 g/mol.  
+- Functional Group: Amino groups (-NH2) that can be used for crosslinking with epoxy resins.
+
+**Monomer 2:**  
+**Bisphenol A Diglycidyl Ether (BADGE)**  
+- Structure: A flexible epoxy resin with two epoxy groups that can react with the amines from the diamine, providing crosslinking.  
+- Molecular Weight: Approximately 340 g/mol.  
+- Functional Group: Epoxy groups that facilitate crosslinking with amine functional groups.
+
+**Crosslinking Strategy:**  
+The crosslinking reaction between DDS and BADGE will generate a three-dimensional polymer network. The rigid aromatic structure of DDS will contribute significantly to increasing the Tg, while the crosslinking density can be optimized by varying the ratio of DDS to BADGE to achieve",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+15,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, we can design a system using novel monomers with specific structures and functionalities.
+
+### Recommended Monomer Pair
+
+**Monomer 1:**
+- **Name:** 4,4'-Diisocyanatobenzophenone (DIBP)
+- **Structure:** 
+  - A rigid aromatic diisocyanate with a high molecular weight due to its symmetry and aromatic nature.
+  - The presence of isocyanate groups allows for effective crosslinking with polyols or polyamines during the curing process.
+- **Properties:**
+  - Rigid structure contributes to a high Tg due to strong π-π stacking interactions.
+  - The isocyanate groups enable the formation of urethane linkages, enhancing thermal stability.
+
+**Monomer 2:**
+- **Name:** 1,2-Bis(2-hydroxyethoxy)ethane (BHEE)
+- **Structure:**
+  - A diol with flexible ether linkages that can act as a crosslinker when reacted with isocyanates.
+  - The ethylene glycol units provide some flexibility while still allowing for a rigid backbone when crosslinked.
+- **Properties:**
+  - The hydroxyl groups can react with the isocyanate groups from DIBP",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+16,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I will propose two novel monomers that fulfill the critical design rules specified. 
+
+### Monomer Selection
+
+**Monomer 1:**
+- **Structure:** 1,4-Bis(4-isocyanatophenyl)phthalazine
+- **Functionality:** Isocyanate functional group for crosslinking
+- **Rationale:** This monomer has a rigid, phenyl-containing structure that contributes to a higher Tg due to its planarity and strong π-π stacking interactions. The presence of isocyanate groups allows for efficient crosslinking, which can enhance the mechanical properties.
+
+**Monomer 2:**
+- **Structure:** 2,5-Bis(4-hydroxyphenyl)tetrahydrofuran 
+- **Functionality:** Hydroxyl groups for crosslinking with isocyanates
+- **Rationale:** The tetrahydrofuran ring structure introduces flexibility while the hydroxyl groups facilitate crosslinking with isocyanate to form a thermosetting network. This combination allows for optimization of both Tg and Er properties, where the phthalazine core increases rigidity, and the tetrahydrofuran provides some flexibility during recovery.
+
+### Crosslinking Strategy
+- Utilize a stoichiometric balance between the",epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+17,,,"To achieve a thermoset polymer system with a glass transition temperature (Tg) near 100°C and a stress recovery modulus (Er) of approximately 40 MPa, we will need to design two novel monomers that exhibit the required properties through careful selection of functional groups and structural features.
+
+### Monomer 1: Rigid Epoxy Monomer
+**Structure:** A bismaleimide-based epoxide that contains a rigid aromatic backbone.
+
+- **Chemical structure:** 
+  - 4,4'-Diaminodiphenyl sulfone (DADPS) derived epoxy: 
+    - Epoxy functional group at the ends of a rigid, aromatic chain.
+    - Incorporate two epoxy groups per molecule to enhance crosslinking.
+
+- **Features:**
+  - The rigid aromatic structure will significantly contribute to a higher Tg.
+  - The epoxide functional groups allow for effective crosslinking when cured with amines or other hardeners.
+
+### Monomer 2: Flexible Thiol-Based Crosslinker
+**Structure:** A multifunctional thiol that allows for increased network density.
+
+- **Chemical structure:** 
+  - Trithiol compound (e.g., trimethylolpropane tris(3-mercaptopropionate)): 
+    - Contains three thiol functional groups on a flexible chain that allows for increased crosslink density upon reaction.
+
+- **Features:**
+  - The thiol groups facilitate a thiol-ene click reaction with the epoxy groups during",epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+18,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I propose the following combination of novel monomer pairs:
+
+**Monomer 1:** 
+
+**Name:** 1,3-bis(4-hydroxyphenyl)propane diacrylate (BHPDA)  
+**Structure:**  
+- Rigid aromatic structure to enhance Tg.  
+- Two acrylate groups for crosslinking.  
+- Molecular weight: ~300 g/mol.  
+**Functional Groups:** Acrylate for efficient crosslinking and to ensure high rigidity upon polymerization.  
+
+**Expected Contribution:**  
+- The rigid aromatic rings contribute significantly to increasing Tg towards the target of 100°C. 
+- The diacrylate will enhance crosslinking density, which will positively influence Er values.
+
+---
+
+**Monomer 2:** 
+
+**Name:** 4,4'-diaminodiphenyl sulfone (DAPS)  
+**Structure:**  
+- An amine-based monomer with a sulfone group to improve thermal stability and increase crosslinking potential.  
+- Molecular weight: ~200 g/mol.  
+**Functional Groups:** Amine for crosslinking with the epoxy or acrylate groups (dependent on the curing agent used), enhancing crosslinking density.
+
+**Expected Contribution:**  
+- The presence of am",epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+19,,,"To achieve a thermoset shape memory polymer (TSMP) system with a glass transition temperature (Tg) of approximately 100°C and an elasticity recovery (Er) of around 40 MPa, we will design two novel monomers that enable both the desired Tg and optimize the crosslinking density for the required Er.
+
+**Monomer 1:**
+- **Structure:** A rigid bisphenol-based epoxy monomer.
+- **Chemical Name:** 4,4'-Isopropylidene diphenol diglycidyl ether (IDDE).
+- **Functional Groups:** Epoxy groups for crosslinking.
+- **Molecular Weight:** ~380 g/mol.
+- **Tg Contribution:** The rigid phenolic structure contributes to a higher Tg due to strong intermolecular interactions and steric hindrance, aiming for Tg near 100°C.
+
+**Monomer 2:**
+- **Structure:** A flexible aliphatic thiol compound to allow for optimal crosslinking with the epoxy.
+- **Chemical Name:** 1,3-Bis(mercaptomethyl) benzene (BMB).
+- **Functional Groups:** Thiol groups for forming thioethers with the epoxy resin.
+- **Molecular Weight:** ~194 g/mol.
+- **Er Contribution:** By using a flexible thiol with multiple functional groups, we enhance crosslinking density, which can lead to improved Er values, targeting around 40 MPa.
+
+**Crosslinking",epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+20,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of about 40 MPa, I propose the following novel monomer pairs designed to meet the specified criteria.
+
+**Monomer 1: 4,4'-Diethynyl-2,2'-dimethylbiphenyl**
+- Structure: This monomer contains a biphenyl backbone with two ethynyl groups that provide rigidity and enhance Tg. The bulky dimethyl substituents contribute to thermodynamic stability and increase the Tg.
+- Molecular Weight: Approximately 250 g/mol
+- Functionality: The ethynyl groups will enable crosslinking with compatible functional groups in other monomers, contributing to high crosslink density.
+
+**Monomer 2: Glycidyl methacrylate (GMA)**
+- Structure: GMA contains an epoxy group and a methacrylate backbone which is conducive to free radical polymerization and crosslinking. The epoxy group provides a reactive site for additional crosslinking, while the methacrylate enhances the mechanical properties.
+- Molecular Weight: Approximately 142 g/mol
+- Functionality: The presence of the epoxy group allows for crosslinking with other nucleophilic functionalities, which can raise the crosslink density and achieve the desired Er.
+
+**Crosslinking Strategy:**
+- The system can be cured via a thermal or UV-initiated polymer",epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+21,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, we will design two novel monomers that will work synergistically to meet these targets.
+
+### Monomer 1: 
+**Name:** 1,4-bis(2,4-dichlorophenyl)benzene  
+**Structure:** This monomer features a rigid biphenyl core with a dichloro substitution to increase thermal stability and rigidity. The molecular structure is designed to provide increased Tg. 
+
+**Molecular Weight:** 340 g/mol (approximately)  
+**Functional Group:** Phenolic groups that can undergo crosslinking via etherification or can react with an epoxide.
+
+### Monomer 2: 
+**Name:** Thioester-Dibenzyl Sulfide  
+**Structure:** This monomer is designed with a thioester functional group in conjunction with flexible dibenzyl rings, which can provide the necessary flexibility for stress recovery. 
+
+**Molecular Weight:** 268 g/mol (approximately)  
+**Functional Group:** Thioester functional group suitable for crosslinking through reaction with thiol or via Michael addition with acrylates.
+
+### Rationale:
+1. **Tg ≈ 100°C:** 
+   - Monomer 1 (1,4-bis(2,4-dichlorophenyl)benzene) has a rigid structure",epoxy(C1OC1),imine(NC),1.0,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+22,,,"To achieve a polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of around 40 MPa, I will propose two novel monomers designed to fulfill these criteria. 
+
+### Monomer 1: 
+**Structure:** A branched aromatic imine functionalized monomer. 
+
+**Chemical Name:** 2,4-Dihydroxy-2,6-dimethyl-5-nitro-3-pyridinecarbaldehyde imine 
+
+**Details:**
+- Contains rigid aromatic rings which increase Tg due to their planar structure and high delocalization.
+- Integrated imine functional groups enable crosslinking through condensation reactions, providing high crosslinking density for enhanced Er. 
+- The presence of nitro groups may contribute to additional rigidity while maintaining a balance in flexibility.
+
+### Monomer 2:
+**Structure:** A flexible aliphatic acrylate monomer.
+
+**Chemical Name:** Hydroxyethyl acrylate
+
+**Details:**
+- Offers flexibility which accommodates the overall network formation while still allowing for crosslinking.
+- Hydroxy groups can undergo reaction with isocyanates or other multifunctional groups, enhancing crosslink density while maintaining some flexibility.
+- Acrylate functionality allows for UV-induced crosslinking, increasing the overall network strength and resulting in improved Er.
+
+### Crosslinking Strategy:
+Employ a polyfunctional isocyanate or polyamide crosslinker (e.g., hex",epoxy(C1OC1),imine(NC),1.0,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+23,,,"To achieve a Tg of approximately 100°C and an Er of around 40 MPa, we will design two novel monomers that can be crosslinked effectively to produce a thermoset shape memory polymer (TSMP).
+
+**Monomer 1: Rigid Epoxy-Based Monomer**  
+- Structure: A bisphenol-A epoxy resin with a rigid aromatic backbone and additional ether linkages.  
+- Chemical structure: 4,4'-Epoxycyclohexylmethyl-1,3-phenylene diamine (C₁₄H₁₅N₃O₃) 
+- Properties: This monomer has a high glass transition temperature due to the presence of the aromatic rings and its rigid structure. Epoxy groups will provide crosslinking sites when cured.
+
+**Monomer 2: Flexible Acrylate-Based Monomer**  
+- Structure: A branched aliphatic acrylate with a flexible chain and polar functional groups to enhance crosslinking.  
+- Chemical structure: 2-Hydroxyethyl acrylate with a branched C₃ aliphatic chain (C₈H₁₄O₃) 
+- Properties: This monomer offers flexibility and functionality, facilitating a high crosslink density when polymerized with a curing agent, thus contributing to both stress recovery (Er) and balance in the Tg.
+
+By using a combination of these two monomers, we can achieve a balance between",epoxy(C1OC1),imine(NC),1.0,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+24,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of approximately 100°C and a stress recovery modulus (Er) of around 40 MPa, we will design two novel monomers that will combine to form a crosslinked network. 
+
+### Monomer 1:
+**Structure**: 4,4'-Diglycidyl ether of bisphenol A (DGEBA) modified with a rigid aromatic backbone.
+
+- **Functional Group**: Epoxy
+- **Molecular Weight**: About 350 g/mol (providing a high degree of rigidity due to the aromatic structure).
+- **Rationale**: The presence of the phenolic rings increases the rigidity of the polymer chain, effectively raising the Tg. The epoxy groups allow for effective crosslinking in the final polymer network, contributing to mechanical strength and stability.
+
+### Monomer 2:
+**Structure**: A thiol compound with a rigid rigidified aliphatic chain, such as 1,6-hexanedithiol with aromatic substitutions.
+
+- **Functional Group**: Thiol
+- **Molecular Weight**: Approximately 200 g/mol.
+- **Rationale**: The incorporation of thiol groups will enhance the crosslinking density when reacted with the epoxy groups from Monomer 1. The rigidified structure of the thiol will help maintain the overall network rigidity and contribute to the output Er, providing the necessary mechanical properties.
+
+###",epoxy(C1OC1),imine(NC),1.0,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+25,,,"To achieve a thermoset shape memory polymer system with a glass transition temperature (Tg) of approximately 100°C and a stress recovery (Er) of approximately 40 MPa, I propose the following novel monomer pair:
+
+**Monomer 1:**  
+**Structure:** A rigid bismaleimide core with additional phenolic groups for enhanced Tg.  
+**Chemical Formula:** C24H28N2O2  
+**Functional Groups:** Bismaleimide groups for crosslinking with thiol or vinyl functionalities.  
+**Molecular Weight:** Approximately 392 g/mol.  
+**Role:** The bismaleimide structure contributes to high rigidity and enhances the Tg via its large, planar structure, resulting in better molecular packing and rigidity at elevated temperatures.
+
+**Monomer 2:**  
+**Structure:** A multifunctional thiol compound with three thiol groups, designed to improve crosslinking density.  
+**Chemical Formula:** C6H12O3S3  
+**Functional Groups:** Thiol groups to react with the bismaleimide and create crosslinks.  
+**Molecular Weight:** Approximately 223 g/mol.  
+**Role:** The trithiol structure increases crosslinking density, contributing to the enhanced mechanical performance and achieving the targeted Er value.
+
+**Crosslinking Method:**  
+Utilize a thiol-ene reaction between the bismaleimide monomer (Monomer 1) and the trithiol (Monomer ",epoxy(C1OC1),imine(NC),1.0,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.,Not found,Not found
+26,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will select two novel monomers that will provide the necessary rigidity and crosslinking density. 
+
+### Monomer Design Considerations:
+1. **Tg of 150°C**: To achieve a high Tg, we will focus on rigid structures, possibly incorporating aromatic rings or heterocycles that enhance rigidity.
+2. **Er of 30 MPa**: This requires a higher crosslinking density, which can be achieved through functional groups that allow for effective crosslinking.
+
+### Proposed Monomers:
+
+**Monomer 1: 4,4'-Diaminodiphenyl Ether (DADE)**
+- **Structure**: 
+  - Contains two amine groups and a rigid ether linkage.
+  - The presence of the aromatic rings contributes to a high Tg.
+- **Molecular Weight**: Approximately 250 g/mol.
+- **Functional Groups**: Primary amines that can react with epoxy groups for crosslinking.
+
+**Monomer 2: Epoxy-Functionalized Bisphenol A (EBA)**
+- **Structure**: 
+  - A bisphenol structure with epoxy groups on both ends.
+  - The epoxy groups will allow for crosslinking with the amine groups from Monomer 1.
+- **Molecular Weight**:",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+27,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we need to carefully select monomers that will provide the required rigidity and crosslinking density. Below are the proposed novel monomer pairs:
+
+**Monomer 1:**
+- **Structure:** 4,4'-Methylenebis(2,6-dichlorophenol) (MBDCP)
+- **Molecular Weight:** 300 g/mol
+- **Functional Group:** Phenolic hydroxyl groups
+- **Description:** This monomer has a rigid structure due to the presence of two dichlorophenol groups, which increases the Tg significantly. The methylene bridge provides additional rigidity and enhances thermal stability.
+
+**Monomer 2:**
+- **Structure:** 1,3-Bis(3-aminopropyl)tetramethyl-disiloxane (BAPD)
+- **Molecular Weight:** 250 g/mol
+- **Functional Group:** Amine groups
+- **Description:** This monomer introduces flexibility through the siloxane backbone while providing reactive amine groups for crosslinking. The siloxane units contribute to the overall toughness and recovery stress of the polymer.
+
+**Crosslinking Strategy:**
+- The crosslinking can be achieved through a reaction between the phenolic hydroxyl groups of MBDCP and the amine groups",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+28,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will design two novel monomers that will provide the necessary rigidity and crosslinking density.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:** A rigid aromatic epoxy monomer with a high Tg.  
+**Chemical Structure:**  
+- 4,4'-Dihydroxybiphenyl diglycidyl ether (DGEBA derivative)  
+- Functional Groups: Epoxy groups for crosslinking.  
+- Molecular Weight: Approximately 350 g/mol.  
+- Rigid backbone due to the biphenyl structure, which contributes to a high Tg.
+
+**Justification:**  
+The biphenyl structure introduces significant rigidity, which elevates the Tg. The presence of two epoxy groups allows for effective crosslinking during polymerization, contributing to the desired mechanical properties.
+
+### Monomer 2: Flexible Thiol Monomer
+**Structure:** A flexible thiol monomer that can react with the epoxy groups.  
+**Chemical Structure:**  
+- 2,2'-Dithiodiethanol (Dithiol)  
+- Functional Groups: Thiol groups for crosslinking with the epoxy monomer.  
+- Molecular Weight: Approximately 150 g/mol.  
+- The flexible nature of the dithiol allows for some elasticity while still",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+29,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will design two novel monomers that can be crosslinked effectively to meet these specifications.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:**  
+- 4,4'-Diaminodiphenyl sulfone (DADS) derivative with additional aromatic rings to increase rigidity.
+- Functional groups: Epoxy groups at both ends for crosslinking.
+
+**Chemical Structure:**  
+- (C6H4)2SO2(C6H4)(O)2 (with epoxy groups)
+
+**Properties:**
+- High rigidity due to the presence of multiple aromatic rings.
+- Expected Tg: > 150°C due to the rigid structure.
+
+### Monomer 2: Crosslinking Agent
+**Structure:**  
+- A multifunctional thiol compound with three thiol groups (trithiol) to ensure high crosslinking density.
+- Example: 1,3,5-Tris(mercaptomethyl)benzene.
+
+**Chemical Structure:**  
+- C6H3(SH)3
+
+**Properties:**
+- High crosslinking density due to multiple thiol groups.
+- Expected to enhance recovery stress (Er) due to increased network density.
+
+### Crosslinking Strategy:
+- The epoxy groups from Monomer 1 will react with",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+30,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we need to carefully select monomers that provide the necessary rigidity and crosslinking density. Below are the proposed monomers:
+
+**Monomer 1: 4,4'-Diaminodiphenyl ether (DDE)**
+- Structure: This monomer has a rigid biphenyl structure with amine functional groups that can participate in crosslinking reactions.
+- Molecular Weight: Approximately 198 g/mol.
+- Rigid Structure: The biphenyl backbone contributes to a higher Tg due to its planar and rigid nature.
+- Functional Groups: The amine groups can react with epoxy or isocyanate groups for crosslinking.
+
+**Monomer 2: Epoxy resin (Diglycidyl ether of bisphenol A, DGEBA)**
+- Structure: This is a commonly used epoxy resin with a flexible ether linkage and a rigid bisphenol A backbone.
+- Molecular Weight: Approximately 340 g/mol (depending on the specific formulation).
+- Crosslinking Potential: The epoxy groups can react with the amine groups from Monomer 1 to form a highly crosslinked network.
+- Tg Contribution: The rigid bisphenol A structure enhances the Tg, and the crosslinking density can be adjusted by varying the stoichiometry of the amine and",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+31,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we need to select monomers that provide the necessary rigidity and crosslinking density. Below are the proposed novel monomers:
+
+**Monomer 1: 1,3-Bis(4-cyanophenyl)benzene (BCPB)**
+- Structure: A biphenyl derivative with cyano groups that enhance rigidity and increase Tg.
+- Molecular Weight: Approximately 250 g/mol.
+- Functional Groups: Contains two reactive sites that can participate in crosslinking (cyano groups can undergo polymerization reactions).
+- Expected Tg Contribution: The rigid biphenyl structure and cyano groups contribute to a high Tg, estimated around 160-170°C.
+
+**Monomer 2: 4,4'-Diisocyanatodiphenylmethane (MDI)**
+- Structure: A diisocyanate with a central methylene bridge connecting two phenyl rings, which provides high crosslinking potential.
+- Molecular Weight: Approximately 250 g/mol.
+- Functional Groups: Two isocyanate groups that can react with hydroxyl or amine groups to form urethane linkages, enhancing crosslink density.
+- Expected Er Contribution: The high crosslinking density from the isocyanate functionality can achieve the desired recovery stress, estimated around 30",vinyl(C=C),thiol(CCS),0.5,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+32,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will select two novel monomers that will provide the necessary properties when crosslinked appropriately.
+
+### Monomer 1: 
+**Structure:** 4,4'-Diisocyanato-1,1'-biphenyl (DIBP)
+
+**Description:** 
+- This monomer features two isocyanate groups on a rigid biphenyl structure, which contributes to a high Tg due to the rigidity of the biphenyl backbone. 
+- The isocyanate groups can react with a suitable polyol or amine to form a crosslinked network, enhancing the mechanical properties.
+
+### Monomer 2: 
+**Structure:** 1,4-Bis(3-mercaptopropylthio)benzene (BMPB)
+
+**Description:** 
+- This monomer contains thiol groups that are capable of participating in thiol-ene click chemistry to form crosslinks. 
+- The presence of two thiol groups allows for a high degree of crosslinking density, which is essential for achieving the desired recovery stress. The aromatic structure also contributes to the overall rigidity of the polymer network.
+
+### Crosslinking Strategy:
+- **Crosslinking Method:** Utilize a combination of DIBP and BMPB in a stoichiometric ratio to ensure complete reaction of",vinyl(C=C),thiol(CCS),0.5,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+33,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will select novel monomers that provide the necessary rigidity and crosslinking density.
+
+### Monomer Selection:
+
+**Monomer 1: 4,4'-Di(3-hydroxyphenyl) sulfone**
+- **Structure:** A rigid bifunctional phenolic monomer with a sulfone linkage that enhances thermal stability and rigidity.
+- **Molecular Weight:** Approximately 250 g/mol.
+- **Functionality:** Contains two hydroxyl groups that can be used for crosslinking with epoxy or isocyanate groups, contributing to a high Tg due to the rigid aromatic structure.
+- **Tg Contribution:** The presence of the sulfone and aromatic rings increases the Tg significantly, targeting the desired Tg of 150°C.
+
+**Monomer 2: 1,4-Bis(2,3-epoxypropyl)benzene**
+- **Structure:** A difunctional epoxy monomer with two epoxy groups that can react with the hydroxyl groups of Monomer 1.
+- **Molecular Weight:** Approximately 250 g/mol.
+- **Functionality:** The epoxy groups can undergo crosslinking reactions, leading to a dense network structure, which is essential for achieving the desired recovery stress.
+- **Er Contribution:** The high crosslinking density achieved through",vinyl(C=C),thiol(CCS),0.5,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+34,,,"To design a thermoset shape memory polymer (TSMP) with a target glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will select two novel monomers that can achieve these properties through careful molecular design and appropriate crosslinking.
+
+### Monomer Selection
+
+**Monomer 1: Rigid Epoxy Monomer**
+- **Structure:** 4,4'-Methylenediphenyl diglycidyl ether (MDGE)
+- **Molecular Weight:** Approximately 340 g/mol
+- **Functional Groups:** Epoxy groups that allow for crosslinking via imine formation or with thiol groups.
+- **Rationale:** The rigid aromatic structure contributes to a higher Tg due to increased steric hindrance and intermolecular interactions, essential for achieving the target Tg of 150°C.
+
+**Monomer 2: Crosslinking Agent**
+- **Structure:** 1,4-Bis(aminomethyl)cyclohexane (PAC)
+- **Molecular Weight:** Approximately 126 g/mol
+- **Functional Groups:** Amine groups that can react with epoxy groups to form a network structure.
+- **Rationale:** The cyclohexane backbone provides flexibility while the amine groups enhance crosslinking density, which is essential for achieving the desired recovery stress of 30 MPa.
+
+### Crosslinking Design
+- **Crosslinking Reaction:** The epoxy groups from Mon",vinyl(C=C),thiol(CCS),0.5,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+35,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will need to design two novel monomers that can provide the required properties through careful selection of their structures and functional groups.
+
+### Monomer Design
+
+**Monomer 1: Rigid Epoxy Monomer**
+- **Structure:** A bisphenol A-derived epoxy monomer with additional bulky aromatic groups to increase rigidity.
+- **Molecular Formula:** C21H22O4
+- **Functional Groups:** Epoxy groups for crosslinking.
+- **Key Features:** 
+  - The presence of bulky aromatic groups increases the rigidity of the polymer backbone, contributing to a higher Tg.
+  - The epoxy functional groups allow for efficient crosslinking through reactions with amines or thiols.
+
+**Monomer 2: Dithiol Crosslinker**
+- **Structure:** A dithiol compound with a rigid backbone, such as 1,4-benzenedithiol.
+- **Molecular Formula:** C6H6S2
+- **Functional Groups:** Thiol groups for crosslinking.
+- **Key Features:**
+  - The rigid structure of 1,4-benzenedithiol enhances the crosslinking density, which is crucial for achieving the desired recovery stress (Er).
+  - The thiol groups can react with the epoxy groups from Monomer 1 to form a",vinyl(C=C),thiol(CCS),0.5,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+36,,,"To achieve a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa for a thermoset shape memory polymer (TSMP), we'll need to select novel monomers that will provide the desired properties through appropriate molecular structure and crosslinking density. Below are two novel monomers designed to meet these criteria.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure**: 2,2-Bis(4-hydroxyphenyl)propane epoxy (a derivative of bisphenol A)  
+**Molecular Weight**: Approximately 250 g/mol  
+**Functional Group**: Epoxy group for crosslinking  
+**Properties**: The rigid aromatic structure provides high thermal stability, contributing to a Tg of around 150°C. The presence of epoxy groups allows for effective crosslinking.
+
+### Monomer 2: Dicyclopentadiene-Based Thiol
+**Structure**: Dicyclopentadiene thiol derivative (1,4-dithiabicyclo[2.2.1]heptane)  
+**Molecular Weight**: Approximately 180 g/mol  
+**Functional Group**: Thiol group for crosslinking via thiol-ene reactions  
+**Properties**: The dicyclopentadiene core adds rigidity and enhances the crosslinking density when combined with the epoxy from Monomer 1, enabling the attainment of",vinyl(C=C),thiol(CCS),0.7,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+37,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will design two novel monomers that fulfill the critical design rules outlined. 
+
+**Monomer 1: Rigid Aromatic Epoxy Monomer**
+
+- **Structure**: 4,4'-Bis(3,4-epoxyphenyl)diphenyl sulfone (a bisphenol-based epoxy)
+- **Molecular Weight**: Approximately 400 g/mol
+- **Functional Groups**: Epoxy groups for crosslinking
+- **Rationale**: The rigid aromatic structure of this monomer provides high thermal stability, which contributes to achieving the target Tg of 150°C. The sulfone group increases the thermal resistance and enhances the overall rigidity of the polymer network.
+
+**Monomer 2: Crosslinking Agent**
+
+- **Structure**: 1,4-Bis(aminomethyl)benzene (a diamine)
+- **Molecular Weight**: Approximately 200 g/mol
+- **Functional Groups**: Amine groups that can react with the epoxy groups to form crosslinks
+- **Rationale**: The use of a diamine as a crosslinking agent allows for a higher crosslink density, which is essential for achieving the desired recovery stress of 30 MPa. The amine groups will facilitate the curing process with the",vinyl(C=C),thiol(CCS),0.7,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+38,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will design two novel monomers with specific structures and functional groups that facilitate the desired properties.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:** 
+- A rigid aromatic backbone with multiple epoxy functional groups to enhance crosslinking.
+- Example: 1,4-Bis(3,4-epoxycyclohexyl)methylbenzene
+
+**Molecular Features:**
+- Aromatic rings provide high rigidity, contributing to an increased Tg.
+- The presence of two epoxy groups allows for efficient crosslinking during polymerization.
+
+**Expected Properties:**
+- Tg: Approximately 150°C due to high rigidity and strong intermolecular interactions.
+
+### Monomer 2: Flexible Crosslinker
+**Structure:** 
+- A flexible aliphatic thiol compound that can crosslink with the epoxy groups.
+- Example: 1,6-Hexanedithiol
+
+**Molecular Features:**
+- The flexible aliphatic chain introduces mobility while still providing crosslinking sites.
+- The presence of two thiol groups allows for significant crosslinking density.
+
+**Expected Properties:**
+- The balance of flexibility from the aliphatic chain and the rigidity from the aromatic epoxy will facilitate the desired recovery stress.
+
+### Crosslinking Strategy:
+- The combination",vinyl(C=C),thiol(CCS),0.7,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+39,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, I will propose two novel monomers that can be used in a crosslinked network. 
+
+### Monomer 1: 
+
+**Name:** 1,3-Bis(4-cyanophenyl)propane  
+**Structure:**  
+- A rigid aromatic compound with a propylene backbone.  
+- Contains cyano groups (-CN) which contribute to increased rigidity and higher Tg.  
+- Molecular weight: approximately 250 g/mol.
+
+**Functional Groups:**  
+- Contains two reactive cyano groups that can undergo crosslinking reactions (e.g., with thiols or other vinyl groups).
+
+### Monomer 2: 
+
+**Name:** 4,4'-Diacryloyl-2,2'-diphenyl ether  
+**Structure:**  
+- A flexible yet rigid structure due to the presence of two phenyl rings connected by an ether link, with acrylate groups for crosslinking.  
+- Molecular weight: approximately 300 g/mol.
+
+**Functional Groups:**  
+- Acrylate groups (-C(=O)C=C-) that can be crosslinked through radical polymerization or thiol-ene reactions.
+
+### Design Considerations:
+
+1. **Target Tg of 150°C:**  
+   - The combination of the rigid aromatic structure in Monomer 1 with",vinyl(C=C),thiol(CCS),0.7,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+40,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, I will propose two novel monomers that can be crosslinked effectively.
+
+### Monomer 1: 
+**Name:** 4,4'-Biphenyl-Dicarboxylic Acid Diacrylate  
+**Structure:** 
+- Core structure: 4,4'-biphenyl
+- Functional groups: Two acrylate groups at the carboxylic acid positions
+
+**Rationale:** 
+- The biphenyl structure provides rigidity due to its planar aromatic system, which contributes to a higher Tg. 
+- The diacrylate form allows for crosslinking, which is critical for achieving the required mechanical properties, including recovery stress.
+
+### Monomer 2: 
+**Name:** 1,3-Bis(2,3-epoxypropyl)-benzene  
+**Structure:** 
+- Core structure: A benzene ring with two epoxy groups at the 1,3-positions
+
+**Rationale:** 
+- The epoxy groups provide high crosslinking density when cured, which is essential for achieving the desired recovery stress. 
+- The presence of aromatic rings contributes to a higher Tg. The rigid nature of the epoxy functional groups also adds to the overall mechanical strength of the polymer.
+
+### Crosslinking Strategy:
+- The acrylate groups",vinyl(C=C),thiol(CCS),0.7,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+41,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will need to select appropriate monomers that lead to the desired properties. Below are the designed monomers along with their potential functionalities:
+
+### Monomer 1: 4,4'-Diaminodiphenyl Ether (DAPE)
+**Structure:**  
+- A rigid, aromatic amine with a molecular structure that includes two phenyl rings and an ether linkage.
+- Molecular Weight: 210.25 g/mol
+
+**Properties:**  
+- High Tg due to the presence of phenyl rings providing rigidity and resistance to thermal motion.
+- Suitable for forming strong crosslinks with epoxy groups.
+
+### Monomer 2: Epoxy-Functionalized Bisphenol A (EBA)
+**Structure:**  
+- A bisphenol A derivative with additional epoxy groups, allowing for extensive crosslinking.
+- Molecular Weight: 340.35 g/mol
+
+**Properties:**  
+- High Tg (epoxy groups increase thermal stability) and provides excellent mechanical properties through crosslinking.
+- Enables the formation of a highly crosslinked network when cured with amine hardeners.
+
+### Crosslinking Mechanism:
+The curing process will involve the reaction between the amine functionality of DAPE and the epoxy groups in EBA, leading to a highly crosslinked network that can achieve the desired Tg and Er",vinyl(C=C),thiol(CCS),0.9,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+42,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we need to select monomers that fulfill these criteria by incorporating rigid structures and optimizing crosslinking density. 
+
+### Monomer Selection:
+
+#### Monomer 1:
+**Structure:** 4,4'-Diaminodiphenyl sulfone (DADPS)  
+**Functional Groups:** Amine (for curing with epoxies)  
+**Molecular Formula:** C12H12N2O2S  
+**Description:** DADPS has a rigid biphenyl backbone that provides the necessary structural rigidity to achieve a Tg around 150°C. The presence of the sulfone group enhances thermal stability and crosslinking potential.
+
+#### Monomer 2:
+**Structure:** Epoxy-Functionalized Phenol (EFP)  
+**Functional Groups:** Epoxy  
+**Molecular Formula:** C13H12O3  
+**Description:** This monomer features an epoxy group that can react with the amine groups of DADPS, promoting crosslinking. The phenolic structure contributes additional rigidity, necessary for raising the Tg.
+
+### Synthesis and Crosslinking:
+To achieve the desired properties, we propose to synthesize the TSMP through the following method:
+
+1. **Mix DADPS and EFP** at a stoichiometric ratio of amine to epoxy groups",vinyl(C=C),thiol(CCS),0.9,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+43,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will design two novel monomers that will provide the necessary properties through careful selection of chemical structures and crosslinking strategies.
+
+**Monomer 1: Bis(4-(3,4-epoxycyclohexyl)methyl) terephthalate**
+- Structure: This monomer features a rigid bis(ether) structure with epoxy groups at both ends, contributing to a high Tg due to the rigidity imparted by the aromatic terephthalate moiety and the cyclohexyl rings.
+- Functional Groups: Two epoxy groups allow for efficient crosslinking.
+- Molecular Weight: Moderate (approximately 400 g/mol) to ensure a balance between flexibility and rigidity.
+
+**Monomer 2: 1,4-bis(thiol)cyclohexane-1,4-dicarboxylic acid**
+- Structure: This monomer contains thiol groups that can react with the epoxy groups from Monomer 1 to enhance crosslinking density. The cyclohexane ring adds stability and contributes to increased Tg.
+- Functional Groups: Two thiol functional groups provide the capacity for crosslinking with the epoxy groups.
+- Molecular Weight: Approximately 300 g/mol, allowing it to maintain flexibility necessary for stress recovery while ensuring a high degree of crosslinking.
+
+",vinyl(C=C),thiol(CCS),0.9,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+44,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will select two novel monomers that will achieve the desired properties through careful molecular design and appropriate crosslinking. 
+
+### Monomer Design:
+
+**Monomer 1:**
+- **Structure:** A polycyclic aromatic ether with isocyanate functional groups.
+- **Chemical Formula:** C20H16N2O2
+- **Description:** This monomer has a rigid backbone due to the polycyclic aromatic structure which provides high Tg characteristics. The two isocyanate groups allow for effective crosslinking, enhancing the mechanical properties of the polymer network. This monomer contributes to a Tg of approximately 150°C due to its structural rigidity.
+
+**Monomer 2:**
+- **Structure:** A multifunctional thiol bearing a branched aliphatic chain.
+- **Chemical Formula:** C6H14S2
+- **Description:** The branched thiol monomer adds flexibility to the polymer matrix while still allowing crosslinking to occur. The presence of multiple thiol groups enables robust network formation with the isocyanate from Monomer 1. This balance of rigidity and flexibility aids in achieving the required Er of 30 MPa.
+
+### Crosslinking Mechanism:
+The polymer network will be formed by combining Monomer 1 and Monomer ",vinyl(C=C),thiol(CCS),0.9,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+45,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will design two novel monomers that incorporate rigid structures and appropriate functional groups to facilitate crosslinking. The following monomers are tailored to satisfy the Tg and Er requirements.
+
+**Monomer 1:**  
+**Name:** 4,4'-Bis(2,3-epoxy-2-methyl-3-phenyl) diphenyl ether  
+**Structure:**  
+This monomer features two epoxy groups on a rigid diphenyl ether backbone, which enhances rigidity and raises the Tg. The presence of bulky phenyl groups contributes to the rigidity, helping to achieve the desired Tg.  
+**Molecular Weight:** Approximately 350 g/mol, contributing to sufficient crosslink density when polymerized.  
+**Functional Group:** Epoxy for crosslinking.
+
+**Monomer 2:**  
+**Name:** 3,4-Dihydro-2H-pyran-2-carboxylic acid (DHPCA)  
+**Structure:**  
+This monomer contains an acid functionality that can react with thiols or amines to create crosslinks. The cyclic structure contributes to the overall stiffness of the resulting polymer, which is essential in achieving a higher Tg.  
+**Molecular Weight:** Approximately 170 g/mol, balancing flexibility with the necessary crosslinking potential.  
+**",vinyl(C=C),thiol(CCS),0.9,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+46,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, I will propose two novel monomers that meet these criteria by focusing on their molecular weights, structures, and crosslinking density.
+
+### Monomer 1: 
+**Chemical Structure**: 4,4'-Diisocyanatodiphenylmethane (MDI)
+- **Functional Groups**: Isocyanate
+- **Molecular Weight**: Approximately 250 g/mol
+- **Rationale**: The diisocyanate structure contributes rigidity and high Tg due to the formation of strong urethane linkages upon curing with appropriate polyols or other compounds, ensuring high thermal stability. The rigid aromatic rings increase the Tg significantly, making it suitable for achieving the target Tg of 150°C.
+
+### Monomer 2:
+**Chemical Structure**: 3,4-Epoxydihydrofuran
+- **Functional Groups**: Epoxy
+- **Molecular Weight**: Approximately 130 g/mol
+- **Rationale**: The epoxy group provides a mechanism for crosslinking. This compound can react with the isocyanate groups from Monomer 1, forming hardened networks with high crosslinking density while allowing for recovery properties through shape memory effects. The furan ring enhances tensile strength and elasticity, contributing positively to the recovery stress",vinyl(C=C),thiol(CCS),1.0,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+47,,,"To achieve a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa for a thermoset shape memory polymer (TSMP), I will design two novel monomers with high rigidity and incorporate suitable crosslinking strategies.
+
+**Monomer 1: Rigid Epoxy-Derived Monomer**
+- Structure: A rigid bisphenol-A based epoxy monomer with additional rigid aromatic groups to increase Tg.
+- Chemical structure: 1,1'-((4,4'-isopropylidene)bis(phenol)) bis(3,4-epoxycyclohexylmethyl) ether 
+- Formula: C20H22O5 
+- Description: This monomer has a high molecular weight and incorporates an aromatic backbone which elevates the Tg significantly due to the increased steric hinderance and rigidity.
+
+**Monomer 2: Crosslinkable Thiol-Vinyl Monomer**
+- Structure: Thiol-based monomer containing a vinyl group for crosslinking which allows for high crosslink density.
+- Chemical structure: 2,2'-bis(3-mercaptopropyl) biphenyl 
+- Formula: C18H18S2 
+- Description: The presence of multiple thiol groups provides the ability to form crosslinks with vinyl groups resulting in a robust network to achieve a desired Er of 30 MPa.
+
+**Crosslinking Strategy:**
+- Utilize a thi",vinyl(C=C),thiol(CCS),1.0,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+48,,,"To design a thermoset shape memory polymer (TSMP) that achieves a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will focus on selecting two novel monomers that exhibit appropriate structure and crosslinking properties. 
+
+### Monomer Design:
+
+**Monomer 1: Novel Rigid Epoxy Monomer**
+- **Structure**: A bisphenol-F epoxide with a high functionality to promote crosslinking.
+- **Chemical Structure**: 
+   
+   ![Structure Monomer 1](https://www.researchgate.net/profile/Maurizio-Ratti-3/publication/310940115/figure/fig3/AS:595073078447872@1476616284215/Figure-3-Chemical-structures-of-evaporation-residue-based-epoxy-resin-EVA-1-Bisphenol.png)
+  
+- **Molecular Weight**: Approximately 400 g/mol.
+- **Functional Groups**: Contains multiple epoxy groups enabling efficient crosslinking. This rigid scaffold contributes to a high Tg value due to strong intermolecular forces.
+
+**Monomer 2: Multifunctional Acrylate**
+- **Structure**: A tetrafunctional acrylate based on a phenolic compound that can provide additional rigidity and enhance crosslinking density.
+- **Chemical Structure**: 
+   
+   ![Structure Monomer 2](https://www.research",vinyl(C=C),thiol(CCS),1.0,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+49,,,"To design a thermoset shape memory polymer (TSMP) capable of achieving a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will select novel monomer pairs with high rigidity and appropriate crosslinking density. The chosen functional groups will allow for robust network formation.
+
+### Monomer Selection
+
+**Monomer 1: 1,3-Bis(4-cyanophenyl)-2-propen-1-one (BP-Cyanophenyl)**  
+- **Structure:** This monomer features a rigid, biphenyl backbone with cyano groups that enhance rigidity and increase Tg due to their electron-withdrawing nature, creating strong intermolecular interactions.  
+- **Molecular Weight**: 250 g/mol (approximation, actual weight may vary with substitution).  
+- **Functionality**: The double bonds (vinyl groups) can undergo free radical polymerization, allowing for a high degree of crosslinking.
+
+**Monomer 2: 4,4'-Methylenedianiline (MDA)**  
+- **Structure:** This diamine offers the necessary amine functional groups for crosslinking with epoxy networks, contributing to both rigidity and crosslinking density.  
+- **Molecular Weight**: 198 g/mol (approximation).  
+- **Functionality**: Provides two amine groups for reaction with epoxy or acrylate functionality, enhancing chemical crosslinking capabilities and interaction",vinyl(C=C),thiol(CCS),1.0,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+50,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 150°C and a recovery stress (Er) of 30 MPa, we will select two novel monomers that follow the critical design rules provided. The selection will focus on obtaining high rigidity for the Tg and high crosslinking density for the Er.
+
+### Monomer design:
+
+#### Monomer 1: 
+**Structure**: 1,4-Bis(4-hydroxyphenyl)cyclohexane (BPHC)
+- **Functional Group**: Hydroxy groups (-OH) for crosslinking via epoxy or phenolic curing.
+- **Molecular Weight**: Approximately 300 g/mol.
+- **Rationale**: The rigid cyclohexane ring structure increases the rigidity, which helps to raise the Tg above 150°C. The presence of two hydroxyl groups allows for robust crosslinking through condensation reactions with other reactive groups.
+
+#### Monomer 2: 
+**Structure**: 3,3',5,5'-Tetra(3-aminopropyl)2,2'-bipyridine
+- **Functional Group**: Amine groups (-NH2) for crosslinking through epoxy-imine chemistry.
+- **Molecular Weight**: Approximately 440 g/mol.
+- **Rationale**: The bipyridine structure affords steric hindrance and rigidity, enhancing the thermal properties of the",vinyl(C=C),thiol(CCS),1.0,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.,Not found,Not found
+51,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we need to carefully select monomers that provide the necessary rigidity and crosslinking density. Below are two novel monomers designed to meet these criteria.
+
+**Monomer 1: 4,4'-Diaminodiphenyl Ether (DDE)**  
+- **Structure:** A rigid aromatic diamine with ether linkages that provide thermal stability and high Tg.  
+- **Molecular Weight:** Approximately 200 g/mol.  
+- **Functional Groups:** Amino groups (-NH2) for crosslinking with epoxy groups.  
+- **Contribution to Tg:** The rigid aromatic structure contributes significantly to the high Tg due to strong π-π stacking interactions and increased chain stiffness.
+
+**Monomer 2: Diglycidyl Ether of Bisphenol A (DGEBA)**  
+- **Structure:** A common epoxy resin with a flexible ether backbone and two epoxy groups.  
+- **Molecular Weight:** Approximately 340 g/mol.  
+- **Functional Groups:** Epoxy groups (-O-CH2-CH-) for crosslinking with the amine groups from Monomer 1.  
+- **Contribution to Er:** The crosslinking density can be optimized by varying the stoichiometry of DDE and DGEBA, leading to enhanced mechanical properties and achieving the target",vinyl(C=C),vinyl(C=C),0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+52,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we will design two novel monomers that will provide the necessary rigidity and crosslinking density.
+
+**Monomer 1: Rigid Aromatic Epoxy Monomer**
+- Structure: A bisphenol-based epoxy with additional rigid aromatic groups.
+- Molecular Formula: C18H18O4
+- Functional Group: Epoxy
+- Description: This monomer features a rigid structure due to the presence of aromatic rings, which will contribute to a high Tg. The epoxy groups allow for crosslinking during polymerization, enhancing the thermal stability and mechanical properties of the resulting polymer.
+
+**Monomer 2: Crosslinking Agent with Thiol Groups**
+- Structure: A multifunctional thiol compound with a branched structure.
+- Molecular Formula: C12H24S3
+- Functional Group: Thiol
+- Description: This monomer contains multiple thiol groups that can react with the epoxy groups from Monomer 1 to form a highly crosslinked network. The branched structure increases the crosslinking density, which is essential for achieving the desired Er value.
+
+**Crosslinking Strategy:**
+- The reaction between the epoxy groups of Monomer 1 and the thiol groups of Monomer 2 will create a dense crosslinked network. The high crosslinking density will",vinyl(C=C),vinyl(C=C),0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+53,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we will design two novel monomers that can be crosslinked effectively. 
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(3,4-epoxycyclohexyl) sulfide  
+**Structure:**  
+- Rigid structure with two epoxy groups and a sulfur atom providing additional crosslinking sites.  
+- Molecular Weight: Approximately 300 g/mol.  
+- Functional Group: Epoxy.  
+- Rationale: The epoxy groups contribute to a high Tg due to the rigidity of the cyclohexyl rings, which increases the thermal stability of the polymer network.
+
+### Monomer 2: 
+**Name:** 1,3-Bis(4-isocyanatophenyl) propane  
+**Structure:**  
+- Contains two isocyanate groups that can react with the hydroxyl groups from the epoxy monomer to form a crosslinked network.  
+- Molecular Weight: Approximately 250 g/mol.  
+- Functional Group: Isocyanate.  
+- Rationale: The isocyanate groups allow for a high degree of crosslinking, which is essential for achieving the desired Er value. The aromatic structure contributes to the rigidity, further enhancing the Tg.
+
+### Crosslinking Strategy:
+- The epoxy groups from Monomer ",vinyl(C=C),vinyl(C=C),0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+54,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we need to carefully select monomers that provide high rigidity and optimize crosslinking density. Below are the proposed novel monomers designed to meet these criteria.
+
+**Monomer 1:**
+- **Structure:** 4,4'-Diaminodiphenyl sulfone (DADS)
+- **Molecular Weight:** Approximately 250 g/mol
+- **Functional Groups:** Two amine groups (-NH2) for crosslinking with epoxy groups.
+- **Rationale:** This monomer has a rigid aromatic structure that contributes to a high Tg due to the strong interchain interactions and high thermal stability. The sulfone group enhances thermal properties and provides additional rigidity.
+
+**Monomer 2:**
+- **Structure:** Diglycidyl ether of bisphenol A (DGEBA)
+- **Molecular Weight:** Approximately 340 g/mol
+- **Functional Groups:** Two epoxy groups (-Epoxy) for crosslinking with amine groups.
+- **Rationale:** The presence of two epoxy groups allows for effective crosslinking with the amine groups from Monomer 1, leading to a highly crosslinked network. The rigid bisphenol A structure contributes to a higher Tg.
+
+**Crosslinking Strategy:**
+- The reaction between DADS and DGEBA will",vinyl(C=C),vinyl(C=C),0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+55,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we will design two novel monomers that will provide the necessary rigidity and crosslinking density.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:** 4,4'-diaminodiphenylsulfone (DADS) based epoxy  
+**Molecular Structure:**  
+- Core: Aromatic ring system to enhance rigidity.  
+- Functional Group: Epoxy groups for crosslinking.  
+
+**Molecular Weight:** Approximately 300 g/mol.  
+**Key Features:**  
+- High Tg due to the rigid aromatic structure.  
+- Epoxy groups allow for effective crosslinking with other monomers.  
+
+### Monomer 2: Crosslinking Agent
+**Structure:** Thiol-functionalized phenolic resin  
+**Molecular Structure:**  
+- Core: Phenolic structure with thiol (-SH) groups.  
+- Functional Group: Thiol groups for crosslinking with the epoxy monomer.  
+
+**Molecular Weight:** Approximately 250 g/mol.  
+**Key Features:**  
+- Provides additional crosslinking sites, enhancing the network density.  
+- The phenolic structure contributes to the overall thermal stability and Tg.  
+
+### Crosslinking Strategy:
+- **Crosslinking Reaction:** The epoxy groups from Monomer 1",vinyl(C=C),vinyl(C=C),0.3,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+56,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we will design two novel monomers that can be crosslinked effectively to meet these criteria. 
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(3,4-epoxycyclohexyl) sulfone  
+**Structure:**  
+- A rigid, bicyclic structure that incorporates epoxy groups for crosslinking.  
+- The sulfone group enhances thermal stability and contributes to increasing Tg due to its strong electron-withdrawing nature, further stabilizing the polymer backbone.
+
+**Molecular Characteristics:**  
+- Molecular Weight: Approximately 350 g/mol  
+- Rigid structure with high thermal stability, contributing to a higher Tg.
+
+### Monomer 2: 
+**Name:** 1,3-Bis(4-aminophenyl) propane  
+**Structure:**  
+- A linear diamine with aromatic rings that provide rigidity and high Tg.  
+- The amine functional groups can react with the epoxy groups of Monomer 1 to form a robust crosslinked network.
+
+**Molecular Characteristics:**  
+- Molecular Weight: Approximately 250 g/mol  
+- The presence of aromatic rings helps in achieving the desired Tg and contributes to the mechanical properties necessary for a high Er.
+
+### Crosslinking Strategy:
+The crosslinking will occur through the reaction of the epoxy groups from",vinyl(C=C),vinyl(C=C),0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+57,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we need to carefully select monomers that provide the necessary rigidity and crosslinking density. Here are two novel monomers designed to meet these criteria:
+
+**Monomer 1:**  
+**Name:** 4,4'-Bis(4-cyanophenyl)diphenyl ether  
+**Structure:**  
+- This monomer features a diphenyl ether backbone with two cyanophenyl groups. The presence of the cyanide groups increases rigidity due to the strong electron-withdrawing nature, contributing to a higher Tg.  
+- Molecular Weight: Approximately 330 g/mol  
+- Functional Group: Contains a nitrile group which can participate in crosslinking reactions.
+
+**Monomer 2:**  
+**Name:** 1,3-Bis(4-aminophenyl)benzene  
+**Structure:**  
+- This monomer consists of a benzene ring substituted with two para-aminophenyl groups. The amino groups can react with epoxy groups during the curing process, leading to a high degree of crosslinking which is essential for achieving the desired Er value.  
+- Molecular Weight: Approximately 250 g/mol  
+- Functional Group: Contains amine groups that can effectively crosslink with epoxides.
+
+**Crosslinking Strategy:**  
+- A suitable crosslinking agent would be a",vinyl(C=C),vinyl(C=C),0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+58,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, I will propose two novel monomers that can be used in combination to create the desired polymer properties.
+
+### Monomer 1: 
+**Structure:**  
+1,3-Bis(4-isocyanatophenyl)benzene  
+**Molecular Formula:** C15H10N2O2  
+**Description:** This monomer contains rigid aromatic structures with isocyanate functional groups, which can lead to high Tg due to increased chain stiffness and crosslinking potential. The presence of two isocyanate groups allows for effective crosslinking with other functional groups.
+
+### Monomer 2: 
+**Structure:**  
+4,4'-Methylenedianiline (MDA)  
+**Molecular Formula:** C13H12N2  
+**Description:** MDA is a diamine that can react with the isocyanate groups from Monomer 1 to form a urethane linkage. The rigid amine structure contributes to the overall rigidity of the polymer network, enhancing the Tg. Additionally, MDA can facilitate a higher crosslink density, contributing to the desired Er value.
+
+### Crosslinking Strategy:
+The reaction between the isocyanate groups of Monomer 1 and the amine groups of Monomer 2 will form a urethane network. This",vinyl(C=C),vinyl(C=C),0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+59,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we need to carefully select monomers that provide the necessary rigidity and crosslinking density. Below are two novel monomers designed to meet these criteria.
+
+### Monomer 1: 4,4'-Bis(3,4-epoxycyclohexyl)pentanoic Acid (BCECPA)
+- **Structure**: This monomer features two epoxy groups on a rigid cyclohexane backbone, providing high Tg due to the rigidity of the cyclohexane rings.
+- **Molecular Weight**: Approximately 300 g/mol.
+- **Functional Groups**: Epoxy groups, which are suitable for crosslinking via thermal or catalytic curing methods.
+- **Rationale**: The cyclohexane structure increases the rigidity of the polymer, contributing to a higher Tg. The presence of two epoxy groups allows for efficient crosslinking, enhancing the Er value.
+
+### Monomer 2: 1,4-Bis(4-isocyanatobenzyl)benzene (BIBB)
+- **Structure**: This monomer contains two isocyanate groups attached to a rigid benzene backbone, which also contributes to a high Tg.
+- **Molecular Weight**: Approximately 300 g/mol.
+- **Functional Groups**: Isocyan",vinyl(C=C),vinyl(C=C),0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+60,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, I will propose two novel monomers that will facilitate the desired properties through careful structural design and appropriate crosslinking.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:** A di-functional epoxy monomer derived from bisphenol A with an additional rigid aromatic group to enhance the Tg.
+
+- **Chemical Formula:** C21H18O4
+- **Functional Groups:** Epoxy groups
+- **Molecular Structure:** 
+  - The core structure consists of two epoxy groups attached to a rigid aromatic backbone, which increases rigidity and, consequently, the Tg.
+
+### Monomer 2: Crosslinking Thiol Monomer
+**Structure:** A tri-functional thiol monomer containing a branched aliphatic chain to promote crosslinking density while maintaining flexibility.
+
+- **Chemical Formula:** C12H24S3
+- **Functional Groups:** Thiol groups
+- **Molecular Structure:**
+  - The monomer features three thiol functional groups attached to a branched aliphatic chain. This design will enhance the crosslinking density when reacted with the epoxy monomer, achieving the desired Er.
+
+### Synthesis and Crosslinking
+1. **Synthesis of Monomers:** Both monomers can be synthesized using standard organic synthesis techniques.",vinyl(C=C),vinyl(C=C),0.5,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+61,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we will select novel monomers that can provide the desired properties through their molecular structures and crosslinking characteristics.
+
+### Monomer 1: 
+**Structure**: 4,4'-Bis(3,4-epoxycyclohexyl)pentanoic acid  
+**Functional Groups**: Epoxy  
+**Molecular Weight**: Moderate to high, allowing for rigidity  
+**Properties**: 
+- The epoxy functional groups will facilitate crosslinking, while the rigid cyclohexyl rings contribute to increased Tg.
+- The pentanoic acid backbone provides some flexibility without compromising the rigidity, helping to achieve the desired Tg.
+
+### Monomer 2: 
+**Structure**: 1,3-Bis(4-(vinylphenyl))benzene  
+**Functional Groups**: Vinyl  
+**Molecular Weight**: Moderate  
+**Properties**: 
+- The vinyl groups will allow for effective crosslinking through radical polymerization.
+- The phenyl groups provide rigidity and enhance the overall mechanical properties of the resulting polymer, contributing to both Tg and Er.
+
+### Crosslinking Strategy:
+- **Crosslinking Density**: The combination of the epoxy groups from Monomer 1 and the vinyl groups from Monomer 2 will create a highly crosslinked network. This",vinyl(C=C),vinyl(C=C),0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+62,,,"To achieve a thermoset shape memory polymer (TSMP) with a target glass transition temperature (Tg) of 200°C and a stress recovery modulus (Er) of 27 MPa, I will propose two novel monomers that meet the critical design rules outlined. 
+
+### Monomer 1: Rigid Epoxy-based Monomer
+**Chemical Structure:** 
+- 2,2-bis(4-(glycidyloxy)phenyl)propane (BGP)
+
+**Description:** 
+- This monomer contains two epoxy functional groups, which contribute to high rigidity and provide excellent thermal stability due to the aromatic rings. The presence of the epoxy groups allows for effective crosslinking, leading to higher Tg values. The Tg for this structure can be estimated to be above 200°C due to the rigid backbone formed by the phenolic units.
+
+### Monomer 2: Crosslinking Agent
+**Chemical Structure:** 
+- 1,6-Hexanedithiol (HDT)
+
+**Description:**
+- This monomer features thiol functional groups that can participate in a thiol-ene reaction with vinyl groups present in the epoxy monomer. The linear structure of 1,6-hexanedithiol promotes crosslinking density when combined with the epoxy groups, enhancing the mechanical properties, including the stress recovery (Er). The crosslink density can be fine-tuned by varying the stoichiometry of this monomer relative to Monomer 1.
+
+",vinyl(C=C),vinyl(C=C),0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+63,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) value of 27 MPa, I will design two novel monomers that can effectively yield these properties upon polymerization and crosslinking.
+
+**Monomer 1:**  
+**Name:** 4,4'-Diisocyanatodiphenylsulfone (DIDS)  
+**Structure:**  
+- Contains two isocyanate functional groups for crosslinking.
+- The sulfone group contributes to the rigidity and increases the Tg due to the strong electron-withdrawing nature of the sulfone.
+- Aromatic structure provides high thermal stability and rigidity.  
+**Molecular Weight:** Approximately 300 g/mol.
+
+**Monomer 2:**  
+**Name:** 2-Hydroxyethyl methacrylate (HEMA) functionalized with a rigid aromatic ring (RHEMA)  
+**Structure:**  
+- The methacrylate group provides a reactive site for crosslinking.
+- The addition of a rigid aromatic ring enhances the rigidity of the polymer backbone, raising the Tg.
+- The hydroxyl group allows for potential further crosslinking or reaction in the presence of isocyanate groups.  
+**Molecular Weight:** Approximately 180 g/mol.
+
+### Crosslinking Strategy
+- **Crosslinking Mechanism:** The isocyanate groups from Monomer 1 (DIDS)",vinyl(C=C),vinyl(C=C),0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+64,,,"To achieve a thermoset shape memory polymer with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we need to select appropriate monomers that provide a rigid structure and facilitate high crosslinking density. Below are two novel monomers designed to meet these critical requirements.
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(4-hydroxyphenyl)diphenylsulfone  
+**Structure:**  
+- A rigid structure with two phenolic hydroxyl groups that can serve as reactive sites for crosslinking.
+- Contains a diphenylsulfone moiety to enhance thermal stability and rigidity.
+  
+**Molecular Weight:** 350 g/mol (approx.)  
+**Functional Groups:** Hydroxyl groups for potential crosslinking with isocyanates or epoxy groups.
+
+### Monomer 2: 
+**Name:** 1,4-Bis(2,3-epoxypropyl)-2,5-dimethylbenzene  
+**Structure:**  
+- Contains two epoxy groups that facilitate crosslinking.
+- The dimethyl groups contribute to the rigidity while ensuring sufficient flexibility to accommodate the crosslinking process.
+
+**Molecular Weight:** 250 g/mol (approx.)  
+**Functional Groups:** Epoxy groups for crosslinking with the hydroxyl groups from Monomer 1.
+
+### Crosslinking Strategy:
+- **Crosslinking Reaction:** The hydrox",vinyl(C=C),vinyl(C=C),0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+65,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we will design two novel monomers that balance rigidity and crosslinking density effectively.
+
+**Monomer 1: Dicyclopentadiene-based Epoxy Monomer**
+
+- Structure: A dicyclopentadiene-derived epoxy monomer with a high degree of rigidity.
+- Functional Group: Epoxy group for crosslinking.
+- Molecular Weight: Approximately 300 g/mol.
+- Rigid Structure: The dicyclopentadiene skeleton provides a high Tg.
+- Expected Tg Contribution: Approximately 230-250°C due to the rigid bicyclic structure.
+
+**Monomer 2: Aromatic Amine Crosslinker**
+
+- Structure: A novel aromatic diamine featuring a rigid phenyl group and alkyl linkers.
+- Functional Group: Two amine groups for crosslinking with epoxy.
+- Molecular Weight: Approximately 250 g/mol.
+- Rigidity: The aromatic rings enhance rigidity while contributing to crosslink density.
+- Expected Tg Contribution: Approximately 180-200°C, which helps achieve the desired overall Tg.
+
+**Crosslinking Strategy:**
+- The epoxy groups of Monomer 1 will react with the amine groups of Monomer 2, resulting in a highly crosslinked network.
+- The degree of crosslinking can be adjusted by",vinyl(C=C),vinyl(C=C),0.7,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+66,,,"To achieve a thermoset shape memory polymer (TSMP) with a target glass transition temperature (Tg) of 200°C and stress recovery modulus (Er) of 27 MPa, we will need to design two novel monomers that adhere to the critical design rules. The selected monomers will feature rigid structures and appropriate functional groups for effective crosslinking.
+
+**Monomer 1:**  
+**Structure:** 4,4'-Diphenyl ether bisphenol A (DPEBA)  
+**Functional Group:** Phenolic hydroxyl groups  
+**Molecular Weight:** ~266 g/mol  
+**Description:** This monomer provides high rigidity due to the bulky diphenyl ether groups which can enhance Tg significantly. The phenolic hydroxyls can engage in hydrogen bonding, contributing to thermal stability and a higher Tg.
+
+**Monomer 2:**  
+**Structure:** 1,4-bis(aziridinyl)benzene  
+**Functional Group:** Aziridine groups  
+**Molecular Weight:** ~205 g/mol  
+**Description:** The aziridine functional groups are effective for crosslinking. These provide a high density of crosslinking sites, which is essential for achieving the desired Er. The rigid benzene ring structure further contributes to the elevated Tg.
+
+**Crosslinking Strategy:**  
+Utilize an epoxy-amine reaction where the DPEBA with hydroxyl groups reacts with the aziridinyl groups in the 1,4-b",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+67,,,"To achieve a thermoset shape memory polymer with a Tg of 200°C and Er of 27 MPa, we will design two novel monomers with specific structures and functionalities that meet the desired properties.
+
+**Monomer 1: Bisphenol A Diacrylate Derivative**
+- **Structure:** A rigid structure derived from Bisphenol A with two acrylate functional groups.
+- **Molecular weight:** Approximately 250 g/mol.
+- **Functional groups:** Acrylate groups for crosslinking.
+- **Justification:** The rigidity from the Bisphenol A structure will contribute to a higher Tg due to enhanced steric hindrance and strong π-π interactions, while the acrylate groups allow for effective crosslinking.
+
+**Monomer 2: 1,3-Bis(4-formylphenyl)urea**
+- **Structure:** A urea derivative containing two formyl groups, providing potential for imine crosslinking with amine-containing linkers.
+- **Molecular weight:** Approximately 300 g/mol.
+- **Functional groups:** Formyl groups which can react with amine groups to form imine linkages, enhancing crosslinking density.
+- **Justification:** The urea moiety provides additional rigidity and thermal stability, while the formyl groups enable a higher crosslinking density, thus contributing to both Tg and Er.
+
+**Design Considerations:**
+- The combination of these two monomers will yield a highly",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+68,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we will select novel monomers that can fulfill these requirements. The goal is to attain a high Tg through rigid structures while optimizing the crosslinking density to achieve the desired Er.
+
+### Monomer Design
+
+**Monomer 1: Rigid Epoxy Monomer**
+- Structure: A phenoxy-based epoxy with a heavy aromatic backbone.
+- Example: 4,4'-Diglycidyl ether of bisphenol A (DGEBA) with an additional rigid aromatic motif.
+- Molecular Structure: 
+  - A phenol group attached to an epoxide (epoxy functional group).
+  - Substituents that enhance rigidity, such as –CF3 or –C6H4 groups.
+
+**Monomer 2: Crosslinking Agent**
+- Structure: A polyfunctional amine or thiol with multiple reactive sites to facilitate extensive crosslinking.
+- Example: Tris(2-aminoethyl)amine which contains three amine groups or a thiol functionalized compound like trimethylolpropane tris(3-mercaptopropionate).
+- Molecular Structure:
+  - A trifunctional structure ensuring dense crosslinking.
+  - The chemical structure should enable reactions with the epoxy groups from Monomer 1.
+
+### Final Polymer Design Consideration:
+Combining these",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+69,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery modulus (Er) of 27 MPa, we need to carefully select novel monomers that will provide the required rigidity and crosslinking density. Below are two unique monomers designed with these goals in mind.
+
+### Monomer 1: Rigid Aromatic Epoxy
+- **Chemical Structure:** 
+  - 4,4'-Di(2-phenyl-2-oxoethyl)diphenyl ether
+  - This monomer possesses a rigid aromatic backbone which increases Tg due to its high molecular rigidity. The presence of multiple phenyl groups enhances thermal stability and increases the Tg.
+- **Functional Group:** 
+  - Epoxy groups are available for crosslinking, enabling a high degree of network formation.
+- **Molecular Weight:** 
+  - Approximately 350 g/mol to provide sufficient reactivity while maintaining rigid structure.
+
+### Monomer 2: Flexible Alkyl Thiol
+- **Chemical Structure:** 
+  - 1,6-Hexanedithiol
+  - This monomer introduces some flexibility in the polymer network, allowing controlled crosslinking. Its chain length helps to regulate the crosslinking density while contributing to the shape memory effect.
+- **Functional Group:** 
+  - Thiol groups can react with vinyl functional groups from the epoxy monomer in a thiol-ene reaction, enabling effective",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+70,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we can design novel monomers that meet the critical design rules outlined. Below are two monomers that can help achieve these goals.
+
+### Monomer 1:
+**Name:** 4,4'-Bis(ether-phenyl) Dicyclopentadiene (BEPD)
+
+**Structure:**
+- Rigid aromatic ether backbone to increase Tg.
+- Two phenolic rings providing additional structural rigidity and increasing the glass transition temperature.
+- The dicyclopentadiene moiety facilitates crosslinking through thermal curing.
+
+**Functional Groups:**
+- Dicyclopentadiene has reactive double bonds that promote crosslinking via Diels-Alder reactions.
+  
+**Target Characteristics:**
+- High molecular weight and rigidity lead to Tg ≈ 210°C, which can be adjusted by the specific ratio during polymerization.
+
+### Monomer 2:
+**Name:** 3,3’-Diallyl-4,4’-diaminodiphenyl sulfone (DADDS)
+
+**Structure:**
+- Incorporates allyl groups for easy crosslinking via thiol-ene reactions.
+- The presence of sulfone group enhances thermal stability and Tg while maintaining flexibility in the network.
+
+**Functional Groups:**
+- Allyl groups provide versatile crosslinking options",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+71,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and an elastic recovery (Er) of 27 MPa, we need to carefully select and design monomers that provide the desired properties. 
+
+### Monomer Design
+
+#### Monomer 1: Rigid Phenolic-Derived Disulfonamide
+- **Structure**: A biphenyl framework with two sulfonamide groups that can act as crosslinking points.
+- **Molecular Weight**: Approx. 350 g/mol.
+- **Functionality**: Two functional groups for crosslinking - sulfonamide groups, which tend to create a more rigid network. A biphenyl structure provides high rigidity, contributing towards a high Tg.
+- **Contributes to Tg**: The aromatic nature and rigidity of the biphenyl group increases the Tg significantly.
+
+#### Monomer 2: Flexible Ethylene Glycol Dimethacrylate (EGDMA)
+- **Structure**: Ethylene glycol backbone with two methacrylate groups at each end.
+- **Molecular Weight**: Approx. 198 g/mol.
+- **Functionality**: Two methacrylate groups serve as crosslinking sites that can enhance the crosslink density.
+- **Contributes to Er**: EGDMA provides flexibility and will enhance the recovery properties post-crosslinking, allowing for a balance between rigidity from Monomer 1 and",vinyl(C=C),vinyl(C=C),1.0,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+72,,,"To achieve a thermoset shape memory polymer (TSMP) with a targeted glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, I will propose two novel monomers strategically designed for high Tg and optimized crosslinking density.
+
+### Monomer 1: 
+**Name:** 2,6-Dimethylphenyl 4-(oxiran-2-ylmethoxy)benzoate  
+**Structure:**  
+- Contains a rigid aromatic backbone with two methyl substituents that enhance rigidity and stability.  
+- Epoxy functional group incorporated for high crosslinking capability while maintaining a flexible ether linkage for shape memory properties.  
+- Structure:  
+  ![Structure](https://www.chemdraw.com/)
+  
+- **Molecular Weight:** Approximately 284 g/mol.  
+- **Functional Groups:** Epoxy and ester.
+
+### Monomer 2: 
+**Name:** 1,3-Bis(3-aminomethylphenyl)urea  
+**Structure:**  
+- Rigid urea structure with amino groups that can act as crosslinking points.  
+- The presence of aromatic rings contributes to the polymer's overall rigidity of the final network, aiding in achieving the desired high Tg.  
+- Structure:  
+  ![Structure](https://www.chemdraw.com/)
+  
+- **Molecular Weight:** Approximately 278 g/mol.  
+- **Functional Groups:** Amino and u",vinyl(C=C),vinyl(C=C),1.0,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+73,,,"To design a thermoset shape memory polymer with a Tg of 200°C and an Er of 27 MPa, we will select monomers that provide high rigidity for the desired Tg and optimize the crosslinking density for the required Er. Below are two novel monomers that I have developed specifically for this purpose.
+
+**Monomer 1:**  
+**Name:** 4,4'-Methylenediphenyl diisocyanate (MDI) derivative  
+**Structure:** A modified structure where the benzene rings are substituted with electron-withdrawing groups (such as -CF3) to increase rigidity.  
+**Molecular Weight:** Approximately 250 g/mol  
+**Functional Groups:** Two isocyanate (-NCO) groups for crosslinking.  
+**Properties:** High Tg due to the rigidity provided by substituted benzene rings and the presence of multiple aromatic moieties.
+
+**Monomer 2:**  
+**Name:** 1,2-Bis(3-hydroxyphenyl)ethane diacrylate  
+**Structure:** A diacrylate monomer with two hydroxyphenyl groups connected by an ethane bridge, which enhances crosslinking efficiency and increases glass transition temperature.  
+**Molecular Weight:** Approximately 300 g/mol  
+**Functional Groups:** Two acrylate groups for crosslinking.  
+**Properties:** Provides additional flexibility during processing while contributing to the overall Tg and allowing for efficient crosslinking.
+
+**",vinyl(C=C),vinyl(C=C),1.0,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+74,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 200°C and a stress recovery (Er) of 27 MPa, we need to create two novel monomers that cater to these requirements. Below are the proposed monomers along with their structures and justifications for their design considering the critical design rules.
+
+### Monomer 1: 
+**Name**: Dihydroxyphenylbenzimidazole  
+**Structure**:  
+![Dihydroxyphenylbenzimidazole](https://via.placeholder.com/150) (Placeholder for structure)
+
+- **Rationale**: This monomer has a rigid aromatic framework due to the presence of the benzimidazole unit, which contributes to a higher Tg. The two hydroxyl groups facilitate additional hydrogen bonding, enhancing interaction and stability within the polymer network, promoting higher Tg values.
+
+### Monomer 2: 
+**Name**: 4,4'-Bis(3-mercaptopropyl)diphenylsulfone  
+**Structure**:  
+![4,4'-Bis(3-mercaptopropyl)diphenylsulfone](https://via.placeholder.com/150) (Placeholder for structure)
+
+- **Rationale**: This monomer has multiple thiol groups that will enable efficient crosslinking through thiol-ene or thiol-acrylate reactions. The diphenylsulfone groups add rigidity to the structure",vinyl(C=C),vinyl(C=C),1.0,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+75,,,"To achieve a thermoset shape memory polymer with a glass transition temperature (Tg) of 200°C and a stress recovery modulus (Er) of 27 MPa, I will design two novel monomers that exhibit high rigidity and allow for optimized crosslinking.
+
+### Monomer Structure Design
+
+**Monomer 1: Rigid Epoxy Monomer**
+- **Chemical Structure**: A tricyclic epoxy monomer with high molecular weight to enhance rigidity. This structure will contain aromatic rings to increase Tg. 
+- **Example Structure**: 1,3-Bis(3,4-epoxycyclohexyl)methyl-1,2,3,4-tetrahydronaphthalene
+- **Molecular Features**: 
+  - Epoxy groups for crosslinking.
+  - Aromaticity to impart rigidity.
+
+**Monomer 2: Crosslinking Agent**
+- **Chemical Structure**: A multifunctional thiol with a rigid backbone capable of facilitating crosslinking with the epoxy monomer.
+- **Example Structure**: 1,3-Bis(4-thiolphenyl)-2-propanol
+- **Molecular Features**:
+  - Multiple thiol groups for effective crosslinking.
+  - Phenolic rings to provide additional rigidity and interlinking.
+
+### Summary of Selected Monomers:
+- **Monomer 1**: 1,3-Bis(3,4-epoxycyclohex",vinyl(C=C),vinyl(C=C),1.0,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.,Not found,Not found
+76,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we need to select monomers that provide rigidity and enable a high degree of crosslinking. Below are two novel monomers designed to meet these criteria.
+
+**Monomer 1: Bisphenol A Diglycidyl Ether (BPA-DGE)**  
+- **Structure:** A rigid structure containing two epoxy groups.  
+- **Molecular Weight:** Approximately 340 g/mol.  
+- **Functional Groups:** Epoxy groups for crosslinking.  
+- **Properties Contribution:** The rigid aromatic structure contributes to a higher Tg due to increased chain stiffness. The epoxy groups allow for effective crosslinking, enhancing the mechanical properties.
+
+**Monomer 2: 1,4-Bis(aminomethyl)benzene (BAM)**  
+- **Structure:** A rigid aromatic diamine.  
+- **Molecular Weight:** Approximately 150 g/mol.  
+- **Functional Groups:** Amine groups for crosslinking with epoxy.  
+- **Properties Contribution:** The rigid structure and the presence of two amine groups facilitate strong crosslinking with the epoxy groups from Monomer 1, which will help achieve the desired Er value.
+
+**Crosslinking Strategy:**  
+- The reaction between the epoxy groups of BPA-DGE and the amine groups of BAM will form a highly",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+77,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that can be crosslinked effectively to meet these requirements.
+
+### Monomer 1: 
+**Name:** 4,4'-Di(3,4-epoxycyclohexyl) sulfone
+
+**Structure:** 
+- This monomer contains two epoxy groups that can facilitate crosslinking and provide rigidity due to the cyclohexyl rings. The sulfone group adds additional rigidity and increases the Tg due to its electron-withdrawing nature.
+
+**Molecular Weight:** 
+- Approximately 300 g/mol.
+
+**Functional Groups:** 
+- Epoxy groups for crosslinking.
+
+### Monomer 2: 
+**Name:** 2,5-Bis(4-aminophenyl)-1,3,4-thiadiazole
+
+**Structure:** 
+- This monomer features two amine groups that can react with the epoxy groups from Monomer 1, forming a crosslinked network. The thiadiazole ring contributes to the rigidity of the polymer backbone, which is essential for achieving the desired Tg.
+
+**Molecular Weight:** 
+- Approximately 250 g/mol.
+
+**Functional Groups:** 
+- Amine groups for crosslinking with epoxy groups.
+
+### Crosslinking Strategy:
+- The combination of Monomer 1 and Monomer",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+78,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that can provide the necessary rigidity and crosslinking density.
+
+### Monomer 1: 
+**Structure:** A rigid aromatic epoxy monomer  
+**Chemical Name:** 4,4'-Diglycidyl-2,2'-dimethyl biphenyl (DGDMBP)  
+**Molecular Structure:**  
+- Contains two epoxy groups attached to a biphenyl backbone, providing high rigidity.  
+- The methyl groups increase the steric hindrance, contributing to a higher Tg.  
+- Estimated Tg: ~110°C due to the aromatic structure and crosslinking potential.
+
+### Monomer 2: 
+**Structure:** A multifunctional thiol monomer  
+**Chemical Name:** 1,3-Bis(mercaptomethyl)benzene  
+**Molecular Structure:**  
+- Contains two thiol groups on a benzene ring, allowing for effective crosslinking with the epoxy groups.  
+- The rigid aromatic structure contributes to the overall rigidity of the polymer network.  
+- Estimated crosslinking density: High, due to the presence of two thiol groups, which will enhance Er.
+
+### Crosslinking Strategy:
+- The crosslinking will be achieved through a thiol-epoxy reaction between DGDMBP and",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+79,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, I will propose two novel monomers that can be combined to meet these criteria. 
+
+### Monomer 1: 
+**Structure**: 4,4'-Diaminodiphenyl sulfone (DADS)  
+**Molecular Formula**: C12H12N2O2S  
+**Functional Groups**: Amino groups (-NH2) for crosslinking via imine formation.  
+**Characteristics**: 
+- The rigid diphenyl sulfone structure contributes to a higher Tg due to its strong intermolecular interactions and high thermal stability. 
+- The presence of two amino groups allows for effective crosslinking with suitable aldehydes or other reactive monomers.
+
+### Monomer 2: 
+**Structure**: 2,5-Dimethyl-2,5-bis(ethoxycarbonyl) hexane (DMBE)  
+**Molecular Formula**: C14H26O4  
+**Functional Groups**: Ester groups (-COO-) for crosslinking via thiol-ene or acrylate reactions.  
+**Characteristics**: 
+- The ester groups provide flexibility while still allowing for crosslinking, which can help in achieving the desired Er value.
+- The branched structure aids in maintaining a balance between rigidity and flexibility",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+80,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that can be crosslinked effectively to meet these targets.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:** A bisphenol A-derived epoxy with additional rigid aromatic groups for increased Tg.
+
+- **Chemical Structure:** 
+  - 4,4'-isopropylidene diphenol (BPA) with two epoxy groups at the ortho positions.
+  
+- **Molecular Weight:** Approximately 340 g/mol.
+
+- **Functional Groups:** Epoxy groups for crosslinking.
+
+- **Properties Contribution:** The rigid aromatic structure will provide a high Tg due to increased chain stiffness and reduced flexibility.
+
+### Monomer 2: Crosslinking Agent with Thiol Functionality
+**Structure:** A multifunctional thiol with a branched structure to enhance crosslinking density.
+
+- **Chemical Structure:** 
+  - 1,3,5-tris(mercaptomethyl)benzene (TMB) with three thiol groups.
+
+- **Molecular Weight:** Approximately 270 g/mol.
+
+- **Functional Groups:** Thiol groups for crosslinking with the epoxy groups.
+
+- **Properties Contribution:** The presence of multiple thiol groups allows for a high degree of crosslinking, which is essential",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+81,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that fulfill the critical design rules outlined.
+
+### Monomer 1: Rigid Epoxy Monomer
+**Structure:** 
+- A phenolic-based epoxy monomer with a molecular weight of approximately 300 g/mol.
+- Contains a rigid aromatic ring and a flexible ether linkage to balance rigidity with processability.
+
+**Chemical Structure:**
+- 2,2-Bis(4-hydroxyphenyl)propane diglycidyl ether (Bisphenol A epoxy) with additional ether groups to enhance crosslinking potential.
+
+**Functional Group:**
+- Epoxy group for crosslinking.
+
+### Monomer 2: Rigid Imine Monomer
+**Structure:**
+- A novel imine monomer derived from a rigid aromatic amine and an aldehyde.
+- The molecular weight is approximately 250 g/mol, providing sufficient rigidity.
+
+**Chemical Structure:**
+- 4,4'-Diaminodiphenylmethane (DDM) reacted with a rigid aromatic aldehyde such as 2-formylphenyl (or similar) to form a rigid imine structure.
+
+**Functional Group:**
+- Imine group for crosslinking.
+
+### Crosslinking Strategy:
+- Utilize a combination of the epoxy groups from Monomer ",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+82,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that fulfill the critical design rules specified.
+
+### Monomer 1:
+**Name:** 4,4'-Bis(3-oxazolidinyl)phenylmethane  
+**Structure:**  
+- A rigid aromatic backbone with oxazolidine rings for increased rigidity and higher Tg.  
+- The oxazolidine rings provide potential for crosslinking due to their reactive nitrogen and oxygen atoms.  
+
+**Molecular Weight:** ~300 g/mol  
+**Functional Groups:** Oxazolidine (for crosslinking)  
+
+**Predicted Tg Contribution:** The rigid aromatic structure combined with the oxazolidine rings is expected to contribute significantly to achieving the target Tg of 100°C.
+
+### Monomer 2:
+**Name:** Diallyl ether of 2,2-bis(4-hydroxyphenyl)propane (DABCO)  
+**Structure:**  
+- This monomer features diallyl ether groups that allow for effective crosslinking through radical polymerization.  
+- The presence of multiple allyl groups enhances crosslinking density, which is crucial for achieving a high Er value.  
+
+**Molecular Weight:** ~250 g/mol  
+**Functional Groups:** Diallyl ether (for crosslinking)  
+
+",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+83,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, I will propose two novel monomers that can be used in conjunction with an appropriate crosslinking strategy.
+
+### Monomer 1: 
+**Structure:** 1,3-Bis(4-hydroxyphenyl)propane (Bisphenol A derivative)  
+**Molecular Formula:** C15H16O2  
+**Description:** This monomer features two phenolic hydroxyl groups that can participate in crosslinking reactions. The rigid aromatic rings contribute to a higher Tg due to their structural rigidity. The presence of two hydroxyl groups allows for effective crosslinking when reacted with a suitable crosslinker.
+
+### Monomer 2: 
+**Structure:** 1,6-Hexanediamine  
+**Molecular Formula:** C6H16N2  
+**Description:** This aliphatic amine serves as a hardener for the epoxy or phenolic resin system. It introduces flexibility in the polymer network while still allowing for a degree of rigidity due to its chain length. The amine groups can react with the hydroxyl groups from Monomer 1 to form a crosslinked network that enhances the mechanical properties and contributes to the desired Er.
+
+### Crosslinking Strategy:
+- **Crosslinking Method:** The hydroxyl groups from Monomer 1 can react with",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+84,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that will provide the necessary rigidity and crosslinking density.
+
+### Monomer 1: Rigid Epoxy Monomer
+**Structure:** A phenolic-based epoxy resin with a high molecular weight and rigid aromatic structure.
+- **Chemical Name:** 4,4'-Bis(2,3-epoxyphenyl)pentane
+- **Functional Groups:** Epoxy groups for crosslinking
+- **Molecular Weight:** Approximately 350 g/mol
+- **Rationale:** The rigid aromatic structure increases the Tg due to enhanced chain stiffness and prevents free rotation, contributing to a higher Tg.
+
+### Monomer 2: Crosslinking Agent
+**Structure:** A multifunctional thiol compound with a branched structure to enhance crosslinking density.
+- **Chemical Name:** Tris(2-mercaptoethyl)amine
+- **Functional Groups:** Thiol groups for crosslinking
+- **Molecular Weight:** Approximately 200 g/mol
+- **Rationale:** The branched nature of the thiol allows for multiple crosslinking points, which increases the crosslink density, leading to a higher Er value.
+
+### Crosslinking Strategy:
+- **Crosslinking Reaction:** The epoxy groups from Monomer 1 will react with",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+85,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we need to carefully select monomers that will provide the desired rigidity and crosslinking density. Below are two novel monomers designed to meet these requirements.
+
+### Monomer 1: 4,4'-Bis(3,4-epoxycyclohexyl) sulfone
+- **Structure**: This monomer features two epoxy groups that provide high reactivity for crosslinking and a rigid cyclohexane structure that contributes to a higher Tg.
+- **Molecular Weight**: Approximately 300 g/mol.
+- **Functional Groups**: Epoxy groups for crosslinking.
+- **Properties**: The sulfone moiety enhances thermal stability and contributes to the rigidity of the polymer network, which is essential for achieving a Tg of 100°C.
+
+### Monomer 2: 1,3-Bis(4-(vinylbenzyl)phenyl)urea
+- **Structure**: This monomer has two vinylbenzyl groups that can undergo radical polymerization, allowing for a high degree of crosslinking, as well as a urea linkage that adds to the rigidity of the polymer structure.
+- **Molecular Weight**: Approximately 350 g/mol.
+- **Functional Groups**: Vinyl groups for crosslinking through radical polymerization.
+-",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+86,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, careful selection of monomers and crosslinking strategies is crucial. Below are the proposed novel monomers designed to meet these specifications.
+
+**Monomer 1: Polyfunctional Aromatic Epoxy Monomer**
+- Structure: A polyfunctional aromatic epoxy with a rigid backbone to enhance Tg.
+- Molecular Weight: Approximately 300 g/mol.
+- Functional Group: Epoxy group for crosslinking.
+- Example Structure: 4,4'-diglycidyl-3,3'-dichlorodiphenyl sulfone (DGEBS) 
+- Properties: This monomer provides high stiffness due to the aromatic nature and contributes to a higher Tg due to its rigid structure.
+
+**Monomer 2: Vinyl-Functionalized Rigid Polyurethane**
+- Structure: A vinyl-functionalized rigid polyurethane with high glass transition temperature due to its isocyanate-derived structure.
+- Molecular Weight: Approximately 500 g/mol.
+- Functional Group: Thiol-vinyl for crosslinking.
+- Example Structure: Vinyl-terminated isocyanate-derived polyurethane.
+- Properties: This monomer increases crosslink density when polymerized with thiols, leading to enhanced Er while contributing to the overall rigidity needed for higher Tg.
+
+### Crosslinking Strategy:
+- **Crosslinking Reaction**:",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+87,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that can fulfill these criteria.
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(3-oxazolidinyl)benzophenone (BOPB)  
+**Structure:** 
+- A rigid aromatic structure with oxazolidine rings for enhanced Tg.
+- The oxazolidine moiety introduces a high degree of rigidity and thermal stability due to its five-membered cyclic structure.
+- The benzophenone moiety serves as a photoinitiator, which can facilitate crosslinking upon UV exposure.
+
+**Functional Groups:** 
+- Contains oxazolidine rings for thermal stability and rigidity.
+- Benzophenone serves as a crosslinking site upon irradiation.
+
+**Molecular Weight:** Approximately 300 g/mol to ensure adequate flow during polymerization while maintaining rigidity.
+
+### Monomer 2:  
+**Name:** 1,3-Bis(2-methyl-3-thiolpropyl)benzene (BMTPB)  
+**Structure:** 
+- A flexible aliphatic thiol with two terminal thiol groups attached to a benzene ring.
+- Provides the necessary crosslinking functionality to enhance Er through thiol-ene click chemistry.
+
+**Functional Groups:** 
+- Two thiol groups for cross",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+88,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, I propose the following novel monomer pairs for synthesis:
+
+### Monomer 1: 
+**Structure:** 4,4'-Dihydroxybenzophenone (DBP)  
+**Molecular Formula:** C13H10O3  
+**Functional Group:** Phenolic hydroxyl groups (-OH) for crosslinking.  
+**Properties:** The rigid aromatic structure contributes significantly to the increase in Tg. The presence of two hydroxyl groups allows for potential crosslinking through etherification or other reactions.
+
+### Monomer 2: 
+**Structure:** 1,3-Bis(3,4-epoxycyclohexyl)methane (BECHM)  
+**Molecular Formula:** C14H18O2  
+**Functional Group:** Epoxy groups (-Epoxy) for crosslinking.  
+**Properties:** The epoxy groups can react with the hydroxyl groups from Monomer 1 to form a network structure. The bulky cyclohexane rings enhance rigidity, which will help achieve a higher Tg.
+
+### Crosslinking Strategy:
+To obtain the desired Er value of 100 MPa, the crosslinking density must be optimized. A stoichiometric balance between the hydroxyl groups of Monomer 1 and the epoxy groups of Monomer 2",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+89,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a recovery modulus (Er) of 100 MPa, we need to carefully select monomers that can provide the necessary rigidity and crosslinking density. Here are the proposed novel monomer pairs:
+
+**Monomer 1:**  
+**Structure:** 4,4'-Diaminodiphenylsulfone (DAS)  
+**Molecular Weight:** 250 g/mol  
+**Functional Groups:** Primary amines  
+**Description:** This monomer provides a rigid backbone with high Tg due to the presence of aromatic groups. The two amine groups can be utilized for crosslinking with suitable reactive groups in the second monomer.
+
+**Monomer 2:**  
+**Structure:** Bisphenol A diglycidyl ether (BADGE)  
+**Molecular Weight:** 340 g/mol  
+**Functional Groups:** Epoxy groups  
+**Description:** BADGE contains two epoxy groups per molecule, which can react with the amine groups from DAS to create a highly crosslinked network. The epoxy groups contribute to the rigid structure, enhancing both Tg and Er.
+
+**Crosslinking Strategy:**  
+The reaction between the primary amine groups of DAS and the epoxy groups of BADGE will form a thermoset network. The high functionality of both monomers ensures a dense crosslinked structure, which is essential for achieving the target recovery modulus (",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+90,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, I will design two novel monomers that incorporate rigid structures and appropriate functional groups for crosslinking. Here are the proposed monomers:
+
+### Monomer 1: 
+**Name:** 4,4'-Dihydroxy-3,3'-dinitrobenzophenone (DDBP)
+
+**Structure:**
+- A rigid biphenyl structure with two hydroxyl groups for crosslinking.
+- The presence of nitro groups increases rigidity and Tg due to strong intermolecular interactions.
+
+**Functional Groups:**
+- Two hydroxyl (-OH) groups for potential crosslinking via an epoxy or thiol-ene reaction.
+- Rigid structure enhances Tg due to increased steric hindrance.
+
+**Molecular Weight:** Approximately 300 g/mol
+
+### Monomer 2:
+**Name:** 1,3-Bis(4-isocyanatophenyl)propane (BIPP)
+
+**Structure:**
+- A linear structure with isocyanate groups providing high reactivity for crosslinking.
+- Two phenyl rings increase rigidity and contribute to a higher Tg.
+
+**Functional Groups:**
+- Two isocyanate (-NCO) groups for crosslinking via urethane formation with the hydroxyl groups in Monomer 1.
+
+**Molecular Weight:**",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+91,,,"To achieve a thermoset shape memory polymer (TSMP) with a target glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will design two novel monomers that can be used to form a crosslinked network with the desired properties.
+
+**Monomer 1: Rigid Aromatic Dicyclopentadiene Derivative**
+
+- **Structure:** 
+  - A dicyclopentadiene ring structure with two ortho-positioned methylene groups to promote crosslinking.
+  - Contains a phenyl ring to enhance rigidity.
+  - Functional groups: Two epoxy groups positioned on the aromatic rings to allow for effective crosslinking.
+
+- **Molecular Weight:** Approximately 250 g/mol
+- **Rationale:** The presence of the aromatic rings will provide high rigidity, contributing to a high Tg. The dicyclopentadiene structure also increases the thermal stability of the polymer, pushing the Tg closer to the target.
+
+**Monomer 2: Crosslinkable Aliphatic Dithiol**
+
+- **Structure:**
+  - An aliphatic compound containing two thiol groups, with a chain length of 4 carbons linking the thiol functional groups.
+  - Incorporation of a flexible ether linkage to balance flexibility and rigidity.
+
+- **Molecular Weight:** Approximately 150 g/mol
+- **Rationale:** The dithiol can effectively crosslink with the epoxy groups of Mon",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+92,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we will carefully select two novel monomers that fulfill the design criteria outlined. 
+
+### Monomer Design
+
+**Monomer 1: 4,4'-Diaminodiphenylmethane-diglycidyl ether (DGDGE)**  
+- **Structure:** A rigid, aromatic backbone with two reactive epoxy groups that allow for effective crosslinking.  
+- **Molecular Weight:** High enough to ensure rigidity due to the bulky structure (approximately 400 g/mol).  
+- **Functionality:** Contains two epoxy groups that can undergo crosslinking upon curing, contributing to higher Tg values. The rigid aromatic structure helps achieve the desired Tg of 100°C.
+
+**Monomer 2: 2,5-Bis(4-vinylphenyl)furan (BVPF)**  
+- **Structure:** Contains multiple vinyl groups and a furan ring, providing additional crosslinking points and a degree of flexibility enhancing the overall mechanical properties.  
+- **Molecular Weight:** Moderate (approximately 250 g/mol), ensuring good solubility while enabling crosslinking.  
+- **Functionality:** The vinyl groups can participate in thiol-ene or radical polymerization reactions, increasing the crosslink density necessary for achieving the target Er value of 100 MPa",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+93,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, we need to select two novel monomers that can be crosslinked effectively while providing the desired mechanical properties. 
+
+**Monomer 1:** 4,4'-Dihydroxybiphenyl ether (DHBPE)
+- **Structure:** This monomer consists of a biphenyl core with hydroxyl functional groups that enhance rigidity and contribute to a higher Tg. 
+- **Molecular Weight:** Moderate molecular weight (approximately 210 g/mol) allows for good processing while maintaining structural integrity.
+- **Functionality:** The presence of two hydroxyl groups allows for effective crosslinking via etherification or phenolic crosslinking methods, leading to a rigid network.
+
+**Monomer 2:** 3,3'-Diisocyanatodiphenyl sulfone (DIDS)
+- **Structure:** This monomer features isocyanate groups that are reactive towards hydroxyl groups, promoting strong crosslinking.
+- **Molecular Weight:** Slightly higher molecular weight (around 306 g/mol) promotes rigidity and thermal stability.
+- **Functionality:** The isocyanate groups facilitate the formation of urethane linkages, which provide excellent mechanical properties and contribute to achieving the targeted Er.
+
+### Crosslinking Strategy:
+- By utilizing the hydroxyl groups from",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+94,,,"To achieve the target Tg of 100°C and Er of 100 MPa for a thermoset shape memory polymer (TSMP), we will design two novel monomers with suitable structures and functionalities. The design will focus on incorporating rigid components to elevate the Tg and optimizing the crosslinking density to enhance the Er values.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+- **Structure:** 4,4'-Dihydroxyphenyl sulfone (DHPS)
+- **Molecular Formula:** C12H12O4S
+- **Functional Group:** Epoxy (via the reaction of DHPS with epichlorohydrin)
+- **Properties:** 
+  - The rigid aromatic ring provides increased Tg due to the high energy barrier to molecular motion. 
+  - Sulfone group contributes to thermal stability.
+  
+### Monomer 2: Crosslinkable Aliphatic Vinyl Monomer
+- **Structure:** Dicyclopentadiene (DCPD)
+- **Molecular Formula:** C10H10
+- **Functional Group:** Vinyl (can undergo thiol-ene click chemistry for crosslinking)
+- **Properties:**
+  - The cyclic structure provides flexibility while the vinyl groups allow for efficient crosslinking.
+  - The balance of rigidity and flexibility aids in achieving the desired Er.
+
+### Summary of Design Strategy:
+- **Tg Achievement:** The presence of the rigid aromatic groups in Monomer 1 (",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+95,,,"To achieve the target glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa for a thermoset shape memory polymer (TSMP), I propose the following novel monomer pairs:
+
+**Monomer 1: Bisphenol A-Diglycidyl Ether (BADGE) Derivative**  
+- Structure: A modified version of BADGE with enhanced rigidity through additional phenolic units. 
+- Functional Groups: Two epoxide groups for crosslinking capability.
+- Molecular Weight: Approximately 400 g/mol.
+- Characteristics: The presence of the rigid phenolic structure will increase the Tg due to its high glassy state, contributing to the desired Tg of 100°C.
+
+**Monomer 2: 1,6-Hexanedithiol (HDT)**  
+- Structure: A straight-chain aliphatic dithiol with six carbon atoms.
+- Functional Groups: Two thiol (-SH) groups for formation of cross-links.
+- Molecular Weight: Approximately 146 g/mol.
+- Characteristics: The addition of HDT will enable a high crosslink density due to its two functional thiol groups, which can react with the epoxide groups of Monomer 1 under heat to form a network, thus enhancing the material's elasticity and contributing to the desired Er of 100 MPa.
+
+**Crosslinking Strategy:**  
+ - The BADGE derivative will be crosslinked with HDT through a thiol-epoxy reaction,",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+96,,,"To achieve the desired Tg of 100°C and Er of 100 MPa in a thermoset shape memory polymer, we need to carefully select novel monomers with rigid structures and suitable crosslinking functionalities. Below, I present two novel monomers designed to fulfill these criteria.
+
+**Monomer 1:**  
+**Name:** Polyphenylene Oxide-Diethylenetriamine (PPO-DETA)  
+**Structure:**  
+- Rigid backbone consisting of polyphenylene oxide units. The presence of ether linkages contributes to rigidity and increases Tg.
+- A diethylene triamine moiety provides multiple amine groups for effective crosslinking.  
+- Molecular weight: Approximately 400 g/mol, facilitating good thermal stability and mechanical properties.  
+
+**Functional groups:** 
+- Reactive amine groups from DETA ensure a higher crosslinking density when cured with suitable epoxy compounds.
+
+**Monomer 2:**  
+**Name:** Bisphenol A Diglycidyl Ether (BADGE)  
+**Structure:**  
+- Epoxy compound with a rigid structure due to the presence of phenolic rings, which will contribute to increasing the Tg.  
+- Molecular weight: Approximately 400 g/mol, which is in the desirable range for achieving optimal properties during crosslinking.  
+
+**Functional groups:** 
+- Epoxy groups that can react with amine groups from Monomer 1 for forming a thermoset network upon curing.
+
+**Crosslinking Mechanism:**",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+97,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a recovery modulus (Er) of 100 MPa, we need to carefully select monomers that provide the required rigidity to meet the Tg target and ensure sufficient crosslinking to reach the desired Er. Based on the critical design rules, here are the proposed monomer pairs:
+
+### Monomer 1: 
+
+**Name:** 1,4-Bis[(3,4-epoxycyclohexyl)methyl]cyclohexane  
+**Structure:**  
+- A bicyclic structure providing rigidity through the epoxy functional group which enhances Tg.  
+- The combination of cyclohexane rings contributes to a stiff backbone while maintaining epoxy functionalities for crosslinking.  
+**Molecular weight:** Approximately 290 g/mol  
+**Expected Tg contribution:** The epoxy groups increase rigidity and contribute significantly to the Tg, achieving nearly 100°C when cured appropriately.
+
+### Monomer 2:
+
+**Name:** Tris(mercaptomethyl)phenyl thiol  
+**Structure:**  
+- This monomer introduces thiol functional groups that can easily react with various unsaturated systems for crosslinking.  
+- The phenyl rings add aromatic characteristics which further aid in enhancing the rigidity of the polymer.  
+**Molecular weight:** Approximately 312 g/mol  
+**Expected Er contribution:** Higher crosslink density can be achieved by utilizing the thiol groups,",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+98,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery (Er) of 100 MPa, I will propose two novel monomers that will work synergistically when polymerized and crosslinked.
+
+**Monomer 1: Bisphenol A-derived Epoxy Monomer (BPA-epoxy)**
+- Structure: A rigid, bisphenol A-based epoxy with a molecular weight around 300 g/mol to ensure sufficient rigidity for higher Tg.
+- Functional Groups: Contains two epoxy groups.
+- Design: Rigid aromatic rings provided by the bisphenol structure contribute to a high Tg due to increased intermolecular interactions and thermal stability.
+
+**Monomer 2: 4,4'-Diaminodicyclohexylmethane (DDM)**
+- Structure: A symmetrical aliphatic diamine with a molecular weight of approximately 200 g/mol, providing flexibility for the crosslinking network.
+- Functional Groups: Contains two amine groups for crosslinking with epoxy.
+- Design: DDM aids in the formation of a thermoset network while maintaining a balance in the flexibility needed for optimal Er values.
+
+**Crosslinking Strategy:**
+- The epoxy from Monomer 1 (BPA-epoxy) will react with the amine functional groups of Monomer 2 (DDM) during curing to form a highly crosslinked network.
+- The cross",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+99,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 100°C and a stress recovery modulus (Er) of 100 MPa, I will propose two novel monomers that can be combined to fulfill these requirements.
+
+**Monomer 1:**
+- **Structure:** 2,2-Bis(4-hydroxyphenyl)propane (Bisphenol A derivative)
+- **Molecular Formula:** C15H16O2
+- **Functional Group:** Hydroxy (–OH) for crosslinking via epoxy or thiol
+- **Description:** This structure provides significant rigidity due to the presence of the bisphenol framework, contributing to a higher Tg due to strong intermolecular hydrogen bonding and a higher extent of crosslinking.
+
+**Monomer 2:**
+- **Structure:** Dimethacrylate of 1,6-Hexanediol
+- **Molecular Formula:** C12H22O4
+- **Functional Group:** Methacrylate (double bond) for radical crosslinking
+- **Description:** This monomer introduces flexibility and allows for higher crosslinking density when subjected to radical polymerization. Its relatively flexible chain structure will help in achieving the desired Er value through effective network formation.
+
+### Crosslinking Strategy:
+1. **Crosslinking Method:** Use a radical initiator to facilitate the polymerization of monomer 2 in the presence of mon",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+100,,,"To achieve the target glass transition temperature (Tg) of 100°C and a high stress recovery (Er) value of 100 MPa for a thermoset shape memory polymer (TSMP), I will propose two novel monomers with structures conducive to achieving these properties.
+
+### Monomer Design
+
+**Monomer 1: Rigid Aromatic Epoxy Monomer**
+- **Name:** 4,4'-dihydroxy diphenyl sulfone bis(benzoxazole)
+- **Structure Description:** This monomer features two rigid aromatic rings connected by a sulfone group that reinforces rigidity and enhances thermal stability, leading to a high Tg. The benzoxazole groups introduce additional crosslinking functional sites upon curing, which is beneficial for achieving the desired Er. 
+- **Functional Group:** Epoxy group (can react during crosslinking)
+- **Molecular Weight:** 300 g/mol (approximate)
+- **Expected Tg:** 105°C 
+
+**Monomer 2: Crosslinking Agent with Thiocyanate Groups**
+- **Name:** 1,3-bis(thiocyanatomethyl)benzene
+- **Structure Description:** This monomer consists of a benzene ring with two thiocyanate groups which can participate in radical thiol reactions. The presence of thiocyanate increases the crosslinking density due to greater reactivity and can help in yielding a thermoset with enhanced mechanical properties.
+- **Functional Group",acrylate(C=C(C=O)),vinyl(C=C),1.0,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.,Not found,Not found
+101,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, I will design two novel monomers with specific structures and functional groups that can be crosslinked effectively. 
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(3-hydroxyphenyl) sulfone  
+**Structure:**  
+- A rigid biphenyl structure with a sulfone group providing additional thermal stability.  
+- Hydroxy groups on both phenyl rings for potential crosslinking.  
+- Molecular Weight: Approximately 250 g/mol.  
+- Rigid structure contributes to a higher Tg.
+
+### Monomer 2: 
+**Name:** 1,3-Bis(2-methyl-2-oxazoline-4-yl)propane  
+**Structure:**  
+- A flexible aliphatic chain with two oxazoline rings that can undergo ring-opening polymerization for crosslinking.  
+- The oxazoline groups provide a balance of flexibility and rigidity, allowing for controlled crosslinking density.  
+- Molecular Weight: Approximately 300 g/mol.  
+- The presence of the oxazoline groups helps in achieving the desired Er through effective crosslinking.
+
+### Crosslinking Strategy:
+- **Crosslinking Mechanism:** Utilize the hydroxyl groups from Monomer 1 and the oxazoline rings from Monomer 2",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+102,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, I will design two novel monomers that can be crosslinked effectively to meet these targets.
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(2-hydroxy-3-methoxyphenyl) sulfone  
+**Structure:**  
+- A rigid biphenyl structure with sulfone linkage, which increases the rigidity and thus raises the Tg.  
+- The methoxy groups provide some flexibility while still allowing for effective crosslinking.  
+- Molecular Weight: Approximately 300 g/mol.
+
+**Functional Group:** Hydroxyl groups for potential crosslinking through epoxy or thiol functionalities.
+
+### Monomer 2: 
+**Name:** 1,3-Bis(3-isocyanatopropyl)benzene  
+**Structure:**  
+- A diisocyanate with a rigid aromatic backbone that contributes to a higher Tg.  
+- The isocyanate groups allow for crosslinking with hydroxyl groups from Monomer 1.  
+- Molecular Weight: Approximately 300 g/mol.
+
+**Functional Group:** Isocyanate groups for crosslinking with hydroxyl groups.
+
+### Crosslinking Strategy:
+- The crosslinking will be achieved through the reaction of the hydroxyl groups of Monomer 1 with the isocyan",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+103,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, I will propose two novel monomers that can be used in combination to meet these targets.
+
+### Monomer 1: 
+**Structure:** 4,4'-Bis(3-hydroxy-2-methylphenyl) sulfone  
+**Molecular Formula:** C15H16O4S  
+**Functional Groups:** Hydroxyl groups for crosslinking via epoxy or thiol-ene reactions.  
+**Rationale:** This monomer has a rigid biphenyl structure that contributes to a higher Tg due to the increased steric hindrance and rigidity. The presence of hydroxyl groups allows for potential crosslinking through epoxy or thiol-ene pathways, which can enhance the mechanical properties and help achieve the desired Er.
+
+### Monomer 2: 
+**Structure:** 1,4-Bis(2-methyl-2-oxazoline) butane  
+**Molecular Formula:** C10H18N2O2  
+**Functional Groups:** Imine groups for crosslinking via epoxy-imine reactions.  
+**Rationale:** This monomer introduces flexibility due to the oxazoline rings, which can help in achieving the desired Er while still allowing for a moderate Tg. The imine functional groups can provide additional crosslinking points, enhancing the network density",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+104,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we need to carefully select monomers that will provide the desired properties through their molecular structure and crosslinking capabilities.
+
+### Monomer Selection:
+
+**Monomer 1: 4,4'-Diaminodiphenyl sulfone (DADS)**
+- Structure: This compound features two amine groups that can participate in crosslinking reactions. The presence of the sulfone group contributes to rigidity, which helps in achieving a higher Tg.
+- Molecular Weight: 250 g/mol
+- Functionality: Bifunctional amine, suitable for crosslinking with epoxy groups.
+
+**Monomer 2: Diglycidyl ether of bisphenol A (DGEBA)**
+- Structure: This epoxy resin has a rigid backbone due to the bisphenol A structure, which will contribute to a higher Tg. The diglycidyl ether form allows for effective crosslinking with amine groups.
+- Molecular Weight: 172 g/mol
+- Functionality: Bifunctional epoxy, suitable for crosslinking with amines.
+
+### Crosslinking Design:
+- **Crosslinking Mechanism**: The DADS will react with the epoxy groups in DGEBA to form a thermoset network through an amine-epoxy reaction. This will enhance",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+105,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we will design two novel monomers that can be crosslinked effectively to meet these targets. 
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(2-hydroxy-3-methacryloxypropyl) biphenyl  
+**Structure:**  
+- A biphenyl core provides rigidity to the polymer backbone, contributing to a higher Tg.  
+- The methacrylate functional groups allow for effective crosslinking through radical polymerization.  
+- Molecular weight is optimized to ensure a balance between flexibility and rigidity.  
+
+**Functional Groups:**  
+- Methacrylate groups for crosslinking.  
+- Hydroxy groups for potential hydrogen bonding, enhancing thermal stability.
+
+### Monomer 2: 
+**Name:** 1,3-Bis(4-isocyanatophenyl) propane  
+**Structure:**  
+- This monomer introduces isocyanate groups that can react with the hydroxyl groups of Monomer 1 to form urethane linkages, contributing to the crosslinking density.  
+- The rigid aromatic structure increases the Tg of the resulting polymer network.  
+- The molecular weight is designed to ensure sufficient crosslinking without overly increasing the viscosity during processing.
+
+**Functional Groups:**  
+- Isocyanate groups for",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+106,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we will create two novel monomers that meet the critical design rules outlined.
+
+### Monomer 1: Rigid Acyclic Epoxy Monomer
+**Structure:** A rigid epoxy monomer with a bicyclic structure that enhances rigidity and increases Tg. 
+
+**Chemical Structure:** 
+- 1,2-Epoxy-3,4-dicyclopentylcyclopentene
+
+**Molecular Features:**
+- The bicyclic structure provides a high degree of rigidity due to steric hindrance and increases Tg.
+- The epoxy group is reactive for crosslinking.
+
+### Monomer 2: Flexible Thiol Monomer
+**Structure:** A flexible thiol monomer that allows for effective crosslinking while providing some flexibility to balance the rigidity of Monomer 1.
+
+**Chemical Structure:** 
+- 2,2-bis(mercaptomethyl)propane
+
+**Molecular Features:**
+- The presence of two thiol groups allows for efficient crosslinking with the epoxy groups from Monomer 1.
+- The flexible aliphatic chain helps in achieving a balance between rigidity and flexibility, influencing the Er value.
+
+### Crosslinking Considerations:
+- The reaction between the epoxy groups of Monomer 1 and the thiol groups of Monomer ",vinyl(C=C),hydroxyl(=O),0.5,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+107,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, I will design two novel monomers with specific characteristics:
+
+### Monomer 1: Rigid Epoxy Monomer
+**Structure:** A rigid bisphenol-based epoxy monomer.
+- **Chemical Name:** 4,4'-isopropylidenediphenol diglycidyl ether (also known as DGEBA)
+- **Functional Groups:** Epoxy groups for crosslinking
+- **Molecular Weight:** Approximately 340 g/mol
+- **Features:** 
+  - The rigid aromatic structure increases the Tg due to enhanced chain stiffness.
+  - The presence of two epoxy groups allows for effective crosslinking.
+
+### Monomer 2: Flexible Acrylate Monomer
+**Structure:** A flexible aliphatic acrylate monomer.
+- **Chemical Name:** 2-ethylhexyl acrylate
+- **Functional Groups:** Acrylate group for crosslinking
+- **Molecular Weight:** Approximately 186 g/mol
+- **Features:**
+  - The aliphatic chain provides flexibility, which can help control the Er value while still contributing to the overall crosslinking density.
+  - The acrylate functional group enables effective crosslinking with the epoxy groups during polymerization.
+
+### Crosslinking Strategy:
+- Use a sto",vinyl(C=C),hydroxyl(=O),0.5,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+108,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we will design two novel monomers that can be polymerized and crosslinked effectively.
+
+**Monomer 1: Rigid Aromatic Epoxy Monomer**
+- **Structure**: 4,4'-diaminodiphenylsulfone (DADS) with an epoxy group
+- **Molecular Weight**: Approximately 250 g/mol
+- **Functional Groups**: Epoxy groups for crosslinking
+- **Rationale**: The presence of the rigid aromatic structure increases the Tg due to enhanced chain stiffness. The epoxy groups allow for effective crosslinking, which is necessary for achieving the desired Er.
+
+**Monomer 2: Flexible Aliphatic Diene Monomer**
+- **Structure**: 1,4-Butadiene diol (2,3-dihydroxybutane) with two vinyl groups
+- **Molecular Weight**: Approximately 90 g/mol
+- **Functional Groups**: Vinyl groups for crosslinking
+- **Rationale**: The flexible aliphatic structure helps to balance the rigidity introduced by Monomer 1, and the vinyl groups facilitate crosslinking, contributing to the desired Er.
+
+**Crosslinking Strategy**:
+- A copolymerization of Monomer 1 and Monomer ",vinyl(C=C),hydroxyl(=O),0.5,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+109,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery modulus (Er) of 20 MPa, I will propose two novel monomers that can be used in combination to meet these specifications.
+
+### Monomer 1: 
+**Name:** 4,4'-Bis(2,3-epoxypropyl) biphenyl  
+**Structure:**  
+- A biphenyl backbone to provide rigidity and increase Tg.  
+- Two epoxy groups that can facilitate crosslinking, enhancing Er.  
+- Molecular weight: Approximately 300 g/mol.  
+- Functionality: 2 (due to the two epoxy groups).  
+
+**Properties:**  
+- The rigid biphenyl structure contributes to a higher Tg, while the epoxy groups allow for effective crosslinking.
+
+### Monomer 2: 
+**Name:** 1,4-Bis(thiol) cyclohexane  
+**Structure:**  
+- A cyclohexane ring with two thiol groups positioned para to each other to enable crosslinking through a thiol-vinyl reaction.  
+- Molecular weight: Approximately 150 g/mol.  
+- Functionality: 2 (due to the two thiol groups).  
+
+**Properties:**  
+- The thiol groups facilitate the formation of a robust crosslinked network when reacted with vinyl or acrylate monomers, contributing to an increase in Er.
+
+###",vinyl(C=C),hydroxyl(=O),0.5,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+110,,,"To achieve the target Tg of 50°C and Er of 20 MPa for a thermoset shape memory polymer (TSMP), I will design two novel monomers that meet the critical design rules outlined.
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:**  
+Aromatic epoxy monomer with a rigid backbone and ether functionalities to enhance crosslinking potential.
+
+**Chemical Structure:**  
+![Monomer 1](https://www.chemspider.com/Chemical-Structure.118769.html)  
+*Example: 4,4'-Diglycidyl ether of bisphenol A (DGEBA) can be modified to create a novel structure with an additional aromatic ring for rigidity.*
+
+**Molecular Weight:**  
+Approximately 300 g/mol.
+
+**Properties:**  
+- Provides high rigidity due to the aromatic backbone.
+- Contributes to a Tg around 55-60°C, close to our target.
+
+### Monomer 2: Flexible Alkyl Thiol Monomer
+**Structure:**  
+A flexible thiol monomer with a long aliphatic chain to balance the rigidity of Monomer 1 and enhance crosslinking.
+
+**Chemical Structure:**  
+![Monomer 2](https://www.chemspider.com/Chemical-Structure.12296.html)  
+*Example: A novel thiol compound such as 1,6-hexanedithiol with an additional branched alkyl chain to increase flexibility and",vinyl(C=C),hydroxyl(=O),0.5,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+111,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery modulus (Er) of 20 MPa, we can design two novel monomers that will fulfill these criteria through their structural properties and functional groups for crosslinking.
+
+### Monomer 1: 
+**Name:** 4-(4-Hydroxyphenyl)-2-methyl-1,3-dioxolane-5-carboxylic acid  
+**Structure:** 
+- A dioxolane ring structure introduces rigidity due to the presence of the aromatic hydroxyl group and carboxylic acid functionality. 
+- This monomer has a moderate molecular weight and provides potential for hydrogen bonding and crosslinking.
+
+**Functional Groups:** 
+- Hydroxyl (-OH) for potential hydrogen bonding and crosslinking.
+- Carboxylic acid (-COOH) for further reaction with amines or other groups.
+
+### Monomer 2: 
+**Name:** 2,5-Bis(3-aminophenyl)-1,3,4-thiadiazole  
+**Structure:** 
+- This monomer contains two amino groups, providing high reactivity for crosslinking.
+- The thiadiazole ring adds rigidity due to its heteroaromatic character, contributing to a higher Tg.
+
+**Functional Groups:** 
+- Amino (-NH2) groups for crosslinking through reactions with carboxylic",vinyl(C=C),hydroxyl(=O),0.7,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+112,,,"To design a thermoset shape memory polymer (TSMP) with a target glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we will select two novel monomers that offer the desired properties through appropriate molecular weight, structural rigidity, and crosslinking density.
+
+**Monomer 1:**
+- **Structure:** A rigid bisphenol-based monomer with an epoxy functional group.
+- **Chemical Name:** 4,4'-Bis(3,4-epoxycyclohexyl)methyl-1,1'-biphenyl (BEPB)
+- **Molecular Weight:** 400 g/mol
+- **Functional Groups:** Contains two epoxy groups for crosslinking and a rigid biphenyl backbone to increase Tg.
+- **Tg Contribution:** The biphenyl structure enhances the rigidity, contributing to a higher Tg.
+
+**Monomer 2:**
+- **Structure:** A flexible dithiol with a moderate molecular weight.
+- **Chemical Name:** 1,6-Hexanedithiol (HDT)
+- **Molecular Weight:** 118 g/mol
+- **Functional Groups:** Contains two thiol groups for crosslinking.
+- **Er Contribution:** The presence of the dithiol allows for crosslinking with the epoxy groups in Monomer 1, optimizing the crosslinking density to achieve the desired Er.
+
+**Crosslinking Strategy:**
+- The epoxy groups from Mon",vinyl(C=C),hydroxyl(=O),0.7,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+113,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, I will propose two novel monomers that can be used to create a crosslinked network fulfilling these criteria.
+
+**Monomer 1:** 4-(Hydroxymethyl)phenyl methacrylate (HMPM)  
+- **Structure:** This monomer has a hydroxymethyl group attached to a phenyl ring, which provides rigidity and contributes to a higher Tg due to the presence of the aromatic ring. The methacrylate functional group allows for effective crosslinking during polymerization.
+- **Molecular Weight:** Approximately 182 g/mol, which is suitable for achieving the desired Tg range.
+- **Tg Contribution:** The phenolic group adds to the rigidity, contributing to a Tg around 50°C.
+
+**Monomer 2:** 1,4-Bis(3-aminopropyl) piperazine (BAPP)  
+- **Structure:** This monomer has a piperazine ring that introduces flexibility along with two primary amine groups that can facilitate crosslinking with the methacrylate groups of Monomer 1 via Michael addition or other reaction pathways.
+- **Molecular Weight:** Approximately 198 g/mol, which also helps in achieving the desired Tg and Er properties.
+- **Er Contribution:** The crosslinking density can be",vinyl(C=C),hydroxyl(=O),0.7,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+114,,,"To achieve the target glass transition temperature (Tg) of 50°C and the stress recovery (Er) value of 20 MPa in a thermoset shape memory polymer (TSMP), I will design two novel monomers with suitable structures and functional groups for effective crosslinking.
+
+### Monomer 1: 
+**4,4'-Bis(3-cyclohexenyl)diphenyl ether**
+
+- **Structure:** This monomer contains a rigid diphenyl ether backbone with cyclohexene groups that can undergo Diels-Alder reactions for crosslinking. The cyclohexene groups provide sufficient rigidity and contribute to a higher Tg.
+- **Molecular Weight:** Approximately 300 g/mol, ensuring a balance between flexibility and rigidity.
+- **Functional Groups:** The cyclohexene groups are reactive and can be crosslinked via thermal or photochemical methods, contributing to the desired mechanical properties.
+
+### Monomer 2: 
+**Bis(2-hydroxyethyl) methacrylate (BHEMA)**
+
+- **Structure:** This monomer contains two hydroxyethyl groups attached to a methacrylate backbone, which promotes crosslinking through radical polymerization.
+- **Molecular Weight:** Approximately 198 g/mol, allowing for increased crosslinking density when reacted with Monomer 1.
+- **Functional Groups:** The methacrylate group can undergo free radical polymerization to form a crosslinked network, enhancing the mechanical properties",vinyl(C=C),hydroxyl(=O),0.7,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+115,,,"To achieve a thermoset shape memory polymer (TSMP) with a Tg of 50°C and an Er of 20 MPa, we will select two novel monomers that combine appropriate rigidity and crosslinking potential. 
+
+**Monomer 1:**  
+**Name:** 4,4'-Bis(benzoic acid) diphenyl ether (BDE)  
+**Structure:**  
+- A rigid aromatic structure containing two benzoic acid groups, which can provide high Tg due to the rigidity of the aromatic rings.  
+- Molecular weight: Approximately 298 g/mol  
+- Functional groups: Carboxylic acid (-COOH) for potential crosslinking through esterification.
+
+**Monomer 2:**  
+**Name:** 1,6-Hexanediamine bis(3-acryloylate) (HDA)  
+**Structure:**  
+- A flexible chain with two acrylate functional groups that can undergo crosslinking.  
+- The acrylate groups provide a reactive site for crosslinking through free radical polymerization and can help to increase the crosslinking density to achieve the desired Er.  
+- Molecular weight: Approximately 250 g/mol  
+
+### Design Considerations:
+1. **Tg Consideration:**  
+   - The structure of BDE, which contains two rigid aromatic blocks, contributes to a higher Tg. The combination of BDE with HDA will help in achieving the target Tg of 50°C due to",vinyl(C=C),hydroxyl(=O),0.7,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+116,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we will design two novel monomers with appropriate structures and functional groups for effective crosslinking. 
+
+### Monomer Design
+
+**Monomer 1:** 
+- Structure: A rigid aromatic compound with high thermal stability.
+- Name: 4,4'-Dihydroxybiphenyl
+- Functional Group: Hydroxy (-OH) groups for crosslinking via an epoxy-amine reaction.
+- Molecular Weight: Approximately 214 g/mol
+- Rationale: The biphenyl structure increases rigidity contributing to higher Tg along with the presence of hydroxyl groups which can be utilized for crosslinking.
+
+**Monomer 2:** 
+- Structure: A flexible aliphatic compound with sufficient reactivity.
+- Name: 1,4-Butanediol diglycidyl ether
+- Functional Group: Epoxy groups for crosslinking.
+- Molecular Weight: Approximately 238 g/mol
+- Rationale: The flexibility of the aliphatic chain helps in balancing the properties for stress recovery while the diglycidyl ether structure allows for effective crosslinking, increasing Er.
+
+### Crosslinking Strategy
+1. **Crosslinking Reaction:** 4,4'-Dihydroxybiphenyl will react with the epoxy groups from the 1,",vinyl(C=C),hydroxyl(=O),0.9,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+117,,,"To design a thermoset shape memory polymer (TSMP) targeting a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we can utilize a pair of novel monomers that will provide the desired properties through their chemical structures and crosslinking density.
+
+**Monomer 1:**
+- **Structural Formula:** 
+  - 4-(1,1-Dimethyl-2-propynyl)phenol
+- **Functional Group:** 
+  - Phenolic hydroxyl group (for crosslinking via epoxy)
+- **Molecular Structure Description:** 
+  - This monomer contains a rigid aromatic ring for increased Tg along with an alkyne functional group that can participate in crosslinking reactions. The presence of the dimethyl groups provides steric hindrance, helping to raise the Tg.
+- **Expected Tg Contribution:** 
+  - The rigid structure of the aromatic moiety and the presence of the alkyne will contribute significantly to achieving the target Tg of 50°C.
+
+**Monomer 2:**
+- **Structural Formula:** 
+  - Bis(2-hydroxyethyl)amino propyl acrylate
+- **Functional Group:** 
+  - Acrylate (for crosslinking)
+- **Molecular Structure Description:** 
+  - This monomer has acrylate functional groups that allow for dynamic crosslinking through radical polymerization. The introduction of the amine group",vinyl(C=C),hydroxyl(=O),0.9,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+118,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery modulus (Er) of 20 MPa, we will create two novel monomers that will be interconnected through a specific crosslinking mechanism. 
+
+### Monomer 1: Rigid Aromatic Epoxy Monomer
+**Structure:** 
+- Bisphenol A Diglycidyl Ether (BPA-DGE) derivative with an added rigid aromatic substituent to increase Tg.
+
+**Chemical Structure:**  
+- **(C15H16O4)**  
+- Epoxy groups (-O-CH2-CH-) in combination with a rigid phenol-based backbone for increased structural integrity. 
+
+**Rationale:**  
+- The rigid aromatic rings elevate the Tg due to enhanced packing and increased intermolecular forces.
+
+### Monomer 2: Flexible Thiol-Based Monomer 
+**Structure:** 
+- A dithiol monomer, such as 1,4-butanedithiol or a novel variant with longer carbon chains to provide flexibility, e.g., 1,6-hexanedithiol.
+
+**Chemical Structure:**  
+- **(C6H14S2)**  
+- Two thiol (-SH) groups allow for crosslinking via thiol-ene click chemistry with the epoxy groups from Monomer 1. 
+
+**Rationale:**  
+- The flexible nature of the dithiol will facilitate moderate crosslinking density, which",vinyl(C=C),hydroxyl(=O),0.9,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+119,,,"To achieve the target glass transition temperature (Tg) of 50°C and the desired elastic recovery modulus (Er) of 20 MPa for a thermoset shape memory polymer (TSMP), we can design two novel monomers that fulfill the required criteria.
+
+### Monomer 1: 
+**Structure:** A rigid bisphenol-based epoxy  
+**Chemical Structure:**  
+1,1-Bis(4-hydroxyphenyl)cyclohexane (Bisphenol C)  
+**Molecular Formula:** C13H16O2  
+**Molecular Weight:** 204.27 g/mol  
+**Functional Group:** Epoxy group for crosslinking  
+**Comments:** This monomer has a rigid structure that contributes to a higher Tg due to the presence of aromatic groups. Its epoxy functionality facilitates effective crosslinking.
+
+### Monomer 2: 
+**Structure:** A flexible dithiol with a low molecular weight  
+**Chemical Structure:**  
+1,4-Benzenedimethanethiol  
+**Molecular Formula:** C10H14S2  
+**Molecular Weight:** 186.34 g/mol  
+**Functional Group:** Thiol group for crosslinking  
+**Comments:** This monomer introduces flexibility to the polymer network, allowing for a lower Tg when combined with the rigid monomer. The thiol groups facilitate crosslinking through a reaction with the epoxy groups.
+
+### Crosslinking Strategy:
+The combination of the rigid epoxy monomer (Mon",vinyl(C=C),hydroxyl(=O),0.9,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+120,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, I will design two novel monomers that fulfill the critical design rules stated while ensuring optimized crosslink density and appropriate structures for the desired thermal and mechanical properties.
+
+### Monomer 1: 
+**Structure:** 4,4'-Diphenylmethane diamine (DPDA) with a tetrafunctional thiol group.  
+**Chemical Structure:**  
+![4,4'-Diphenylmethane diamine with thiol groups](https://www.chemspider.com/Chemical-Structure.8898390.html)  
+- **Molecular Weight:** Approximately 250 g/mol.  
+- **Functional Groups:** Primary amine groups for crosslinking, rigid aromatic rings provide high Tg.  
+- **Design Rationale:** The diphenylmethane backbone contributes to rigidity, which increases Tg significantly. The presence of amine groups will facilitate crosslinking with an acrylate or thiol compound. 
+
+### Monomer 2:  
+**Structure:** Trimethylolpropane triacrylate (TMPTA) with additional flexible chain units (such as butylene) on the acryloyl side.  
+**Chemical Structure:**  
+![Trimethylolpropane triacrylate](https://www.sigmaaldrich.com/US/en/product/aldr",vinyl(C=C),hydroxyl(=O),0.9,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+121,,,"To achieve a thermoset shape memory polymer (TSMP) with a target glass transition temperature (Tg) of 50°C and a recoverable stress (Er) of 20 MPa, I will design two novel monomers with appropriate molecular weights, structures, and functional groups that optimize these properties.
+
+### Monomer Design:
+
+**Monomer 1: Bisphenol A-type Epoxy Monomer**  
+**Structure:**  
+- Core structure: Bisphenol A with an added epoxy functionality.  
+- Rigid aromatic structure aids in increasing the Tg.  
+- Molecular weight: Approximately 300 g/mol.  
+- Functional groups: Two epoxy groups for crosslinking.
+
+**Chemical Representation:**  
+![Bisphenol A Epoxy](https://upload.wikimedia.org/wikipedia/commons/2/27/Bisphenol_A_structure.svg)  
+*R1 = CH2-CH2-O (epoxy link)*
+
+**Monomer 2: Thiol with Rigid Spacer**  
+**Structure:**  
+- Core structure: A thiol group attached to a rigid aliphatic spacer containing multiple carbon atoms to provide flexibility while maintaining rigidity.   
+- Optimized for high crosslinking density.  
+- Molecular weight: Approximately 180 g/mol.  
+- Functional groups: A single thiol group to react with the epoxy.
+
+**Chemical Representation:** 
+![Thiol Monomer](https://upload.wikimedia.org/wikipedia/commons/9/90/",vinyl(C=C),hydroxyl(=O),1.0,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+122,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a recovery modulus (Er) of 20 MPa, we will generate novel monomer pairs that meet the specified criteria by optimizing molecular weight, structure, and crosslinking density.
+
+### Monomer Design:
+
+**Monomer 1: Di-functional Acyclic Phthalimide Derivative**
+- Structure: Acyclic phthalimide with two terminal vinyl groups.
+- Example structure:  
+  - C6H4(CO)2C(C=C)2  
+- This structure provides rigidity due to the phthalimide ring and offers suitable functionality for crosslinking through the vinyl groups.
+- Estimated molecular weight: Approximately 300 g/mol.
+- Contribution to Tg: Rigid aromatic structure elevates the Tg towards the target.
+
+**Monomer 2: Tri-functional Epoxy Compound**
+- Structure: A tri-functional epoxy derived from glycidyl derivatives of bisphenol and alkylene glycol. 
+- Example structure:  
+  - Bis[2-(2,3-epoxypropoxy)phenyl] methyl methane  
+- This compound will introduce additional crosslinking points due to three functional groups, aiding in achieving the desired recovery modulus (Er).
+- Estimated molecular weight: Approximately 400 g/mol.
+- Contribution to Er: The tri-functional nature increases crosslink density, which helps achieve the desired recovery modulus.
+
+### Summary",vinyl(C=C),hydroxyl(=O),1.0,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+123,,,"To design a thermoset shape memory polymer (TSMP) with a target glass transition temperature (Tg) of 50°C and a stress recovery (Er) of 20 MPa, we can strategically select novel monomers that balance rigidity and crosslinking density.
+
+### Monomer Design:
+
+**Monomer 1: (4-hydroxy-3-methoxyphenyl)acrylate (HMMA)**
+- **Structure:** This compound features a phenolic ring (providing rigidity) with a methoxy group for increased solubility. The acrylate functional group facilitates crosslinking via radical polymerization.
+- **Molecular Weight:** Approximately 182 g/mol.
+- **Contribution to Tg:** The presence of the phenolic structure contributes to a higher Tg due to its rigidity and ability to increase molecular interactions.
+
+**Monomer 2: 5-hydroxy-1,3-bis(3-methacryloyloxypropyl)-1H-pyrazole (HMP)**
+- **Structure:** This monomer incorporates multiple methacrylate functional groups, increasing the potential for crosslinking. The pyrazole ring enhances the rigidity and thermal stability of the polymer matrix.
+- **Molecular Weight:** Approximately 290 g/mol.
+- **Contribution to Tg:** The heterocyclic structure of pyrazole adds rigidity and contributes to the desired Tg.
+
+### Crosslinking Strategy:
+By combining HMMA and H",vinyl(C=C),hydroxyl(=O),1.0,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+124,,,"To achieve a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and an elastic recovery (Er) of 20 MPa, we will design two novel monomers that balance rigidity and crosslinking density appropriately.
+
+### Monomer Design:
+
+**Monomer 1:**
+- **Name:** 4,4'-Biphenyl-ether-3,3'-diol (BEPD)
+- **Structure:** A biphenyl-based diol with ether linkages providing structural rigidity.
+- **Functional Groups:** Hydroxyl (-OH) groups for crosslinking.
+- **Molecular Structure:** 
+  \[
+     \text{HO-C}_6\text{H}_4-\text{C}_6\text{H}_4-\text{O-C}_6\text{H}_4-\text{OH}
+  \]
+- **Properties Contribution:**
+  - The biphenyl structure increases rigidity, contributing to a higher Tg while the ether linkages provide some flexibility.
+
+**Monomer 2:**
+- **Name:** 1,3-Bis(3-isocyanatopropyl)benzene (BIPB)
+- **Structure:** A benzene derivative that contains isocyanate groups for robust crosslinking.
+- **Functional Groups:** Isocyanate (-N=C=O) groups.
+- **Molecular Structure:**
+  \[
+",vinyl(C=C),hydroxyl(=O),1.0,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found
+125,,,"To design a thermoset shape memory polymer (TSMP) with a glass transition temperature (Tg) of 50°C and a stress recovery (Er) value of 20 MPa, we need to select monomers that yield a polymer with the desired rigidity and crosslinking properties. Below are the proposed novel monomers designed according to the critical design rules provided.
+
+### Monomer 1: 
+**Structure:** 4-(4-Hydroxyphenyl)-2,6-diethyl-1,3-dioxane-5,7-dione  
+**Functional Group:** Hydroxy and carbonyl groups  
+
+**Description:** This monomer has an aromatic ring that provides rigidity, elevating the Tg due to its planar structure. The presence of dioxane and ethyl substituents optimizes intermolecular interactions while maintaining a moderate molecular weight.
+
+### Monomer 2: 
+**Structure:** 3,6-bis(allylthio)-3,6-dimethyl-1,4-dioxane  
+**Functional Group:** Allyl and thioether groups  
+
+**Description:** This monomer contains thioether groups that can engage in free-radical crosslinking through thiol-vinyl click chemistry. Its dioxane backbone adds flexibility, allowing for appropriate crosslink density optimization essential for achieving the targeted Er of 20 MPa.
+
+### Considerations for Polymerization and Crosslinking:
+- **Polymerization Method:** A radical",vinyl(C=C),hydroxyl(=O),1.0,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.,Not found,Not found

@@ -92,20 +92,15 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
                 print(f"  - {col}")
             return None
         
-        valid_df= df[df['Fixed Monomer 1']!='Not found']
-       
-        total_monomer_pairs = len(valid_df)
-        print(f"Total monomer pairs: {total_monomer_pairs}")
-        valid_df=valid_df.drop_duplicates()
-        #total_monomer_pairs = len(df)
         
-        smiles1_list, smiles2_list, er_list, tg_list = load_dataset_gpt4()
-        training_monomers_pairs = list(zip(smiles1_list, smiles2_list))
-        for index, row in valid_df.iterrows() :
-            if (row['Fixed Monomer 1'], row['Fixed Monomer 2']) in training_monomers_pairs:
-                valid_df.drop(index, inplace=True)
-
-        print(f"Total monomer pairs after removing duplicates: {len(valid_df)}")
+        valid_df= df[(df['Fixed Monomer 1']!='Not found') & (df['Fixed Monomer 2']!='Not found')]
+       
+        #df=pd.DataFrame({'Fixed Monomer 1':monomer_1,'Fixed Monomer 2':monomer_2})
+        
+        valid_df=valid_df.drop_duplicates()
+        
+        
+       
         number_of_group_smiles=0
         group1_match=0
         reaction_match=0

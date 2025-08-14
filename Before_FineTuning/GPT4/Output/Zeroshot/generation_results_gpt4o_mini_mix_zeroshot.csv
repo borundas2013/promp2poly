@@ -1,0 +1,2259 @@
+SL,Monomer 1,Monomer 2,Output_text,Group1,Group2,Temperature,Tg,Er,Prompt
+1,C1=CC(=C(C=C1C2=CC(=C(C=C2)O)O)O)O)O,C1=CC=C(C=C1C2=CC(=C(C=C2)N)N)N,"To create a thermoset shape memory polymer (TSMP) with the specified properties, I will design two novel monomers that satisfy the functional group requirements and property targets.
+
+### Monomer 1: 
+**Description**: This monomer contains two epoxy groups and has a rigid structure to achieve a Tg around 100°C. The presence of aromatic rings increases the rigidity and contributes to the desired Tg.
+
+**Structure**: 1,2-Bis(3,4-epoxyphenyl)ethane
+
+**SMILES**: C1=CC(=C(C=C1C2=CC(=C(C=C2)O)O)O)O)O
+
+### Monomer 2: 
+**Description**: This monomer contains two imine groups and is designed to be relatively rigid to contribute to the overall mechanical properties and help achieve the desired Er value. The structure incorporates a phenyl group to enhance rigidity.
+
+**Structure**: 1,2-Bis(phenyl)ethanediamine
+
+**SMILES**: C1=CC=C(C=C1C2=CC(=C(C=C2)N)N)N
+
+### Summary:
+- **Monomer 1**: 1,2-Bis(3,4-epoxyphenyl)ethane (Epoxy: 2 instances)
+- **Monomer 2**: 1,2-Bis(phenyl)ethanediam",epoxy(C1OC1),imine(NC),0.3,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+2,C1=CC(=C(C=C1)C2=C(C(=C(C=C2)O)O)O)C3=CC(=C(C=C3)C4=C(C(=C(C=C4)O)O)O)O,C1=CC=C(C=C1C2=CC(=C(C=C2)C(=N)N)C(=N)N)C(=N)N,"To achieve a thermoset shape memory polymer (TSMP) with the specified properties, I will design two novel monomers that satisfy the functional group requirements and target properties.
+
+### Monomer 1: 
+**Description:** This monomer contains two epoxy groups and is designed to have a rigid structure to achieve a Tg around 100°C. The presence of aromatic rings contributes to the rigidity.
+
+**Structure:** 1,2-Bis(3,4-epoxyphenyl)ethane
+
+**SMILES:** C1=CC(=C(C=C1)C2=C(C(=C(C=C2)O)O)O)C3=CC(=C(C=C3)C4=C(C(=C(C=C4)O)O)O)O
+
+### Monomer 2: 
+**Description:** This monomer contains two imine groups and is designed to provide flexibility while maintaining a certain level of rigidity to help achieve the desired Er value.
+
+**Structure:** 1,4-Bis(2-((E)-N-(4-methylphenyl)imino)ethyl)benzene
+
+**SMILES:** C1=CC=C(C=C1C2=CC(=C(C=C2)C(=N)N)C(=N)N)C(=N)N
+
+### Summary:
+- **Monomer 1** contains two epoxy groups and is designed for rigidity to target a Tg",epoxy(C1OC1),imine(NC),0.3,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+3,C1C(C2C1C(C2O)O)C1OC1C(C1O)C1OC1,C1=NC(C=C1)C2=NC(C=C2)C1=CC=C(C=C1)C2=NC(C=C2)C1=CC=C(C=C1)C2=NC(C=C2),"To achieve a thermoset shape memory polymer (TSMP) with the specified properties, I will propose two novel monomers that satisfy the functional group requirements and target properties.
+
+**Monomer 1:**  
+This monomer will contain two epoxy groups and will be designed to have a rigid structure to achieve a Tg around 100°C.
+
+- **Structure:** A bicyclic compound with two epoxy groups.
+- **SMILES:** C1C(C2C1C(C2O)O)C1OC1C(C1O)C1OC1
+
+**Monomer 2:**  
+This monomer will contain two imine groups and will be designed to enhance crosslinking density while contributing to the desired Tg and Er.
+
+- **Structure:** A rigid aromatic compound with two imine functionalities.
+- **SMILES:** C1=NC(C=C1)C2=NC(C=C2)C1=CC=C(C=C1)C2=NC(C=C2)C1=CC=C(C=C1)C2=NC(C=C2)
+
+These monomers are designed to provide the necessary functional groups while also contributing to the desired mechanical properties of the final TSMP. The rigid structures of both monomers will help achieve the target Tg, and the presence of multiple functional groups will facilitate a high crosslinking density, contributing to the target Er.",epoxy(C1OC1),imine(NC),0.3,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+4,C(C1=CC=C(C=C1)C(C2COC2)C(C2COC2)C)C,C=CC(C1=CC=C(C=C1)C(=O)N)C(=O)N,"To meet the specified requirements for a thermoset shape memory polymer (TSMP) with a Tg around 100°C and an Er near 40 MPa, I have designed the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains two epoxy groups and is designed to have a rigid structure to achieve the target Tg. The presence of aromatic rings enhances rigidity.
+
+- **Structure:** 1,4-Bis(2,3-epoxypropyl)benzene
+- **SMILES:** C(C1=CC=C(C=C1)C(C2COC2)C(C2COC2)C)C
+
+**Monomer 2:**  
+This monomer contains two imine groups and is designed to provide the necessary crosslinking density while maintaining flexibility to achieve the desired Er.
+
+- **Structure:** 1,4-Bis(2-formylphenyl)ethylenediamine
+- **SMILES:** C=CC(C1=CC=C(C=C1)C(=O)N)C(=O)N
+
+These monomers are designed to satisfy the functional group requirements while also targeting the desired thermal and mechanical properties. The combination of the rigid epoxy monomer and the flexible imine monomer should provide a suitable balance for the final TSMP.",epoxy(C1OC1),imine(NC),0.3,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+5,C1C(C2=CC=CC=C2C1C(=O)O)C(O)C2=CC=CC=C2C2=CC=CC=C2O2,C1=CC=C(C=C1)C(=N)C(=N)C1=CC=C(C=C1)C(=N)C(=N)C1=CC=C(C=C1),"To achieve a thermoset shape memory polymer (TSMP) with the specified properties, I will design two novel monomers that satisfy the functional group requirements and target properties.
+
+### Monomer 1 (Epoxy):
+- **Structure**: A rigid epoxy monomer with two epoxy groups and a high Tg.
+- **Description**: This monomer features a bicyclic structure that enhances rigidity and provides two epoxy groups for crosslinking.
+- **SMILES**: `C1C(C2=CC=CC=C2C1C(=O)O)C(O)C2=CC=CC=C2C2=CC=CC=C2O2`
+
+### Monomer 2 (Imine):
+- **Structure**: A rigid imine monomer with two imine groups.
+- **Description**: This monomer has a phenyl backbone with two imine functionalities, which contributes to the crosslinking density and enhances the material's mechanical properties.
+- **SMILES**: `C1=CC=C(C=C1)C(=N)C(=N)C1=CC=C(C=C1)C(=N)C(=N)C1=CC=C(C=C1)`
+
+### Summary:
+- **Monomer 1**: Contains two epoxy groups, designed for rigidity to achieve a Tg around 100°C.
+- **Monomer 2**: Contains two imine groups, designed to enhance cross",epoxy(C1OC1),imine(NC),0.3,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+6,C1=CC=C(C=C1C2(C(C(C(C2O)O)O)O)O)C3=CC(=C(C=C3)O)O)C4=CC(=C(C=C4)O)O,C1=CC(=C(C=C1)C(=N)C(=N)C(=C2)C=C(C=C2)C(=N)C(=N)C(=C3)C=C(C=C3)C(=N)C(=N))C(=C4)C=C(C=C4)C(=N)C(=N),"To meet your requirements for a thermoset shape memory polymer (TSMP) with a Tg around 100°C and an Er near 40 MPa, while incorporating epoxy groups in the first monomer and imine groups in the second monomer, here are the proposed monomers:
+
+**Monomer 1:**  
+- Structure: A rigid bis-epoxy compound with two epoxy groups to enhance crosslinking density and achieve the desired Tg. The structure includes aromatic rings to increase rigidity.
+- SMILES: `C1=CC=C(C=C1C2(C(C(C(C2O)O)O)O)O)C3=CC(=C(C=C3)O)O)C4=CC(=C(C=C4)O)O`
+  
+**Monomer 2:**  
+- Structure: A rigid bis-imine compound with two imine groups, which will provide the necessary crosslinking and contribute to the desired mechanical properties.
+- SMILES: `C1=CC(=C(C=C1)C(=N)C(=N)C(=C2)C=C(C=C2)C(=N)C(=N)C(=C3)C=C(C=C3)C(=N)C(=N))C(=C4)C=C(C=C4)C(=N)C(=N)`
+
+These monomers are designed to satisfy the",epoxy(C1OC1),imine(NC),0.5,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+7,C1C(C2C1C(C(C2)O)O)OCC1O1C(C1)C1O1CC1C1C(C=C)C1C(C1O)C1C1,C=NC(C=C)C(C=NC)C(C=O)C(C=C)C=O,"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 100°C and an Er near 40 MPa, while incorporating epoxy and imine functional groups, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains two epoxy groups and is designed to provide a rigid structure to help achieve the target Tg. 
+
+- **Structure:** A bicyclic compound with two epoxy groups and a rigid backbone.
+- **SMILES:** `C1C(C2C1C(C(C2)O)O)OCC1O1C(C1)C1O1CC1C1C(C=C)C1C(C1O)C1C1`
+
+**Monomer 2:**  
+This monomer contains two imine groups and is designed to provide the necessary crosslinking density while maintaining flexibility to help meet the target Er.
+
+- **Structure:** A linear compound with two imine groups and a flexible backbone.
+- **SMILES:** `C=NC(C=C)C(C=NC)C(C=O)C(C=C)C=O`
+
+These monomers are designed to meet the specified functional group requirements while also targeting the desired thermal and mechanical properties. The combination of the rigid structure of Monomer 1 and the flexible imine groups in Monomer 2 should facilitate the formation of a thermoset with the desired characteristics.",epoxy(C1OC1),imine(NC),0.5,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+8,C1=CC=C(C=C1)C(CO)C(CO)C1(CO)C(C1O)OCC1OC(C1O)C(C1O)C1=CC=C(C=C1)C1=CC=C(C=C1)C(CO)C(CO)C1(CO)C(C1O)OCC1OC(C1O)C(C1O)C1=CC=C(C=C1)C1=CC=C(C=C1),C1=CC=C(C=N)C,"To achieve a thermoset shape memory polymer (TSMP) with the specified properties (Tg around 100°C, Er near 40 MPa) while incorporating epoxy groups in Monomer 1 and imine groups in Monomer 2, I propose the following novel monomers:
+
+**Monomer 1:**  
+- Structure: A rigid, bis-epoxy monomer with two epoxy groups that enhances crosslinking density and contributes to the desired Tg. The structure includes a phenyl ring to increase rigidity.  
+- SMILES: C1=CC=C(C=C1)C(CO)C(CO)C1(CO)C(C1O)OCC1OC(C1O)C(C1O)C1=CC=C(C=C1)C1=CC=C(C=C1)C(CO)C(CO)C1(CO)C(C1O)OCC1OC(C1O)C(C1O)C1=CC=C(C=C1)C1=CC=C(C=C1)  
+- Properties: The presence of the phenyl ring increases the rigidity, contributing to a higher Tg and a suitable Er.
+
+**Monomer 2:**  
+- Structure: A rigid, bis-imine monomer that includes two imine groups. The structure is designed to ensure good crosslinking potential and maintain the desired mechanical properties.  
+- SMILES: C1=CC=C(C=N)C",epoxy(C1OC1),imine(NC),0.5,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+9,C1=CC=C(C=C1)C(C2=CC(=C(C=C2)C(C3=CC=CC=C3)C(C4=CC=CC=C4)O)O)O,C1=CC=C(C=C1)C(=NC2=C(C=CC=C2)C(=NC3=C(C=CC=C3)C(=O)C)C=O)C=O,"To meet your requirements for a thermoset shape memory polymer (TSMP) with a Tg around 100°C and an Er near 40 MPa, while also incorporating epoxy and imine functional groups, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains two instances of the epoxy group and has a rigid structure to help achieve the target Tg.
+
+- **Structure:** A bisphenol-based epoxy with additional rigidity from aromatic rings.
+- **SMILES:** `C1=CC=C(C=C1)C(C2=CC(=C(C=C2)C(C3=CC=CC=C3)C(C4=CC=CC=C4)O)O)O`
+
+**Monomer 2:**  
+This monomer contains two instances of the imine group and is designed to provide the necessary crosslinking density while maintaining a balance for the desired mechanical properties.
+
+- **Structure:** A bis-imine derived from a rigid aromatic framework.
+- **SMILES:** `C1=CC=C(C=C1)C(=NC2=C(C=CC=C2)C(=NC3=C(C=CC=C3)C(=O)C)C=O)C=O`
+
+### Summary:
+- **Monomer 1** contains epoxy groups and is designed for rigidity to achieve a Tg around 100°C.
+- **Monomer 2** contains imine groups with a structure that supports",epoxy(C1OC1),imine(NC),0.5,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+10,C1C(C2=CC(C1)C(C2O)O)C(O)C(O)C1(C1O)C1=COC1=O,C1=CC(C2=C(C1)C=CC=C2)C(=N)C(=N)C1=C(C=C1)C=C(C)C=C1,"To design two novel monomers that meet your specified requirements, I will ensure that Monomer 1 contains two instances of the epoxy group and Monomer 2 contains two instances of the imine group. The structures will be designed to achieve the target Tg of around 100°C and Er near 40 MPa.
+
+### Monomer 1: 
+This monomer will incorporate two epoxy groups and feature a rigid structure to increase the Tg.
+
+**Structure:** A rigid bicyclic compound with two epoxy groups.
+
+**SMILES:** C1C(C2=CC(C1)C(C2O)O)C(O)C(O)C1(C1O)C1=COC1=O
+
+### Monomer 2: 
+This monomer will contain two imine groups and will be designed to have a structure that helps achieve the desired mechanical properties.
+
+**Structure:** A tricyclic compound with two imine groups that contributes to higher crosslinking density.
+
+**SMILES:** C1=CC(C2=C(C1)C=CC=C2)C(=N)C(=N)C1=C(C=C1)C=C(C)C=C1
+
+### Summary:
+- **Monomer 1:** Contains two epoxy groups, designed for rigidity to meet the Tg requirement.
+- **Monomer 2:** Contains two imine groups, structured to achieve the desired Er through enhanced crosslinking.
+
+These monomers are designed to meet the",epoxy(C1OC1),imine(NC),0.5,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+11,COC1=CC(C(C1)OCC2=CC(C(C2)O)C=C)OCC3=CC(C(C3)O)C=C,COC1=CC(C(C1)OCC2=CC(C(C2)O)C=C)OCC3=CC(C(C3)O),"To meet your requirements for thermoset shape memory polymers (TSMPs) with a Tg around 100°C, an Er near 40 MPa, and the specified functional groups, I propose the following monomers:
+
+**Monomer 1:**  
+This monomer will contain ≥2 instances of the epoxy group and be designed to provide the necessary rigidity to achieve a Tg around 100°C.
+
+- **Structure:** A bisphenol-based epoxy with additional ether functionality for increased crosslinking potential.
+- **SMILES:** COC1=CC(C(C1)OCC2=CC(C(C2)O)C=C)OCC3=CC(C(C3)O)C=C
+
+**Monomer 2:**  
+This monomer will contain ≥2 instances of the imine group and will be designed to have a structure that supports a higher crosslinking density, contributing to the desired Er value.
+
+- **Structure:** A salicylaldehyde-based compound with two imine linkages that can form a rigid crosslinked network.
+- **SMILES:** C=CC1=CC(=C(C=C1)N=C(C)C)N=C(C)C
+
+### Summary:
+- **Monomer 1:** Bisphenol-based epoxy  
+  - SMILES: COC1=CC(C(C1)OCC2=CC(C(C2)O)C=C)OCC3=CC(C(C3)O)",epoxy(C1OC1),imine(NC),0.7,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+12,C1=CC=C(C=C1C(CO)C1OC1)C(C1OC1)C1=CCCC1,C1=CC(NC)C(C(NC)=C)C1,"To achieve a thermoset shape memory polymer (TSMP) with the specified functional groups, Tg, and Er values, I propose the following novel monomers:
+
+**Monomer 1:**  
+- **Structure:** This monomer contains two epoxy groups and is designed to provide rigidity to achieve a Tg around 100°C. The structure includes an aromatic ring to enhance rigidity.
+- **SMILES:** C1=CC=C(C=C1C(CO)C1OC1)C(C1OC1)C1=CCCC1
+
+**Monomer 2:**  
+- **Structure:** This monomer contains two imine groups and incorporates an aliphatic chain to optimize the crosslinking density. The imine functionalities are well-distributed to facilitate the formation of a robust network.
+- **SMILES:** C1=CC(NC)C(C(NC)=C)C1
+
+### Summary:
+- **Monomer 1:** Contains 2 epoxy groups, aromatic structure for rigidity, SMILES: C1=CC=C(C=C1C(CO)C1OC1)C(C1OC1)C1=CCCC1
+- **Monomer 2:** Contains 2 imine groups, aliphatic chain for crosslinking density, SMILES: C1=CC(NC)C(C(NC)=C)C1
+
+These monomers should meet the functional requirements while also achieving the desired mechanical properties.",epoxy(C1OC1),imine(NC),0.7,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+13,O1C(C(C1)O)C(C(C1)O)C1=CC=CC=C1C1=CC=CC=C1,C1=CC=C(C=C1)C(=NC(C1=CC=CC=C1)C(=NC(C1=CC=CC=C1,"To achieve a thermoset shape memory polymer (TSMP) with the specified target properties, I have designed the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains two epoxy groups and is designed to have a rigid structure to meet the Tg requirement. 
+
+- **Name:** 1,3-Bis(2,3-epoxypropyl)benzene  
+- **Structure:** A biphenyl structure with two epoxy groups to enhance crosslinking density. The presence of aromatic rings contributes to the rigidity, which is necessary for achieving a Tg around 100°C. 
+
+- **SMILES:** O1C(C(C1)O)C(C(C1)O)C1=CC=CC=C1C1=CC=CC=C1
+
+**Monomer 2:**  
+This monomer contains two imine groups and has a structure that balances flexibility and rigidity to achieve the desired Er value.
+
+- **Name:** 1,4-Bis(benzylideneamino)butane  
+- **Structure:** A linear structure with imine groups that can effectively crosslink with the epoxy groups from Monomer 1. The presence of aliphatic segments contributes to the overall flexibility while maintaining enough rigidity to support the target Tg.
+
+- **SMILES:** C1=CC=C(C=C1)C(=NC(C1=CC=CC=C1)C(=NC(C1=CC=CC=C1",epoxy(C1OC1),imine(NC),0.7,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+14,C1=CC=C(C=C1)C(C(C2=CC=C(C=C2)OCC(C)O)O)OCC(C)O,C1=CC(C(C=C1)N=CC=C(C)N)C(C=C2)C(C=C2)C,"To design two novel monomers that satisfy your requirements for a thermoset shape memory polymer (TSMP) with an epoxy group in Monomer 1 and an imine group in Monomer 2, while targeting a Tg around 100°C and an Er near 40 MPa, I propose the following structures:
+
+**Monomer 1:**
+- Structure: A bis(epoxy) compound with a rigid aromatic backbone to enhance Tg and improve crosslinking density.
+- Proposed Structure: 4,4'-bis(2,3-epoxypropyl)diphenyl ether
+- SMILES: C1=CC=C(C=C1)C(C(C2=CC=C(C=C2)OCC(C)O)O)OCC(C)O
+
+**Monomer 2:**
+- Structure: A bis(imine) compound with a rigid aliphatic chain, which also allows for the formation of crosslinks to enhance mechanical properties.
+- Proposed Structure: 4,4'-diamino-2,2'-dimethyl-1,1'-biphenyl
+- SMILES: C1=CC(C(C=C1)N=CC=C(C)N)C(C=C2)C(C=C2)C
+
+### Summary:
+- **Monomer 1** contains two epoxy groups and has a rigid aromatic structure to help achieve the Tg target.
+- **Monomer 2** contains two imine groups and has a",epoxy(C1OC1),imine(NC),0.7,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+15,C1=CC(C(C1=O)C2=CC=CC=C2)OCC(OCC=O)OCC1=CC=C(C=C1)C(C1=CC=C(C=C1)C(=O)O)O,C1=CC=C(C=C1)C(=O)NC(C2=CC=C(C=C2)C(=O)N)C1=CC=CC=C1,"To design two novel monomers that meet the specified requirements, I will ensure that Monomer 1 contains epoxy groups and Monomer 2 contains imine groups, while also considering the target Tg of around 100°C and an elastic modulus (Er) near 40 MPa.
+
+### Monomer 1: 
+I propose a bis(epoxy) monomer that has a rigid structure to achieve the desired Tg. 
+
+- **Structure**: A bisphenol F diglycidyl ether derivative.
+- **SMILES**: C1=CC(C(C1=O)C2=CC=CC=C2)OCC(OCC=O)OCC1=CC=C(C=C1)C(C1=CC=C(C=C1)C(=O)O)O
+
+### Monomer 2: 
+For the imine monomer, I will design a rigid imine that will provide higher crosslinking potential while satisfying the requirement for two imine groups.
+
+- **Structure**: A bis(imine) derived from a rigid aromatic amine and an aldehyde.
+- **SMILES**: C1=CC=C(C=C1)C(=O)NC(C2=CC=C(C=C2)C(=O)N)C1=CC=CC=C1
+
+### Summary:
+- **Monomer 1**: Bis(epoxy) with high rigidity for Tg.
+  - **SMILES**:",epoxy(C1OC1),imine(NC),0.7,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+16,C1=CC=C(C=C1C(C(C1COC1)OCC1)O)C(C(C1COC1)OCC1)O,C1=CC(C(=N)C(C)C(=N)C2=CC=CC=C2)C=C,"To achieve a thermoset shape memory polymer (TSMP) with the specified requirements, I have designed two novel monomers that meet the criteria for functional groups, Tg, and Er.
+
+**Monomer 1:**  
+This epoxy monomer contains multiple instances of the epoxy functional group and features a rigid structure to achieve the desired Tg of around 100°C. 
+
+- **Structure:** 1,2-Bis(2,3-epoxypropyl)benzene  
+- **SMILES:** C1=CC=C(C=C1C(C(C1COC1)OCC1)O)C(C(C1COC1)OCC1)O
+
+**Monomer 2:**  
+This imine monomer contains multiple instances of the imine functional group, with a structure that allows for good crosslinking properties to achieve the target Er of approximately 40 MPa.
+
+- **Structure:** 1,4-Bis(2-iminoethyl)benzene  
+- **SMILES:** C1=CC(C(=N)C(C)C(=N)C2=CC=CC=C2)C=C1
+
+These monomers are carefully designed to fulfill both the functional group requirements and the properties of Tg and Er specified by you. The incorporation of rigid structures in Monomer 1 and crosslinking potential in Monomer 2 enhances the overall performance of the resulting TSMP.",epoxy(C1OC1),imine(NC),0.9,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+17,C1=CC(C(C1C(C(C2=CC(=C(C=C2)O)C)(C)O)C)(C)O)O)O,C1=CC=C(C(=C1)C(=O)N)C(=O)N,"To achieve a TSMP with a Tg around 100°C and Er near 40 MPa, I will carefully design two novel monomers adhering to the specified functional group requirements and property targets.
+
+**Monomer 1:**
+- This monomer will contain ≥2 instances of epoxy groups, designed with a rigid structure to increase the Tg.
+- Structure: A bisphenol-based epoxy resin derivative to ensure rigidity and crosslinking density.
+
+**SMILES:** C1=CC(C(C1C(C(C2=CC(=C(C=C2)O)C)(C)O)C)(C)O)O)O
+
+**Monomer 2:**
+- This monomer will contain ≥2 instances of imine groups and will be designed to complement the rigidity of monomer 1 while maintaining a balance that contributes to the desired Er values.
+- Structure: A dialdehyde compound with a rigid aromatic backbone which can react with a primary amine to form imine linkages.
+
+**SMILES:** C1=CC=C(C(=C1)C(=O)N)C(=O)N
+
+### Summary:
+- **Monomer 1 (Epoxy):** Contains two epoxy groups for enhanced crosslinking and rigidity.
+- **Monomer 2 (Imine):** Contains two imine groups to provide additional crosslinking and mechanical properties.
+
+These molecules are designed to balance the functional requirements while meeting the target thermal and",epoxy(C1OC1),imine(NC),0.9,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+18,Cc1cc(CCC1COC2CO2)cc(C(C)C)C(C)C,CC(=N)c1ccc(C(=N)CC)c(c1)C,"To fulfill your request for a thermoset shape memory polymer (TSMP) with the specified properties and functional groups, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains two epoxy groups and is designed to achieve a Tg around 100°C. The structure incorporates rigidity from aromatic rings to increase the Tg.
+
+- **Structure:** 1,3-Bis(2,3-epoxypropyl)-5-methylbenzene  
+- **SMILES:** Cc1cc(CCC1COC2CO2)cc(C(C)C)C(C)C
+
+**Monomer 2:**  
+This monomer contains two imine groups and is designed to enhance the crosslinking density to achieve an elastic modulus (Er) of around 40 MPa.
+
+- **Structure:** 1,4-Bis(2-(phenylimino)ethyl)benzene  
+- **SMILES:** CC(=N)c1ccc(C(=N)CC)c(c1)C
+
+### Summary:
+- **Monomer 1:** Contains ≥2 epoxy groups, contributes to structural rigidity, high Tg.  
+- **Monomer 2:** Contains ≥2 imine groups, promotes crosslinking for desired Er.  
+
+This pairing meets your specified functional group requirements while targeting the desired Tg and Er values.",epoxy(C1OC1),imine(NC),0.9,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+19,C1=CC(C(C)C1=CC=C(C=C1)C(C)C=CC2=C(C=CC=C2)C(C)C)C(=O)O,C1=CC=C(C=C1)C(=O)N=C(N=C(C=C2)C=C2C1=CC=C2)C1=CC=C,"To achieve the target properties of a thermoset shape memory polymer (TSMP) with a Tg around 100°C and an Er near 40 MPa, we will design two novel monomers as follows:
+
+**Monomer 1:** (Epoxy containing)
+- Structure: A bis-epoxy compound with a rigid aromatic backbone, increasing Tg due to the structural rigidity and achieving high crosslinking density.
+- Design: A bisphenol A diglycidyl ether derivative with two epoxy groups.
+
+- Chemical structure: (2,2-bis(4-(glycidyloxy)phenyl)propane)
+- SMILES: C1=CC(C(C)C1=CC=C(C=C1)C(C)C=CC2=C(C=CC=C2)C(C)C)C(=O)O
+
+**Monomer 2:** (Imine containing)
+- Structure: A rigid diamine with imine functionality that can crosslink efficiently with the epoxy groups while providing flexibility to help reach the desired Er.
+- Design: A dicarboxaldehyde based imine where the structure allows for multiple imine formations.
+
+- Chemical structure: N,N'-bis(4-formylphenyl)ethylenediamine
+- SMILES: C1=CC=C(C=C1)C(=O)N=C(N=C(C=C2)C=C2C1=CC=C2)C1=CC=C",epoxy(C1OC1),imine(NC),0.9,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+20, C(C1CC(O)CC1)C(C1CC(O)CC1)O,C=N(C1=CC(=C(C=C1C)C)C=C(C)C)C=N(C1=CC(=C(C=C1C)C)C=C(C)C),"To achieve the desired properties and functional group requirements, I propose the following two novel monomers:
+
+### Monomer 1: 
+This monomer contains two epoxy groups and is designed to have a higher rigidity to help achieve the target Tg of around 100°C.
+
+Name: Bis(2,3-epoxypropyl)phenol
+SMILES: C(C1CC(O)CC1)C(C1CC(O)CC1)O
+
+### Monomer 2: 
+This monomer contains two imine groups and is structured to support the target Er value of approximately 40 MPa through higher crosslinking density.
+
+Name: Bis(4-imino-2,6-dimethylphenyl)ethane
+SMILES: C=N(C1=CC(=C(C=C1C)C)C=C(C)C)C=N(C1=CC(=C(C=C1C)C)C=C(C)C)
+
+### Summary:
+- **Monomer 1** provides the necessary epoxy functionality (≥2 epoxy groups) that contributes to rigidity and helps achieve the desired Tg.
+- **Monomer 2** provides the required imine functionality (≥2 imine groups), which enhances the crosslinking density, contributing to the target Er.
+
+These monomers have been designed taking into account both the functional group requirements and the target physical properties.",epoxy(C1OC1),imine(NC),0.9,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+21,C1=CC=C(C=C1C2=CC=CC=C2)(O)C(C3OC(C(C(C(C(C3=O)C(C=CC=C)O)C)C)=O)C(C)=C)O)C1OC1,C1=CC=C(C=C1)C(=NCC(N=C(C)C)C)C=CC=C,"To meet the specified requirements of having an epoxy functional group in the first monomer and imine functional group in the second monomer, while targeting a Tg of around 100°C and an Er of near 40 MPa, I propose the following monomers:
+
+**Monomer 1 (Epoxy):**
+- Structure: A bifunctional epoxy with rigid aromatic rings to contribute to a higher Tg.
+- SMILES: `C1=CC=C(C=C1C2=CC=CC=C2)(O)C(C3OC(C(C(C(C(C3=O)C(C=CC=C)O)C)C)=O)C(C)=C)O)C1OC1`
+- Description: This monomer contains two epoxy groups and a rigid structure due to the presence of aromatic rings, enhancing the thermal transition temperature (Tg) to around 100°C.
+
+**Monomer 2 (Imine):**
+- Structure: A bis-imine derivative with flexible chains to ensure enhancement of cross-linking density while still contributing to the desired properties.
+- SMILES: `C1=CC=C(C=C1)C(=NCC(N=C(C)C)C)C=CC=C`
+- Description: This monomer possesses two imine groups, providing the necessary crosslinking capability. Its structure aims to maintain an appropriate balance of flexibility and rigidity to help achieve the target Er value around 40 MPa.
+
+Together, these two",epoxy(C1OC1),imine(NC),1,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+22,C1=CC(=C(C=C1)O)C2=CC(C(C2)O)(C2(C1)OC(C(C1)C2)=O)C(C(=C)=C(N2)C=C)C(C1)=O, C1=CC=C(C(=C1)C(=N)C2=CC(=C(C=C2)C(=N)C=C)C=C)C=C,"To achieve a thermoset shape memory polymer with the specified properties, I will design two novel monomers that contain epoxy and imine functional groups. 
+
+### Monomer 1: 
+**Description**: This monomer features two epoxy groups and has a rigid structure to help achieve a Tg around 100°C. The presence of phenolic groups contributes to both the rigidity and enhances crosslinking density.
+
+**Structure**: bis(2,3-epoxyphenyl)ether  
+**SMILES**: C1=CC(=C(C=C1)O)C2=CC(C(C2)O)(C2(C1)OC(C(C1)C2)=O)C(C(=C)=C(N2)C=C)C(C1)=O
+
+### Monomer 2: 
+**Description**: This monomer includes two imine groups and a cyclic structure to ensure good rigidity and reactivity. The placement of the imine groups allows for crosslinking with the epoxy groups, which can help achieve the desired properties.
+
+**Structure**: 1,2-bis(4-imino-3-methylphenyl)ethane  
+**SMILES**: C1=CC=C(C(=C1)C(=N)C2=CC(=C(C=C2)C(=N)C=C)C=C)C=C
+
+These monomers should work together to form a thermoset shape",epoxy(C1OC1),imine(NC),1,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+23,C1C(C2=C(C1)C(=C(C(=C2)O)O)O)O)OCC(O)C(O)C=C(C(=O)O)C1(O)OC(C1)C(C2)=O,C=C(C(=C)OCC(C(=O)C(=C)O)C)CN=C(C1=CC=CC=C1)CC=C(C1,"To achieve a TSMP with the specified Tg around 100°C, Er near 40 MPa, and including the required functional groups, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer will have a rigid structure with multiple epoxy groups to ensure higher Tg and adequate crosslinking density.
+
+- Structure: A bicyclic compound with two epoxy functionalities that provides rigidity.  
+- Suggested structure: 1,2-Epoxy-3,3-bis(2,3-epoxypropyl)cyclobutane.  
+
+- **SMILES:** C1C(C2=C(C1)C(=C(C(=C2)O)O)O)O)OCC(O)C(O)C=C(C(=O)O)C1(O)OC(C1)C(C2)=O
+
+**Monomer 2:**  
+This monomer will incorporate two imine functionalities while ensuring sufficient rigidity for the desired properties.
+
+- Structure: A diamine with terminal imine groups offers multiple crosslinking sites and a balance between flexibility and rigidity.  
+- Suggested structure: 1,2-Bis(1-phenyl-ethan-1-ones)-ethylenediamine.
+
+- **SMILES:** C=C(C(=C)OCC(C(=O)C(=C)O)C)CN=C(C1=CC=CC=C1)CC=C(C1",epoxy(C1OC1),imine(NC),1,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+24, C1=CC=C(C=C1C2(C(C(O2)C(C(C2)O)=O)O=O)C(O)CC(O)=O)C(O)=C(C=C(C2=O)=O)C(C=C())C)CC=C(C)=O)CC=C(CC=C(C)=O)CC=CC(=O)C(C=C(CC=CC=)C(=O)C)C(=O)=O),N/A,"To meet your requirements for a thermoset shape memory polymer (TSMP) with epoxy and imine functional groups, here's the proposed design:
+
+**Monomer 1:** (Epoxy Functional Group)
+- Structure: A rigid bicyclic structure with two epoxy groups.
+- Example: 1,2-bis(2,3-epoxypropyl)benzene.
+- Rationale: The bicyclic structure increases the rigidity, contributing to a Tg around 100°C and enhances crosslinking potential due to the two epoxy groups.
+
+**SMILES:** C1=CC=C(C=C1C2(C(C(O2)C(C(C2)O)=O)O=O)C(O)CC(O)=O)C(O)=C(C=C(C2=O)=O)C(C=C())C)CC=C(C)=O)CC=C(CC=C(C)=O)CC=CC(=O)C(C=C(CC=CC=)C(=O)C)C(=O)=O)
+
+**Monomer 2:** (Imine Functional Group)
+- Structure: A di-amine structure that can readily form imines with carbonyl compounds, featuring two imine groups.
+- Example: N,N'-bis(3-aminophenyl)ethylenediamine.
+- Rationale: The presence of two amine groups ensures sufficient reactivity to form stable imine linkages and contributes to a Tg that complements the epoxy",epoxy(C1OC1),imine(NC),1,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+25,C1C(C2C1C(=O)C=C2)(C1OCC1)OCC1=COC=C1,C1=CC(C(=C2)N=C(C3=CC=C(C=C3)N=C2)C=C1)C=C4,"To achieve a thermoset shape memory polymer (TSMP) with the specified properties (Tg around 100°C, Er near 40 MPa), here are the proposed monomers:
+
+**Monomer 1:**  
+This monomer is designed to have two epoxy groups and sufficient molecular rigidity to contribute to a Tg around 100°C.
+
+**Structure:** A bicyclic structure with two epoxy functionalities and a rigid backbone.
+
+**SMILES:** `C1C(C2C1C(=O)C=C2)(C1OCC1)OCC1=COC=C1`  
+(This represents a bicyclic structure with challenging conformational constraints.)
+
+**Properties:**  
+- Two epoxy groups (C1OC1).
+- Rigid backbone is conducive to higher Tg.
+
+---
+
+**Monomer 2:**  
+To complement the epoxy groups and contribute to the overall structure, this monomer includes two imine groups, providing the necessary functionality for network formation and affecting the final properties.
+
+**Structure:** A linear molecule with two imine functionalities and sufficient flexibility for mixing.
+
+**SMILES:** `C1=CC(C(=C2)N=C(C3=CC=C(C=C3)N=C2)C=C1)C=C4`  
+(This represents a structure where imine groups are spaced along a flexible aromatic backbone.)
+
+**Properties:**  
+- Two imine groups (NC).
+- Some rigidity due to aromatic components, which will help to achieve a Tg",epoxy(C1OC1),imine(NC),1,100,40,"Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups."
+26,C=C(C1=CC=C(C=C1)C(=O)O)C=C,C=C(C,"To achieve a thermoset shape memory polymer (TSMP) system with a target glass transition temperature (Tg) of 150°C and an elastic modulus (Er) of 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, I propose the following novel monomers:
+
+**Monomer 1:**  
+- **Functional Group:** Vinyl (C=C)  
+- **Structure:** A rigid, aromatic-based vinyl monomer to increase Tg.  
+- **Description:** This monomer contains two vinyl groups and is designed to enhance crosslinking density.  
+
+**SMILES:** `C=C(C1=CC=C(C=C1)C(=O)O)C=C`  
+- This structure includes two vinyl groups and a carboxylic acid to promote further crosslinking.
+
+**Monomer 2:**  
+- **Functional Group:** Thiol (C–S)  
+- **Structure:** A rigid thiol monomer that contains two thiol groups and is designed to maintain a high Tg.  
+- **Description:** This monomer is based on a thiophenol structure, which provides rigidity and enhances the crosslinking density when combined with the vinyl monomer.
+
+**SMILES:** `C(C1=CC=C(SC)C=C1)S`  
+- This structure includes two thiol groups and an aromatic ring to increase rigidity.
+
+### Summary:
+- **Monomer 1:** C=C(C",vinyl(C=C),thiol(CCS),0.3,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+27,C=C(C1=CC=CC=C1)C=C,C(CS)CC(CS)C,"To achieve a thermoset shape memory polymer (TSMP) system with a target Tg of 150°C and an Er of 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, I propose the following novel monomers:
+
+**Monomer 1:**  
+A vinyl-functionalized monomer with high rigidity to ensure a high Tg. This monomer will contain two vinyl groups to meet the requirement.
+
+- **Structure:** A rigid aromatic compound with vinyl groups.
+- **SMILES:** C=C(C1=CC=CC=C1)C=C
+
+**Monomer 2:**  
+A thiol-functionalized monomer that also contains two thiol groups to meet the requirement. This monomer will be designed to have a moderate molecular weight to allow for good crosslinking density.
+
+- **Structure:** A dithiol with a flexible aliphatic chain to enhance crosslinking.
+- **SMILES:** C(CS)CC(CS)C
+
+### Summary:
+- **Monomer 1:** C=C(C1=CC=CC=C1)C=C (Vinyl monomer with two vinyl groups)
+- **Monomer 2:** C(CS)CC(CS)C (Thiol monomer with two thiol groups)
+
+This combination of monomers should provide the necessary rigidity and crosslinking density to achieve the desired Tg of 150°C and an Er of 30 MPa.",vinyl(C=C),thiol(CCS),0.3,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+28,C1=CC=C(C=C1)C(=C)C(=C)C(=C)C(=O)C,C(CS)C(CS)C(=O)C(C)C,"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 150°C and Er = 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, I will propose two novel monomers that satisfy the critical design rules.
+
+### Monomer 1: 
+This monomer will contain two instances of the vinyl (C=C) functional group and will be designed to have a rigid structure to achieve the desired Tg.
+
+**Structure:** A rigid, aromatic-based vinyl monomer with two vinyl groups.
+
+**SMILES:** C1=CC=C(C=C1)C(=C)C(=C)C(=C)C(=O)C
+
+### Monomer 2: 
+This monomer will contain two instances of the thiol (C–S) functional group and will be designed to enhance crosslinking density to achieve the desired Er.
+
+**Structure:** A flexible thiol monomer with two thiol groups, which can provide high reactivity for crosslinking.
+
+**SMILES:** C(CS)C(CS)C(=O)C(C)C
+
+### Summary:
+- **Monomer 1:** Vinyl-based monomer with two vinyl groups for rigidity and high Tg.
+- **Monomer 2:** Thiol-based monomer with two thiol groups for increased crosslinking density.
+
+These monomers, when polymerized, will provide a",vinyl(C=C),thiol(CCS),0.3,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+29,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=CC=C3)C=C,C(CS)CCCCC(CS)C,"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 150°C and Er = 30 MPa, while incorporating vinyl (C=C) and thiol (C–S) functionalities, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer will contain two instances of the vinyl functional group (C=C) and will be designed to have a rigid structure to achieve the desired Tg.
+
+- **Structure:** A rigid aromatic compound with vinyl groups.
+- **Name:** 1,4-Bis(vinylphenyl)benzene
+- **SMILES:** C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=CC=C3)C=C
+
+**Monomer 2:**  
+This monomer will contain two instances of the thiol functional group (C–S) and will be designed to enhance crosslinking density, contributing to the desired Er.
+
+- **Structure:** A flexible aliphatic compound with thiol groups.
+- **Name:** 1,6-Bis(mercaptomethyl)hexane
+- **SMILES:** C(CS)CCCCC(CS)C
+
+### Summary:
+- **Monomer 1:** 1,4-Bis(vinylphenyl)benzene (C=C)
+  - **SMILES:** C=C(C1=CC=C(C=C1",vinyl(C=C),thiol(CCS),0.3,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+30,C=C(C1=CC=CC=C1)C=C,C(CS)C(CS)C(C)C(C)C(C)C,"To design a thermoset shape memory polymer (TSMP) system that incorporates vinyl (C=C) and thiol (C–S) functionalities while achieving a target glass transition temperature (Tg) of 150°C and an elastic modulus (Er) of 30 MPa, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer will contain two instances of vinyl (C=C) functionality and will be designed to have a rigid structure to achieve the desired Tg. 
+
+- **Structure:** A rigid aromatic compound with vinyl groups.
+- **SMILES:** C=C(C1=CC=CC=C1)C=C
+
+**Monomer 2:**  
+This monomer will contain two instances of thiol (C–S) functionality and will be designed to enhance crosslinking density to achieve the desired Er.
+
+- **Structure:** A flexible aliphatic compound with thiol groups.
+- **SMILES:** C(CS)C(CS)C(C)C(C)C(C)C
+
+### Summary of Monomers:
+- **Monomer 1:**  
+  - **Functional Groups:** Vinyl (C=C)  
+  - **SMILES:** C=C(C1=CC=CC=C1)C=C  
+  - **Properties:** Rigid structure to achieve high Tg.
+
+- **Monomer 2:**  
+  - **Functional Groups:** Thiol (C–S)  
+  - **SMILES:** C",vinyl(C=C),thiol(CCS),0.3,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+31,C1=CC2=C(C=C1)C(=C(C2=C)C=C)C=C,C(CS)C(CS)C1=CC=CC=C1,"To design a thermoset shape memory polymer (TSMP) system that satisfies the requirements of Tg = 150°C and Er = 30 MPa with vinyl (C=C) and thiol (C–S) functionalities, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer will contain two instances of the vinyl functional group and will be designed to have a rigid structure to achieve the desired Tg.
+
+- **Structure:** A rigid bicyclic compound that incorporates two vinyl groups.
+- **SMILES:** C1=CC2=C(C=C1)C(=C(C2=C)C=C)C=C
+
+**Monomer 2:**  
+This monomer will contain two instances of the thiol functional group and will be designed to optimize crosslinking density, contributing to the desired Er.
+
+- **Structure:** A linear or branched compound with two thiol groups, incorporating a rigid backbone to enhance mechanical properties.
+- **SMILES:** C(CS)C(CS)C1=CC=CC=C1
+
+### Summary:
+- **Monomer 1:** 
+  - **Functional Group:** Vinyl (C=C) 
+  - **SMILES:** C1=CC2=C(C=C1)C(=C(C2=C)C=C)C=C
+  
+- **Monomer 2:** 
+  - **Functional Group:** Thiol (C–S)
+  - **SMILES:** C(CS",vinyl(C=C),thiol(CCS),0.5,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+32,C=CC1=CC=C(C=C)C=C(C=C)C=C1C2=CC=CC=C2,C(CS)C1=CC=C(C(CS)C=C)C=C1,"To achieve a thermoset shape memory polymer (TSMP) system with a target glass transition temperature (Tg) of 150°C and an elastic modulus (Er) of 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, I propose the following novel monomer pairs:
+
+### Monomer 1: 
+**Structure**: A rigid vinyl-based monomer with two vinyl groups to enhance crosslinking density and molecular rigidity for higher Tg.
+
+**Name**: 1,4-Bis(2-vinylphenyl)benzene  
+**SMILES**: C=CC1=CC=C(C=C)C=C(C=C)C=C1C2=CC=CC=C2
+
+### Monomer 2: 
+**Structure**: A thiol monomer with two thiol groups that will allow for effective crosslinking with the vinyl groups in Monomer 1, while also providing flexibility to balance the modulus.
+
+**Name**: 1,4-Bis(mercaptomethyl)benzene  
+**SMILES**: C(CS)C1=CC=C(C(CS)C=C)C=C1
+
+### Explanation:
+- **Monomer 1** is designed with a rigid aromatic structure containing two vinyl groups, which will contribute to a higher Tg due to the increased molecular rigidity. The presence of multiple vinyl groups will also enhance the crosslinking density needed to achieve the target",vinyl(C=C),thiol(CCS),0.5,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+33,C(CS)CC(CS)C(=O)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS),C1=CC=C(C=C1)C(C=C,"To design a thermoset shape memory polymer (TSMP) system that incorporates vinyl (C=C) and thiol (C–S) functionalities, while achieving a target glass transition temperature (Tg) of 150°C and an elastic modulus (Er) of 30 MPa, I will create two novel monomers that meet the specified requirements.
+
+**Monomer 1:** This monomer will contain two instances of the vinyl functionality. To ensure a higher Tg, I will incorporate a rigid structure.
+
+- **Structure:** A rigid aromatic ring system with vinyl groups to enhance Tg.
+- **SMILES:** C1=CC=C(C=C1)C(C=C)C(=O)C(C=C)C2=CC=CC=C2
+
+**Monomer 2:** This monomer will contain two instances of the thiol functionality. The structure will be designed to optimize crosslinking density, which will help achieve the desired Er.
+
+- **Structure:** A dithiol with a flexible chain to allow for effective crosslinking.
+- **SMILES:** C(CS)CC(CS)C(=O)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)
+
+Here’s a summary of the proposed monomers:
+
+**Monomer 1:**  
+- **Functional Groups:** Vinyl (C=C)  
+- **SMILES:** C1=CC=C(C=C1)C(C=C",vinyl(C=C),thiol(CCS),0.5,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+34,C=C1C=CC2=C(C=C1)C(=C(C2=CC=C(C=C)C)C)C(=O)C,C(CS)C(CS)C(=C)C(=C)C(=O)C,"To design a thermoset shape memory polymer (TSMP) system that satisfies the requirements of Tg = 150°C and Er = 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, the following novel monomers are proposed:
+
+**Monomer 1:** (Vinyl Functional Monomer)  
+This monomer will contain two instances of the vinyl group (C=C) and will be designed to have a rigid structure to achieve the desired Tg.
+
+- **Structure:** A rigid bicyclic compound with vinyl groups.
+- **SMILES:** C=C1C=CC2=C(C=C1)C(=C(C2=CC=C(C=C)C)C)C(=O)C
+
+**Monomer 2:** (Thiol Functional Monomer)  
+This monomer will contain two instances of the thiol group (C–S) and will be designed to contribute to the crosslinking density necessary for the desired Er.
+
+- **Structure:** A rigid dithiol with a flexible chain to enhance crosslinking.
+- **SMILES:** C(CS)C(CS)C(=C)C(=C)C(=O)C
+
+### Summary:
+- **Monomer 1:** Contains two vinyl groups and is designed for rigidity to achieve high Tg.
+- **Monomer 2:** Contains two thiol groups to enhance crosslinking density for achieving the required Er.
+
+These mon",vinyl(C=C),thiol(CCS),0.5,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+35,C=C(C1=CC=CC=C1)C=,CCSCCS,"To design a thermoset shape memory polymer (TSMP) system that satisfies the requirements of Tg = 150°C and Er = 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, I will propose two novel monomers that meet the specified criteria.
+
+### Monomer 1: Vinyl-functionalized monomer
+- **Structure**: A rigid structure containing two vinyl groups to ensure sufficient crosslinking and high Tg.
+- **Description**: This monomer has a rigid aromatic backbone which contributes to a higher Tg, while the two vinyl groups allow for effective crosslinking.
+- **SMILES**: C=C(C1=CC=CC=C1)C=C
+
+### Monomer 2: Thiol-functionalized monomer
+- **Structure**: A flexible thiol monomer with two thiol groups that can react with the vinyl groups during curing.
+- **Description**: This monomer includes a flexible aliphatic chain which provides some elasticity, while the two thiol groups enhance the crosslinking density.
+- **SMILES**: CCSCCS
+
+### Summary
+- **Monomer 1**: C=C(C1=CC=CC=C1)C=C
+- **Monomer 2**: CCSCCS
+
+These monomers are designed to achieve the desired properties while satisfying the functional group requirements and ensuring a high crosslinking density for the specified Er value. The rigid structure of",vinyl(C=C),thiol(CCS),0.5,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+36,C=CC1=CC=C(C=C)C=C1C(=O)C(C=C)=C(C=C)C(=O),C(CS)C(CS)(C(=O)C(C(C)C)C)C(=O)C(C)C,"To design a thermoset shape memory polymer (TSMP) system that satisfies the specified requirements of Tg = 150°C and Er = 30 MPa while incorporating vinyl (C=C) and thiol (C–S) functionalities, I propose the following novel monomer pairs:
+
+**Monomer 1:**  
+- **Description:** A vinyl-based monomer with high rigidity to achieve the target Tg. This monomer will contain two instances of vinyl functionality.  
+- **Structure:** A rigid aromatic compound with vinyl groups.  
+
+- **SMILES:** `C=CC1=CC=C(C=C)C=C1C(=O)C(C=C)=C(C=C)C(=O)`
+
+**Monomer 2:**  
+- **Description:** A thiol-based monomer that also possesses high crosslinking potential to achieve the desired Er value. This monomer will contain two instances of thiol functionality.  
+- **Structure:** A dithiol with a rigid backbone to contribute to the overall rigidity of the polymer network.  
+
+- **SMILES:** `C(CS)C(CS)(C(=O)C(C(C)C)C)C(=O)C(C)C`
+
+### Summary of Design Choices:
+1. **Monomer 1** has two instances of vinyl groups, contributing to the crosslinking and rigidity required for high Tg. The aromatic rings provide additional rigidity.
+2. **Monomer 2**",vinyl(C=C),thiol(CCS),0.7,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+37,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C=C(C)C)C=C,C(C1=CC=C(C=C1)C(CS)C(CS)C2=CC=C(C=C2)),"To design a thermoset shape memory polymer (TSMP) system with the specified vinyl (C=C) and thiol (C–S) functionalities, along with the target properties of Tg = 150°C and Er = 30 MPa, I will propose two novel monomers that meet the critical design rules.
+
+**Monomer 1 (Vinyl Functional Monomer):**  
+To meet the requirement for vinyl functionality, I will create a monomer that contains two vinyl groups and is rigid enough to contribute to a high Tg.
+
+- **Structure:** 1,4-bis(vinylphenyl)benzene  
+- **SMILES:** C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C=C(C)C)C=C  
+
+**Monomer 2 (Thiol Functional Monomer):**  
+For the thiol functionality, I will design a monomer containing two thiol groups that also contributes to a high crosslinking density when combined with the first monomer.
+
+- **Structure:** 1,4-bis(mercaptomethyl)benzene  
+- **SMILES:** C(C1=CC=C(C=C1)C(CS)C(CS)C2=CC=C(C=C2))S
+
+### Summary:
+- **Monomer 1:** 1,4-bis(vinylphenyl)benzene  
+  -",vinyl(C=C),thiol(CCS),0.7,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+38,C(CS)C1=CC=C(C(CS)C)C=C1,C=CC1=CC=C(C=C)C=C1,"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 150°C and Er = 30 MPa, I will create two novel monomers: one containing vinyl (C=C) functionalities and the other containing thiol (C-SH) functionalities. 
+
+### Monomer 1: Vinyl Functional Monomer
+This monomer will contain two instances of vinyl groups for enhanced crosslinking and will be designed to have a rigid structure to achieve the target Tg.
+
+- **Structure**: 1,4-bis(vinyl)benzene (to increase rigidity due to the phenyl groups)
+- **SMILES**: C=CC1=CC=C(C=C)C=C1
+
+### Monomer 2: Thiol Functional Monomer
+This monomer will contain two instances of thiol groups to ensure adequate crosslinking density while also incorporating a rigid backbone to help meet the Tg requirement.
+
+- **Structure**: 1,4-bis(mercaptomethyl)benzene (providing thiol groups and rigidity)
+- **SMILES**: C(CS)C1=CC=C(C(CS)C)C=C1
+
+### Summary:
+- **Monomer 1**: 1,4-bis(vinyl)benzene
+  - **SMILES**: C=CC1=CC=C(C=C)C=C1
+- **Monomer 2**",vinyl(C=C),thiol(CCS),0.7,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+39,C=C(C1=CC=CC=C1)C=C,C(CS)C(CS)C(=O)C,"To design a thermoset shape memory polymer (TSMP) system with the specified properties of Tg = 150°C and Er = 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, I propose the following novel monomers:
+
+### Monomer 1:
+- **Functional Group**: Vinyl (C=C)
+- **Structure**: A rigid, multi-functional vinyl monomer that promotes high Tg and crosslinking density.
+- **Description**: This monomer contains two vinyl groups and features a rigid aromatic backbone to enhance Tg.
+- **SMILES**: C=C(C1=CC=CC=C1)C=C
+
+### Monomer 2:
+- **Functional Group**: Thiol (C–S)
+- **Structure**: A flexible, multi-functional thiol monomer that can crosslink effectively and contribute to the Er target.
+- **Description**: This monomer contains two thiol groups and is designed to maintain a balance between flexibility and crosslinking potential.
+- **SMILES**: C(CS)C(CS)C(=O)C
+
+### Summary:
+- **Monomer 1** enhances the Tg due to its rigid structure while providing two vinyl groups for crosslinking.
+- **Monomer 2** contributes to the desired Er by facilitating strong crosslinking through multiple thiol functionalities.
+
+This combination should yield a TSMP system that meets the specified requirements of Tg and",vinyl(C=C),thiol(CCS),0.7,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+40,C=CC1=CC=C(C=C)C=C1,C(C(C(C(S)S)C)C)C,"To achieve the targeted properties of Tg = 150°C and Er = 30 MPa with the specified functionalities (vinyl C=C and thiol CCS), I propose the following novel monomer pairs:
+
+**Monomer 1:**  
+*Functional Group:* Vinyl (C=C)  
+*Structure:* A rigid aromatic compound with two vinyl groups to ensure sufficient functionality and rigidity.  
+*Description:* This monomer is designed with a benzene ring to provide rigidity for a higher Tg and features two vinyl groups for crosslinking.  
+
+*SMILES:* C=CC1=CC=C(C=C)C=C1  
+
+**Monomer 2:**  
+*Functional Group:* Thiol (C–SH)  
+*Structure:* A branched aliphatic compound with two thiol groups to enhance crosslinking density.  
+*Description:* This monomer incorporates two thiol groups on a branched structure to optimize crosslinking, which will contribute to achieving the desired Er value.  
+
+*SMILES:* C(C(C(C(S)S)C)C)C  
+
+This combination is expected to satisfy both the required functionality and property targets, leveraging the rigidity of the aromatic structure in Monomer 1 for the Tg and the high crosslinking potential of the thiol groups in Monomer 2 for the Er.",vinyl(C=C),thiol(CCS),0.7,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+41,C=C1CCCCC1C=C,C1=CC(,"To design a TSMP system incorporating vinyl (C=C) and thiol (C–SH) functionalities with the required properties of Tg = 150°C and Er = 30 MPa, I will create two novel monomers that contain the specified functional groups while ensuring appropriate molecular rigidity and crosslinking density. 
+
+**Monomer 1 (Vinyl functionality):**
+- Structure: A rigid vinyl monomer featuring a cyclohexane ring to enhance the overall rigidity and Tg.
+- Functional groups: Contains two instances of the vinyl group to meet the requirements.
+- Molecular structure: The introduction of a cyclohexane ring increases rigidity.
+
+**Monomer 2 (Thiol functionality):**
+- Structure: A thiol monomer featuring a phenolic structure with two thiol groups for increased crosslinking potential.
+- Functional groups: Contains two instances of the thiol group to satisfy the requirement.
+- Molecular structure: The phenolic structure contributes to rigidity and stability.
+
+### Proposed Monomers:
+
+**Monomer 1:**
+- **Name:** 1,4-bis(vinyl)cyclohexane
+- **Structure:** 
+  - SMILES: C=C1CCCCC1C=C
+- **Functional Groups:** 2 vinyl (C=C)
+
+**Monomer 2:**
+- **Name:** 2,6-bis(mercaptomethyl)phenol
+- **Structure:**
+  - SMILES: C1=CC(",vinyl(C=C),thiol(CCS),0.9,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+42,CC(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)=C)C(C)=C,C1=CC=C(C=C1C(CS)CS)C(CS)CS,"To satisfy the requirements for a TSMP system with a Tg of 150°C and an Er of 30 MPa, incorporating vinyl (C=C) and thiol (C–S) functionalities, the following monomers can be proposed:
+
+**Monomer 1:**  
+- Type: Vinyl (C=C)  
+- Structure: A rigid vinyl-based monomer with two vinyl groups to enhance crosslinking density, aiding in achieving the desired mechanical properties.  
+- Proposed structure: 1,1-Bis(4-vinylphenyl)ethane  
+- SMILES: CC(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)=C)C(C)=C
+
+**Monomer 2:**  
+- Type: Thiol (C–S)  
+- Structure: A flexible yet crosslinkable thiol monomer with two thiol groups to promote further crosslinking, which is beneficial for achieving higher Er values.  
+- Proposed structure: 1,2-Bis(mercaptomethyl)benzene  
+- SMILES: C1=CC=C(C=C1C(CS)CS)C(CS)CS
+
+### Summary:
+- **Monomer 1 (Vinyl):** 1,1-Bis(4-vinylphenyl)ethane (CC(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)=C)C",vinyl(C=C),thiol(CCS),0.9,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+43,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)=C)C(C)=C,C(C(C(C1CCCCC1)(C2CCCCC2)))S,"To satisfy the request for a TSMP system that incorporates vinyl (C=C) and thiol (CCS) functionalities with a target Tg of 150°C and Er of 30 MPa, I have designed the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains two vinyl groups (C=C) and is designed to enhance molecular rigidity through a stiff backbone structure. 
+
+- Structure: 1,1-bis(4-vinylphenyl)ethane
+- SMILES: C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C(C)=C)C(C)=C
+
+**Monomer 2:**  
+This monomer contains two thiol groups (CCS) and incorporates a rigid cyclic structure to help achieve the desired Tg and crosslinking density.
+
+- Structure: 3,3'-dimercapto-1,1'-bicyclohexyl
+- SMILES: C(C(C(C1CCCCC1)(C2CCCCC2)))S
+
+These monomers have been designed to balance the necessary functional group requirements and to optimize molecular rigidity and crosslinking density, achieving the specified thermomechanical properties.",vinyl(C=C),thiol(CCS),0.9,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+44,C=CC1=CC=C(C=C)C=C1C(=C)C=C,C(C1=CC=C(C=C1)S)S,"To design a thermoset shape memory polymer (TSMP) system incorporating vinyl (C=C) and thiol (CCS) functionalities while achieving the desired Tg of 150°C and Er of 30 MPa, I have formulated two novel monomers based on your requirements. 
+
+### Monomer 1:
+**Type:** Vinyl Monomer  
+**Structure:** A rigid aromatic-based monomer that contains multiple vinyl groups to enhance crosslinking density and achieve the desired mechanical properties. 
+
+**Monomer Name:** Divinylbenzene Derivative  
+**Structure Explanation:** Incorporating two vinyl groups on a rigid phenyl backbone will increase the Tg and promote effective crosslinking.
+
+**SMILES:** C=CC1=CC=C(C=C)C=C1C(=C)C=C  
+- This structure displays multiple vinyl groups on a phenyl backbone, which contributes to rigidity and higher Tg.
+
+### Monomer 2:
+**Type:** Thiol Monomer  
+**Structure:** A rigid dithiol monomer with two thiol groups for crosslinking with the vinyl monomer, aiding in the formation of a robust network. 
+
+**Monomer Name:** Dithiophenol  
+**Structure Explanation:** The dithiol structure provides high functionality and contributes to the crosslinking density necessary to achieve the target Er.
+
+**SMILES:** C(C1=CC=C(C=C1)S)S  
+- This structure contains two thiol groups attached to a phenyl ring",vinyl(C=C),thiol(CCS),0.9,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+45,C=C(C1=CC=CC=C1)C=C,C(CS)CC(CS)C,"To design a thermoset shape memory polymer (TSMP) system that meets the requirements of a Tg of 150°C and an elastic modulus (Er) of 30 MPa, we will create two novel monomers incorporating the specified functional groups: vinyl (C=C) and thiol (C–SH).
+
+### Monomer Design
+**Monomer 1 (Vinyl Functional Group):**
+- Structure: A rigid vinyl monomer with two vinyl groups and additional rigidity through a phenyl ring.
+- Features: Incorporating a phenyl ring increases the overall molecular rigidity, which helps achieve the target Tg.
+
+**SMILES:** `C=C(C1=CC=CC=C1)C=C`
+
+**Monomer 1:** 
+- **Name:** Bis(vinylphenyl) ether
+- **Functional Groups:** 2 Vinyl groups (C=C)
+- **Tg Contributing Groups:** Rigid phenyl structure increases rigidity.
+
+---
+
+**Monomer 2 (Thiol Functional Group):**
+- Structure: A thiol monomer with two thiol groups and a chain linking the thiol groups to maintain flexibility and facilitate cross-linking.
+- Features: The presence of two thiol groups allows for an increase in crosslinking density upon curing.
+
+**SMILES:** `C(CS)CC(CS)C`
+
+**Monomer 2:** 
+- **Name:** Dithioglycol
+- **Functional Groups:** 2 Thiol groups (CC",vinyl(C=C),thiol(CCS),0.9,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+46,C=C(C)C1=CC(C=C)C2(CC1(C)CC2)C1=CC=C1,C1CC(C(C(=O)O)=O)CC(C1)C(S)C(S),"To achieve the desired Tg of 150°C and an elastic modulus (Er) of 30 MPa, I will design novel monomers containing both vinyl (C=C) and thiol (C-S) functionalities with the required functional group distributions.
+
+**Monomer 1 (Vinyl-functionalized monomer):**  
+This monomer will contain two instances of the vinyl group and will provide rigidity for higher Tg. 
+
+Structure: A rigid bicyclic vinyl monomer with two vinyl groups.
+
+- **Name:** 1,4-Bis(1-vinylcyclopentyl)-2,3-dimethylcyclobutane
+- **SMILES:** C=C(C)C1=CC(C=C)C2(CC1(C)CC2)C1=CC=C1
+
+**Monomer 2 (Thiol-functionalized monomer):**  
+This monomer will contain two instances of the thiol group and will promote high crosslinking density contributing to both the required Er and functionality.
+
+Structure: A rigid thiol monomer suitable for crosslinking.
+
+- **Name:** 1,4-Bis(mercapto)cyclohexane-1,2-dicarboxylic acid
+- **SMILES:** C1CC(C(C(=O)O)=O)CC(C1)C(S)C(S)
+
+With these two monomers, the shape memory properties can be optimized. The first monomer ensures a high Tg due",vinyl(C=C),thiol(CCS),1,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+47,C=CC1(C)C2=C(C=C1)C(=C(C)C2=C)C=C,C(C(=S)C)(C(=S)C)CC,"To achieve the desired Tg of 150°C and Er of 30 MPa with the specified functional groups (vinyl C=C and thiol CCS), I will design two novel monomers based on the critical design rules. 
+
+### Monomer 1: Vinyl-functional monomer
+This monomer contains two instances of the vinyl (C=C) functional group and incorporates a rigid structure to help achieve the high Tg requirement.
+
+**Structure:**
+- A rigid bicyclic compound with a vinyl group.
+
+**SMILES:**
+```
+C=CC1(C)C2=C(C=C1)C(=C(C)C2=C)C=C
+```
+
+### Monomer 2: Thiol-functional monomer
+This monomer contains two instances of the thiol (C=SS) functional group and has a structure that contributes to crosslinking density.
+
+**Structure:**
+- A linear chain compound with two terminal thiol groups and a moderate degree of rigidity.
+
+**SMILES:**
+```
+C(C(=S)C)(C(=S)C)CC
+```
+
+### Summary
+- **Monomer 1** provides the necessary vinyl groups and contributes to high rigidity for higher Tg.
+- **Monomer 2** provides the required thiol groups and ensures sufficient crosslinking density for higher Er.
+
+These monomers should now allow for the formation of a TSMP system that meets your specifications.",vinyl(C=C),thiol(CCS),1,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+48,C=C(C1=CCCCC1)C=C,C1=CC(=C(C=C1C(CS)CS)C)C,"To meet the specified criteria of Tg = 150°C and Er = 30 MPa, while incorporating both vinyl (C=C) and thiol (C–SH) functionalities, I have designed the following novel monomer pair.
+
+### Monomer 1 (Vinyl Functional): 
+To ensure ≥2 instances of the vinyl group, I propose a rigid structure containing two vinyl groups.
+
+**Structure: 1,1-Bis(vinyl)cyclohexane**
+- This structure introduces rigidity through the cyclohexane ring while meeting the functional group requirement.
+
+**SMILES:** 
+`C=C(C1=CCCCC1)C=C`
+
+### Monomer 2 (Thiol Functional): 
+For the thiol component, I recommend a bithiol compound to satisfy the requirement of ≥2 thiol groups and ensure sufficient crosslinking density.
+
+**Structure: 1,2-Bis(mercaptomethyl)benzene**
+- This structure includes two thiol functionalities and a benzene ring to enhance rigidity.
+
+**SMILES:** 
+`C1=CC(=C(C=C1C(CS)CS)C)C`
+
+### Summary:
+- **Monomer 1: 1,1-Bis(vinyl)cyclohexane**
+  - SMILES: `C=C(C1=CCCCC1)C=C`
+  
+- **Monomer 2: 1,2-Bis(mercaptomethyl)benz",vinyl(C=C),thiol(CCS),1,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+49,C=C1C(=C(C2=C1C(=C(C=C2)C(C)C)O)C)C)C(C)C,CC(CS)C(CS)C(C)C,"To design a thermoset shape memory polymer (TSMP) system that meets a Tg of 150°C and an Er of 30 MPa while incorporating vinyl (C=C) and thiol (C–S) functionalities, I will suggest two novel monomers with the required properties. 
+
+### Monomer 1: Vinyl-Functional Monomer
+This monomer contains two instances of the vinyl group and is designed for rigidity to achieve the target Tg.
+
+**Monomer 1:** 
+- Structure: A polycyclic vinyl compound to increase molecular rigidity and enhance Tg.
+- SMILES: `C=C1C(=C(C2=C1C(=C(C=C2)C(C)C)O)C)C)C(C)C`
+
+### Monomer 2: Thiol-Functional Monomer
+This monomer contains two instances of the thiol group and is structured to optimize crosslinking density for higher Er.
+
+**Monomer 2:** 
+- Structure: A branched thiol compound that enhances crosslinking density due to its multi-branched nature.
+- SMILES: `CC(CS)C(CS)C(C)C`
+
+### Summary
+- **Monomer 1** contains two vinyl groups and is structurally rigid with a design aiming for a high Tg of 150°C.
+- **Monomer 2** contains two thiol groups aimed at providing high crosslink density for achieving an Er of ",vinyl(C=C),thiol(CCS),1,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+50,C=C1C(=C2C(=C1)C=C(C2)C)C=C,N/A,"To design a thermoset shape memory polymer (TSMP) system that incorporates vinyl (C=C) and thiol (C–S) functionalities while meeting the target glass transition temperature (Tg) of 150°C and storage modulus (Er) of 30 MPa, I will select monomers that satisfy the specified design rules and functional group requirements.
+
+### Monomer 1: 
+For the first monomer containing vinyl (C=C) functionalities, I will design a structure with two vinyl groups and appropriate molecular rigidity to achieve the target Tg.
+
+**Structure: A rigid diene with vinyl groups**
+- **Functional Groups**: 2 Vinyl groups (C=C)
+- **Molecular structure**: A bicyclic compound with two vinyl substitutions to enhance rigidity.
+
+**SMILES**: C=C1C(=C2C(=C1)C=C(C2)C)C=C
+
+### Monomer 2: 
+For the second monomer containing thiol (C–S) functionalities, I will select a monomer with two thiol groups, ensuring it complements the first monomer while maintaining balance for crosslinking density.
+
+**Structure: A dithiol with rigid backbone**
+- **Functional Groups**: 2 Thiol groups (C–S)
+- **Molecular structure**: A rigid aromatic compound with two thiol groups to allow for efficient crosslinking and contribute to increased Tg.
+
+**SMILES**: C1=CC(",vinyl(C=C),thiol(CCS),1,150,30,"Suggest a TSMP system that satisfies Tg = 150°C and Er = 30 MPa, incorporating vinyl(C=C) and thiol(CCS) functionalities."
+51,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C,C=C(C1=CC(=C(C=C1)O)C2=CC=C(C=C,"To achieve the desired properties of a thermoset shape memory polymer (TSMP) with a Tg around 200°C and an Er near 27 MPa, I will propose two novel monomers that contain vinyl (C=C) groups as specified.
+
+### Monomer 1:
+- **Structure**: A rigid, multi-vinyl monomer with a high degree of unsaturation to promote crosslinking and increase Tg.
+- **Description**: A biphenyl-based compound with two vinyl groups and a rigid backbone to enhance the Tg.
+- **SMILES**: C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C
+
+### Monomer 2:
+- **Structure**: A complementary rigid monomer with two vinyl groups that can crosslink with Monomer 1.
+- **Description**: A phenolic compound with two vinyl groups, providing additional rigidity and crosslinking potential.
+- **SMILES**: C=C(C1=CC(=C(C=C1)O)C2=CC=C(C=C2)C=C)C=C
+
+### Summary:
+- **Monomer 1**: C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C
+- **Monomer 2**: C=C(C1=CC(=C(C=C1)O)C2=CC=C(C=C2",vinyl(C=C),vinyl(C=C),0.3,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+52,C=CC1=CC=C(C=C)C=C(C=C)C=C1,C=CC1=CC(=C(C=C)C=C)C(=C(C=C)C=C)C1,"To meet the requirements for a thermoset shape memory polymer (TSMP) with a Tg around 200°C and an Er near 27 MPa, both monomers will contain vinyl (C=C) functional groups. The design will focus on achieving the desired rigidity and crosslinking density.
+
+**Monomer 1:**  
+This monomer will contain two instances of the vinyl group and will be designed to have a rigid structure to achieve a high Tg.
+
+- Structure: 1,4-bis(2-vinylphenyl)benzene
+- SMILES: C=CC1=CC=C(C=C)C=C(C=C)C=C1
+
+**Monomer 2:**  
+This monomer will also contain two instances of the vinyl group and will complement the first monomer to enhance crosslinking density.
+
+- Structure: 1,3-bis(3-vinyl-4-hydroxyphenyl)propane
+- SMILES: C=CC1=CC(=C(C=C)C=C)C(=C(C=C)C=C)C1
+
+These monomers are designed to provide the necessary functional groups while also ensuring a high Tg and adequate Er through their rigid structures and potential for crosslinking.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+53,C=C(C1=CC=C(C=C)C=C1)C1=CC=C(C=C)C=C1,C=C(C1CCCCC1)C=C,"To achieve a thermoset shape memory polymer (TSMP) with the specified properties (Tg around 200°C, Er near 27 MPa) using vinyl groups, I will design two novel monomers that meet the criteria of containing vinyl functionality and ensuring appropriate molecular rigidity and crosslinking density.
+
+### Monomer 1:
+This monomer will contain two instances of the vinyl group and will be designed to have a rigid structure to achieve the desired Tg.
+
+- **Structure**: 1,4-bis(vinylphenyl)benzene
+- **Description**: This monomer features a biphenyl structure with vinyl groups at both ends, providing rigidity and enhancing crosslinking potential.
+- **SMILES**: C=C(C1=CC=C(C=C)C=C1)C1=CC=C(C=C)C=C1
+
+### Monomer 2:
+This monomer will also contain two instances of the vinyl group, complementing the first monomer while maintaining the desired properties.
+
+- **Structure**: 1,3-bis(vinyl)cyclohexane
+- **Description**: This monomer has a cyclohexane ring with vinyl groups, contributing to the crosslinking density and maintaining a balance of flexibility and rigidity.
+- **SMILES**: C=C(C1CCCCC1)C=C
+
+### Summary:
+- **Monomer 1**: 1,4-bis(vinylphen",vinyl(C=C),vinyl(C=C),0.3,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+54,C=C(C1=CC=CC=C1)C=C(C1=CC=CC=C1),C=C(C1CCCCC1)C=C(C1CCCCC1),"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 200°C and an elastic modulus (Er) near 27 MPa, I will design two novel monomers that contain vinyl (C=C) functional groups. Both monomers will be designed to have high rigidity to meet the Tg requirement and will be structured to optimize crosslinking density for the desired Er value.
+
+**Monomer 1:**  
+- Structure: A rigid, aromatic-based vinyl monomer with two vinyl groups and additional structural features to enhance rigidity.  
+- Description: This monomer will contain a biphenyl structure to increase rigidity and provide two vinyl groups for crosslinking.  
+
+**SMILES:** `C=C(C1=CC=CC=C1)C=C(C1=CC=CC=C1)`  
+- This structure represents a biphenyl with two vinyl groups on each phenyl ring.
+
+**Monomer 2:**  
+- Structure: A rigid, aliphatic vinyl monomer with two vinyl groups and a cyclohexane ring to enhance rigidity.  
+- Description: This monomer will have two vinyl groups on a cyclohexane structure, providing sufficient crosslinking potential while maintaining the necessary rigidity.  
+
+**SMILES:** `C=C(C1CCCCC1)C=C(C1CCCCC1)`  
+- This structure represents a cyclohexane with two vinyl groups.
+
+These monomers are designed to provide the necessary properties for a",vinyl(C=C),vinyl(C=C),0.3,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+55,C=C(C1=CC=CC=C1)C=C,C=C(C(C(C=C)C(C=C)C)C),"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 200°C and an Er near 27 MPa using vinyl functional groups, I will design two novel monomers that satisfy the specified requirements.
+
+**Monomer 1:**  
+- Structure: A rigid, aromatic vinyl compound with two vinyl groups to enhance crosslinking and rigidity. The presence of aromatic rings will contribute to a higher Tg.
+- SMILES: `C=C(C1=CC=CC=C1)C=C`
+
+**Monomer 2:**  
+- Structure: A rigid aliphatic vinyl compound with two vinyl groups and additional functional groups to enhance crosslinking density. This structure will also help in achieving the desired Tg and Er.
+- SMILES: `C=C(C(C(C=C)C(C=C)C)C)`
+
+### Summary:
+- **Monomer 1:** Contains two vinyl groups and is designed for rigidity.
+  - **SMILES:** `C=C(C1=CC=CC=C1)C=C`
+  
+- **Monomer 2:** Contains two vinyl groups and is designed for crosslinking density.
+  - **SMILES:** `C=C(C(C(C=C)C(C=C)C)C)`
+
+These monomers should provide the necessary properties for the desired TSMP with the specified Tg and Er values.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+56,C=C(C1=CC=C(C=C1)C2=CC(=CC=C2)C(C)=C)C(C)=C,C=CC1=CC=C(C=C1)C=C,"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 200°C and an Er near 27 MPa, both monomers will contain vinyl (C=C) groups. The monomers will be designed to have sufficient rigidity and crosslinking density to meet the specified property targets.
+
+**Monomer 1:**  
+A rigid vinyl monomer with two vinyl groups and a high Tg due to its aromatic structure.
+
+- Structure: 1,4-Bis(3-vinylphenyl)-2,5-dimethylbenzene
+- SMILES: C=C(C1=CC=C(C=C1)C2=CC(=CC=C2)C(C)=C)C(C)=C
+
+**Monomer 2:**  
+Another vinyl monomer with two vinyl groups and a rigid backbone to enhance the Tg.
+
+- Structure: 1,3-Bis(vinyl)benzene
+- SMILES: C=CC1=CC=C(C=C1)C=C
+
+These monomers are designed to ensure the required functional groups (vinyl) are present in sufficient quantities while providing the necessary molecular rigidity to achieve the target Tg and Er values. The crosslinking density will be enhanced by the presence of multiple vinyl groups, facilitating the formation of a robust network upon polymerization.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+57,C=C(C1=CC=C(C=C)C=C1)C1=CC=C(C=C)C=C1,C=C(C1(CCCCC1)C=C)C1(CCCCC1)C=C,"To achieve the desired Tg of around 200°C and Er near 27 MPa, I will propose two novel monomers that contain vinyl (C=C) functional groups. Both monomers will be designed to have sufficient rigidity and crosslinking density to meet the specified property targets.
+
+**Monomer 1:**  
+This monomer will contain two vinyl groups and will be designed with a rigid structure to help achieve the high Tg. 
+
+- Structure: A rigid aromatic compound with two vinyl groups.
+- Proposed Structure: 1,4-Bis(vinylphenyl)benzene
+
+- SMILES: C=C(C1=CC=C(C=C)C=C1)C1=CC=C(C=C)C=C1
+
+**Monomer 2:**  
+This monomer will also contain two vinyl groups and will complement the first monomer to enhance crosslinking density.
+
+- Structure: A cycloaliphatic compound with two vinyl groups that can provide additional rigidity.
+- Proposed Structure: 1,4-Bis(vinylcyclohexyl)benzene
+
+- SMILES: C=C(C1(CCCCC1)C=C)C1(CCCCC1)C=C
+
+These two monomers are designed to provide the necessary crosslinking and rigidity to achieve the desired thermal and mechanical properties in the final TSMP.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+58,C=CC1=CC=C(C=C)C=C(C=C)C=C1,C=CC1=CC=C(C=C)C=C(C=C)C=C1CC,"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 200°C and an Er near 27 MPa, both monomers will contain vinyl (C=C) functional groups. The design will focus on enhancing molecular rigidity and optimizing crosslinking density to meet the desired properties.
+
+**Monomer 1:**  
+This monomer will have a rigid structure with two vinyl groups to ensure the required functionality and contribute to the overall Tg.
+
+- **Name:** 1,4-Bis(4-vinylphenyl)benzene  
+- **Structure:** This monomer consists of a central benzene ring with two vinyl-substituted phenyl groups, providing rigidity and enhancing the Tg.
+- **SMILES:** C=CC1=CC=C(C=C)C=C(C=C)C=C1
+
+**Monomer 2:**  
+This monomer will also have a rigid structure with two vinyl groups, complementing the first monomer to ensure high crosslinking density.
+
+- **Name:** 1,3-Bis(4-vinylphenyl)propane  
+- **Structure:** This monomer has a propane backbone with two vinyl-substituted phenyl groups, contributing to crosslinking and rigidity.
+- **SMILES:** C=CC1=CC=C(C=C)C=C(C=C)C=C1CC
+
+These two monomers, when polymerized, will form a network that exhibits the desired Tg and Er values",vinyl(C=C),vinyl(C=C),0.5,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+59,C=C(C1=CC=C(C=C)C=C1)C2=CC=C(C=C)C=C2,C=C(C1=CC=C(C=C)C=C1)C(C=C)C2=CC=C(C=C)C=C2,"To achieve the desired properties of Tg around 200°C and Er near 27 MPa while fulfilling the requirement for two monomers, both containing vinyl (C=C) groups, I propose the following novel monomers:
+
+### Monomer 1:
+- **Name:** 1,4-Bis(2-vinylphenyl)benzene
+- **Structure:** This monomer contains two vinyl groups and a rigid biphenyl structure, which contributes to a high Tg.
+- **SMILES:** C=C(C1=CC=C(C=C)C=C1)C2=CC=C(C=C)C=C2
+
+### Monomer 2:
+- **Name:** 1,3-Bis(4-vinylphenyl)propane
+- **Structure:** This monomer also contains two vinyl groups and a propylene backbone, providing some flexibility while still maintaining a relatively high Tg.
+- **SMILES:** C=C(C1=CC=C(C=C)C=C1)C(C=C)C2=CC=C(C=C)C=C2
+
+### Summary:
+Both monomers are designed to ensure that they contain two instances of the vinyl functional group, and their molecular structures are selected to provide the necessary rigidity for achieving a target Tg around 200°C. The crosslinking density from the vinyl groups will help achieve the desired Er near 27 MPa.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+60,C=C(C1CCCCC1)C=C(C=C),C=C(C1CCCCC1),"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 200°C and an Er near 27 MPa, both monomers will contain vinyl (C=C) groups. The design will focus on creating rigid structures that can provide the necessary crosslinking density.
+
+**Monomer 1:**  
+- Structure: A rigid bis-vinyl monomer with a phenyl group to enhance rigidity.  
+- Description: This monomer features two vinyl groups and a phenyl ring, which increases the Tg due to the rigidity of the aromatic system.  
+
+**SMILES:** C=C(C1=CC=CC=C1)C=C  
+
+**Monomer 2:**  
+- Structure: A rigid tri-functional vinyl monomer containing a cyclohexane backbone to further enhance rigidity and crosslinking potential.  
+- Description: This monomer has three vinyl groups, which will increase crosslinking density and help achieve the desired Er value.  
+
+**SMILES:** C=C(C1CCCCC1)C=C(C=C)  
+
+### Summary:
+**Monomer 1:**  
+- **Structure:** C=C(C1=CC=CC=C1)C=C  
+- **SMILES:** C=C(C1=CC=CC=C1)C=C  
+
+**Monomer 2:**  
+- **Structure:** C=C(C1CCCCC1)C=C(C=C)  
+- **SMILES:** C=C(C1CCCCC1)",vinyl(C=C),vinyl(C=C),0.5,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+61,C=CC1=CC=C(C=C)C=C1C(C=C)=C,C=CC(=O)OCC=C(C=C)C,"To design two monomers that meet your requirements for a thermoset shape memory polymer (TSMP) with both containing vinyl (C=C) groups, a target Tg of around 200°C, and an Er near 27 MPa, I will create novel structures with appropriate rigidity and crosslinking density. 
+
+### Monomer 1:
+This monomer will contain two vinyl (C=C) groups and will be designed with a rigid backbone to help achieve the high Tg.
+
+**Structure:** A bis-vinyl compound with a rigid aromatic scaffold.
+
+**SMILES:** `C=CC1=CC=C(C=C)C=C1C(C=C)=C`
+
+### Monomer 2:
+This monomer will also contain two vinyl (C=C) groups and will complement the first monomer to ensure high crosslinking density.
+
+**Structure:** A vinyl ester with a more flexible aliphatic chain to enhance crosslinking potential.
+
+**SMILES:** `C=CC(=O)OCC=C(C=C)C(=O)O`
+
+### Summary:
+- **Monomer 1:** Bis-vinyl compound with a rigid aromatic backbone.
+  - **SMILES:** `C=CC1=CC=C(C=C)C=C1C(C=C)=C`
+- **Monomer 2:** Vinyl ester with flexible aliphatic chains.
+  - **SMILES:** `C=CC(=O)OCC=C(C=C)C",vinyl(C=C),vinyl(C=C),0.7,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+62,C1=CC2=C(C=C1)C(=C(C=C2)C(C=C)=C)C(C=C)=C,C1=CC=C(C=C1)C(C=C)=C(C=C)C(=C)C=C,"To satisfy your request for two monomers that contain vinyl (C=C) groups, while targeting a Tg around 200°C and an Er near 27 MPa, I will design the monomers with high molecular rigidity and optimize crosslinking density. 
+
+**Monomer 1:**
+- Structure: A rigid bicyclic compound with two vinyl groups and additional structural features to enhance Tg.
+- SMILES: C1=CC2=C(C=C1)C(=C(C=C2)C(C=C)=C)C(C=C)=C
+
+**Monomer 2:**
+- Structure: An aromatic compound with two vinyl groups that also contributes to high rigidity and crosslinking potential.
+- SMILES: C1=CC=C(C=C1)C(C=C)=C(C=C)C(=C)C=C
+
+### Summary:
+- **Monomer 1:** Contains 2 vinyl groups (C=C) with a high Tg due to its bicyclic structure.
+- **Monomer 2:** Contains 2 vinyl groups (C=C) with rigidity derived from its aromatic structure.
+
+These monomers have been designed to meet the functional group requirements while also targeting the desired thermal and mechanical properties for the thermoset shape memory polymer.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+63,C1=CC2=C(C=C1)C(=C(C=C2)C=C)C(=C)C=C, C=CC(C=C)C(=C)C=C(C)C=C,"To design two novel monomers that satisfy the given requirements of having vinyl (C=C) functional groups, a target Tg around 200°C, and an Er near 27 MPa, I will ensure that both monomers contain at least two instances of the vinyl group, while also incorporating structural features that enhance rigidity and crosslinking density.
+
+### Monomer 1:
+- **Structure**: A rigid polycyclic compound with two vinyl groups, which will contribute to both the high Tg and the desired mechanical properties.
+- **SMILES**: C1=CC2=C(C=C1)C(=C(C=C2)C=C)C(=C)C=C
+
+### Monomer 2:
+- **Structure**: A linear or branched compound with two vinyl groups and additional functionalities that can increase crosslinking density.
+- **SMILES**: C=CC(C=C)C(=C)C=C(C)C=C
+
+### Summary:
+- **Monomer 1**: Contains two vinyl groups, structured to enhance rigidity and achieve a high Tg.
+- **Monomer 2**: Contains two vinyl groups, designed to improve crosslinking density for the desired Er.
+
+These monomers collectively will form a thermoset shape memory polymer with the specified Tg and Er values while satisfying the functional group requirements.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+64, C=C(C1=CC=CC=C1)C=C,C=C(C1,"To achieve a thermoset shape memory polymer (TSMP) with the desired properties of Tg around 200°C and Er near 27 MPa, I will design two novel monomers that contain vinyl groups (C=C) as specified. The first monomer will have two instances of vinyl groups, while the second monomer will also contain two instances of vinyl groups. Additionally, to meet the Tg and Er targets, I will incorporate molecular rigidity and optimize crosslinking density through the structural design of these monomers.
+
+### Monomer 1: 
+**Structure:** A rigid, symmetric di-vinyl compound with a phenyl ring to enhance rigidity and increase Tg.  
+**Description:** This monomer features two vinyl groups on either side of a central phenyl group, promoting effective crosslinking and high thermal stability. 
+
+**SMILES:** C=C(C1=CC=CC=C1)C=C
+
+### Monomer 2: 
+**Structure:** A tetra-vinyl compound with a rigid backbone.  
+**Description:** This monomer includes two vinyl groups attached to a dicyclopentane core structure, enhancing crosslinking potential and maintaining a high Tg.
+
+**SMILES:** C=C(C1CC2=C(C1=CC=C2)C=C)C=C
+
+### Summary:
+- **Monomer 1:** C=C(C1=CC=CC=C1)C=C  
+- **Monomer 2:** C=C(C1",vinyl(C=C),vinyl(C=C),0.7,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+65,C=C(C1=CC=C(C=C1)C(C=C)=C)C,C=C(C1CC=C(C=C1)C(C=C)=C)C,"To achieve a thermoset shape memory polymer (TSMP) with the specified properties of Tg around 200°C and Er near 27 MPa, I will propose two novel monomers that each contain at least two vinyl (C=C) functional groups. The proposed monomers will also have the appropriate rigidity and crosslinking density to meet the targets.
+
+**Monomer 1:**  
+- Structure: A rigid, multi-functional vinyl monomer with a phenylene backbone to enhance the Tg. This monomer contains two vinyl groups for crosslinking.  
+- SMILES: C=C(C1=CC=C(C=C1)C(C=C)=C)C
+
+**Monomer 2:**  
+- Structure: A rigid, multi-functional vinyl monomer with a cyclohexane backbone. This monomer also contains two vinyl groups for crosslinking and is designed to provide a balance of rigidity while maintaining flexibility.  
+- SMILES: C=C(C1CC=C(C=C1)C(C=C)=C)C
+
+These monomers will provide the necessary crosslinking density and structural rigidity to achieve the desired Tg and Er values when polymerized. The structures are designed to maintain high rigidity (for Tg) while allowing for sufficient crosslinking sites (for Er).",vinyl(C=C),vinyl(C=C),0.7,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+66,=C(C(C=C(C=C1=CC=C(C=C1)C2=CC=CC=C2)C=C3=CC=CC=C3)C)C\,C=C(COC1=CC=CC=C1)C2=CC=C(C=C2)C3=CC=CC=C3,"To design two novel monomers that meet the requirements of containing vinyl (C=C) groups, targeting a Tg around 200°C, and aiming for an Er near 27 MPa, I will ensure each monomer contains a sufficient density of vinyl groups and a structure that promotes rigidity for the desired Tg and Er properties.
+
+**Monomer 1:**
+This monomer includes two instances of the vinyl functional group (C=C) and features a rigid structure to achieve the target Tg. 
+
+- Structure: A biphenyl-based vinyl monomer that provides additional rigidity through the biphenyl moiety.
+- SMILES: C=C(COC1=CC=CC=C1)C2=CC=C(C=C2)C3=CC=CC=C3
+
+**Monomer 2:**
+This monomer also contains two instances of the vinyl functional group (C=C) and introduces further rigidifying elements.
+
+- Structure: A highly conjugated vinyl monomer with additional aromatic rings to enhance rigidity.
+- SMILES: C=C(C(C=C(C=C1=CC=C(C=C1)C2=CC=CC=C2)C=C3=CC=CC=C3)C)C
+
+These structures prioritize the incorporation of two vinyl groups while promoting a high degree of rigidity through their aromatic components. This design aims to meet the target glass transition temperature and elastic modulus in the resulting thermoset shape memory polymer.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+67,C=C(COC1=CC=CC=C1)C=C,C=C1CC(C=C)C2=C1C=CC=C2,"To design two novel monomers that meet your specifications for a thermoset shape memory polymer (TSMP) with Tg around 200°C and Er near 27 MPa, both containing vinyl (C=C) functional groups, I will ensure that each monomer has a sufficient number of vinyl groups while maintaining a rigid molecular structure to achieve the required Tg and Er values.
+
+**Monomer 1:**  
+This monomer will include two vinyl groups and be designed to have a rigid structure to enhance Tg. 
+
+- Structure: A rigid bis-vinyl ether compound.
+- Description: The monomer consists of a phenyl ring substituted with two vinyl ether functionalities, which will contribute to the rigidity and crosslinking density required for the desired properties.
+
+- SMILES: `C=C(COC1=CC=CC=C1)C=C`
+
+**Monomer 2:**  
+This monomer will also contain two vinyl groups, with a slight variation in structure to ensure compatibility and to influence the overall properties of the resulting polymer.
+
+- Structure: A cyclic compound with two vinyl groups.
+- Description: This monomer features a bicyclic structure with two vinyl groups, promoting rigidity and high crosslinking density.
+
+- SMILES: `C=C1CC(C=C)C2=C1C=CC=C2`
+
+These two monomers, with their unique structures, have been carefully designed to meet the necessary functional group requirements and property targets for the desired TSMP. The chosen structures should",vinyl(C=C),vinyl(C=C),0.9,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+68,C1=CC(C2=CC=C(C=C2)C(C1=CC)C(=O)C=C)=C=C(C)C=C, C=C(C=CC1=CC=C(C=C)C=C1)C=C(C=C(C=C)C=C(C=C)C(=O)),"To achieve a thermoset shape memory polymer (TSMP) with the target Tg around 200°C and Er near 27 MPa, both monomers will contain vinyl (C=C) groups to meet your specifications. Given that the desired Tg is high, the structures must be rigid, and optimizing the crosslinking density will help reach the desired Er value.
+
+**Monomer 1:**
+- Structure: A rigid bicyclic compound containing two vinyl groups and designed to enhance crosslinking.
+- Description: This monomer incorporates two vinyl groups within a cyclohexane derivative, providing necessary rigidity with higher Tg.
+
+**SMILES:** C1=CC(C2=CC=C(C=C2)C(C1=CC)C(=O)C=C)=C=C(C)C=C
+
+**Monomer 2:**
+- Structure: A di-vinyl ether with a rigid backbone that interlinks with Monomer 1.
+- Description: This compound features two vinyl groups and a rigid aromatic structure to support high Tg and optimize crosslinking.
+
+**SMILES:** C=C(C=CC1=CC=C(C=C)C=C1)C=C(C=C(C=C)C=C(C=C)C(=O))
+
+This pair of novel monomers should effectively meet your specified requirements for functionality and performance characteristics in the resulting TSMP.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+69,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C,CC(C1=CC(=C(C=C1)C=CC2=CC=C(C=C2)CC)C=C)C,"To achieve a thermoset shape memory polymer (TSMP) with the specified Tg of around 200°C and an elastic modulus (Er) near 27 MPa, both monomers will need to have a high degree of rigidity and potential for crosslinking to meet the mechanical properties. Here are the proposed monomers:
+
+**Monomer 1:**  
+This monomer contains two vinyl groups and incorporates a rigid structure to increase Tg.
+
+- Molecular Structure: 1,4-bis(4-vinylphenyl)benzene  
+- Rigidity: The biphenyl structure contributes to rigidity, enhancing Tg.
+- Functional Groups: Two vinyl groups.
+
+**SMILES:** `C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C=C)C=C`
+
+---
+
+**Monomer 2:**  
+This monomer will also carry two vinyl groups and is designed for good crosslinking density.
+
+- Molecular Structure: 1,3-bis(2-vinyl-4-ethylphenyl)propane  
+- Rigidity: The presence of ethyl groups provides some flexibility, but the overall structure maintains rigidity for higher Tg. The crosslinking potential is increased with two vinyl groups.
+
+**SMILES:** `CC(C1=CC(=C(C=C1)C=CC2=CC=C(C=C2)CC)C=C)C`
+
+---
+
+Together, these monomers can be polymerized to provide",vinyl(C=C),vinyl(C=C),0.9,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+70,C=C(C1=CC=C(C=C1)C=C)C=C,C=C(C(=O)O)C(=C(C(=O)O)C1=CC=CC=C1)C=C,"To meet your request for thermoset shape memory polymers (TSMPs) with a Tg around 200°C and an Er near 27 MPa, both monomers will contain vinyl (C=C) functional groups. Given the requirements, I propose the following novel monomers:
+
+**Monomer 1:**
+- Structure: A rigid bis(vinyl) compound with a phenolic backbone that enhances molecular rigidity suitable for achieving a high Tg.
+- Functional Group: Two instances of vinyl (C=C).
+- Rationale: The phenolic structure contributes to a higher Tg due to increased rigidity.
+  
+**SMILES:** C=C(C1=CC=C(C=C1)C=C)C=C
+
+**Monomer 2:**
+- Structure: A rigid diacrylate structure incorporating an aromatic ring to further increase rigidity and allow for high crosslinking density.
+- Functional Group: Two instances of vinyl (C=C).
+- Rationale: The acrylate structure will help achieve the desired Er due to higher crosslinking density.
+  
+**SMILES:** C=C(C(=O)O)C(=C(C(=O)O)C1=CC=CC=C1)C=C
+
+These monomers, when polymerized, will contribute to the desired thermal and mechanical properties for your TSMP application. The strategic placement of the vinyl groups in both monomers ensures the necessary functionality and promotes effective crosslinking, leading to the targeted material properties",vinyl(C=C),vinyl(C=C),0.9,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+71,C=CC1=CC=C(C=C)C=C1C2=CC=C(C=C)C=C2OCC=C,C=C,"To satisfy the requirements for a thermoset shape memory polymer (TSMP) with two vinyl (C=C) functional groups in both monomers, a Tg around 200°C, and a storage modulus (Er) near 27 MPa, I propose the following novel monomers:
+
+### Monomer 1:
+For Monomer 1, I will include two vinyl groups, promoting rigidity through an aromatic structure to ensure a higher Tg.
+
+- **Structure**: 1,3-bis(4-vinyloxyphenyl)benzene
+- **Functional Groups**: 2 instances of the vinyl group (C=C)
+- **Tg Contribution**: The presence of the aromatic rings increases the rigidity and thereby increases Tg.
+
+**SMILES**: C=CC1=CC=C(C=C)C=C1C2=CC=C(C=C)C=C2OCC=C
+
+### Monomer 2:
+For Monomer 2, I will also include two vinyl groups and incorporate a cycloaliphatic structure that will help increase crosslinking density while maintaining the necessary flexibility for the desired Er value.
+
+- **Structure**: 1,2-bis(vinylcyclopentyl)ethane
+- **Functional Groups**: 2 instances of the vinyl group (C=C)
+- **Tg Contribution**: The cycloaliphatic structure contributes both rigidity and a good crosslinking potential.
+
+**SMILES**: C",vinyl(C=C),vinyl(C=C),1,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+72,C=CC1=CC=C(C=C)C=C1C#CC=C, C=C(CO)C(C=C)C(=O)C(C)=C(C=CC)C(=O)C(C=C)=C,"To satisfy the requirements for thermoset shape memory polymers (TSMPs) with the specified properties, I will design two novel monomers that both contain vinyl (C=C) groups, have the desired Tg of around 200°C, and provide the necessary crosslinking density to achieve the modulus target (Er near 27 MPa).
+
+**Monomer 1: Bis(4-vinylphenyl)acetylene**
+- Structure: This monomer contains two vinyl groups connected by an acetylene bridge, providing rigidity suitable for high Tg values. The phenyl rings contribute to the overall molecular rigidity.
+- SMILES: C=CC1=CC=C(C=C)C=C1C#CC=C
+
+**Monomer 2: Diallyl isophthalate**
+- Structure: This monomer contains two allyl groups positioned on an isophthalate backbone, which offers additional rigidity and creates strong crosslinks upon polymerization.
+- SMILES: C=C(CO)C(C=C)C(=O)C(C)=C(C=CC)C(=O)C(C=C)=C
+
+These novel monomers are designed to meet the criteria for multi-functional vinyl groups while addressing the necessary property targets of Tg and Er. The structural choices contribute to the rigidity required for the target Tg while ensuring a high crosslinking density to achieve the modulus target.",vinyl(C=C),vinyl(C=C),1,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+73,C=C(C(=C)C)C1=CC=C(C=C1)C2=CC=CC=C2,C=C(C1=CC=C(C=C1)C2=CC=CC=C2)C=C,"To meet your requirements for thermoset shape memory polymers (TSMPs) with Tg around 200°C and Er near 27 MPa, while incorporating vinyl functional groups in both monomers, I propose the following novel monomer structures:
+
+**Monomer 1:**  
+A bis-vinyl monomer with increased rigidity to achieve a higher Tg. The structure includes two vinyl groups and a rigid aromatic ring to enhance the Tg.
+
+- Name: 4,4'-Bis(vinylphenyl) propane
+- Structure: 
+
+```
+        C=CH2
+         |
+       C6H4
+         |
+       C(CH3)2
+         |
+       C6H4
+         |
+        C=CH2
+```
+
+- SMILES: C=C(C(=C)C)C1=CC=C(C=C1)C2=CC=CC=C2
+
+**Monomer 2:**  
+A rigid monomer with two vinyl groups, which also contributes to increasing crosslink density and maintaining the target Er.
+
+- Name: 1,4-Bis(vinyl-phenyl) benzene
+- Structure:
+
+```
+    C=CH2
+     |
+C6H4-C6H4-C6H4
+     |
+    C=CH2
+```
+
+- SMILES: C=C(C1=CC=C(C=C1)C2=CC=CC=C2)C=C
+
+These monomers are designed",vinyl(C=C),vinyl(C=C),1,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+74,C=CC1=CC=C(C=C)C=C1C(=O)C2=CC=CC=C2C=C,C=CC1=CC=C(C=C)C=C1C(C=CC2=CC=C(C=C)C=C2)C(=O)P(C(C=CC=CC=CC=C)C=CC=CC=C)C(C=C),"To design two novel monomers that fulfill your request for a thermoset shape memory polymer (TSMP) with a Tg around 200°C and Er near 27 MPa, both containing vinyl (C=C) groups, we'll structure the monomers to meet the critical design rules specified.
+
+**Monomer 1:**  
+This monomer will contain ≥2 instances of the vinyl group and will have a rigid structure to achieve a high Tg.
+
+- **Structure:** A biphenyl-based structure that provides rigidity through the phenyl groups.
+- **Proposed Structure:** Di(4-vinylphenyl) ketone.
+
+- **SMILES:** `C=CC1=CC=C(C=C)C=C1C(=O)C2=CC=CC=C2C=C`
+
+**Monomer 2:**  
+This monomer will also include ≥2 instances of the vinyl group and additionally be structured to contribute to the desired crosslinking density and Tg.
+
+- **Structure:** A polycyclic aromatic compound to enhance rigidity, featuring vinyl groups in its structure.
+- **Proposed Structure:** Tris(4-vinylphenyl) phosphine oxide.
+
+- **SMILES:** `C=CC1=CC=C(C=C)C=C1C(C=CC2=CC=C(C=C)C=C2)C(=O)P(C(C=CC=CC=CC=C)C=CC=CC=C)C(C=C)",vinyl(C=C),vinyl(C=C),1,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+75,C=C(C1=CC=C(C=C1)C1=CC=C(C=C1)O)O,C1CC2=C(C1)C(=C(C=C2C=C)C=C)C(=C)C=,"To achieve the desired properties of Tg around 200°C and Er near 27 MPa with two vinyl (C=C) groups in each monomer, I'll design unique monomers that incorporate structural rigidity and higher crosslink density. 
+
+**Monomer 1:**  
+- Structure: A rigid aromatic compound with two vinyl groups on a benzene ring to enhance Tg and create crosslinking sites.
+- Proposed Structure: Bis(4-vinylphenyl) ether
+- SMILES: C=C(C1=CC=C(C=C1)C1=CC=C(C=C1)O)O
+
+**Monomer 2:**  
+- Structure: A spirocyclic compound with two vinyl groups for additional rigidity and to increase crosslinking potential.
+- Proposed Structure: Spiro[2.5]octa-3,7-diene
+- SMILES: C1CC2=C(C1)C(=C(C=C2C=C)C=C)C(=C)C=C
+
+These monomers should satisfy the requirements for both functional groups while providing the needed mechanical properties due to their structural designs.",vinyl(C=C),vinyl(C=C),1,200,27,"Propose two monomers that form a TSMP with Tg around 200°C, Er near 27 MPa, and containing vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups."
+76,C=CC(=O)C1=CC=CC=C1C(=C)C(=O)C=C,C=C(C)C1=CC=C(C=C)C=C1,"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, incorporating acrylate (C=C(C=O)) and vinyl (C=C) functionalities, I will create two novel monomers. 
+
+### Monomer 1: Acrylate
+This monomer will contain two acrylate functionalities and be designed to have a rigid structure to achieve the desired Tg.
+
+**Structure:** A rigid aromatic-based acrylate with two acrylate groups.
+
+**SMILES:** `C=CC(=O)C1=CC=CC=C1C(=C)C(=O)C=C`
+
+### Monomer 2: Vinyl
+This monomer will contain two vinyl functionalities and will also have a structure that contributes to the overall rigidity needed for the target Tg.
+
+**Structure:** A rigid aliphatic vinyl compound with two vinyl groups.
+
+**SMILES:** `C=C(C)C1=CC=C(C=C)C=C1`
+
+### Summary
+- **Monomer 1:** Rigid aromatic acrylate with two acrylate functionalities.
+  - **SMILES:** `C=CC(=O)C1=CC=CC=C1C(=C)C(=O)C=C`
+  
+- **Monomer 2:** Rigid aliphatic vinyl compound with two vinyl functionalities.
+  - **SMILES:** `",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+77,C=C(C(=O)O)C1=CC=CC=C1C(=C(C(=O)O)C=C)C1=CC=CC=C,C=C(C1=CC=C(C=C)C=C1)C=C(C1=CC=C(C=C)C=C1),"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, I will create two novel monomers incorporating the requested functionalities: acrylate and vinyl.
+
+### Monomer 1: Acrylate
+This monomer will contain two instances of the acrylate functional group (C=C(C=O)) and will be designed to have a rigid structure to achieve the desired Tg.
+
+**Structure:** A rigid, aromatic-based acrylate with two acrylate groups.
+
+**SMILES:** `C=C(C(=O)O)C1=CC=CC=C1C(=C(C(=O)O)C=C)C1=CC=CC=C1`
+
+### Monomer 2: Vinyl
+This monomer will contain two instances of the vinyl functional group (C=C) and will also be designed to contribute to the desired mechanical properties.
+
+**Structure:** A vinyl monomer with a rigid backbone to enhance the overall Tg and Er.
+
+**SMILES:** `C=C(C1=CC=C(C=C)C=C1)C=C(C1=CC=C(C=C)C=C1)`
+
+### Summary
+- **Monomer 1:** A rigid aromatic acrylate with two acrylate functionalities to ensure high crosslinking density and contribute to the desired Tg and Er.
+- **Monomer 2:** A vinyl monomer with",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+78,C=C(C1=CC=C(C=C)C=C(C1)C=C)C=C,C=C(C=O)C1=CC=C(C=C(C=O)C1)C(=O),"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, while incorporating both acrylate and vinyl functionalities, I will create two novel monomers that satisfy the critical design rules.
+
+### Monomer 1: Acrylate
+This monomer will contain two instances of the acrylate functional group (C=C(C=O)) and will be designed to have a rigid structure to achieve the desired Tg.
+
+**Structure:** A rigid aromatic acrylate with two acrylate groups.
+
+**SMILES:** `C=C(C=O)C1=CC=C(C=C(C=O)C1)C(=O)C=C`
+
+### Monomer 2: Vinyl
+This monomer will contain two instances of the vinyl functional group (C=C) and will also be designed to contribute to the overall rigidity and crosslinking density.
+
+**Structure:** A vinyl compound with a rigid backbone and two vinyl groups.
+
+**SMILES:** `C=C(C1=CC=C(C=C)C=C(C1)C=C)C=C`
+
+### Summary
+- **Monomer 1:** Rigid aromatic acrylate with two acrylate functionalities to enhance crosslinking density and achieve the desired Tg.
+  - **SMILES:** `C=C(C=O)C1=CC=C(C=C(C=O)C1)C(=O)",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+79,C=C(C(=O)O)C1=CC=C(C=C1)C(=O)O,C=C(C)C=C(C)C1=CC=C(C=C1)C(C)C,"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, while incorporating both acrylate and vinyl functionalities, I will propose two novel monomers.
+
+### Monomer 1: Acrylate
+This monomer will contain two instances of the acrylate functional group (C=C(C=O)) and will be designed with sufficient rigidity to achieve the desired Tg.
+
+**Structure:**
+- A rigid aromatic backbone with acrylate groups to enhance Tg.
+
+**SMILES:**
+`C=C(C(=O)O)C1=CC=C(C=C1)C(=O)O`
+
+### Monomer 2: Vinyl
+This monomer will contain two instances of the vinyl functional group (C=C) and will also be designed to contribute to the overall rigidity and crosslinking density.
+
+**Structure:**
+- A rigid aliphatic chain with vinyl groups to ensure high crosslinking density.
+
+**SMILES:**
+`C=C(C)C=C(C)C1=CC=C(C=C1)C(C)C`
+
+### Summary:
+- **Monomer 1:** Contains two acrylate groups and is designed for rigidity to achieve the desired Tg.
+- **Monomer 2:** Contains two vinyl groups and is structured to enhance crosslinking density, contributing to the required Er.
+
+This combination of monomers should provide a TSMP system",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+80,C=C(C=O)C1=CC=C(C=C1)C(=O)C=C(C=O),C=C(C)C=C(C)C=,"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, while incorporating both acrylate (C=C(C=O)) and vinyl (C=C) functionalities, I will create two novel monomers.
+
+### Monomer 1: Acrylate Functional Monomer
+This monomer will contain two acrylate groups and will be designed to have a rigid structure to achieve the desired Tg.
+
+**Structure:** A rigid aromatic-based acrylate with two acrylate functionalities.
+
+**SMILES:** `C=C(C=O)C1=CC=C(C=C1)C(=O)C=C(C=O)`
+
+### Monomer 2: Vinyl Functional Monomer
+This monomer will contain two vinyl groups and will be designed to enhance crosslinking density, contributing to the desired Er.
+
+**Structure:** A branched aliphatic vinyl monomer with two vinyl functionalities.
+
+**SMILES:** `C=C(C)C=C(C)C=C`
+
+### Summary
+- **Monomer 1:** Contains two acrylate groups and is designed for rigidity to achieve a Tg of 100°C.
+- **Monomer 2:** Contains two vinyl groups to enhance crosslinking density, contributing to an Er of 100 MPa.
+
+These monomers are designed to fulfill both the functional group requirements and the property targets specified.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+81,C(C(=O)C=C)C(C(=O)C=C)C1=CC=C(C=C1)C(=O)C=C,N/A,"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, while incorporating both acrylate and vinyl functionalities, I will create two novel monomers that satisfy the critical design rules.
+
+### Monomer 1: Acrylate Functional Monomer
+This monomer will contain two acrylate groups to fulfill the first requirement.
+
+- **Structure**: A rigid structure with two acrylate groups, which will provide the necessary crosslinking capability and enhance the Tg.
+- **Design Consideration**: Incorporate a phenyl ring to increase rigidity.
+
+**Monomer 1:**
+- **Name**: 2,2-bis(4-acryloylphenyl)propane
+- **SMILES**: C(C(=O)C=C)C(C(=O)C=C)C1=CC=C(C=C1)C(=O)C=C
+
+### Monomer 2: Vinyl Functional Monomer
+This monomer will contain two vinyl groups to fulfill the second requirement.
+
+- **Structure**: A linear or branched structure with two vinyl groups that can also contribute to the crosslinking density.
+- **Design Consideration**: Incorporate a rigid backbone to help achieve the target Tg.
+
+**Monomer 2:**
+- **Name**: 1,4-bis(vinyl)benzene
+- **",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+82,C=C(C=O)C1=CC=C(C=C1)C(C=C(C=O))=O,C=C(C1=CC=C(C=C1)C=C)C=C,"To achieve a thermoset shape memory polymer (TSMP) system with a target glass transition temperature (Tg) of 100°C and an elastic modulus (Er) of 100 MPa using acrylate and vinyl functionalities, I will design two novel monomers that meet the specified requirements.
+
+**Monomer 1:** (Acrylate functionality)
+- Structure: A rigid structure with two acrylate groups to ensure sufficient crosslinking density and appropriate Tg.
+- Design: A diacrylate derived from a rigid aromatic compound.
+  
+**SMILES:** C=C(C=O)C1=CC=C(C=C1)C(C=C(C=O))=O  
+This structure features two acrylate groups and a rigid phenyl ring, which will contribute to a higher Tg.
+
+**Monomer 2:** (Vinyl functionality)
+- Structure: A vinyl compound with two vinyl groups that can provide good crosslinking potential.
+- Design: A divinyl ether that incorporates additional rigidity through aromatic substitution.
+
+**SMILES:** C=C(C1=CC=C(C=C1)C=C)C=C  
+This structure has two vinyl groups and is also based on a rigid aromatic framework, which will help achieve the desired Tg and Er.
+
+### Summary:
+- **Monomer 1 (Acrylate):** C=C(C=O)C1=CC=C(C=C1)C(C=C(C=O))=O
+-",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+83,C=CC(=O)C1=CC=C(C=C1)C(=O)C=CC(=O),C=C(C)C=C(C)C=C,"To design a thermoset shape memory polymer (TSMP) system that meets the requirements of Tg = 100°C and Er = 100 MPa using acrylate (C=C(C=O)) and vinyl (C=C) functionalities, I will propose two novel monomers. 
+
+### Monomer 1: 
+This monomer will contain two instances of the acrylate functional group and will be designed to have a rigid backbone to achieve the desired Tg.
+
+**Structure**: A rigid aromatic-based acrylate monomer.
+
+**SMILES**: `C=CC(=O)C1=CC=C(C=C1)C(=O)C=CC(=O)`
+
+### Monomer 2: 
+This monomer will contain two instances of the vinyl functional group. It will be designed to enhance crosslinking density while maintaining sufficient rigidity to contribute to the overall Tg.
+
+**Structure**: A vinyl monomer with a branched structure to promote crosslinking.
+
+**SMILES**: `C=C(C)C=C(C)C=C`
+
+### Summary:
+- **Monomer 1**: Rigid aromatic acrylate with two acrylate functionalities.
+  - **SMILES**: `C=CC(=O)C1=CC=C(C=C1)C(=O)C=CC(=O)`
+  
+- **Monomer 2**: Branched vinyl monomer with two vinyl functionalities.
+",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+84,C=CC(=O)OCC1=CC=CC=C1C(=C)C(=O)OCC=C,C=C(C)C=C(C)C=C,"To achieve the specified Tg of 100°C and an Er of 100 MPa while incorporating both acrylate and vinyl functionalities, I propose the following novel monomers:
+
+**Monomer 1:** (Acrylate functionality)  
+- Structure: A rigid aromatic acrylate with two acrylate groups to enhance crosslinking density. The presence of the aromatic ring will contribute to higher Tg.  
+- SMILES: `C=CC(=O)C1=CC=CC=C1C(=C)C(=O)C=C`  
+- Description: This monomer has two acrylate groups and an aromatic backbone, which increases rigidity and contributes to the target Tg.
+
+**Monomer 2:** (Vinyl functionality)  
+- Structure: A vinyl monomer with two vinyl groups and a linear aliphatic chain to balance flexibility and rigidity. The linear structure allows for good crosslinking while maintaining a high Tg.  
+- SMILES: `C=C(C)C=C(C)CCCCCC`  
+- Description: This monomer has two vinyl groups and a long aliphatic chain, which will help achieve the desired Er through enhanced crosslinking density.
+
+By combining these two monomers, the resulting TSMP system will exhibit the desired functional properties while meeting the specified Tg and Er targets.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+85,C=CC(=O)C1=CC=CC=C1C(=C)C=O,CC(C)C=C(C)CC(C)C,"To create a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, incorporating both acrylate and vinyl functionalities, I propose the following novel monomers:
+
+**Monomer 1:**  
+- **Functional Group:** Acrylate (C=C(C=O))  
+- **Structure:** A rigid, aromatic-based acrylate to increase Tg.  
+- **Description:** This monomer contains two acrylate functionalities and is designed to provide high crosslinking density.  
+
+**SMILES:** `C=CC(=O)OCC1=CC=CC=C1C(=C)C(=O)OCC=C`  
+
+**Monomer 2:**  
+- **Functional Group:** Vinyl (C=C)  
+- **Structure:** A branched vinyl monomer with two vinyl groups, which will enhance crosslinking and maintain flexibility.  
+- **Description:** This monomer is designed to complement the acrylate monomer, ensuring a balance between rigidity and flexibility while achieving the desired mechanical properties.  
+
+**SMILES:** `C=C(C)C=C(C)C=C`  
+
+These two monomers, when polymerized, are expected to achieve the desired Tg of 100°C through the incorporation of rigid structures in Monomer 1, along with sufficient crosslinking density provided by both monomers to achieve an Er of 100 MPa.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+86,C=CC(=O)OC1=CC=C(C=C1)C(=O)C=CC(=O)O,C=C(C)C=C(C)C=C(C),"To design a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, I will propose two novel monomers that incorporate the specified acrylate and vinyl functionalities while ensuring the appropriate structural rigidity and crosslinking density.
+
+### Monomer 1: Acrylate
+This monomer will contain two acrylate groups (C=C(C=O)) and be designed for higher rigidity to achieve the desired Tg.
+
+**Structure**: A rigid aromatic diacrylate with a strong backbone to increase Tg.
+
+**SMILES**: `C=CC(=O)C1=CC=CC=C1C(=C)C=O`
+
+### Monomer 2: Vinyl
+This monomer will be designed to incorporate two vinyl groups (C=C) and will also contribute to the overall crosslinking density.
+
+**Structure**: A vinyl compound with a flexible aliphatic chain but with enough structural integrity to assist in achieving the desired Er.
+
+**SMILES**: `C=C(C)C=C(C)C=C(C)C`
+
+### Summary
+- **Monomer 1**: Contains two acrylate groups, is structurally rigid, and is expected to contribute to a high Tg.
+- **Monomer 2**: Contains two vinyl groups and is designed for high crosslinking density, contributing to the desired Er.
+
+This combination should satisfy both the functional",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+87,C=C(C=O)C(=O)C1=CC(=C(C=C1)C(=O)O)C=C(C=O), C=CC1=CC(=C(C=C1)C=C)C=CC=C,"To design a thermoset shape memory polymer (TSMP) system incorporating both acrylate and vinyl functionalities while targeting a Tg of 100°C and an Er of 100 MPa, I will create two novel monomers following the critical design rules.
+
+### Monomer 1: Acrylate Functional Monomer
+This monomer will contain two acrylate groups and be designed to have sufficient rigidity to achieve the desired Tg.
+
+**Structure:** A rigid aromatic-based acrylate.
+
+**SMILES:** `C=CC(=O)OC1=CC=C(C=C1)C(=O)C=CC(=O)O`
+
+### Monomer 2: Vinyl Functional Monomer
+This monomer will contain two vinyl groups and will also be designed to enhance crosslinking density.
+
+**Structure:** A flexible aliphatic vinyl compound with high crosslinking potential.
+
+**SMILES:** `C=C(C)C=C(C)C=C(C)C=C(C)C`
+
+### Summary of Monomers:
+- **Monomer 1:**
+  - **Type:** Acrylate
+  - **SMILES:** `C=CC(=O)OC1=CC=C(C=C1)C(=O)C=CC(=O)O`
+  
+- **Monomer 2:**
+  - **Type:** Vinyl
+  - **SMILES:** `C=C(C)C=C(C)C=C(C)",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+88,C(C(=O)C=C)C1=CC=C(C=C1)C(C(=O)C=C)=C,C(C(=O)C=C)C1,"To design a thermoset shape memory polymer (TSMP) system with a target Tg of 100°C and an Er of 100 MPa using acrylate and vinyl functionalities, I will create two novel monomers adhering to the specified requirements.
+
+### Monomer 1: Acrylate 
+This monomer contains two acrylate functionalities, which is necessary to achieve the desired crosslinking density while enhancing rigidity to meet the Tg target.
+
+**Structure**: A rigid backbone with two acrylate groups.
+
+**SMILES**: C=C(C=O)C(=O)C1=CC(=C(C=C1)C(=O)O)C=C(C=O) 
+
+### Monomer 2: Vinyl
+This monomer contains two vinyl functionalities, which will provide additional crosslinking capability and contribute to the mechanical properties needed for the target Er.
+
+**Structure**: A flexible structure with two vinyl groups to ensure high reactivity during polymerization.
+
+**SMILES**: C=CC1=CC(=C(C=C1)C=C)C=CC=C 
+
+### Summary:
+- **Monomer 1**: Contains two acrylate functionalities for crosslinking and rigidity.
+- **Monomer 2**: Contains two vinyl functionalities for enhancing reactivity and crosslinking density.
+
+These monomers are designed to work together to reach the desired mechanical properties while maintaining the required functional groups. The rigid backbone in Mon",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+89,C=CC(=O)C(C1=CC=CC=C1)(C1=CC=CC=C1)C=CC(=O),C=C(C1=CC=C(C=C)C=C1)C=C,"To design a thermoset shape memory polymer (TSMP) system with the specified target properties of Tg = 100°C and Er = 100 MPa, while incorporating both acrylate and vinyl functionalities, I propose the following novel monomers:
+
+**Monomer 1 (Acrylate):**  
+This monomer will contain two acrylate groups and possess a rigid backbone to help achieve the desired Tg.
+
+- **Structure:** A rigid aromatic compound with two acrylate functionalities. 
+- **Proposed structure:** 1,4-bis(acryloyl)benzene (a biphenyl structure with acrylate groups).
+- **SMILES:** C(C(=O)C=C)C1=CC=C(C=C1)C(C(=O)C=C)=C
+
+**Monomer 2 (Vinyl):**  
+This monomer will contain two vinyl groups and will be designed to enhance crosslinking density.
+
+- **Structure:** A diene compound with two vinyl groups and a relatively rigid structure.
+- **Proposed structure:** 1,4-divinylbenzene (a biphenyl compound with vinyl groups).
+- **SMILES:** C=CC1=CC=C(C=C1)C=CC=C
+
+### Summary:
+**Monomer 1:** 1,4-bis(acryloyl)benzene  
+- **SMILES:** C(C(=O)C=C)C1",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+90,C(C(=O)OCC=C(C(=O)O)C(C(=O)O)C)C(C(=O)O)C(C(=O)O)C,N/A,"To design a thermoset shape memory polymer system that satisfies the specified requirements of Tg = 100°C and Er = 100 MPa, I will create novel monomers that incorporate acrylate and vinyl functionalities while adhering to the critical design rules.
+
+### Monomer 1: Acrylate
+This monomer will contain two acrylate groups (C=C(C=O)) and will be designed to have a rigid structure to achieve the desired Tg.
+
+**Structure:** 
+Acryloyl-1,3-bis(phenyl)propane - a rigid aromatic compound that enhances the Tg.
+
+**SMILES:** 
+`C=CC(=O)C(C1=CC=CC=C1)(C1=CC=CC=C1)C=CC(=O)`
+
+### Monomer 2: Vinyl
+This monomer will contain two vinyl groups (C=C) and will also be designed with some rigidity to contribute to the overall properties of the TSMP.
+
+**Structure:** 
+1,4-bis(vinyl)benzene - a vinyl compound that provides good crosslinking potential while ensuring sufficient rigidity.
+
+**SMILES:** 
+`C=C(C1=CC=C(C=C)C=C1)C=C`
+
+### Summary
+- **Monomer 1:** Acryloyl-1,3-bis(phenyl)propane (Acrylate)
+  - **SMILES:** `C=CC(=",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+91,C(C(=O)OC(=C)C(=O)OC)C1CC1,C1CC=C,"To create a thermoset shape memory polymer (TSMP) system that meets the specified requirements of Tg = 100°C and Er = 100 MPa, while incorporating both acrylate and vinyl functionalities, I propose the following novel monomer pair.
+
+### Monomer 1: 
+This monomer will contain ≥2 instances of the acrylate functional group.
+
+- **Structure:** A rigid, branched, acrylate-based monomer to elevate Tg and improve crosslinking density.
+- **Name:** 1,4-Bis(acryloyl)-2,2,6,6-tetramethylpiperidine
+- **Description:** This structure provides rigidity through its piperidine ring and multiple acrylate functionalities for strong crosslinking.
+- **SMILES:** C(C(=O)OCC=C(C(=O)O)C(C(=O)O)C)C(C(=O)O)C(C(=O)O)C
+
+### Monomer 2:
+This monomer will contain ≥2 instances of the vinyl functional group.
+
+- **Structure:** A vinyl-based monomer with a rigid framework to support both the requirements of high Tg and enhance the Er value through increased crosslinking.
+- **Name:** 1,3-Bis(vinyl-phenyl)benzene
+- **Description:** The biphenyl structure provides rigidity and ensures higher crosslink densities due to the multiple vinyl",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+92,C=CC(=O)C(C1=CC=C(C=C1)C(=O)C)C=CC(=O),C=CC(OCCCCC=CC=CC)C=CC,"To meet the specified requirements of Tg = 100°C and Er = 100 MPa while incorporating acrylate (C=C(C=O)) and vinyl (C=C) functionalities, I will design the following novel monomers:
+
+**Monomer 1: Acrylate-based Monomer**  
+This monomer will have greater molecular rigidity to achieve the target Tg of 100°C.
+
+- **Structure**: A bicyclic acrylate monomer with two acrylate functionalities for enhanced crosslinking potential.
+- **Chemical Composition**: 1,2-cyclopropanedicarboxylic acid dimethyl ester
+- **Enhanced Rigidity**: The bicyclic structure offers higher rigidity which contributes to the increased Tg.
+- **Functional Groups**: Contains 2 acrylate groups (C=C(C=O)).
+
+**SMILES String:** `C(C(=O)OC(=C)C(=O)OC)C1CC1` 
+
+**Monomer 2: Vinyl-based Monomer**  
+This monomer will also contain two vinyl functionalities to complement the acrylate monomer.
+
+- **Structure**: A rigid, conjugated vinyl monomer which can significantly increase the crosslinking density.
+- **Chemical Composition**: 1,4-bis(vinyl)cyclohexane
+- **Functional Groups**: Contains 2 vinyl groups (C=C).
+
+**SMILES String:** `C1CC=C",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+93,C=C(C(=O)O)C1=CC=C(C(C1=NC=O)=C2C=C(C=C2)C=CC(=C(C=O)C=C(C(=O)O)C)C=C(C=C1)C)C=C(C=O)C,N/A,"To design a thermoset shape memory polymer (TSMP) system that meets the specified Tg of 100°C and Er of 100 MPa, while incorporating acrylate and vinyl functionalities, I suggest the following novel monomers:
+
+**Monomer 1:**  
+This monomer will contain two acrylate functionalities and will be designed to provide the necessary rigidity for the target Tg.
+
+- Structure: A bis-acrylate with a rigid backbone.
+- Name: 1,4-Bis(acryloyl)benzene (with enhanced rigidity due to the phenyl groups).
+
+- **SMILES:** C=CC(=O)C(C1=CC=C(C=C1)C(=O)C)C=CC(=O)
+
+**Monomer 2:**  
+This monomer will contain two vinyl functionalities. It is designed to enhance crosslinking density while maintaining the flexibility needed for shape memory properties.
+
+- Structure: A divinyl ether with a flexible backbone.
+- Name: 1,6-Hexanediol-divinyl ether.
+
+- **SMILES:** C=CC(OCCCCC=CC=CC)C=CC
+
+These monomers, when combined, will create a crosslinked network that offers the desired mechanical properties while satisfying the functional group requirements. The choice of chemical structure for each monomer balances the need for rigidity (to achieve the target Tg) and crosslinking density (to achieve the target Er).",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+94,C=C(C=O)C1=CC=CC=C1C=C(C=O),C=C(C1CCCCC1)C=C,"To meet the requirements of a thermoset shape memory polymer (TSMP) system with a Tg of 100°C and an elastic modulus (Er) of 100 MPa, I will design two novel monomers with the specified functionalities (acrylate and vinyl) while ensuring they fulfill the critical design rules.
+
+### Monomer 1: Acrylate Functional Monomer
+This monomer will contain two acrylate groups and will be designed to have a rigid backbone to achieve the desired Tg.
+
+**Structure Description:**
+- A rigid structure incorporating a phthalonitrile moiety will increase the molecular rigidity, thus raising the Tg.
+- Two acrylate functionalities will be present on the ends of the structure.
+
+**SMILES:** `C=C(C(=O)O)C1=CC=C(C(C1=NC=O)=C2C=C(C=C2)C=CC(=C(C=O)C=C(C(=O)O)C)C=C(C=C1)C)C=C(C=O)C`
+
+### Monomer 2: Vinyl Functional Monomer
+This monomer will contain two vinyl groups and will also incorporate a rigid backbone structure to meet the Tg requirement.
+
+**Structure Description:**
+- A biphenyl core with vinyl groups will enhance rigidity and ensure good crosslinking for high Er values.
+- The two vinyl groups will allow for increased polymerization and crosslinking density.
+
+**SMILES",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+95,CC(C(=C(C(=O)O)C1=CC(=C(C=C1)C2=CC=C(C=C2)O)C(=C(C=O)O)C(C=C(C=O)O)C(=C)C(=C)C)C(=O)O)C(=O)O,CCCCCCCCCCCC,"To design a thermoset shape memory polymer (TSMP) system with a target glass transition temperature (Tg) of 100°C and an elastic modulus (Er) of 100 MPa using the specified functional groups (acrylate and vinyl), the following monomers can be proposed:
+
+### Monomer 1: Acrylate
+This monomer will contain ≥2 instances of the acrylate functional group (C=C(C=O)). To achieve the desired rigidity for a higher Tg and contribute to a higher crosslinking density, the structure should include a rigid aromatic ring.
+
+**Chemical Structure:**
+Acrylate monomer with two acrylate groups and a phenyl ring to increase rigidity.
+
+**SMILES:** `C=C(C=O)C1=CC=CC=C1C=C(C=O)`
+
+### Monomer 2: Vinyl
+This monomer will incorporate ≥2 instances of the vinyl functional group (C=C). To match the required Tg and improve the elasticity while ensuring cross-linking, this monomer also includes a cyclic structure that adds rigidity.
+
+**Chemical Structure:**
+Vinyl monomer with two vinyl groups and a cyclohexyl ring for increased rigidity.
+
+**SMILES:** `C=C(C1CCCCC1)C=C`
+
+### Summary
+1. **Monomer 1:** Acrylate
+   - **Functional Groups:** ≥2 acrylate groups
+   - **SMILES:** `C",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+96,C=CC1=CC=C(C=C)C2=C(C=C1)C(C=C)C=C2C=CC=C,O=C(C=C)C1=C2C=CC=C1C(=C,"To create a thermoset shape memory polymer (TSMP) system that incorporates acrylate and vinyl functionalities, while achieving a glass transition temperature (Tg) of 100°C and an elastic modulus (Er) of 100 MPa, I propose the following novel monomers:
+
+**Monomer 1:**  
+- **Functionality:** Acrylate (C=C(C=O))  
+- **Structure:** A rigid bicyclic structure to enhance Tg while containing two acrylate functional groups for promoting high crosslinking density.  
+- **Description:** 2,2-bis(3-acryloxy-4-methylphenyl)propane  
+- **SMILES:** CC(C(=C(C(=O)O)C1=CC(=C(C=C1)C2=CC=C(C=C2)O)C(=C(C=O)O)C(C=C(C=O)O)C(=C)C(=C)C)C(=O)O)C(=O)O
+
+**Monomer 2:**  
+- **Functionality:** Vinyl (C=C)  
+- **Structure:** A longer aliphatic chain with vinyl groups to provide flexibility, enabling adequate crosslinking density while supporting the mechanical properties.  
+- **Description:** 1,12-dodecadiene  
+- **SMILES:** CCCCCCCCCCCC=C
+
+### Explanation:
+
+- **Monomer ",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+97,C(C(=O)O)=C(C(=O)O)c1ccccc1-c2ccccc(c2)c1,C=CC1=CC=C(C=C1)C=C2C=,"To achieve a thermoset shape memory polymer (TSMP) system with a Tg of 100°C and an Er of 100 MPa, incorporating both acrylate and vinyl functionalities, I will propose two novel monomers:
+
+**Monomer 1 (Acrylate containing):**
+- Structure: A rigid, high Tg acrylate with two acrylate functional groups and additional strengthening groups to enhance rigidity.
+- Example structure: A bis-acrylate derived from a dicyclopentadiene backbone that provides rigidity and high crosslinking potential.
+
+**SMILES:** O=C(C=C)C1=C2C=CC=C1C(=C)C2=C(C=C)C(C=C(C=O))=O
+
+**Monomer 2 (Vinyl containing):**
+- Structure: A stiff vinyl compound with two vinyl groups and additional groups that enhance its mechanical properties.
+- Example structure: A di-vinyl compound, like a methylene-bridged bis-phenyl structure that promotes rigidity and crosslinking.
+
+**SMILES:** C=CC1=CC=C(C=C)C2=C(C=C1)C(C=C)C=C2C=CC=C
+
+### Summary:
+- **Monomer 1:** High Tg acrylate with two acrylate groups
+- **SMILES for Monomer 1:** O=C(C=C)C1=C2C=CC=C1C(=C",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+98,C=CC(=O)C(C1=CC=C(C=C1)O)C(C1=CC=C(C=C1)O)=O,C=C1=CC=CC=C1C=C,"To design a thermoset shape memory polymer (TSMP) system that meets the specified targets of Tg = 100°C and Er = 100 MPa and incorporates both acrylate and vinyl functionalities, we must carefully select novel monomers that contain the required functional groups and have suitable molecular structures.
+
+### Monomer Design
+
+**Monomer 1:** This acrylate monomer will incorporate two acrylate (C=C(C=O)) functional groups, contributing to a higher crosslinking density for the TSMP. For increased Tg, we'll ensure the molecular scaffold is rigid.
+
+- **Chemical Structure:** A rigid backbone such as a bisphenol derivative can provide the necessary structural integrity.
+- **Structure:** Utilizing a biphenyl- and acrylate-conjugated structure.
+- **SMILES:** `C(C(=O)O)=C(C(=O)O)c1ccccc1-c2ccccc(c2)c1`
+
+**Monomer 2:** This vinyl monomer will also incorporate two vinyl (C=C) functional groups, enhancing the crosslinking density and helping to achieve the specified Er value.
+
+- **Chemical Structure:** A rigid structure with vinyl groups that can participate in radical polymerization will aid to achieve the desired mechanical properties. We can use a structure derived from a di-(vinyl)cyclohexane compound.
+- **SMILES:** `C=CC1=CC=C(C=C1)C=C2C=",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+99,Cc1ccc(cc1C(=O)C(=C)C(=O)C=C)C(=C)C(=O)C=C,Cc1ccc(cc1C(=O)C(=C),"To achieve the desired Tg of 100°C and Er of 100 MPa using acrylate and vinyl functionalities, I suggest the following monomers:
+
+**Monomer 1: (Acrylate with two instances of acrylate functionality)**  
+- Structure: A rigid, multifunctional acrylate that favors a higher Tg due to its cyclic structure.  
+- Example: Acryloyl-2,2-bis(4-hydroxyphenyl)propane (Bisphenol A diacrylate).  
+
+- **Properties**: 
+  - Contains two acrylate groups (C=C(C=O)).
+  - The rigid phenolic structure increases molecular rigidity, contributing to higher Tg.
+
+- **SMILES**: `C=CC(=O)C(C1=CC=C(C=C1)O)C(C1=CC=C(C=C1)O)=O`
+
+---
+
+**Monomer 2: (Vinyl with two instances of vinyl functionality)**  
+- Structure: A polyfunctional vinyl monomer that enhances crosslink density, contributing to the desired Er.  
+- Example: Divinylbenzene.  
+
+- **Properties**: 
+  - Contains two vinyl groups (C=C).
+  - The benzene ring provides additional rigidity, enhancing thermal properties.
+
+- **SMILES**: `C=C1=CC=CC=C1C=C`
+
+---
+
+### Summary:
+- **Monomer 1 (Acrylate",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+100,C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C(C=C)C(C1=CC=CC=C1,C1=COC(=O)C(=C1C(=O)C(CO)C(CO)=O,"To design a thermoset shape memory polymer (TSMP) system with the specified target properties of Tg = 100°C and Er = 100 MPa using acrylate and vinyl functionalities, I will propose two novel monomers that satisfy the critical design rules provided.
+
+### Monomer 1: 
+This monomer will feature two instances of the acrylate group (C=C(C=O)) and will be designed to enhance the Tg through molecular rigidity.
+
+- **Structure:** A rigid aromatic backbone with two acrylate groups for crosslinking and enhanced thermal stability.
+- **SMILES:** Cc1ccc(cc1C(=O)C(=C)C(=O)C=C)C(=C)C(=O)C=C
+
+### Monomer 2: 
+This monomer will include two instances of the vinyl group (C=C) and will complement the first monomer in terms of crosslinking potential and structural rigidity.
+
+- **Structure:** An aliphatic vinyl compound with sufficient flexibility to promote crosslinking while supporting the overall system's mechanical properties.
+- **SMILES:** C=C(C)C=C(C)C=C(C)C=C(C)C
+
+### Summary of the Monomers:
+- **Monomer 1:**
+  - Functional Groups: Acrylate (C=C(C=O))
+  - SMILES: Cc1ccc(cc1C(=O)C(=C)",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Suggest a TSMP system that satisfies Tg = 100°C and Er = 100 MPa, incorporating acrylate(C=C(C=O)) and vinyl(C=C) functionalities."
+101,C=C(C1=CC=CC=C1)C=C,O=C(C(C(=O)O)C)C,"To create a thermoset shape memory polymer (TSMP) with the specified functional groups and property targets, I propose the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains two instances of the vinyl (C=C) functional group and is designed to have a moderate rigidity to achieve the target Tg of around 50°C.
+
+- **Structure:** 1,4-bis(2-vinylphenyl)butane  
+- **SMILES:** C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C(C=C)C(C1=CC=CC=C1)  
+- **Description:** The structure features two vinyl groups on a butane backbone, providing sufficient rigidity while allowing for crosslinking.
+
+**Monomer 2:**  
+This monomer contains two instances of the hydroxyl (=O) functional group and is designed to enhance the crosslinking density, contributing to the desired Er value of near 20 MPa.
+
+- **Structure:** 2,5-bis(hydroxymethyl)furan-3,4-dione  
+- **SMILES:** C1=COC(=O)C(=C1C(=O)C(CO)C(CO)=O)  
+- **Description:** The furan-based structure contains two carbonyl groups and hydroxymethyl groups, allowing for effective crosslinking and enhancing the mechanical properties.
+
+These monomers",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+102,C=C(C1CCCCC1)C=C,C(C(=O)C(=O)C(C(=O)C(=O)C)O)O,"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 50°C and an Er near 20 MPa, I will design two novel monomers that meet the specified functional group requirements and property targets.
+
+**Monomer 1:**  
+This monomer will contain two instances of the vinyl (C=C) functional group. To achieve the desired Tg, I will incorporate a rigid structure.
+
+**Structure:**  
+A bis-vinyl ether derived from a rigid aromatic compound.
+
+**SMILES:**  
+`C=C(C1=CC=CC=C1)C=C`
+
+**Monomer 1 Description:**  
+This structure has two vinyl groups attached to a phenyl ring, which provides rigidity and helps achieve the target Tg of around 50°C.
+
+---
+
+**Monomer 2:**  
+This monomer will contain two instances of the hydroxyl (=O) functional group. To balance the rigidity and achieve the desired Er, I will use a diol with a carbonyl group.
+
+**Structure:**  
+A diketone with hydroxyl groups.
+
+**SMILES:**  
+`O=C(C(C(=O)O)C)C`
+
+**Monomer 2 Description:**  
+This structure contains two carbonyl groups and two hydroxyl groups, which will enhance crosslinking density and help achieve the target Er of around 20 MPa.
+
+---
+
+**Summary:**  
+- **Monomer 1:** Bis-vinyl ether with a phenyl ring (",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+103,C=CC1=CC=C(C=C)C=C1CC(C=C)C1=CC=C(C=C)C=C1,C1(=O)C(=C(C(=O)C1)O)O,"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 50°C and an Er near 20 MPa, while incorporating vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2, I have designed the following novel monomers:
+
+**Monomer 1:**
+- Structure: A rigid vinyl monomer with two vinyl groups to enhance crosslinking density while maintaining a moderate Tg.
+- Proposed Structure: 1,4-bis(vinyl)cyclohexane
+- SMILES: C=C(C1CCCCC1)C=C
+
+**Monomer 2:**
+- Structure: A hydroxyl-containing monomer with two carbonyl (=O) groups to provide the necessary functionality and contribute to the desired mechanical properties.
+- Proposed Structure: 1,3-bis(hydroxy)propane-2,2-dione
+- SMILES: C(C(=O)C(=O)C(C(=O)C(=O)C)O)O
+
+These monomers are designed to meet the specified functional group requirements and property targets, balancing the need for rigidity and crosslinking density to achieve the desired Tg and Er values.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+104, C=C1CCCCC1=C(C=C)C,OC(=O)C1=CC(=C(C(=O)O)C=C1)O,"To meet your requirements for a thermoset shape memory polymer (TSMP) with a Tg around 50°C, Er near 20 MPa, and containing vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2, I propose the following novel monomers:
+
+**Monomer 1:**  
+- Structure: A rigid vinyl-containing monomer with two vinyl groups to ensure sufficient crosslinking density while maintaining a moderate Tg.  
+- Proposed Structure: 1,4-bis(2-vinylphenyl)butane  
+- SMILES: C=CC1=CC=C(C=C)C=C1CC(C=C)C1=CC=C(C=C)C=C1
+
+**Monomer 2:**  
+- Structure: A hydroxyl-containing monomer with two carbonyl groups to enhance rigidity and contribute to the desired Tg and Er values.  
+- Proposed Structure: 2,5-dihydroxy-1,4-dicarbonyl cyclopentanone  
+- SMILES: C1(=O)C(=C(C(=O)C1)O)O
+
+These monomers are designed to achieve the specified functional groups while balancing the required properties for the TSMP. Monomer 1 provides the necessary vinyl groups for crosslinking, while Monomer 2 introduces hydroxyl groups that can enhance the rigidity and thermal properties of the final polymer.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+105,C=C(COCC=C)C=C,O=C(C(C(=O)O)C)C(=O)O,"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 50°C and an Er near 20 MPa, while incorporating vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2, I propose the following novel monomers:
+
+**Monomer 1:**  
+- Structure: A rigid vinyl-containing monomer with two vinyl groups to enhance crosslinking density. The structure is designed to provide sufficient rigidity to achieve the desired Tg.
+- Proposed Structure: 1,4-bis(vinyl)cyclohexane
+- SMILES: C=C1CCCCC1=C(C=C)C
+
+**Monomer 2:**  
+- Structure: A hydroxyl-containing monomer with two carbonyl (=O) groups that can also provide additional rigidity and contribute to the desired Er value.
+- Proposed Structure: 2,5-dihydroxy-1,4-benzenedicarboxylic acid (also known as gallic acid)
+- SMILES: OC(=O)C1=CC(=C(C(=O)O)C=C1)O
+
+These monomers are designed to meet the specified functional group requirements while balancing the molecular structure to achieve the target Tg and Er values. The vinyl groups in Monomer 1 will facilitate crosslinking, while the carbonyl groups in Monomer 2 will enhance the rigidity and mechanical properties of the resulting polymer.",vinyl(C=C),hydroxyl(=O),0.3,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+106,C=C(C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)C=C),C=C(C(C(C(C(=O)O)O)C(=O)O)C=C)C(=O)O,"To meet your requirements for a thermoset shape memory polymer (TSMP) with a Tg around 50°C, Er near 20 MPa, and the specified functional groups, I propose the following novel monomers:
+
+**Monomer 1:**  
+- **Description:** This monomer contains two vinyl (C=C) groups, providing sufficient crosslinking capability while maintaining a moderate level of rigidity to achieve the desired Tg.  
+- **Structure:** A divinyl ether with a flexible chain to balance the rigidity and flexibility needed for the target properties.  
+- **SMILES:** C=C(COCC=C)C=C  
+
+**Monomer 2:**  
+- **Description:** This monomer contains two hydroxyl (=O) groups, which will contribute to the crosslinking density and enhance the mechanical properties to reach the desired Er.  
+- **Structure:** A dihydroxy ketone that provides the necessary rigidity for the target Tg while allowing for effective crosslinking.  
+- **SMILES:** O=C(C(C(=O)O)C)C(=O)O  
+
+These monomers have been designed to fulfill the requirements of functional groups and property targets while ensuring that they are unique structures.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+107,C(C(=O)C(C(=O)C)O)C(C(=O)C(C(=O)C)O)C,C=CC1=CC=C(C=C)C=C1,"To achieve a thermoset shape memory polymer (TSMP) with the desired properties (Tg around 50°C, Er near 20 MPa), I will propose two novel monomers that satisfy the specified functional group requirements and property targets.
+
+**Monomer 1:**  
+This monomer will contain two instances of the vinyl (C=C) functional group. To ensure the desired Tg and Er values, I will incorporate a rigid structure with moderate flexibility.
+
+- **Structure:** 4,4'-dihydroxy-3,3'-diallylbenzophenone  
+- **SMILES:** C=C(C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)C=C)C(=O)O
+
+**Monomer 2:**  
+This monomer will contain two instances of the hydroxyl (=O) functional group. I will design it to have a more rigid backbone to contribute to the desired Tg.
+
+- **Structure:** 2,2-bis(hydroxymethyl)propane-1,3-diol dimethacrylate  
+- **SMILES:** C=C(C(C(C(C(=O)O)O)C(=O)O)C=C)C(=O)O
+
+These monomers are designed to balance the functional group requirements while targeting the desired thermal and mechanical properties for the TSMP. The combination of the vinyl groups in Monomer 1",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+108,C=C1CCC(CC1=C)C=C,O=C(C(=O)N1CCCCC1)C(=O)O,"To meet your requirements for a thermoset shape memory polymer (TSMP) with a Tg around 50°C, Er near 20 MPa, and containing vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2, I have designed the following novel monomers:
+
+**Monomer 1:**  
+- Structure: A rigid vinyl-containing monomer with two vinyl groups to ensure the required functionality and provide adequate crosslinking potential.
+- Proposed Structure: 1,4-bis(vinyl)benzene  
+- SMILES: C=CC1=CC=C(C=C)C=C1
+
+**Monomer 2:**  
+- Structure: A hydroxyl-functionalized monomer with two carbonyl (=O) groups to fulfill the specified functionality while maintaining a structure that contributes to the desired Tg and Er.
+- Proposed Structure: 1,2-bis(hydroxymethyl)cyclopentanedione  
+- SMILES: C(C(=O)C(C(=O)C)O)C(C(=O)C(C(=O)C)O)C
+
+These monomers are designed to provide the necessary crosslinking density and structural rigidity to achieve the target Tg and Er values while satisfying the functional group requirements.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+109,C=CC1=CC=C(C=C)C=C,O=C(C(=O)CC)C(=O)C(=O)CC,"To meet your requirements for a thermoset shape memory polymer (TSMP) with a Tg around 50°C, Er near 20 MPa, and containing vinyl (C=C) in monomer 1 and hydroxyl (=O) in monomer 2, I propose the following novel monomers:
+
+**Monomer 1:**  
+- Structure: A rigid vinyl-containing monomer with two vinyl groups to enhance crosslinking density while maintaining a Tg around 50°C. The structure is designed to provide sufficient rigidity while incorporating the required functional groups.
+- Chemical Structure: 1,4-bis(vinyl)cyclohexane  
+- SMILES: C=C1CCC(CC1=C)C=C
+
+**Monomer 2:**  
+- Structure: A hydroxyl-containing monomer with two carbonyl groups to ensure the presence of the hydroxyl functionality while contributing to the desired Tg and Er values. The design focuses on optimizing molecular rigidity.
+- Chemical Structure: 2,5-dioxo-3-pyrrolidinecarboxylic acid  
+- SMILES: O=C(C(=O)N1CCCCC1)C(=O)O
+
+These monomers are designed to fulfill both functional group requirements and property targets, ensuring a suitable balance for your TSMP application.",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+110,C=C(C1=CC=CC=C1)C=C,O=C(CC(=O)C)C(=O)CC\,"To satisfy your request for two monomers that form a thermoset shape memory polymer (TSMP) with a Tg around 50°C, Er near 20 MPa, and containing vinyl (C=C) in monomer 1 and hydroxyl (=O) in monomer 2, I propose the following:
+
+**Monomer 1:**  
+- Structure: A vinyl-functionalized monomer with two vinyl groups and a moderate degree of rigidity to achieve the desired Tg. The incorporation of aromatic rings can enhance rigidity.
+- Proposed structure: 1,4-bis(vinyl)benzene (with two vinyl groups on a benzene ring).
+- SMILES: C=CC1=CC=C(C=C)C=C1
+
+**Monomer 2:**  
+- Structure: A hydroxyl-functionalized monomer with two carbonyl (=O) groups that can provide the necessary crosslinking and enhance the mechanical properties to reach the target Er.
+- Proposed structure: 2,5-dioxo-3-hexanedioic acid (with two carbonyl groups).
+- SMILES: O=C(C(=O)CC)C(=O)C(=O)CC
+
+These structures provide the necessary functional groups while also being designed to achieve the target properties of Tg and Er. The vinyl groups in Monomer 1 will allow for crosslinking during polymerization, while the carbonyl groups in Monomer 2 will enhance the rigidity and",vinyl(C=C),hydroxyl(=O),0.5,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+111,C=CC1=CC=C(C=C)C=C1CCCCC1=CC=C(C=C)C=C1,OC(C1=CC=C(C=C1)C(=O)C2=CC=CC=C2)C(=O)C1=CC=C(C=C1)O,"To create a thermoset shape memory polymer (TSMP) that meets your specifications, I will design two novel monomers. 
+
+### Monomer 1: Vinyl Monomer
+This monomer will contain two vinyl groups (C=C) and will be designed to have moderate rigidity to achieve the desired Tg around 50°C. 
+
+**Structure Description:** A di-vinyl ether with a rigid aromatic backbone to increase the Tg.
+
+**SMILES:** C=C(C1=CC=CC=C1)C=C
+
+### Monomer 2: Hydroxyl Monomer
+This monomer will contain two carbonyl (=O) groups as hydroxyl functionalities. It will be designed to balance the molecular structure to contribute to the overall crosslinking density.
+
+**Structure Description:** A di-carbonyl compound with a flexible aliphatic chain to help achieve the desired Er value.
+
+**SMILES:** O=C(CC(=O)C)C(=O)CC
+
+### Summary
+- **Monomer 1:** 
+  - Functional Group: Vinyl (C=C)
+  - SMILES: C=C(C1=CC=CC=C1)C=C
+- **Monomer 2:** 
+  - Functional Group: Hydroxyl (=O)
+  - SMILES: O=C(CC(=O)C)C(=O)CC
+
+These novel monomers are designed to meet the specified Tg and Er requirements while adhering to the critical design",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+112,C=CC1=CC=C(C=C)C=C1CCCCC1=CC=C(C=C)C=C1,OC(C1=CC=C(C=C1)C(=O)C2=CC=CC=C2)C(=O)C1=CC=C(C=C1)O,"To achieve a thermoset shape memory polymer (TSMP) with the requested specifications, I will propose two novel monomers:
+
+**Monomer 1:** This monomer will contain two instances of the vinyl (C=C) functional group and will be designed to have moderate rigidity to target a Tg around 50°C.
+
+- **Structure:** A bivalent vinyl compound with a flexible chain to moderate the rigidity.
+- **Proposed Structure:** 1,4-Bis(2-vinylphenyl)butane
+- **SMILES:** C=CC1=CC=C(C=C)C=C1CCCCC1=CC=C(C=C)C=C1
+
+**Monomer 2:** This monomer will contain two instances of the hydroxyl (=O) functional group and will be designed to enhance crosslinking density while balancing the overall rigidity.
+
+- **Structure:** A bivalent compound with hydroxyl groups that can participate in crosslinking.
+- **Proposed Structure:** 1,2-Bis(2-hydroxyphenyl)ethanone
+- **SMILES:** OC(C1=CC=C(C=C1)C(=O)C2=CC=CC=C2)C(=O)C1=CC=C(C=C1)O
+
+These monomers are designed to meet the requirements of having both the specified functional groups and the desired thermal and mechanical properties. The proposed structures balance the functional group placement with the molecular architecture",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+113,C=CC1=CC=C(C=C)C=C1C=CC=CC(=O)C,CC(C(=O)O)C(C(=O)O)C(C)C,"To meet your requirements for a thermoset shape memory polymer (TSMP) with a Tg around 50°C, Er near 20 MPa, and containing vinyl (C=C) in monomer 1 and hydroxyl (=O) in monomer 2, I have designed the following novel monomers:
+
+**Monomer 1:**  
+This monomer contains ≥2 instances of vinyl (C=C) groups and is structured to provide moderate rigidity suitable for achieving the target Tg. 
+
+- Structure: A bis-vinyl phenyl ether with a rigid aromatic backbone to ensure the desired Tg.
+- SMILES: `C=CC1=CC=C(C=C)C=C1C=CC=CC(=O)C`
+
+**Monomer 2:**  
+This monomer contains ≥2 instances of hydroxyl (=O) groups and is designed to enhance crosslinking density, contributing to the target Er value.
+
+- Structure: A di-hydroxylated aliphatic compound with a branched structure to introduce additional flexibility while still allowing for effective crosslinking.
+- SMILES: `CC(C(=O)O)C(C(=O)O)C(C)C`
+
+These two monomers, when combined, should yield a TSMP with the desired Tg and Er characteristics, while satisfying the functional group requirements.",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+114,C=C(C)C(=C)C(C)(C)C(=C)C,C(C(=O)O)C(=O)CC(C(=O)O)C,"To design a thermoset shape memory polymer (TSMP) that meets the specified criteria, I will adhere to the critical design rules while ensuring the monomers provide the desired functional groups and properties.
+
+**Monomer 1:** 
+- **Functional Groups:** Vinyl (C=C)
+- **Structure Characteristics:** Two vinyl groups for crosslinking, moderate rigidity to achieve Tg around 50°C.
+- **Molecular Structure:** A substituted vinyl compound with a rigid backbone.
+
+**Monomer 1 SMILES:**  
+`C=C(C)C(=C)C(C)(C)C(=C)C`
+
+**Explanation:** This monomer contains two vinyl groups and has a branched structure that contributes to the desired rigidity for a Tg around 50°C.
+
+---
+
+**Monomer 2:** 
+- **Functional Groups:** Hydroxyl (=O)
+- **Structure Characteristics:** Two carbonyl groups for crosslinking, with enough flexibility to maintain a Tg around 50°C.
+- **Molecular Structure:** A diol with a carbonyl group on each end, providing good crosslink density.
+
+**Monomer 2 SMILES:**  
+`C(C(=O)O)C(=O)CC(C(=O)O)C`
+
+**Explanation:** This monomer contains two hydroxyl groups with carbonyls that will react for crosslinking, ensuring that the Er value can be optimized while keeping the Tg around 50°C.
+
+---
+
+###",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+115,C(C(C(CO)O)C(CO)O)C(CO)O, C=CC(=O)C=CC(=O)C,"To meet your requirements for a thermoset shape memory polymer (TSMP) containing vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2, with a target Tg of around 50°C and an elastic modulus (Er) near 20 MPa, I propose the following novel monomers:
+
+**Monomer 1:** 
+- Structure: A diene with two vinyl groups and a moderately rigid backbone to achieve the desired Tg.
+- Proposed Structure: 1,4-hexadiene-2,5-dione (with vinyl groups at both ends and a carbonyl group in the middle).
+- SMILES: C=CC(=O)C=CC(=O)C
+
+**Monomer 2:**
+- Structure: A di-functional hydroxyl compound that contains two carbonyl groups for crosslinking and achieving the target Er.
+- Proposed Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol (with hydroxyl groups providing the required functionality).
+- SMILES: C(C(C(CO)O)C(CO)O)C(CO)O
+
+These monomers should provide the necessary functional groups while also allowing for the achieved properties of Tg around 50°C and Er near 20 MPa through appropriate crosslinking and structural rigidity.",vinyl(C=C),hydroxyl(=O),0.7,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+116,C=C(C1=CC=CC=C1)C=C ,C1(C=O)C(=O)CC(C1=O)O,"To design monomers that meet your requirements for Tg around 50°C, Er near 20 MPa, and containing the specified functional groups, here are the proposed monomers:
+
+**Monomer 1: (Vinyl-containing Monomer)**  
+Structure: A rigid vinyl compound with two vinyl groups for increased crosslinking potential. It also includes a rigid backbone to help manage the Tg.
+
+SMILES: C=C(C1=CC=CC=C1)C=C  
+
+Description: This monomer has two instances of the vinyl group (C=C) and a phenyl ring providing rigidity, contributing to a higher Tg and supporting the desired Er.
+
+**Monomer 2: (Hydroxyl-containing Monomer)**  
+Structure: A hydroxyl compound with two carbonyl (C=O) groups that can help in crosslinking, enhancing the material properties.
+
+SMILES: C1(C=O)C(=O)CC(C1=O)O  
+
+Description: This monomer contains two hydroxyl (=O) groups and provides the necessary rigidity to achieve the target Tg and Er values.
+
+These monomers combine to form a thermoset shape memory polymer that meets the desired functional and mechanical properties.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+117,C=C(C1=CC=C(C=C1)C=C)C=C,O=C(C(C1CC(C1)(C(=O)O)O)O),"To design two monomers that satisfy the specified functional groups (vinyl in Monomer 1 and hydroxyl in Monomer 2), along with the target Tg of around 50°C and an Er near 20 MPa, I propose the following:
+
+**Monomer 1:**  
+This monomer will contain 2 instances of a vinyl group and will be designed to have a moderate rigidity to achieve the desired Tg and Er. 
+
+- Structure: 1,4-Bis(vinyl)benzene
+- Description: This compound has two vinyl groups and offers a rigid aromatic backbone, contributing to the required Tg. 
+
+- SMILES: `C=C(C1=CC=C(C=C1)C=C)C=C`
+
+**Monomer 2:**  
+This monomer will contain 2 instances of hydroxyl groups, designed to provide crosslinking opportunities while maintaining the necessary properties.
+
+- Structure: 1,2-Bis(hydroxymethyl)cyclopentane-1,2-dione
+- Description: This compound provides two hydroxyl groups along with a cyclic backbone that contributes to the molecular rigidity and crosslinking density needed for achieving a Tg around 50°C.
+
+- SMILES: `O=C(C(C1CC(C1)(C(=O)O)O)O)`
+
+Together, these monomers should form a thermoset shape memory polymer that meets the specified Tg and Er requirements while containing the requested functional groups.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+118,C1=CC=C(C=C2C1=CC=C(C=C2)C3=CC=CC=C3)C=C4C(C=C4)C5=CC=CC=C5,C1=CC(C(C1)C2=CC=CC=C2)C(C3=CC=C(C=C3)C(C4=CC=CC=C4)O)=O,"To create a thermoset shape memory polymer (TSMP) meeting your specifications with a Tg around 50°C and Er near 20 MPa, I propose the following novel monomers:
+
+**Monomer 1:**  
+A vinyl-containing monomer with higher rigidity achieved by incorporating cyclohexane rings to balance flexibility and crosslinking potential. 
+
+- **Structure:** 1,4-bis(2-vinylcyclohexyl)benzene  
+- **SMILES:** C1=CC=C(C=C2C1=CC=C(C=C2)C3=CC=CC=C3)C=C4C(C=C4)C5=CC=CC=C5
+
+**Monomer 2:**  
+A hydroxyl-containing monomer featuring a rigid aromatic backbone to achieve the desired Tg and contribute to crosslinking density.
+
+- **Structure:** 1,4-bis(hydroxy-phenyl)benzene  
+- **SMILES:** C1=CC(C(C1)C2=CC=CC=C2)C(C3=CC=C(C=C3)C(C4=CC=CC=C4)O)=O
+
+These two monomers will provide the required functional groups (vinyl and hydroxyl) and possess the structural characteristics necessary to target the specified Tg and Er values. The added rigidity from the cyclohexane and aromatic rings will help increase the Tg, while the crosslinking potential from the vinyl and",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+119,C1=COC2=C(C1=COC=C2)C(CO)=C(CO)C,C=CC1=CCCCC1=C(C=C)C=C,"To design the two monomers that satisfy the given requirements of vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2, as well as the target Tg around 50°C and Er near 20 MPa, I will follow the critical design rules outlined.
+
+**Monomer 1:**  
+I will create a monomer containing ≥2 instances of the vinyl group to ensure the required functionality. The structure will have sufficient rigidity to help achieve the target Tg of around 50°C.
+
+- **Structure:** 1,4-bis(vinyl)cyclohexane  
+- **SMILES:** C=CC1=CCCCC1=C(C=C)C=C
+
+**Monomer 2:**  
+For Monomer 2, I will ensure it contains ≥2 instances of the hydroxyl (=O) functional group. To achieve the desired enhanced rigidity and the resulting Tg, I will use a structure that includes a cyclic component.
+
+- **Structure:** 2,5-bis(hydroxymethyl)furan  
+- **SMILES:** C1=COC2=C(C1=COC=C2)C(CO)=C(CO)C
+
+### Summary:
+- **Monomer 1:** 1,4-bis(vinyl)cyclohexane  
+  - **SMILES:** C=CC1=CCCCC1=C(C=C)C=C  
+- **Monomer 2:**",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+120,C=C(C)C(=C)C(C)C=C,O=C(C)C(C)C(=O)(C)O,"To design two novel monomers for a thermoset shape memory polymer (TSMP) with the specified properties, I will ensure that Monomer 1 contains two instances of vinyl (C=C) and Monomer 2 contains two instances of hydroxyl (=O). Additionally, I will consider the molecular rigidity and crosslinking density required to achieve a Tg around 50°C and an Er near 20 MPa.
+
+**Monomer 1:**  
+- Structure: A bis-vinyl compound with good flexibility.
+- Structure Details: This monomer includes a central carbon chain to maintain flexibility and contains two vinyl groups for crosslinking.
+- SMILES: C=C(C)C(=C)C(C)C=C
+
+**Monomer 2:**  
+- Structure: A di-hydroxy compound with moderate rigidity suitable for the desired Tg and Er.
+- Structure Details: This monomer has two hydroxyl functional groups that can also participate in hydrogen bonding, enhancing the network structure.
+- SMILES: O=C(C)C(C)C(=O)(C)O
+
+### Summary
+**Monomer 1:** C=C(C)C(=C)C(C)C=C  
+**Monomer 2:** O=C(C)C(C)C(=O)(C)O 
+
+These monomers have been designed to fulfill the functional group requirements while aiming for the specified target properties of Tg and Er in a TSMP.",vinyl(C=C),hydroxyl(=O),0.9,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+121,C1(CC(=O)C(=O)C1)OC(C1=CC=CC=C1)C1,C=C(C1=CC=CC=C1)C=C,"To achieve the desired properties of a thermoset shape memory polymer (TSMP) with a Tg of around 50°C and an Er of near 20 MPa, I'll propose two novel monomers containing the specified functional groups: vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2. 
+
+### Monomer 1:
+- **Structure:** This monomer will feature a rigid backbone with two vinyl groups to promote crosslinking and optimize the mechanical properties while achieving the desired Tg.
+- **Description:** A bis-vinyl compound with a phenyl group to increase rigidity.
+- **SMILES string:** C=C(C1=CC=CC=C1)C=C
+
+### Monomer 2:
+- **Structure:** This monomer will feature two hydroxyl (carbonyl) groups attached to a flexible chain to help achieve the desired Er while providing functionality for crosslinking.
+- **Description:** A dicarbonyl compound with flexible ether linkages to modulate flexibility and optimize the mechanical properties.
+- **SMILES string:** C1(CC(=O)C(=O)C1)OC(C1=CC=CC=C1)C1
+
+### Summary:
+- **Monomer 1:** Vinyl-based, rigid for desired Tg.
+  - **SMILES:** C=C(C1=CC=CC=C1)C=C
+- **Monomer 2:** Hydroxyl-functional dicarbonyl for",vinyl(C=C),hydroxyl(=O),1,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+122,C1(C=C)C(=C)CC(=O)C1=C(C=C)C=O,C1(C(C(C=O)(C)C)C)C(=O)C(C1)C(CO)C(CO)=C(C)C=O,"To design a set of novel monomers that meet the specified functional group requirements and property targets, I will propose:
+
+### Monomer 1: 
+A vinyl-containing monomer that has greater rigidity to assist in achieving the target Tg around 50°C while also providing multiple vinyl groups to enhance crosslinking density.
+
+**Structure:** 
+2,5-Bis(vinyl)cyclopentanone
+
+**SMILES:** 
+C1(C=C)C(=C)CC(=O)C1=C(C=C)C=O
+
+### Monomer 2:
+A hydroxyl-containing monomer that reinforces the rigidity needed for attaining the targeted Tg and has multiple hydroxyl groups to increase the potential crosslink density for achieving the desired Er.
+
+**Structure:**
+1,4-Bis(hydroxy)cyclohexyl ketone 
+
+**SMILES:** 
+C1(C(C(C=O)(C)C)C)C(=O)C(C1)C(CO)C(CO)=C(C)C=O
+
+### Summary: 
+These monomers feature the required functional groups (vinyl in Monomer 1 and hydroxyl in Monomer 2) while being structured to achieve the target Tg and Er values: 
+
+- **Monomer 1**: Contains multiple vinyl groups; sufficient rigidity from the cyclopentanone structure contributes to a Tg around 50°C.
+- **Monomer 2**: Contains multiple hydroxyl",vinyl(C=C),hydroxyl(=O),1,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+123,C=C(C1=CC=CC=C1)C=C(C2=CC=CC=C2)C3=CC=CC=C3,(CC(C1=CC(C=C)C=C(C2=CC=C(C=C)C=C2)C1)O)O,"To create two monomers that meet your specifications of containing vinyl groups and hydroxyl groups while targeting a Tg of around 50°C and an Er near 20 MPa, I propose the following:
+
+**Monomer 1:**  
+This monomer will contain vinyl (C=C) functional groups. To achieve the desired Tg of around 50°C, we will design a structure that balances the rigidity required.
+
+- **Structure:** A diene vinyl monomer that includes a rigid backbone. 
+- **Example Structure:** 1,3-bis(vinylphenyl)benzene  
+- **SMILES:** C=C(C1=CC=CC=C1)C=C(C2=CC=CC=C2)C3=CC=CC=C3
+
+**Monomer 2:**  
+For this monomer, it will contain hydroxyl (=O) groups. We'll ensure it has flexibility, which will help in achieving the appropriate Er values through cross-linking.
+
+- **Structure:** A dihydroxy compound based on a flexible alkyl chain to balance the overall mechanical properties.
+- **Example Structure:** 2,2-bis(4-hydroxyphenyl)propane (known as bisphenol A) derivatives with a flexible aliphatic chain.  
+- **SMILES:** C(CC(C1=CC(C=C)C=C(C2=CC=C(C=C)C=C2)C1)O)O
+
+With these newly designed mon",vinyl(C=C),hydroxyl(=O),1,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+124,C=CC1CCCCC1=C(C=C),C(C=O)(C(C=O)C(CO)C(CO)C=O),"To achieve a thermoset shape memory polymer (TSMP) with a Tg around 50°C and an Er near 20 MPa, we will design the monomers accordingly while carefully considering the requested functional groups: vinyl (C=C) in Monomer 1 and hydroxyl (=O) in Monomer 2.
+
+Monomer 1:  
+- Structure: A vinyl-containing monomer with two vinyl groups for increased crosslinking and enhanced mechanical properties. 
+- Name: 1,2-bis(vinyl)cyclohexane. This structure provides rigidity due to the cyclohexane ring while containing the requisite vinyl groups for polymerization. 
+
+- SMILES: C=CC1CCCCC1=C(C=C)
+
+Monomer 2:  
+- Structure: A hydroxyl-containing monomer with two carbonyl (=O) functional groups contributing to necessary rigidity and potential for hydrogen bonding, enhancing crosslinking.
+- Name: 1,2-bis(hydroxymethyl)benzene-4,4-dicarboxaldehyde. The presence of dicarboxaldehyde allows for effective formation of crosslinks while also providing the desired hydroxyl functionality.
+
+- SMILES: C(C=O)(C(C=O)C(CO)C(CO)C=O)
+
+Combined, these monomers are expected to yield a TSMP that stabilizes around the target Tg of 50°C and achieves a suitable Er value through optimized crosslink",vinyl(C=C),hydroxyl(=O),1,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."
+125,C=CC1=CC=C(C=C)C=C1CCCCC1=CC=C(C=C)C=C1,OC(=O)C1=CC(=C(C=C1)C(=O)O)O,"To meet your specifications for thermoset shape memory polymers (TSMPs) composed of Vinyl (C=C) and Hydroxyl (–O) functional groups with the desired properties, I have designed the following novel monomers:
+
+**Monomer 1:**  
+- Name: 1,4-Bis(2-vinylphenyl)butane  
+- Structure: This monomer contains two vinyl groups ortho to each other on the phenyl rings and a more flexible butane spacer, which helps to achieve a Tg around 50°C due to moderate rigidity.  
+- SMILES: C=CC1=CC=C(C=C)C=C1CCCCC1=CC=C(C=C)C=C1
+
+**Monomer 2:**  
+- Name: Dihydroxyterephthalic acid  
+- Structure: This compound has two hydroxyl groups, which can participate in crosslinking, as well as a rigid aromatic backbone to help achieve a higher crosslink density, targeting an Er of around 20 MPa.  
+- SMILES: OC(=O)C1=CC(=C(C=C1)C(=O)O)O
+
+Together, these monomers are designed to form a crosslinked network through the vinyl groups from Monomer 1 and the hydroxyl groups from Monomer 2, satisfying both functional group requirements as well as having a reasonable balance for the desired Tg and Er values.",vinyl(C=C),hydroxyl(=O),1,50,20,"Propose two monomers that form a TSMP with Tg around 50°C, Er near 20 MPa, and containing vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2 groups."

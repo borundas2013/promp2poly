@@ -1,0 +1,1487 @@
+SL,Monomer 1,Monomer 2,Output_text,Group1,Group2,Temperature,Tg,Er,Prompt
+1,C1C(C(C1OCCO)OCCO)C2C1C(C2O)C1C(C1O)OCCO, NC(=N)C1=CC=C(C=C1C(=O)NCCN)C(=O)NCCN,"Here is a novel monomer pair for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 3,4-epoxy-1,2-bis(2-hydroxyethyl)cyclopentane  
+SMILES: C1C(C(C1OCCO)OCCO)C2C1C(C2O)C1C(C1O)OCCO
+
+**Monomer 2 (Imine - NC):**  
+Structure: N,N'-bis(2-aminoethyl)terephthalamide  
+SMILES: NC(=N)C1=CC=C(C=C1C(=O)NCCN)C(=O)NCCN
+
+These monomers are designed to provide robust crosslinking and suitable properties for TSMP applications.",epoxy(C1OC1),imine(NC),0.3,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+2,C1=CC=C(C=C1)C(C2(CO2)OCCOCC)OCCOCC,C1=CC=C(C=C1)C(=N)C(C2=CC=C(C=C2)C(=O)N)C(=N)C,"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-Bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1)C(C2(CO2)OCCOCC)OCCOCC
+
+**Monomer 2 (Imine - NC):**  
+Structure: 1,2-Bis(4-formylphenyl)ethylenediamine  
+SMILES: C1=CC=C(C=C1)C(=N)C(C2=CC=C(C=C2)C(=O)N)C(=N)C
+
+These monomers are designed to provide robust crosslinking through the formation of networks, leveraging the epoxy and imine functionalities.",epoxy(C1OC1),imine(NC),0.3,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+3,C1=CC=C(C=C1C(C2CO2)O)C(C2CO2)O,C1=CC=NC(=C1)C(C2=CC=NC(=C2)N)N,"Here is a novel monomer pair for your TSMP formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1C(C2CO2)O)C(C2CO2)O
+
+**Monomer 2 (Imine - NC):**  
+Structure: N,N'-bis(2-pyridyl)ethylenediamine  
+SMILES: C1=CC=NC(=C1)C(C2=CC=NC(=C2)N)N
+
+These monomers are designed to provide robust crosslinking through the epoxy and imine functionalities, suitable for achieving the desired thermal and mechanical properties in thermoset shape memory polymers.",epoxy(C1OC1),imine(NC),0.3,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+4,C(C1CO1)C(C1CO1)c2ccccc2C(C1CO1)C(C1CO1),NC(c1ccc(NC=c2ccc(NC)c(c2)C)c1)=N,"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C(C1CO1)C(C1CO1)c2ccccc2C(C1CO1)C(C1CO1)
+
+**Monomer 2 (Imine - NC):**  
+Structure: N,N'-bis(4-aminobenzylidene)ethylenediamine  
+SMILES: NC(c1ccc(NC=c2ccc(NC)c(c2)C)c1)=N
+
+These monomers are designed to ensure robust crosslinking while providing the necessary functional groups for the desired properties in TSMP applications.",epoxy(C1OC1),imine(NC),0.3,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+5,C1=CC=C(C=C1)C(C2(CO2)OCC3(CO3)OCC4(CO4)O)C2(CO2)OCC3(CO3)O,NC(CCCN=C(C)C)CCN=C(C)C,"Here is a novel monomer pair suitable for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1)C(C2(CO2)OCC3(CO3)OCC4(CO4)O)C2(CO2)OCC3(CO3)O
+
+**Monomer 2 (Imine - NC):**  
+Structure: N,N'-bis(3-aminopropyl)ethylenediamine  
+SMILES: NC(CCCN=C(C)C)CCN=C(C)C
+
+These monomers are designed to provide robust crosslinking through their respective functionalities, allowing for the desired thermoset properties in the final polymer.",epoxy(C1OC1),imine(NC),0.3,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+6,C1=CC=C(C=C1C2(C(C2O1)C(C(C)O1)C)O1)C(C(C)O1)C)O1,C1=CC=NC(=C1)NCCN=C(C)C1=CC=NC(=C1)N,"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1C2(C(C2O1)C(C(C)O1)C)O1)C(C(C)O1)C)O1
+
+**Monomer 2 (Imine - NC):**  
+Structure: N,N'-bis(2-pyridyl)ethylenediamine  
+SMILES: C1=CC=NC(=C1)NCCN=C(C)C1=CC=NC(=C1)N
+
+These monomers are designed to provide robust crosslinking and shape memory properties in the final thermoset polymer.",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+7,1=CC(C2=CC(C=C2)(C1)OCC1CO1)OCC1CO1,C1=CC(NC(C)C)C=C(C)C1=NC(C)C,"Here is a novel monomer pair suitable for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Epoxy - C1OC1 groups):**  
+**Structure:**  
+Aromatic epoxy with two epoxy groups.  
+**SMILES:**  
+C1=CC(C2=CC(C=C2)(C1)OCC1CO1)OCC1CO1
+
+**Monomer 2 (Imine - NC groups):**  
+**Structure:**  
+Aliphatic imine with two imine functionalities.  
+**SMILES:**  
+C1=CC(NC(C)C)C=C(C)C1=NC(C)C
+
+These monomers are designed to provide robust crosslinking and achieve the desired mechanical properties for TSMPs.",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+8,C1C(C(C2C1C(C2)O1C(C(C1)C)C1OCC1)O)C(C(C1OCC1)C)C)C,NC1=CC=C(C=C1C(=O)N=C(C2=CC=CC=C2)C(=O)N)C(=O)N,"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 2,2-bis(3,4-epoxycyclohexyl)propane  
+SMILES: C1C(C(C2C1C(C2)O1C(C(C1)C)C1OCC1)O)C(C(C1OCC1)C)C)C
+
+**Monomer 2 (Imine - NC):**  
+Structure: 4,4'-diaminobenzophenone imine  
+SMILES: NC1=CC=C(C=C1C(=O)N=C(C2=CC=CC=C2)C(=O)N)C(=O)N
+
+These monomers are designed to provide robust crosslinking capabilities while ensuring appropriate molecular weights and structures for optimal Tg and Er values in your TSMP application.",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+9,C(C1CO1)C(C1CO1)C(C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C1=CC=C(C=C1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=,N/A,"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 4,4'-Bis(2,3-epoxypropyl)diphenyl sulfone  
+SMILES: C(C1CO1)C(C1CO1)C(C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C1=CC=C(C=C1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=CC=C(C=C2)C(C1CO1)C(C2=",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+10,C1CC(C(C1)OCCO)C2(C(C2)C1CO1)OCCO,NC(CN)C(=N)C(CN)C(CN),"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 3,4-Epoxy-1,2-bis(2-hydroxyethyl)cyclohexane  
+SMILES: C1CC(C(C1)OCCO)C2(C(C2)C1CO1)OCCO
+
+**Monomer 2 (Imine - NC):**  
+Structure: N,N'-bis(2-aminoethyl)ethylenediamine  
+SMILES: NC(CN)C(=N)C(CN)C(CN)C
+
+These monomers are designed to provide effective crosslinking through their respective functional groups, ensuring robust network formation in the resulting thermoset shape memory polymer.",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+11,C1COC1C(C1COC1)C2C(O)C(C2)C1=CC=C(C)C(C1)CC1COC1,C1=CC=C(C=C1C(=O)NCCN=C(C1=CC=C(C=C1)C(=O)N)C1=CC=C(C=C1)C(=O)N)C(=O)N,"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (Epoxy, C1OC1):**  
+**Structure:** Bis(2,3-epoxypropyl) ether  
+**SMILES:** C1COC1C(C1COC1)C2C(O)C(C2)C1=CC=C(C)C(C1)CC1COC1  
+
+**Monomer 2 (Imine, NC):**  
+**Structure:** N,N'-bis(4-formylphenyl)ethylenediamine  
+**SMILES:** C1=CC=C(C=C1C(=O)NCCN=C(C1=CC=C(C=C1)C(=O)N)C1=CC=C(C=C1)C(=O)N)C(=O)N
+
+These monomers are designed to provide robust crosslinking and appropriate properties for thermoset shape memory polymers.",epoxy(C1OC1),imine(NC),0.7,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+12,C(C1CO1)(C(C1CO1)O)C(C1CO1)O,C=CC(N)C(N)C1=CC=C(C=C1)N,"Here’s a novel pair of monomers suitable for TSMPs:
+
+**Monomer 1 (C1OC1 - Epoxy):**  
+Structure: 2,3-bis(oxiran-2-yl)propane-1,2-diol  
+SMILES: C(C1CO1)(C(C1CO1)O)C(C1CO1)O  
+
+**Monomer 2 (NC - Imine):**  
+Structure: N,N'-bis(4-aminophenyl)ethene-1,2-diamine  
+SMILES: C=CC(N)C(N)C1=CC=C(C=C1)N  
+
+This pair ensures robust crosslinking through the epoxy and imine functionalities while maintaining appropriate molecular weights and structures for the desired properties in thermoset shape memory polymers.",epoxy(C1OC1),imine(NC),0.7,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+13,C1=CC=C(C=C1C(C2COC2)C2COC2)C2=COC2,C1=CN=C(C=C1)C(CN=C(C=C)C1=CN=C1)C(CN=C(C=C)C1=CN=C1)N=C(C1=CN=C1)C1=CN=C1,"Here is a novel monomer pair suitable for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Epoxy - C1OC1 groups):**  
+Structure: 1,2-bis(2,3-epoxypropyl)benzene  
+SMILES: C1=CC=C(C=C1C(C2COC2)C2COC2)C2=COC2  
+
+**Monomer 2 (Imine - NC groups):**  
+Structure: N,N'-bis(2-pyridyl)ethylenediamine  
+SMILES: C1=CN=C(C=C1)C(CN=C(C=C)C1=CN=C1)C(CN=C(C=C)C1=CN=C1)N=C(C1=CN=C1)C1=CN=C1  
+
+These monomers are designed to facilitate effective crosslinking while achieving the desired thermal and mechanical properties for TSMP applications.",epoxy(C1OC1),imine(NC),0.7,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+14,C(C1CO1)C(C1CO1)C1=CC=CC=C1,NC(C1=CC=CC=C1)C(=N)C(C1=CC=CC=C1)C(C1=CC=CC=C1),"Here is a tailored monomer pair for your TSMP formulation:
+
+**Monomer 1 (C1OC1 - Epoxy):**  
+- Structure: 1,2-Bis(2,3-epoxypropyl)benzene  
+- SMILES: C(C1CO1)C(C1CO1)C1=CC=CC=C1
+
+**Monomer 2 (NC - Imine):**  
+- Structure: 1,2-Bis(aminomethyl)benzaldehyde  
+- SMILES: NC(C1=CC=CC=C1)C(=N)C(C1=CC=CC=C1)C(C1=CC=CC=C1)
+
+These monomers are designed for optimal crosslinking density and should meet the necessary requirements for achieving the desired thermal and mechanical properties in TSMPs.",epoxy(C1OC1),imine(NC),0.7,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+15,C(C1COC1)C(C1COC1)OCCOCC,NC(Cc1ccc(NC)cc1)C(Cc1ccc(NC)cc1),"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Epoxy - C1OC1 groups):**  
+Structure: 1,2-bis(2,3-epoxypropoxy)ethane  
+SMILES: C(C1COC1)C(C1COC1)OCCOCC
+
+**Monomer 2 (Imine - NC groups):**  
+Structure: N,N'-bis(4-aminobenzylidene)ethylenediamine  
+SMILES: NC(Cc1ccc(NC)cc1)C(Cc1ccc(NC)cc1)
+
+These monomers are designed to provide optimal crosslinking density and thermal properties for the desired TSMP application.",epoxy(C1OC1),imine(NC),0.7,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+16,C1CC(C(C1)(C(C2CO2)O)O)C(C2CO2)O,NC(C1=CC=CC=C1)C=NN(C1=CC=CC=C1)C,"Here are two novel monomers designed for a thermoset shape memory polymer (TSMP), with one containing epoxy (C1OC1) groups and the other containing imine (NC) groups:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-Bis(2,3-epoxypropoxy)cyclohexane  
+SMILES: C1CC(C(C1)(C(C2CO2)O)O)C(C2CO2)O
+
+**Monomer 2 (Imine - NC):**  
+Structure: 1,2-Bis(2-aminobenzylidene)hydrazine  
+SMILES: NC(C1=CC=CC=C1)C=NN(C1=CC=CC=C1)C
+
+These monomers are designed with multiple functional groups to facilitate robust crosslinking suitable for TSMP applications. The epoxides in Monomer 1 allow for flexibility and controlled curing, while the imine groups in Monomer 2 foster strong interactions in the network.",epoxy(C1OC1),imine(NC),0.9,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+17,C(C1OC(C(C1)C(C2C(C(C2)C(C3C(C(C3)O)C(C(C4C(C(C4)C)O)))))O))O)C,N=CC(C1=CC=CC=N1)C(C2=CC=CC=N2)N\,"Here is a suitable pair of monomers for a thermoset shape memory polymer (TSMP) formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-Bis(2,3-epoxypropyl)benzene  
+SMILES: C(C1OC(C(C1)C(C2C(C(C2)C(C3C(C(C3)O)C(C(C4C(C(C4)C)O)))))O))O)C
+
+**Monomer 2 (Imine - NC):**  
+Structure: N,N'-bis(2-pyridyl)ethylenediamine  
+SMILES: N=CC(C1=CC=CC=N1)C(C2=CC=CC=N2)N
+
+This monomer pair provides a robust network for crosslinking while adhering to the specified structural requirements.",epoxy(C1OC1),imine(NC),0.9,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+18,C(C1OC2=C(C1)C(C(=C2)OCCOCCO))OCCO, NC(C1=CC=CC=C1)C2=CC(NC)=C(C2)C=C,"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-bis(2,3-epoxypropoxy)ethane  
+SMILES: C(C1OC2=C(C1)C(C(=C2)OCCOCCO))OCCO
+
+**Monomer 2 (Imine - NC):**  
+Structure: 1,2-bis(1,2-dihydro-1H-pyrrole-2-yl)ethene  
+SMILES: NC(C1=CC=CC=C1)C2=CC(NC)=C(C2)C=C
+
+These monomers are designed to provide robust crosslinking and appropriate properties for TSMPs.",epoxy(C1OC1),imine(NC),0.9,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+19,C=NC(C(CN)=C)C=NC ,C1CCC(C2C1C(C2O)O)OCC1=CC(=C(C=C1)OCCO)OCCO,"Here is a designed monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 1,2-bis(epoxy)cyclohexane. This monomer contains two epoxy groups strategically positioned for robust crosslinking.  
+**SMILES:** C1CCC(C2C1C(C2O)O)OCC1=CC(=C(C=C1)OCCO)OCCO
+
+**Monomer 2 (Imine - NC):**  
+Structure: 1,2-bis(imine)ethane. This monomer contains two imine functional groups that allow for effective crosslinking with the epoxy groups.  
+**SMILES:** C=NC(C(CN)=C)C=NC  
+
+This monomer pair supports robust crosslinking and is tailored to yield a material with desirable shape memory properties.",epoxy(C1OC1),imine(NC),0.9,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+20,C1CC(C2=C(C1)C(CCC2=O)COC1C(C(CO)O)C1)(C(CO)O)C2CCCCC2C2=COCCOCC2C(CO)C1C(CO)C=O,C1=CC(=C(C=C1C=O)N)N,"Here is a suitable monomer pair for the TSMP formulation:
+
+**Monomer 1 (Epoxy - C1OC1):**  
+Structure: 2,2-bis(3,4-epoxycyclohexyl)propane  
+SMILES: C1CC(C2=C(C1)C(CCC2=O)COC1C(C(CO)O)C1)(C(CO)O)C2CCCCC2C2=COCCOCC2C(CO)C1C(CO)C=O
+
+**Monomer 2 (Imine - NC):**  
+Structure: 3,4-diaminobenzaldehyde  
+SMILES: C1=CC(=C(C=C1C=O)N)N
+
+These monomers contain the targeted functional groups and are designed for effective crosslinking in thermoset shape memory polymers.",epoxy(C1OC1),imine(NC),0.9,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+21,C1C(C(C1O)O)C(C(C2C(CO2)(C=CC=CC))O)C3C(C3C(CO)O)C=C(C(=C)C)C=O,NC(C1=CC=CC=N1)C(C2=CC=CC=N2)N,"Here are the two monomers designed according to your specifications for the TSMP:
+
+**Monomer 1 (Epoxy - C1OC1 groups):**  
+Structure: 3,4-Epoxy-1,2-bis(2,3-epoxypropyl)cyclopentan-1,2-diol  
+SMILES: C1C(C(C1O)O)C(C(C2C(CO2)(C=CC=CC))O)C3C(C3C(CO)O)C=C(C(=C)C)C=O
+
+**Monomer 2 (Imine - NC groups):**  
+Structure: N,N'-bis(2-pyridine)ethanediamine  
+SMILES: NC(C1=CC=CC=N1)C(C2=CC=CC=N2)N
+
+These monomers are strategically designed to maximize crosslinking density and functionality, enabling the desired thermoset shape memory properties.",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+22,C(C1=CC(=C(C=C1O)C2=COC(C2)C3=CC(=C(C=C3O)C4=COC(C4)C(C)C)C)C)C,N=C(CC1=CC=CN=C1)CC1=CN=CC=C,"Here is a novel pair of monomers suitable for thermoset shape memory polymers (TSMPs), where one monomer contains epoxy groups (C1OC1) and the other contains imine groups (NC):
+
+Monomer 1 (Epoxy):  
+**Structure:**  
+1,2-Bis(3,4-epoxy-5-methylphenyl)ethane  
+**SMILES:**  
+C(C1=CC(=C(C=C1O)C2=COC(C2)C3=CC(=C(C=C3O)C4=COC(C4)C(C)C)C)C)C
+
+Monomer 2 (Imine):  
+**Structure:**  
+N,N'-Bis(2-pyridyl)methylidene-1,2-ethanediamine  
+**SMILES:**  
+N=C(CC1=CC=CN=C1)CC1=CN=CC=C1
+
+These monomers are designed to achieve robust crosslinking while maintaining the desired Tg and Er values for TSMP applications.",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+23,C1CC(C2C1C(=C2O)C3(C(CC3)O)C4C(C(C4)O)(C(C(C(C(O)C)C)C))C)C(C5C(C(CC5)C(C)C)=C)O)C=CC,NC(=C(C1=CC=CC=C1)C2=CC=CC=C2)NCC1CCN=C(C)C1,"Here are the generated monomers for a thermoset shape memory polymer (TSMP) formulation:
+
+**Monomer 1 (C1OC1 - Epoxy):**  
+Structure: 1,2-Bis(3,4-epoxycyclohexyl)ethane  
+SMILES: C1CC(C2C1C(=C2O)C3(C(CC3)O)C4C(C(C4)O)(C(C(C(C(O)C)C)C))C)C(C5C(C(CC5)C(C)C)=C)O)C=CC
+
+**Monomer 2 (NC - Imine):**  
+Structure: N,N'-bis(2-methyl-phenyl)ethylenediamine  
+SMILES: NC(=C(C1=CC=CC=C1)C2=CC=CC=C2)NCC1CCN=C(C)C1
+
+These monomers are designed to provide robust crosslinking characteristics suitable for TSMPs, with an optimal arrangement of functional groups for enhanced mechanical properties.",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+24,CCCCCCC(=O)OCC1C(O1)C2CCC1C=C(C2)OCC1C(C=C)COOC(=O)CCCCCC,N=C(CCN)C(CCN)CCN,"Here’s a designed monomer pair for thermoset shape memory polymers (TSMPs) featuring the specified functionalities:
+
+**Monomer 1 (Epoxy, C1OC1):**  
+Structure: 3,4-epoxy-1,2-butanediol bis(2-ethylhexanoate)  
+SMILES: CCCCCCC(=O)OCC1C(O1)C2CCC1C=C(C2)OCC1C(C=C)COOC(=O)CCCCCC
+
+**Monomer 2 (Imine, NC):**  
+Structure: N,N'-bis(2-aminoethyl)ethanediamine  
+SMILES: N=C(CCN)C(CCN)CCN
+
+These monomers are strategically designed for effective crosslinking in the formation of TSMPs.",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+25,C1CCC2(C1)C(C2O1C(O1)C(C1)C1=C(C(=C(C=C1)C)C2=C(C=CC2=O)C2=CCC2C(=C(C(C=C2)C)OC2C1CC(C2C)C1C2=C(C1)C(OC3C1CCC1C3CC(C1)C(C1=CCC1=O)C(C=CC=C2=C(C(C)C)C=C2)C(OCCOC1CC)C))C)C)C)C(C=N)C(C=CC=C2)C(C(C2)N)C(=C(C(C2)C1=C1)=C=C(C2)C(NC1)C)C=O,CC(N)C(=O)N=C(C2=CC=CC=C1)N(C(C)C)(,"Here is a proposed pair of monomers for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Epoxy - C1OC1 groups):**  
+Structure: 2,2-bis(3,4-epoxycyclohexyl)propane  
+SMILES: C1CCC2(C1)C(C2O1C(O1)C(C1)C1=C(C(=C(C=C1)C)C2=C(C=CC2=O)C2=CCC2C(=C(C(C=C2)C)OC2C1CC(C2C)C1C2=C(C1)C(OC3C1CCC1C3CC(C1)C(C1=CCC1=O)C(C=CC=C2=C(C(C)C)C=C2)C(OCCOC1CC)C))C)C)C)C(C=N)C(C=CC=C2)C(C(C2)N)C(=C(C(C2)C1=C1)=C=C(C2)C(NC1)C)C=O
+
+**Monomer 2 (Imine - NC groups):**  
+Structure: N,N-bis(2-aminoethyl)benzaldehyde imine  
+SMILES: CC(N)C(=O)N=C(C1=CC=CC=C1)N(C(C)C)(",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+26,C=CC1=CC=CC=C1C(C(C)C)C=C(C)C1=CC=CC=C1C=C,C(C1CCCCC1)(C(CS)C(CS)C)C(CS)C(CS)C,"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP) using vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(2-vinylphenyl)butane  
+SMILES: C=CC1=CC=CC=C1C(C(C)C)C=C(C)C1=CC=CC=C1C=C  
+
+**Monomer 2 (CCS):**  
+Structure: 1,3-bis(mercaptomethyl)cyclohexane  
+SMILES: C(C1CCCCC1)(C(CS)C(CS)C)C(CS)C(CS)C  
+
+### Explanation:
+- **Monomer 1** contains two vinyl groups (C=C) strategically positioned to allow for robust crosslinking.
+- **Monomer 2** contains multiple thiol groups (CCS) that can react with the vinyl groups to form a crosslinked network.
+- Both monomers are designed to achieve the desired thermal and mechanical properties suitable for TSMP applications. 
+
+This combination allows for controlled crosslinking and the development of shape memory effects in the resulting polymer network.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+27,C=CC1=CC=CC=C1C(C)C1=CC=CC=C1C=CC,C(CS)C1=CC=C(CS)C=C1C(CS)C,"Here is a designed monomer pair for a thermoset shape memory polymer (TSMP) featuring vinyl (C=C) in Monomer 1 and thiol (CCS) in Monomer 2:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(3-vinylphenyl)butane  
+SMILES: C=CC1=CC=CC=C1C(C)C1=CC=CC=C1C=CC
+
+**Monomer 2 (CCS):**  
+Structure: 1,4-bis(mercaptomethyl)benzene  
+SMILES: C(CS)C1=CC=C(CS)C=C1C(CS)C
+
+### Explanation:
+- **Monomer 1** contains two vinyl groups strategically positioned to allow for robust crosslinking.
+- **Monomer 2** contains multiple thiol groups that can react with the vinyl groups during the curing process, enhancing the crosslink density and mechanical properties of the resulting TSMP.
+- Both monomers have appropriate molecular weights and structures to achieve target Tg and Er values for effective shape memory behavior.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+28,C=C(C1=CC=C(C=C)C=C1)C(C(C1=CC=C(C=C)C=C1)C)C,C(C(C(C(C(C(C(S)C)S)C)C)C)C)C,"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP) using vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(3-vinylphenyl)butane  
+SMILES: C=C(C1=CC=C(C=C)C=C1)C(C(C1=CC=C(C=C)C=C1)C)C
+
+**Monomer 2 (CCS):**  
+Structure: 1,6-bis(mercaptomethyl)hexane  
+SMILES: C(C(C(C(C(C(C(S)C)S)C)C)C)C)C)
+
+### Explanation:
+- **Monomer 1** contains two vinyl groups (C=C) strategically positioned on a butane backbone, allowing for robust crosslinking.
+- **Monomer 2** contains two thiol groups (CCS) on a hexane chain, providing multiple sites for crosslinking with the vinyl groups.
+- Both monomers are designed to achieve the desired Tg and Er values for TSMP applications, ensuring optimal performance in shape memory applications.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+29,C=CC(C(C=C)C)C(C=C)C(C=C)C(C=C)C(=O)O,C1CSCCS1,"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP) with the specified functionalities:
+
+**Monomer 1 (C=C):**  
+- Structure: 1,6-Hexadiene-3,4-diol  
+- SMILES: C=CC(C(C=C)C)C(C=C)C(C=C)C(C=C)C(=O)O  
+
+**Monomer 2 (CCS):**  
+- Structure: 1,2,3-Trithiolane  
+- SMILES: C1CSCCS1  
+
+### Explanation:
+- **Monomer 1** contains multiple vinyl groups (C=C) that facilitate crosslinking through radical polymerization.
+- **Monomer 2** contains multiple thiol groups (CCS) that can react with the vinyl groups to form robust crosslinks.
+- The positioning of the functional groups in both monomers allows for high crosslinking density, which is essential for achieving the desired thermal and mechanical properties in TSMPs. 
+
+This combination is designed to yield a thermoset polymer with desirable shape memory characteristics.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+30,C=C(C1=CC=C(C=C)C=C1)C=C, C1(C(CS)C(CS)CCCCC1) ,"Here is a designed monomer pair for a thermoset shape memory polymer (TSMP) using vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=C(C1=CC=C(C=C)C=C1)C=C  
+
+**Monomer 2 (CCS):**  
+Structure: 1,2-bis(mercaptomethyl)cyclohexane  
+SMILES: C1(C(CS)C(CS)CCCCC1)  
+
+### Explanation:
+- **Monomer 1** contains two vinyl groups strategically positioned to allow for robust crosslinking upon polymerization.
+- **Monomer 2** contains two thiol groups that will react with the vinyl groups during the crosslinking process, enhancing the mechanical properties and shape memory characteristics of the resulting polymer.
+- Both monomers are designed to have appropriate molecular weights and structures to achieve target glass transition temperatures (Tg) and elasticity (Er) values for effective shape memory behavior.",vinyl(C=C),thiol(CCS),0.3,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+31,C1=CC(=C(C=C1)C(CS)C(S)C)C,C=C1CCCCC1=C(C=C),"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP) using vinyl (C=C) in Monomer 1 and thiol (CCS) in Monomer 2:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(vinyl)cyclohexane  
+SMILES: C=C1CCCCC1=C(C=C)C
+
+**Monomer 2 (CCS):**  
+Structure: 1,3-bis(mercaptomethyl)benzene  
+SMILES: C1=CC(=C(C=C1)C(CS)C(S)C)C
+
+### Explanation:
+- **Monomer 1** contains two vinyl groups strategically positioned to allow for efficient crosslinking.
+- **Monomer 2** contains two thiol groups (CCS) that can react with the vinyl groups of Monomer 1, promoting robust crosslinking.
+- The structures are designed to achieve a suitable molecular weight that targets the desired glass transition temperature (Tg) and elasticity (Er) for the TSMP.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+32,C=C1CCCCC1=C(C=C)C,C1=CC(=C(C=C1)C(CS)C(S)C)C,"Here is a designed monomer pair suitable for a thermoset shape memory polymer (TSMP) that includes vinyl (C=C) in Monomer 1 and thiol (CCS) in Monomer 2:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(2-vinylphenyl)butane  
+SMILES: C=C(C1=CC=CC=C1)C(CCCC)C(C1=CC=CC=C1)C=C  
+
+**Monomer 2 (CCS):**  
+Structure: 1,2-bis(mercaptomethyl)cyclohexane  
+SMILES: C(C(C(C1CCCCC1)S)S)C(C(C(C1CCCCC1)S)S)  
+
+### Design Rationale:
+- **Monomer 1** contains two vinyl groups that allow for robust crosslinking through radical polymerization.
+- **Monomer 2** contains two thiol groups, which can react with the vinyl groups to form a crosslinked network.
+- The positioning of functional groups is optimized for high crosslink density, which is critical for achieving desired thermal and mechanical properties in TSMPs. 
+
+This combination should yield a thermoset shape memory polymer with desirable properties.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+33,C=C(C1=CC=CC=C1)C(CCCC)C(C1=CC=CC=C1)C=C,C(C(C(C1CCCCC1)S)S)C(C(C(C1CCCCC1)S)S),"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP) using vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(4-vinylphenyl)butane  
+SMILES: C=C(C1=CC=C(C=C1)C)C(C1=CC=C(C=C1)C)C
+
+**Monomer 2 (CCS):**  
+Structure: 1,6-bis(mercaptohexyl)hexane  
+SMILES: CCCCCCC(C1=CC(=C(C=C1)C)C)C(=S)C(=S)C
+
+### Explanation:
+- **Monomer 1** contains two vinyl groups strategically placed to provide robust crosslinking upon polymerization.
+- **Monomer 2** contains two thiol groups, allowing for effective thiol-ene click chemistry with the vinyl groups in Monomer 1, enhancing the crosslinking density and mechanical properties of the resulting polymer network. 
+
+This combination is designed to achieve a desirable glass transition temperature (Tg) and elasticity (Er) suitable for TSMP applications.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+34,C=C(C1=CC=C(C=C1)C)C(C1=CC=C(C=C1)C)C,CCCCCCC(C1=CC(=C(C=C1)C)C)C(=S)C(=S)C,"Here is a designed monomer pair suitable for a thermoset shape memory polymer (TSMP) utilizing vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 2,5-bis(2-vinylphenyl)furan  
+SMILES: C=C(C1=CC=C(C=C1)C2=CC=CC=C2)C3=CC=C(C=C3)C4=CC=CO4
+
+**Monomer 2 (CCS):**  
+Structure: 1,4-bis(mercaptomethyl)cyclohexane  
+SMILES: C1CC(CC1C(=S)C)C(=S)C(C)C(=S)C(C)C
+
+These monomers are designed to provide robust crosslinking due to the multiple C=C and CCS functionalities, allowing for controlled shape memory properties in the final thermoset polymer.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+35,C=C(C1=CC=C(C=C1)C2=CC=CC=C2)C3=CC=C(C=C3)C4=CC=CO4,C1CC(CC1C(=S)C)C(=S)C(C)C(=S)C(C)C,"Here is a designed monomer pair for a thermoset shape memory polymer (TSMP) featuring vinyl (C=C) in Monomer 1 and thiol (CCS) in Monomer 2:
+
+**Monomer 1 (C=C):**  
+Structure: 1,2-bis(3-vinylphenyl)ethane  
+SMILES: C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C  
+
+**Monomer 2 (CCS):**  
+Structure: 1,4-bis(mercaptomethyl)cyclohexane  
+SMILES: C1(CCS)C(CCS)CCC1  
+
+### Explanation:
+- **Monomer 1** contains two vinyl groups strategically positioned for effective crosslinking, allowing for a robust network formation upon polymerization.
+- **Monomer 2** contains two thiol groups that will react with the vinyl groups in Monomer 1, providing the necessary crosslinking to form a thermoset polymer with shape memory properties.
+
+This combination is designed to achieve a suitable glass transition temperature (Tg) and elasticity (Er) for the desired TSMP application.",vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+36,C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C,C1(CCS)C(CCS)CCC1,"Here is a designed monomer pair suitable for a thermoset shape memory polymer (TSMP) utilizing vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+- Structure: 1,6-hexanediylbis(2-methylacrylate)  
+- SMILES: CC(=C)C(=O)OCCCCC(=O)OCC(=C)C  
+
+This monomer contains two vinyl groups and is designed to provide good crosslinking density.
+
+**Monomer 2 (CCS):**  
+- Structure: 1,2-ethanedithiol  
+- SMILES: C(C)SCC(S)C  
+
+This monomer features two thiol groups, allowing for robust crosslinking with the vinyl groups present in Monomer 1.
+
+These monomers are designed to ensure optimal crosslinking density, thereby enhancing the mechanical properties and shape memory behavior of the resulting thermoset polymer.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+37,CC(=C)C(=O)OCCCCC(=O)OCC(=C)C,C(C)SCC(S)C,"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP) using vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 3,3-bis(vinyl)-2-(4-vinylphenyl)propionic acid  
+SMILES: C=C(C)(C(=O)O)C(C=C)c1ccc(C=C)cc1
+
+**Monomer 2 (CCS):**  
+Structure: 1,4-bis(mercaptomethyl)cyclohexane  
+SMILES: C1CC(CC1C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)CC2CC2)C(CS)C(CS)C(CS)
+
+### Overview:
+- **Monomer 1** contains multiple vinyl groups (C=C), providing suitable sites for crosslinking via radical polymerization.
+- **Monomer 2** features multiple thiol groups (CCS), allowing for robust crosslinking and enhancing the shape memory properties upon curing. 
+
+### Application:
+This combination will yield a TSMP with good thermal and mechanical properties, suited for applications requiring shape memory behavior.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+38,C=C(C)(C(=O)O)C(C=C)c1ccc(C=C)cc1,C1CC(CC1C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)C(CS)CC2CC2)C(CS)C(CS)C(CS),"Here is a proposed monomer pair for a thermoset shape memory polymer (TSMP) utilizing vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+- Structure: 1,6-Hexanediol diacrylate  
+- SMILES: C=CC(=O)OCCCCC(=O)OC=C  
+
+**Monomer 2 (CCS):**  
+- Structure: Trimethylolpropane tris(3-mercaptopropionate)  
+- SMILES: C(C(C(C(=O)OCCCS)C(=O)OCCCS)C(=O)OCCCS)C(C(C(CCS)C(=O)OCCCS)C(=O)OCCCS)C(C(C(CCS)C(=O)OCCCS)C(=O)OCCCS)C  
+
+### Summary:
+- **Monomer 1 has two vinyl groups (C=C)**, which will facilitate crosslinking through radical polymerization.
+- **Monomer 2 contains three thiol groups (CCS)**, providing multiple sites for crosslinking and enhancing network density.
+- These monomers are designed to exhibit suitable properties for targeted glass transition temperature (Tg) and mechanical resilience (Er) after crosslinking.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+39,C=CC(=O)OCCCCC(=O)OC=C ,C(C(C(C(=O)OCCCS)C(=O)OCCCS)C(=O)OCCCS)C(C(C(CCS)C(=O)OCCCS)C(=O)OCCCS)C(C(C(CCS)C(=O)OCCCS)C(=O),"Here’s a proposed monomer pair for a thermoset shape memory polymer (TSMP) utilizing vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (Vinyl - C=C):**  
+- Structure: 1,4-bis(2-vinylphenyl)butane  
+- SMILES: C=CC1=CC=CC=C1C(C(C=C)C2=CC=CC=C2)C(C)CC
+
+**Monomer 2 (Thiol - CCS):**  
+- Structure: 1,6-bis(mercaptomethyl)hexane  
+- SMILES: CCCCC(C(S)C)(C(S)C)CC
+
+### Description of Monomers:
+- **Monomer 1** has two vinyl groups strategically placed for robust crosslinking, providing good mechanical properties and shape memory behavior.
+- **Monomer 2** contains two thiol groups that enhance the crosslinking density and contribute to the thermal and mechanical stability of the polymer network.
+
+This combination offers a promising formulation for a TSMP with effective shape memory properties.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+40,C=CC1=CC=CC=C1C(C(C=C)C2=CC=CC=C2)C(C)CC,CCCCC(C(S)C)(C(S)C)CC,"Here is a designed monomer pair for a thermoset shape memory polymer (TSMP) utilizing vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 2,5-Bis(vinyl)-1,3,4-thiadiazole  
+SMILES: C=C(C)C(=C)C(=C)N1C(=N)N=C(S1)C(C)C(=C)C
+
+**Monomer 2 (CCS):**  
+Structure: Trithiol-terminated poly(ethylene glycol)  
+SMILES: C(CS)CC(CS)CC(CS)OCCOCCOCCOCCO
+
+### Summary:
+- **Monomer 1** features multiple vinyl groups that allow for effective crosslinking under UV or thermal conditions.
+- **Monomer 2** contains multiple thiol groups, providing robust crosslinking capabilities when reacted with the vinyl groups in Monomer 1.
+
+This monomer pair is designed for optimal crosslinking density, enabling the desired shape memory properties in the final polymer.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+41,C=C(C)C(=C)C(=C)N1C(=N)N=C(S1)C(C)C(=C)C,C(CS)CC(CS)CC(CS)OCCOCCOCCOCCO,"Here’s a novel pair of monomers suitable for creating a thermoset shape memory polymer (TSMP) with specified functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4'-divinyl-2,2'-bipyridine  
+Description: This monomer contains two vinyl groups strategically positioned for optimal crosslinking.  
+SMILES: C=C(C1=CC=CC=C1)C1=CC=CC=C1C=C
+
+**Monomer 2 (CCS):**  
+Structure: 1,3-bis(mercaptomethyl)cyclohexane  
+Description: This monomer features two thiol (-SH) groups that can participate in the crosslinking process.  
+SMILES: C1CC(CC(C1)CS)C(CS)C1CC(C(CC1)CS)C(CS)C
+
+This monomer pair is designed for controlled crosslinking, allowing for the development of robust TSMPs with enhanced shape memory properties.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+42,C=C(C1=CC=CC=C1)C1=CC=CC=C1C=C,C1CC(CC(C1)CS)C(CS)C1CC(C(CC1)CS)C(CS)C,"Here is a designed pair of monomers suitable for a thermoset shape memory polymer (TSMP) featuring vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+- Structure: 1,2-bis(4-vinylphenyl)ethane  
+- SMILES: C=C(C1=CC=C(C=C)C=C1)C1=CC=C(C=C)C=C1  
+
+**Monomer 2 (CCS):**  
+- Structure: 1,3-bis(mercaptomethyl)benzene  
+- SMILES: C(CS)C(CS)C1=CC=CC=C1  
+
+### Explanation:
+- **Monomer 1** includes two vinyl groups positioned on a central ethane backbone, enabling robust crosslinking through radical polymerization.
+- **Monomer 2** includes two thiol groups that provide multiple crosslinking sites and enhance the toughness and shape memory properties of the polymer network.
+
+These monomers are designed to achieve a desirable balance of thermal and mechanical properties suitable for TSMP applications.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+43,C=C(C1=CC=C(C=C)C=C1)C1=CC=C(C=C)C=C1,C(CS)C(CS)C1=CC=CC=C1,"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP) utilizing vinyl (C=C) and thiol (CCS) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 3,3-Bis(4-vinylphenyl)propane  
+SMILES: C=C(C)C1=CC=C(C=C)C=C1C(C)C=C(C)C1=CC=C(C=C)C=C1
+
+**Monomer 2 (CCS):**  
+Structure: 1,2-Bis(mercaptomethyl)cyclohexane  
+SMILES: C1CC(C(C1)CS)C(C(C)CS)C(C)S
+
+This pair of monomers is designed to achieve robust crosslinking through the reaction of the vinyl groups with the thiol groups, providing a thermoset shape memory polymer with desirable mechanical properties.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+44,C=C(C)C1=CC=C(C=C)C=C1C(C)C=C(C)C1=CC=C(C=C)C=C1,C1CC(C(C1)CS)C(C(C)CS)C(C)S,"Here’s a structured design for the thermoset shape memory polymer using the specified monomers:
+
+**Monomer 1 (Vinyl, C=C):**  
+- Structure: A divinyl ether with additional functional groups to enhance crosslinking.
+- Example: 1,4-Bis(vinyl)benzene  
+- SMILES: C=C(C1=CC=C(C=C1)C=C)C=C
+
+**Monomer 2 (Thiol, CCS):**  
+- Structure: A tri-functional thiol that can provide robust crosslinking due to multiple -SH groups.
+- Example: 1,2,3-Propanetriol tris(2-mercaptoacetate)  
+- SMILES: C(C(=O)O)SCC(C(=O)O)SCC(C(=O)O)S
+
+This monomer pair leverages the reactivity of vinyl groups for polymerization and the multiple thiol groups to create a dense crosslinked network, ensuring the desired thermoset properties for shape memory applications.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+45,C=C(C1=CC=C(C=C1)C=C)C=C, C(C(=O)O)SCC(C(=O)O)SCC(C(=O)O)S,"Here is a designed monomer pair suitable for a thermoset shape memory polymer (TSMP) featuring vinyl (C=C) in Monomer 1 and thiol (CCS) in Monomer 2:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(2-vinyloxyethoxy)benzene  
+SMILES: C=CCOC(COC(=CC)C)OC(=CC)C
+
+**Monomer 2 (CCS):**  
+Structure: 1,4-bis(mercaptomethyl)benzene  
+SMILES: C(CS)C(CS)C(CS)C
+
+These monomers are designed to provide robust crosslinking capabilities while enabling the desired thermoset properties for shape memory applications.",vinyl(C=C),thiol(CCS),0.9,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+46,C=CCOC(COC(=CC)C)OC(=CC)C,C(CS)C(CS)C(CS)C,"Here is a pair of novel monomers designed for a thermoset shape memory polymer (TSMP) using vinyl and thiol functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: A bifunctional vinyl monomer with two vinyl groups spaced for optimal crosslinking.  
+SMILES: `C=CC(=O)OCC(C=C)C(=O)O`
+
+**Monomer 2 (CCS):**  
+Structure: A thiol monomer featuring two thiol groups for robust crosslinking.  
+SMILES: `C(SC(C)C)CCC(SC(C)C)CC`
+
+### Summary:
+- **Monomer 1** contains 2 instances of the C=C group for controlled crosslinking.
+- **Monomer 2** contains 2 instances of the CCS group for forming strong covalent bonds.
+
+These monomers are strategically designed to ensure compatibility and effective crosslinking, enabling desirable thermal and mechanical properties in TSMPs.",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+47,C(SC(C)C)CCC(SC(C)C)CC,C=CC(=O)OCC(C=C)C(=O)O,"Here is a monomer pair designed for a thermoset shape memory polymer (TSMP) with the specified functionalities:
+
+**Monomer 1 (C=C)**:  
+Structure: 1,1-Bis(4-vinylphenyl)ethane  
+SMILES: C=C(C1=CC=C(C=C1)C(C2=CC=C(C=C2)C)C)C=C  
+
+**Monomer 2 (CCS)**:  
+Structure: Tris(2-mercaptoethyl)amine  
+SMILES: C(CS)CN(CCS)C(CS)  
+
+### Summary:
+- **Monomer 1** has two vinyl groups (C=C) strategically positioned to ensure effective crosslinking.
+- **Monomer 2** contains three thiol groups (CCS) to facilitate robust crosslinking and enhance the shape memory properties of the resulting polymer network.
+
+This pair is designed to achieve appropriate molecular weights and structures to target the desired properties for TSMPs.",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+48,C=C(C1=CC=C(C=C1)C(C2=CC=C(C=C2)C)C)C=C,C(CS)CN(CCS)C(CS),"Here are the designed monomer pairs for a thermoset shape memory polymer (TSMP) that utilize vinyl (C=C) in Monomer 1 and thiol (CCS) in Monomer 2:
+
+**Monomer 1 (C=C):**  
+Structure: 3,6-Dihydroxy-1,2,5-heptatriene  
+SMILES: C=C(C)C(=C)C(C)(CC(=C)C(C)C)CCC(C)C
+
+**Monomer 2 (CCS):**  
+Structure: 1,2-Bis(thiolane-1,1-diyl)hexane  
+SMILES: CCCC(C(S)C1CCCC1)(C(S)C1CCCCC1)C(S)C
+
+### Summary:
+- **Monomer 1 consists of multiple vinyl groups allowing for robust crosslinking.**
+- **Monomer 2 contains multiple thiol groups, enhancing the overall crosslinking density and stability of the polymer network.**
+
+This approach ensures that both monomers meet the design criteria for effective thermal and mechanical properties in the resulting TSMP.",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+49,C=C(C)C(=C)C(C)(CC(=C)C(C)C)CCC(C)C,CCCC(C(S)C1CCCC1)(C(S)C1CCCCC1)C(S)C,"Here is a proposed monomer pair suitable for creating a thermoset shape memory polymer:
+
+**Monomer 1 (C=C):**  
+Structure: 3,3-bis(4-vinylphenyl)hexanedioate  
+SMILES: C=CC1=CC=C(C=C)C=C1C(=O)OCC(=O)C(C=C)C1=CC=C(C=C)C=C1  
+
+**Monomer 2 (CCS):**  
+Structure: Dithiol compound with 4 sulfhydryl groups  
+SMILES: CCCCC(=S)C(S)C(=S)CCCCCC(S)C(=S)C(S)CCCCCC
+
+These monomers will create a robust crosslinked network upon curing, providing the desired shape memory properties with appropriate glass transition temperature (Tg) and elastic recovery (Er).",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+50,C=CC1=CC=C(C=C)C=C1C(=O)OCC(=O)C(C=C)C1=CC=C(C=C)C=C1,CCCCC(=S)C(S)C(=S)CCCCCC(S)C(=S)C(S)CCCCCC,"Here is a pair of novel monomers that meet your requirements for designing a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(ethenyl)cyclohexane-1,2-diol  
+SMILES: C=C(CC1=CC=C(C=C)C(C=C)=C1)C(C(C)C)C(C)C
+
+**Monomer 2 (CCS):**  
+Structure: Dithiol with flexible ether linkages  
+SMILES: CCCCCCC(CS)C(=S)CC(CS)CC
+
+These monomers provide multiple reactive sites to enable robust crosslinking while offering the flexibility needed for shape memory effects.",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+51,C=C(C1=CC=C(C=C1)C(C)C(C)C=C)C(C)C(C)C=C,C=C1CC(C=C)CC(C=C)C,"Here is a pair of monomers suitable for a thermoset shape memory polymer (TSMP), both containing vinyl (C=C) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(vinylphenyl)butane  
+SMILES: C=C(C1=CC=C(C=C1)C(C)C(C)C=C)C(C)C(C)C=C
+
+**Monomer 2 (C=C):**  
+Structure: 1,3-bis(vinyl)cyclohexane  
+SMILES: C=C1CC(C=C)CC(C=C)C1
+
+These monomers are designed to provide robust crosslinking through their vinyl groups, contributing to the desired properties of the TSMP.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+52,C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C,C=C(C1=CC=C(C=C)C=C)C(C1=CC=C(C=C)C=C)C,"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(2-vinylphenyl)butane  
+SMILES: C=C(C1=CC=CC=C1)C(C1=CC=CC=C1)C=C
+
+**Monomer 2 (C=C):**  
+Structure: 1,3-bis(4-vinylphenyl)propane  
+SMILES: C=C(C1=CC=C(C=C)C=C)C(C1=CC=C(C=C)C=C)C
+
+These monomers both contain vinyl groups and are designed for effective crosslinking in thermoset shape memory polymers.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+53,C=C(C1CC(C=C)CC1)(C(C=C)O)O,C=C(C1=CC=C(C=C1)C(C=C)O)O,"Here is a suitable monomer pair for a thermoset shape memory polymer (TSMP), ensuring both monomers contain vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(vinyl)cyclohexane-1,2-diol  
+SMILES: C=C(C1CC(C=C)CC1)(C(C=C)O)O
+
+**Monomer 2 (C=C):**  
+Structure: 1,3-bis(vinyl)benzene-2,5-diol  
+SMILES: C=C(C1=CC=C(C=C1)C(C=C)O)O
+
+These monomers are designed to provide robust crosslinking through their multiple vinyl groups, facilitating the desired properties in TSMPs.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+54,C=C(C1CC(C=C)C(C1)(C)O)O,C=C(C1=CC(C=C)C(C(=O)O)=C1C(=O)O),"Here is a suitable monomer pair for your TSMP formulation, both containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(vinyl)cyclohexane-1,2-diol  
+SMILES: C=C(C1CC(C=C)C(C1)(C)O)O
+
+**Monomer 2 (C=C):**  
+Structure: 1,3-bis(vinyl)benzene-4,4-dicarboxylic acid  
+SMILES: C=C(C1=CC(C=C)C(C(=O)O)=C1C(=O)O) 
+
+These monomers are designed to provide robust crosslinking and achieve the desired thermal and mechanical properties in the resulting TSMP.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+55,C=CC1=CC=CC=C1C(C=CC2=CC=CC=C2)C=C,C=CC1=CC=C(C=C)C=C(C=C)C2=CC=C(C=C),"Here is a suitable pair of monomers for your TSMP formulation, both containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 1,2-bis(3-vinylphenyl)ethane  
+SMILES: C=CC1=CC=CC=C1C(C=CC2=CC=CC=C2)C=C  
+
+**Monomer 2 (C=C):**  
+Structure: 1,4-bis(3-vinylphenyl)butane  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C2=CC=C(C=C)C=C1C2  
+
+These monomers are designed to provide robust crosslinking through their vinyl groups, ensuring a suitable Tg and Er for thermoset shape memory polymer applications.",vinyl(C=C),vinyl(C=C),0.3,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+56,C=CC1=CC=C(C=C)C=C1C(=O)OCC,C=CC1=CC(=C(C=C)C(=O)O)C=C1O,"Here is a suitable pair of monomers for a thermoset shape memory polymer (TSMP), both containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinylphenyl acrylate  
+SMILES: C=CC1=CC=C(C=C)C=C1C(=O)OCC
+
+**Monomer 2 (C=C):**  
+Structure: 3,4-dihydro-2H-pyran-2-acrylate  
+SMILES: C=CC1=CC(=C(C=C)C(=O)O)C=C1O
+
+These monomers are designed to ensure robust crosslinking while providing the necessary properties for TSMP applications.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+57,C=C(C)C(=O)OCC(C)C(=O)OCC=C(C)C,C=C(C)C(=O)NCC(C)C(=O)NCC=C(C)C,"Here is a pair of monomers suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (C=C):**  
+Structure: Vinyl-functionalized diol  
+SMILES: C=C(C)C(=O)OCC(C)C(=O)OCC=C(C)C
+
+**Monomer 2 (C=C):**  
+Structure: Vinyl-functionalized amine  
+SMILES: C=C(C)C(=O)NCC(C)C(=O)NCC=C(C)C
+
+These monomers contain multiple vinyl groups for robust crosslinking and are designed to achieve the desired thermal and mechanical properties for TSMPs.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+58,C=C(C1CC(C(C=C)C1)(C(C=C)C)O)O,C=C(C(C=C)C(C=C)O)O,"Here is a suitable monomer pair for your TSMP formulation, both containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(ethenyl)cyclohexan-1,2-diol  
+SMILES: C=C(C1CC(C(C=C)C1)(C(C=C)C)O)O
+
+**Monomer 2 (C=C):**  
+Structure: 1,2-bis(ethenyl)ethane-1,2-diol  
+SMILES: C=C(C(C=C)C(C=C)O)O
+
+These monomers are designed to provide robust crosslinking capabilities while achieving the desired thermomechanical properties in the final TSMP.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+59,C=CC1=CC=C(C=C)C=C1C(CC(C=C)C)OCC(C=C)C,C=C1CC(C=C)C(C=C)CC1,"Here are two monomers for a thermoset shape memory polymer (TSMP), each containing vinyl (C=C) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(vinylphenyl)pentane-1,5-diol  
+SMILES: C=CC1=CC=C(C=C)C=C1C(CC(C=C)C)OCC(C=C)C
+
+**Monomer 2 (C=C):**  
+Structure: 1,2-bis(vinyl)cyclohexane  
+SMILES: C=C1CC(C=C)C(C=C)CC1
+
+These monomers are designed to provide robust crosslinking through vinyl functionalities, suitable for achieving the desired properties in TSMPs.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+60,C=CC1=CC=C(C=C)C=C1CC(C=C)C=C,C=CC1=CC=C(C=C)C=C1C(C=C)C(C=C),"Here is a suitable monomer pair for your TSMP formulation, with both monomers containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(3-vinylphenyl)butane  
+SMILES: C=CC1=CC=C(C=C)C=C1CC(C=C)C=C
+
+**Monomer 2 (C=C):**  
+Structure: 1,3-bis(4-vinylphenyl)propane  
+SMILES: C=CC1=CC=C(C=C)C=C1C(C=C)C(C=C)C
+
+These monomers are designed to facilitate crosslinking through their vinyl groups while providing the necessary structural characteristics for thermoset shape memory polymer applications.",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+61,C=C(C1=CC=C(C=C1)C)C(C1=CC=C(C=C1)C)C,C=C(C(C1=CC(C=C1)C(=O)C2CCCCC2)C)C(C(C1=CC(C=C1)C(=O)C2CCCCC2)C),"Here are two monomers suitable for a thermoset shape memory polymer (TSMP), both containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(vinylphenyl)pentane  
+SMILES: C=C(C1=CC=C(C=C1)C)C(C1=CC=C(C=C1)C)C
+
+**Monomer 2 (C=C):**  
+Structure: 1,6-bis(vinyl-2-oxocyclohexyl)hexane  
+SMILES: C=C(C(C1=CC(C=C1)C(=O)C2CCCCC2)C)C(C(C1=CC(C=C1)C(=O)C2CCCCC2)C)
+
+These monomers are designed to ensure controlled crosslinking and achieve the desired properties for TSMPs.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+62,C=CC1=CC=C(C=C)C=C1C(=O)OCC(C)C,C=CCCCC=C,"Here are the two monomers suitable for a thermoset shape memory polymer (TSMP), each containing vinyl (C=C) groups:
+
+**Monomer 1** (contains vinyl groups):
+- Structure: 4-Vinylphenyl methacrylate
+- SMILES: C=CC1=CC=C(C=C)C=C1C(=O)OCC(C)C
+
+**Monomer 2** (contains vinyl groups):
+- Structure: 1,6-Hexadiene
+- SMILES: C=CCCCC=C
+
+These monomers are designed to provide robust crosslinking and enhance the properties of the TSMP, with each featuring multiple vinyl groups for effective polymerization and network formation.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+63,C=CC(=O)C1CC(C=C)C(C1=O)C(=C)C,C=CC(C(C=C)O)O,"Here’s a suitable monomer pair for your TSMP formulation, with both monomers containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis(vinyl)cyclohexane-1,4-dicarboxylic acid  
+SMILES: C=CC(=O)C1CC(C=C)C(C1=O)C(=C)C
+
+**Monomer 2 (C=C):**  
+Structure: 1,2-bis(vinyl)ethane-1,2-diol  
+SMILES: C=CC(C(C=C)O)O
+
+These monomers are designed to provide robust crosslinking and desired thermal properties for thermoset shape memory polymers.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+64,C=C(C)C1COC1C(C=C)C(C)C=C,C=C(C)C1=CC=C(C=C)C=C(C)C2=CC=C(C=C)C=C2,"Here is a pair of monomers suitable for a thermoset shape memory polymer (TSMP), with each containing vinyl (C=C) functionalities:
+
+**Monomer 1 (C=C):**  
+Structure: 1,3-bis(3-methyl-3-vinyl-oxetane)  
+SMILES: C=C(C)C1COC1C(C=C)C(C)C=C  
+
+**Monomer 2 (C=C):**  
+Structure: 1,4-bis(3-vinylphenyl)butane  
+SMILES: C=C(C)C1=CC=C(C=C)C=C(C)C2=CC=C(C=C)C=C2
+
+These monomers are designed to optimize crosslinking density while ensuring they possess robust mechanical properties required for TSMP applications.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+65,C=CC1=CC=C(C=C)C=C1C(=O)C(C)C(C)C(=O)O,C=C1CCCCC1C=C,"Here is a pair of monomers for a thermoset shape memory polymer (TSMP) formulation, each containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(vinylphenyl)pentanoic acid  
+SMILES: C=CC1=CC=C(C=C)C=C1C(=O)C(C)C(C)C(=O)O
+
+**Monomer 2 (C=C):**  
+Structure: 1,2-bis(vinyl)cyclohexane  
+SMILES: C=C1CCCCC1C=C
+
+These monomers are designed to ensure robust crosslinking through their vinyl functionalities.",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+66,C=C(Cc1ccc(cc1)C=C)C(Cc2ccc(cc2)C=C)C,C=C(C(C)(C)O)C(=C)O,"Here is a pair of monomers suitable for a thermoset shape memory polymer (TSMP), where both contain vinyl (C=C) groups:
+
+**Monomer 1 (C=C)**:  
+Structure: 4,4'-Bis(vinylbenzyl)diphenylmethane  
+SMILES: C=C(Cc1ccc(cc1)C=C)C(Cc2ccc(cc2)C=C)C
+
+**Monomer 2 (C=C)**:  
+Structure: 2,2-bis(vinyl)propane-1,3-diol  
+SMILES: C=C(C(C)(C)O)C(=C)O
+
+These monomers are designed to offer robust crosslinking while maintaining the required functionalities for effective shape memory properties.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+67,C=CC1=CC=C(C=C)C=C(C=C)C1(C)C,C=CC1=CC(=C(C=C)C=C)C=C(C(=C)OC)C1OC,"Here is a pair of monomers designed for a TSMP formulation, both containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4,4-bis(2-vinylphenyl)pent-1-ene  
+SMILES: C=CC1=CC=C(C=C)C=C(C=C)C1(C)C
+
+**Monomer 2 (C=C):**  
+Structure: 1,3-bis(3-vinyl-4-methoxyphenyl)propane  
+SMILES: C=CC1=CC(=C(C=C)C=C)C=C(C(=C)OC)C1OC
+
+These monomers contain multiple vinyl groups for robust crosslinking and can lead to desirable thermal and mechanical properties in thermoset shape memory polymers.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+68,C=C(C)C(=C(C)C)c1ccc(cc1O)C(=CC=C(C)C)C(C)=C,C=CC1(CC=C(C)C)CC(C=C)C1,"Here is a suitable monomer pair for your TSMP formulation:
+
+**Monomer 1 (C=C):**  
+- Structure: 4,4-Bis(3-methyl-2-butenyl)phenol  
+- SMILES: C=C(C)C(=C(C)C)c1ccc(cc1O)C(=CC=C(C)C)C(C)=C
+
+**Monomer 2 (C=C):**  
+- Structure: 1,3-Bis(2-propenyl)cyclohexane  
+- SMILES: C=CC1(CC=C(C)C)CC(C=C)C1
+
+These monomers contain multiple vinyl groups, which will facilitate effective crosslinking in the resulting TSMP.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+69,CC(=C)C(=O)OCC1=CC=C(C=C)C=C1,C=CC1=CC(C=C)C=C(C1)O,"Here is a monomer pair that meets your criteria, ensuring both monomers contain vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinylphenyl methacrylate  
+SMILES: CC(=C)C(=O)OCC1=CC=C(C=C)C=C1  
+
+**Monomer 2 (C=C):**  
+Structure: 3,4-epoxy-1,2-butadiene  
+SMILES: C=CC1=CC(C=C)C=C(C1)O  
+
+These monomers are designed for controlled crosslinking in thermoset shape memory polymers (TSMPs).",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+70,C=C(C)C(=O)OCCCCCC(C=C)C(=O)O,C=C(CN)C(=O)OCC(C=C)C(=O)O,"Here is a suitable monomer pair for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (C=C):**  
+- Structure: Vinyl-based monomer with two vinyl groups for robust crosslinking.  
+- SMILES: `C=C(C)C(=O)OCCCCCC(C=C)C(=O)O`  
+
+**Monomer 2 (C=C):**  
+- Structure: Another vinyl-based monomer featuring two additional vinyl groups for enhanced crosslinking.  
+- SMILES: `C=C(CN)C(=O)OCC(C=C)C(=O)O`  
+
+This pair ensures that both monomers contain the required vinyl (C=C) functionality, promoting effective crosslinking for TSMP applications.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+71,C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=C(C=C4)C(=C(C5=CC=C(C=C5)C)C)C)C, C=CC(=O)OCC=C(C(=O)O)C,"Here is a suitable monomer pair for a thermoset shape memory polymer (TSMP) formulation, both containing vinyl groups:
+
+**Monomer 1 (C=C)**:  
+Structure: Bis(4-vinylphenyl)methane  
+SMILES: C=C(C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=C(C=C4)C(=C(C5=CC=C(C=C5)C)C)C)C
+
+**Monomer 2 (C=C)**:  
+Structure: 1,4-hexadiene-1,4-dicarboxylic acid  
+SMILES: C=CC(=O)OCC=C(C(=O)O)C
+
+These monomers are designed to have multiple vinyl groups for robust crosslinking suitable for TSMP applications. The positioning of the vinyl groups allows for optimal crosslinking density.",vinyl(C=C),vinyl(C=C),1,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+72,C=CC1=C(C=C(C)C(=C1)OC)OC(C)C=C,C=CC1=C(C(C)C)C(=C(C)C)C(C)=C1,"Here are two monomers, both containing vinyl (C=C) groups:
+
+**Monomer 1:**  
+Structure: 1,4-bis(vinyl)-2,5-dimethoxybenzene  
+SMILES: C=CC1=C(C=C(C)C(=C1)OC)OC(C)C=C  
+
+**Monomer 2:**  
+Structure: 1,3-bis(vinyl)-2-ethyl-4-methylbenzene  
+SMILES: C=CC1=C(C(C)C)C(=C(C)C)C(C)=C1 
+
+These monomers are designed with adequate vinyl groups to ensure robust crosslinking in the TSMP formulation.",vinyl(C=C),vinyl(C=C),1,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+73,CC(=C)C(=C)C(=O)OCC(C)CC(=C)C(=C)C(=O)OC,NC(C(=C)C(=C)C(=O)OCC(C)C(=C)C(=C)C),"Here is a pair of novel monomers for a thermoset shape memory polymer (TSMP), both containing vinyl (C=C) groups:
+
+**Monomer 1:**
+- Structure: A vinyl compound with two vinyl groups and a functional ester for enhanced crosslinking.
+- SMILES: CC(=C)C(=C)C(=O)OCC(C)CC(=C)C(=C)C(=O)OC
+
+**Monomer 2:**
+- Structure: A vinyl compound with two vinyl groups and amine functionality for controlled crosslinking.
+- SMILES: NC(C(=C)C(=C)C(=O)OCC(C)C(=C)C(=C)C) = C
+
+These monomers are designed for effective crosslinking and to reach appropriate Tg and Er values in the final polymer network.",vinyl(C=C),vinyl(C=C),1,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+74,C=C(C2=C(C=C(C=C2)C=C)SCCCSCCS)C(=C)CC=C,C=C(C2=C(C=C(C=C2)C(=C)OCC(C)C)CC)C(=C)CC=C,"Here is a pair of novel monomers for a TSMP formulation, each containing vinyl (C=C) groups:
+
+**Monomer 1 (C=C):**  
+Structure: 1,4-bis[2-(1,2-ethanedithiol) vinyl]benzene  
+SMILES: C=C(C2=C(C=C(C=C2)C=C)SCCCSCCS)C(=C)CC=C
+
+**Monomer 2 (C=C):**  
+Structure: 1,4-bis[2-(3-methacryloxypropyl)vinyl]benzene  
+SMILES: C=C(C2=C(C=C(C=C2)C(=C)OCC(C)C)CC)C(=C)CC=C
+
+Both monomers contain multiple vinyl groups, promoting robust crosslinking for thermoset shape memory polymers.",vinyl(C=C),vinyl(C=C),1,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+75,C=CC1=C(C=C)C=CC(C1=C)C=C,C=CC(=C)C(=C)C=C,"Here is a suitable pair of monomers for a TSMP formulation, both containing vinyl (C=C) functionalities:
+
+**Monomer 1 (contains C=C):**  
+- Structure: 3,4-bis(vinyl)cyclohexene  
+- SMILES: C=CC1=C(C=C)C=CC(C1=C)C=C
+
+**Monomer 2 (contains C=C):**  
+- Structure: 1,2-bis(vinyl)ethylene  
+- SMILES: C=CC(=C)C(=C)C=C
+
+This pair ensures robustness in crosslinking due to their vinyl groups while providing potential for desirable thermal and mechanical properties in TSMP formulations.",vinyl(C=C),vinyl(C=C),1,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+76,C=C(C(=O)OCC1CCOCC1)C(=O)C,C=C(C1CCCCC1)C=C,"Here is a novel monomer pair suitable for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Acrylate):**  
+Structure: 3,4-Dihydro-2H-pyran-2-acrylate  
+SMILES: C=C(C(=O)OCC1CCOCC1)C(=O)C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,3-Bis(vinyl)cyclohexane  
+SMILES: C=C(C1CCCCC1)C=C
+
+These monomers contain the required functionalities and are designed for optimal crosslinking density in TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+77,C=CC1=CCCCC1C=CC,C(C(=O)OCC=C)(C(=O)OCC=C)C(C(=O)OCC=C)C(=O),"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C(C(=O)OCC=C)(C(=O)OCC=C)C(C(=O)OCC=C)C(=O)OCC=C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,4-bis(vinyl)cyclohexane  
+SMILES: C=CC1=CCCCC1C=CC
+
+These monomers are designed to provide robust crosslinking through the acrylate and vinyl functionalities, ensuring the desired properties for TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+78,C(C(=O)OCC=C)C(=O)OCC=C,C=C(C(C=C)C(=O)O)C(=O)O,"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C(C(=O)OCC=C)C(=O)OCC=C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,3-butadiene-1,3-diol diacrylate  
+SMILES: C=C(C(C=C)C(=O)O)C(=O)O
+
+These monomers are designed to provide robust crosslinking through their respective functional groups, ensuring the desired properties for TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+79,C=CC1=CC=C(C=C)C=C1\,C(C(=O)OCC=C)C(=O)OCC=C,"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C(C(=O)OCC=C)C(=O)OCC=C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C1
+
+These monomers are designed to provide robust crosslinking through their respective functional groups, suitable for achieving the desired thermal and mechanical properties in TSMPs.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+80,C(C(=O)OCC=C)C(=O)OCC=C,C=CC1=CC=C(C=C)C=C1,"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C(C(=O)OCC=C)C(=O)OCC=C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C1
+
+These monomers are designed to provide robust crosslinking through their respective functional groups, ensuring optimal performance for TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+81,C(C(=O)OCC=C(C(=O)O)C)C(=O)OCC=C(C(=O)O)C,C=CC(C(C=C)O)C(C=C)O,"Here is a novel monomer pair suitable for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C(C(=O)OCC=C(C(=O)O)C)C(=O)OCC=C(C(=O)O)C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,3-butadiene-1,4-diol  
+SMILES: C=CC(C(C=C)O)C(C=C)O
+
+These monomers are designed to provide robust crosslinking capabilities while achieving the desired thermal and mechanical properties for TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+82,C(C(=O)OCC=C)C(=O)OCC=C,C=CC1=CC=C(C=C)C=C1,"Here is a suitable monomer pair for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C(C(=O)OCC=C)C(=O)OCC=C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: C=CC1=CC=C(C=C)C=C1
+
+This pair contains the required functional groups, with Monomer 1 featuring two acrylate groups and Monomer 2 featuring two vinyl groups, both designed for optimal crosslinking in TSMPs.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+83,C=CC(=O)OCC(C(=O)OCC)C(=O),C=CC1=CCCCC1=C(C=C)C=C,"Here is a novel monomer pair suitable for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 3,3-Bis(acryloyloxy)propane-1,2-diol  
+SMILES: C=CC(=O)OCC(C(=O)OCC)C(=O)OCC=C  
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,4-Bis(vinyl)cyclohexane  
+SMILES: C=CC1=CCCCC1=C(C=C)C=C  
+
+These monomers are designed to provide robust crosslinking and suitable properties for TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+84,C=C(C(=O)OCC(C)(C)OCC(C)(C)O)C(=O)O,C=C(C)C(C)(C),"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 2,2-bis(acryloyloxymethyl)propane  
+SMILES: C=C(C(=O)OCC(C)(C)OCC(C)(C)O)C(=O)O
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,3-divinyl-2,2-dimethylcyclobutane  
+SMILES: C=C(C)C(C)(C)C=C
+
+These monomers are designed to provide robust crosslinking and achieve the desired properties in the final TSMP formulation.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+85,C(C(=O)OCC=C(C(=O)O)C(=O)O)C(=O)OCC=C(C(=O)O)C(=O)O\,C=C(C1CCCCC1)C=C(C1CCCCC1),"Here is a suitable pair of monomers for your TSMP formulation:
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C(C(=O)OCC=C(C(=O)O)C(=O)O)C(=O)OCC=C(C(=O)O)C(=O)O
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,4-bis(vinyl)cyclohexane  
+SMILES: C=C(C1CCCCC1)C=C(C1CCCCC1)
+
+These monomers are designed to provide robust crosslinking and achieve the desired thermal and mechanical properties in the final TSMP.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+86,C=CC(=O)OCC(C(=O)OCC=C)C(=C)C,C=CC1=CC=C(C=C1)C=CC=C,"Here is a novel monomer pair for your thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-bis(acryloyloxy)propane  
+SMILES: C=CC(=O)OCC(C(=O)OCC=C)C(=C)C
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,4-divinylbenzene  
+SMILES: C=CC1=CC=C(C=C1)C=CC=C
+
+These monomers are designed to achieve robust crosslinking with the specified functionalities, ensuring a suitable molecular weight and structure for desired Tg and Er values in TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+87,C=CC(=O)OCC(C(C(=O)OCC=C)C(C(=O)OCC=C)C)CC(=O)OCC=C, C=CC1CCCC(C=C)C1=C,"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 2,2-Bis(acryloyloxy)propane  
+SMILES: C=CC(=O)OCC(C(C(=O)OCC=C)C(C(=O)OCC=C)C)CC(=O)OCC=C  
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,4-Bis(vinyl)cyclohexane  
+SMILES: C=CC1CCCC(C=C)C1=C  
+
+These monomers feature the required functional groups for robust crosslinking and are designed to achieve target Tg and Er values.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+88,C=C(C(C)C)C=C(C(C)C),C=C(C(=O)OCC(C)C)C(=O)OCC(C)C,"Here is a novel monomer pair designed for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: A diacrylate with two acrylate groups for enhanced crosslinking.  
+SMILES: `C=C(C(=O)OCC(C)C)C(=O)OCC(C)C`  
+Description: This monomer contains two acrylate groups (C=C(C=O)) at the ends, which allows for robust crosslinking and contributes to the desired thermal and mechanical properties.
+
+**Monomer 2 (Vinyl):**  
+Structure: A divinyl compound with two vinyl groups for effective crosslinking.  
+SMILES: `C=C(C(C)C)C=C(C(C)C)`  
+Description: This monomer includes two vinyl groups (C=C) positioned to promote significant crosslinking density when polymerized with Monomer 1.
+
+These monomers are designed to achieve the desired Tg and Er values for TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+89,C=C(C(=O)O)C(OC1CC(O1)C(C)C)C(C)=O ,C=CC1CCC(C=C)C1,"Here are two novel monomers designed for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 3,4-epoxy-2-methyl-5-(acryloyloxy)pentanoic acid  
+SMILES: C=C(C(=O)O)C(OC1CC(O1)C(C)C)C(C)=O  
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,2-bis(vinyl)cyclohexane  
+SMILES: C=CC1CCC(C=C)C1  
+
+These monomers are designed to provide robust crosslinking capabilities while meeting the specified criteria for acrylate and vinyl functionalities.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+90,CC(=O)C(C=C)OC(COCCO)C(=O)C(C=C)OCCO,C=CC1CC(C=C)CC1C=C,"Here is a novel monomer pair suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+- Structure: 2,5-bis(2-acryloxyethoxy)ethyl acrylate  
+- SMILES: CC(=O)C(C=C)OC(COCCO)C(=O)C(C=C)OCCO
+
+**Monomer 2 (Vinyl):**  
+- Structure: 1,4-bis(vinyl)cyclohexane  
+- SMILES: C=CC1CC(C=C)CC1C=C
+
+These monomers are designed to ensure multiple acrylate and vinyl groups are present for effective crosslinking while maintaining appropriate molecular weights for desired thermal and mechanical properties.",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+91,C=C(C=O)C(COCC(=O)O)C(COCC(=O)O)C(=O)O,C=C(C)C1CCCCC1C=C(C),"Here is a designed monomer pair suitable for thermoset shape memory polymers (TSMPs):
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 2,2-bis(2-acryloyloxyethoxy)propane  
+SMILES: C=C(C=O)C(COCC(=O)O)C(COCC(=O)O)C(=O)O
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,4-bis(vinyl)cyclohexane  
+SMILES: C=C(C)C1CCCCC1C=C(C)
+
+Both monomers are designed to promote effective crosslinking and achieve desired properties in TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+92,C=C(C(=O)OCCCCC)C(=C(C=O)OCCCCC)C(=C(C=O)OCCCCC),C=C(C(CC)C)C=C(C(CC)C,"Here are the proposed monomers meeting your specifications:
+
+**Monomer 1 (Acrylate, C=C(C=O)):**  
+Structure: A triacrylate with a long carbon chain to enhance crosslinking and mechanical properties.  
+SMILES: `C=C(C(=O)OCCCCC)C(=C(C=O)OCCCCC)C(=C(C=O)OCCCCC)`
+
+**Monomer 2 (Vinyl, C=C):**  
+Structure: A di-vinyl compound with a flexible linker to allow for good crosslink density and shape memory properties.  
+SMILES: `C=C(C(CC)C)C=C(C(CC)C)`
+
+These monomers are designed to provide robust crosslinking and desirable properties in thermoset shape memory polymers (TSMPs).",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+93,CC(=C(C(=O)O)C(C)C)C(=C(C(=O)O)C(C)C)C ,CC(=C)C1=CC=C(C=C1)NCCN,"Here are the monomers designed for your thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: 3,4-Dihydroxy-2,5-dimethylhex-3-enoic acid diacrylate  
+SMILES: CC(=C(C(=O)O)C(C)C)C(=C(C(=O)O)C(C)C)C  
+(This monomer contains two acrylate groups, strategically positioned for crosslinking.)
+
+**Monomer 2 (Vinyl):**  
+Structure: 1,2-ethylenediamino-4-vinylbenzene  
+SMILES: CC(=C)C1=CC=C(C=C1)NCCN  
+(This monomer contains two vinyl groups for effective crosslinking.)
+
+These monomers are designed to have appropriate molecular weights and functionalities to achieve target thermal and mechanical properties for TSMPs.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+94,C=C(C=O)C(COC(=O)C=C(C=O)C)C=C(C=O),C=C(CO)C(C=C(CO)C)C=C(CO),"Here is a pair of novel monomers for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate):**  
+Structure: Diacrylate with flexible spacer  
+SMILES: `C=C(C=O)C(COC(=O)C=C(C=O)C)C=C(C=O)`
+
+**Monomer 2 (Vinyl):**  
+Structure: Dihydroxylated diallyl compound  
+SMILES: `C=C(CO)C(C=C(CO)C)C=C(CO)`
+
+These monomers are designed for optimal crosslinking density while meeting the requirements for shape memory properties in the final polymer.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+95,C=CC(=O)N(C1=CC=CC=C1)C(=O)N(C=CC(=O)C)C1=CC=CC=C1,CC(C=C)CC(C=C)C,"Here’s a novel pair of monomers suitable for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+4,4'-Bis(acryloylamino)diphenylmethane  
+**Structure:**  
+The structure contains two acrylate groups attached to a central diphenylmethane unit, providing high crosslinking potential.  
+**SMILES:**  
+C=CC(=O)N(C1=CC=CC=C1)C(=O)N(C=CC(=O)C)C1=CC=CC=C1
+
+**Monomer 2 (Vinyl - C=C):**  
+1,4-Butanediol divinyl ether  
+**Structure:**  
+This monomer contains two vinyl groups on each end of a butane chain, allowing for effective crosslinking.  
+**SMILES:**  
+CC(C=C)CC(C=C)C
+
+These monomers are designed to achieve optimal crosslinking density and desired thermal and mechanical properties in the resulting TSMP.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+96,C=C(C(=O)OCCOCCO)C(=O)OCCOCCO,C=C(C1CCCCC1)C=C,"Here’s a novel pair of monomers for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate)**:  
+- Structure: 2,2-Bis(acryloyloxy)ethyl(trimethylene glycol)  
+- SMILES: C=C(C(=O)OCCOCCO)C(=O)OCCOCCO
+
+**Monomer 2 (Vinyl)**:  
+- Structure: 1,4-Bis(vinyl)cyclohexane  
+- SMILES: C=C(C1CCCCC1)C=C
+
+These monomers have been designed to provide robust crosslinking and meet your specified functional group requirements.",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+97,C=C(C(=O)O)C1=C(C(C1)C(C)(C)O)C(=CC)C(=C)C(=O)C,C=CC(C)C(=C)C1=CC=CC=C1C=C(C)CC2=CC=CC=C2,"Here is a novel monomer pair suitable for TSMPs:
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 3,4-Dihydroxy-5-acryloyl-5-methylcyclohex-1-ene  
+SMILES: C=C(C(=O)O)C1=C(C(C1)C(C)(C)O)C(=CC)C(=C)C(=O)C  
+*This monomer contains two acrylate functionalities strategically placed for enhanced crosslinking.*
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,4-bis(2-vinylphenyl)butane  
+SMILES: C=CC(C)C(=C)C1=CC=CC=C1C=C(C)CC2=CC=CC=C2  
+*This monomer contains two vinyl functionalities positioned for optimal crosslinking density.*
+
+These monomers can be effectively used to create thermoset shape memory polymers with desirable properties.",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+98,C=C(C=O)C(C=C(C=O))(C(=O)OCC)C=C(C=O),C=CC(=C)C=C(C=CC)C=C,"Here are the proposed monomers for your TSMP formulation:
+
+**Monomer 1 (Acrylate)**:  
+Structure: Diacrylate monomer with two acrylate groups, offering potential for high crosslinking density.  
+SMILES: `C=C(C=O)C(C=C(C=O))(C(=O)OCC)C=C(C=O)`
+
+**Monomer 2 (Vinyl)**:  
+Structure: Divinyl monomer with two vinyl groups for robust crosslinking.  
+SMILES: `C=CC(=C)C=C(C=CC)C=C`
+
+These monomers are designed to provide effective crosslinking upon polymerization, enhancing the shape memory properties of thermoset materials.",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+99,C=CC(=O)C(C(CCCC)O)C(=C)C(=O)C=CC(=O),C=CC(C)C=C(C)C=CC,"Here are two novel monomers suitable for a thermoset shape memory polymer (TSMP) formulation:
+
+**Monomer 1 (Acrylate - C=C(C=O)):**  
+Structure: 3-(Acryloyl)-1,5-pentandiol  
+SMILES: `C=CC(=O)C(C(CCCC)O)C(=C)C(=O)C=CC(=O)`
+
+**Monomer 2 (Vinyl - C=C):**  
+Structure: 1,4-bis(vinyl)benzene  
+SMILES: `C=CC(C)C=C(C)C=CC`
+
+These monomers feature multiple instances of the respective functional groups, allowing for effective crosslinking in the TSMP network.",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+100,C(=C(C=O)OC(COCC(=O)O)C(=C(C=O))C)C(COCC(=O)O)C,C=CC(S(=O)(=O)C)C=,"Here is a suitable pair of monomers for a thermoset shape memory polymer (TSMP):
+
+**Monomer 1 (Acrylate - C=C(C=O)):**
+- Structure: **Bis(2-acryloyloxyethyl) 1,2-ethanedicarboxylate**
+- SMILES: `C(=C(C=O)OC(COCC(=O)O)C(=C(C=O))C)C(COCC(=O)O)C`
+
+**Monomer 2 (Vinyl - C=C):**
+- Structure: **1,1-Bis(vinylsulfonyl)methane**
+- SMILES: `C=CC(S(=O)(=O)C)C=S`
+
+These monomers contain appropriate functional groups with strategic positioning to allow for robust crosslinking, providing the necessary properties for TSMP applications.",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,"Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2."
+101,C=C(C)C1=CC(=C(C=C1)C(C)C)O,C(C(C)(C(C(CO)O)O)O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (Vinyl C=C):**  
+Structure: 4-vinyl-2,6-dimethylphenol  
+SMILES: C=C(C)C1=CC(=C(C=C1)C(C)C)O
+
+**Monomer 2 (Hydroxyl =O):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C)(C(C(CO)O)O)O)O
+
+These monomers are designed to provide robust crosslinking through the vinyl groups in Monomer 1 and the hydroxyl groups in Monomer 2, ensuring a suitable Tg and Er for thermoset shape memory polymer applications.",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+102,C=C(C)C1=CC(=C(C=C1)C(C)C)O,C(C(C(C(C(C(CO)O)O)O)O)O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinyl-2,6-dimethylphenol  
+SMILES: C=C(C)C1=CC(=C(C=C1)C(C)C)O
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C(C(C(C(CO)O)O)O)O)O)O
+
+This combination provides multiple hydroxyl groups for robust crosslinking while maintaining the vinyl functionality for polymerization.",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+103,CC1=C(C=C(C=C1)C(C)C)O,C(C(C(C(C(CO)O)O)O)O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinyl-2,6-dimethylphenol  
+SMILES: CC1=C(C=C(C=C1)C(C)C)O
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C(C(C(CO)O)O)O)O)O
+
+These monomers provide the necessary functional groups for robust crosslinking while maintaining appropriate molecular weights and structures to achieve desired thermal and mechanical properties in the TSMP system.",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+104,C=C(C1=CC=C(C=C1)O)C(C)(C)O,C(C(C(C(C(C(=O)O)O)O)O)O)O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinylphenol with additional hydroxyl groups for enhanced crosslinking.  
+SMILES: C=C(C1=CC=C(C=C1)O)C(C)(C)O
+
+**Monomer 2 (OH):**  
+Structure: A diol with hydroxyl groups positioned for optimal crosslinking.  
+SMILES: C(C(C(C(C(C(=O)O)O)O)O)O)O)O
+
+This combination provides the necessary functionalities for robust crosslinking and shape memory properties.",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+105,C=CC1=CC=C(C=C1)C(=C(C)C)OCCO,C(C(C(C(CO)O)O)O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinyl-2-methoxyphenol  
+SMILES: C=CC1=CC=C(C=C1)C(=C(C)C)OCCO
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C(C(CO)O)O)O)O
+
+These monomers are designed to provide robust crosslinking while ensuring the desired properties for thermoset shape memory polymers.",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+106,C=C(C)C1=CC(=C(C=C1)C(C)C)O,C(C(C(C(C(CO)O)O)O)O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinyl-2,6-dimethylphenol  
+SMILES: C=C(C)C1=CC(=C(C=C1)C(C)C)O
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C(C(C(CO)O)O)O)O)O
+
+This combination provides the vinyl functionality for crosslinking in Monomer 1 and multiple hydroxyl groups in Monomer 2 for robust network formation.",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+107,C=C(C1=CC=C(C=C1)C(C(C)C)C(C)C)C(COCC)C(C)C,C(C(C1=CC=C(C=C1)O)C(C1=CC=C(C=C1),"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinylphenol-2,6-dimethyl-4-(2-hydroxyethyl)phenol  
+SMILES: C=C(C1=CC=C(C=C1)C(C(C)C)C(C)C)C(COCC)C(C)C
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(4-hydroxyphenyl)propane  
+SMILES: C(C(C1=CC=C(C=C1)O)C(C1=CC=C(C=C1)O)C)O
+
+These monomers are designed to provide robust crosslinking and achieve the desired thermal properties in the TSMP system.",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+108,C(C(C(C(C(CO)O)O)O)O)O,C=C(C)C1=CC(=C(C=C1C)C)C(C)(C),"Here is a suitable monomer pair for a TSMP system featuring the specified functional groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinyl-2,6-dimethylphenol  
+SMILES: C=C(C)C1=CC(=C(C=C1C)C)C(C)(C)O
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C(C(C(CO)O)O)O)O)O
+
+This combination provides a robust crosslinking network with the necessary functional groups for the desired thermoset shape memory polymer properties.",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+109,C=C1C(=O)OC(=O)C1OCCOCCOCCOCC,OCC(C(CO)C)OCC(C(CO)C)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinyl-1,3-dioxane-2,5-dione  
+SMILES: C=C1C(=O)OC(=O)C1OCCOCCOCCOCCO
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: OCC(C(CO)C)OCC(C(CO)C)O
+
+These monomers are designed to provide robust crosslinking with the desired functionalities.",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+110,C=C(C1=CC=C(C=C1)O)C,C(C(C(C(C(CO)O)O)O)O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinylphenol  
+SMILES: C=C(C1=CC=C(C=C1)O)C
+
+**Monomer 2 (OH):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C(C(C(CO)O)O)O)O)O
+
+These monomers are designed to provide robust crosslinking through the vinyl groups in Monomer 1 and the hydroxyl groups in Monomer 2.",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+111,C=C(C)C1=CC(=C(C=C1)C(C)C)O,O=C(C(C1CCCCC1)C(C)O)C(C)O,"Here is a proposed monomer pair for a thermoset shape memory polymer (TSMP) system:
+
+**Monomer 1 (C=C):**  
+- Structure: 4-vinyl-2,6-dimethylphenol  
+- SMILES: C=C(C)C1=CC(=C(C=C1)C(C)C)O
+
+**Monomer 2 (=O):**  
+- Structure: 1,2-bis(hydroxymethyl)cyclohexanone  
+- SMILES: O=C(C(C1CCCCC1)C(C)O)C(C)O
+
+This combination allows for effective crosslinking while providing the necessary functional groups for the desired properties in the TSMP.",vinyl(C=C),hydroxyl(=O),0.7,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+112,C=C(C)C1=CC=C(C=C)C=C1C(C)C,C(C(C)C(O)C(O)C)O,"Here’s a monomer pair for a thermoset shape memory polymer system featuring the specified functional groups:
+
+**Monomer 1 (C=C):**  
+Structure: 4-vinylphenol with a branched aliphatic chain  
+SMILES: C=C(C)C1=CC=C(C=C)C=C1C(C)C
+
+**Monomer 2 (OH):**  
+Structure: 1,2-butanediol with a hydroxyl group in a controlled position  
+SMILES: C(C(C)C(O)C(O)C)O
+
+This combination allows for robust crosslinking through the vinyl groups in Monomer 1 and the hydroxyl groups in Monomer 2, facilitating the desired thermoset properties.",vinyl(C=C),hydroxyl(=O),0.7,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+113,C(C(C(C(C(CO)O)O)O)O,C=C(C1=C(C=C(C1)C=C)C=C)C=C,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: 3,3-bis(vinyl)cyclobutane  
+SMILES: C=C(C1=C(C=C(C1)C=C)C=C)C=C
+
+**Monomer 2 (Hydroxyl):**  
+Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+SMILES: C(C(C(C(C(CO)O)O)O)O)O
+
+These monomers are designed to ensure robust crosslinking through the vinyl groups in Monomer 1 and the hydroxyl groups in Monomer 2, achieving desirable mechanical properties in the TSMP formulation.",vinyl(C=C),hydroxyl(=O),0.7,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+114,C=C(C)C(C(C)C(=O)O)C(C)C(=O)O,C(C(C(=O)O)C(=O)O)C(C(=O)O)C(=O)O,"Here’s a proposed monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: Vinyl-terminated diol with additional functionalities for crosslinking.  
+SMILES: C=C(C)C(C(C)C(=O)O)C(C)C(=O)O
+
+**Monomer 2 (=O):**  
+Structure: A triol with hydroxyl groups for robust crosslinking.  
+SMILES: C(C(C(=O)O)C(=O)O)C(C(=O)O)C(=O)O
+
+These monomers are designed to provide good crosslinking density and suitable properties for thermoset shape memory polymers.",vinyl(C=C),hydroxyl(=O),0.7,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+115,C=CC1=CC(=C(C=C1)C(C)C)O,C(C(C(C(C(CO)O)O)O)O)O,"Here is a suggested TSMP system with the specified functionalities:
+
+**Monomer 1 (C=C):**  
+- Structure: 4-vinyl-2,6-dimethylphenol  
+- SMILES: C=CC1=CC(=C(C=C1)C(C)C)O
+
+**Monomer 2 (OH):**  
+- Structure: 2,2-bis(hydroxymethyl)propane-1,3-diol  
+- SMILES: C(C(C(C(C(CO)O)O)O)O)O
+
+These monomers are designed to provide robust crosslinking capabilities while ensuring that the system can achieve the desired thermal and mechanical properties for a thermoset shape memory polymer (TSMP).",vinyl(C=C),hydroxyl(=O),0.7,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+116,C=C(C)C(=O)OCC(O)C(=C)C,C(CC(=O)O)(C(C)C)(C(=O)O)CC(=O)O,"Here’s a suitable monomer pair for a TSMP system with the specified functionalities:
+
+**Monomer 1 (C=C):**
+- Structure: Vinyl group is incorporated alongside ester functionalities for better crosslinking.
+- SMILES: C=C(C)C(=O)OCC(O)C(=C)C
+
+**Monomer 2 (Hydroxyl):**
+- Structure: Contains multiple hydroxyl groups positioned strategically to enhance crosslinking.
+- SMILES: C(CC(=O)O)(C(C)C)(C(=O)O)CC(=O)O
+
+This combination provides robust crosslinking capabilities and desired properties for thermoset shape memory polymers.",vinyl(C=C),hydroxyl(=O),0.9,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+117, C=CC1=CC=C(C=C1)C=C,C1=CC(C(C(C)O)C(C(C)O)C)C=C1,"Here is a suitable TSMP monomer pair featuring the specified functional groups:
+
+**Monomer 1 (C=C)**:  
+**Structure**: 1,4-bis(vinyl)benzene  
+**SMILES**: C=CC1=CC=C(C=C1)C=C  
+This monomer contains two vinyl groups strategically placed to enhance crosslinking density.
+
+**Monomer 2 (−OH)**:  
+**Structure**: 1,2-bis(3-hydroxypropyl)benzene  
+**SMILES**: C1=CC(C(C(C)O)C(C(C)O)C)C=C1  
+This monomer contains two hydroxyl groups, positioned for effective crosslinking with the vinyl groups from Monomer 1.
+
+This combination should provide good network formation and desired mechanical properties for the thermoset shape memory polymer.",vinyl(C=C),hydroxyl(=O),0.9,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+118,C=CC(C)C(C)(C)C(C)CC(C)CC(=C)C,C(C(=O)O)N1C(=S)N=C(N1)C,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+- Structure: 1,4-bis(3-hydroxypropyl)-2,5-dimethyl-1,3-butadiene  
+- SMILES: C=CC(C)C(C)(C)C(C)CC(C)CC(=C)C  
+- Description: This monomer contains two vinyl groups and multiple hydroxyl chains, providing reactive sites for crosslinking.
+
+**Monomer 2 (Hydroxyl, =O):**  
+- Structure: 2,5-bis(hydroxymethyl)-1,3,4-thiadiazole  
+- SMILES: C(C(=O)O)C(C(=O)O)N1C(=S)N=C(N1)C  
+- Description: This monomer features two hydroxyl groups strategically positioned to provide effective crosslinking density when reacted with Monomer 1.
+
+This combination optimizes the crosslinking density and can be tailored to achieve the desired Tg and Er values for your TSMP formulation.",vinyl(C=C),hydroxyl(=O),0.9,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+119,C=CC1=CC=CC=C1C(C(=O)O),C(C(C1=CC=C(C=C1)C(C2=CC=C(C=C2)O)O)O)O,"Here’s a proposed monomer pair for a TSMP system containing a vinyl group in Monomer 1 and a hydroxyl group in Monomer 2:
+
+**Monomer 1 (C=C)**:  
+Structure: 4-(3-vinylphenyl)butanoic acid  
+SMILES: C=CC1=CC=CC=C1C(C(=O)O)CC 
+
+**Monomer 2 (OH)**:  
+Structure: 2,2-bis(4-hydroxyphenyl)propane  
+SMILES: C(C(C1=CC=C(C=C1)C(C2=CC=C(C=C2)O)O)O)O 
+
+These monomers provide the necessary functionalities for effective crosslinking in your TSMP formulation.",vinyl(C=C),hydroxyl(=O),0.9,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+120,CC(=C)C(C=CC)C(=C)C(=C)C ,C(C(=O)O)C(C(=O)O)C(C(=O)O)C(C(=O)O),"Here is a suggested monomer pair for your TSMP system:
+
+**Monomer 1 (C=C)**:  
+Structure Description: This monomer contains two vinyl groups strategically located for crosslinking.  
+SMILES: CC(=C)C(C=CC)C(=C)C(=C)C  
+Molecular Weight: 168.24 g/mol  
+Functionality: Contains two vinyl groups.
+
+**Monomer 2 (OH)**:  
+Structure Description: This monomer features multiple hydroxyl groups positioned to provide robust crosslinking.  
+SMILES: C(C(=O)O)C(C(=O)O)C(C(=O)O)C(C(=O)O)  
+Molecular Weight: 174.16 g/mol  
+Functionality: Contains four hydroxyl groups.
+
+This combination provides a balance of reactivity and crosslinking potential suitable for thermoset shape memory polymers.",vinyl(C=C),hydroxyl(=O),0.9,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+121,C=CC(=O)OCC(CCCCCC)C(=O)OCC=CC,OCC(C1CCCCC1)OCC(O)CC(O)OCCOCCO ,"Here is a proposed monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+Structure: Vinyl-nonyl diacrylate with hydroxyl functionalization  
+SMILES: C=CC(=O)OCC(CCCCCC)C(=O)OCC=CC  
+
+**Monomer 2 (Hydroxyl):**  
+Structure: Polyethylene glycol diglycidyl ether with multiple hydroxyl groups  
+SMILES: OCC(C1CCCCC1)OCC(O)CC(O)OCCOCCO  
+
+These monomers are designed to ensure optimal crosslinking density and thus provide desired thermal and mechanical properties in the final TSMP material.",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+122,CC(=C)C(C(C(C(C(C(C(O)C)O)C)O)C)C)C),C(C(C(C(C(C(C(C(C(O)C)O)C)O)C)C)C)C)C)O,"Here is a suitable monomer pair for a TSMP system featuring the requested functional groups:
+
+**Monomer 1 (C=C)**:  
+**Structure**: Vinyl-terminated diol with additional functionalities for robust crosslinking.  
+**Name**: Vinyl-2,2-bis(hydroxymethyl)propane  
+**SMILES**: CC(=C)C(C(C(C(C(C(C(O)C)O)C)O)C)C)C)C 
+
+**Monomer 2 (OH)**:  
+**Structure**: A triol with strategically placed hydroxyl groups to enhance crosslink density.  
+**Name**: Trimethylolpropane  
+**SMILES**: C(C(C(C(C(C(C(C(C(O)C)O)C)O)C)C)C)C)C)O  
+
+These monomers will provide a significant crosslinking potential with enhanced thermoset properties for shape memory applications.",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+123,C=C(C1CCCCC1)(C=C) ,OC1=C(C(=C(C(C1=O)C(=O)O)O)O)C(=O)O,"Here’s a suggested monomer pair for a TSMP system:
+
+**Monomer 1 (C=C):**  
+Name: 1,2-bis(vinyl)cyclohexane  
+Structure:  
+- Contains two vinyl groups (C=C) strategically positioned for optimal crosslinking density.  
+
+**SMILES:**  
+C=C(C1CCCCC1)(C=C)  
+
+---
+
+**Monomer 2 (−OH):**  
+Name: 2,5-dihydroxy-1,4-benzenedicarboxylic acid  
+Structure:  
+- Contains two hydroxyl groups (−OH) which enhance crosslinking and provide excellent reactivity.  
+
+**SMILES:**  
+OC1=C(C(=C(C(C1=O)C(=O)O)O)O)C(=O)O  
+
+---
+
+This formulation features monomers that will create a robust crosslinked network suitable for thermoset shape memory polymer applications.",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+124,C=C(C1=CC(C=C1)(O)O)C(C)=O,C(C(=O)O)C(C(=O)O)C(C)(O)O,"Here is a suitable monomer pair for your TSMP system:
+
+**Monomer 1 (C=C):**  
+- Structure: 4-Vinyl-1,2-benzenediol  
+- SMILES: C=C(C1=CC(C=C1)(O)O)C(C)=O  
+
+**Monomer 2 (hydroxyl, =O):**  
+- Structure: Dihydroxybutanedioic acid  
+- SMILES: C(C(=O)O)C(C(=O)O)C(C)(O)O
+
+This combination provides a balance of C=C and hydroxyl functionalities, allowing for effective crosslinking in thermoset shape memory polymer applications.",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+125,C=C(COC(C)C(=O)O)CC(O)C,C(C(=O)O)C(C(=O)O)C(C(=O)O)CC(C)C,"Here is a TSMP monomer pair featuring the requested functional groups:
+
+**Monomer 1 (C=C):**  
+Structure:  
+Vinyl-(2-hydroxyethyl)acrylate  
+SMILES: `C=C(COC(C)C(=O)O)CC(O)C`
+
+**Monomer 2 (Hydroxyl):**  
+Structure:  
+1,3-butanediol diacrylate  
+SMILES: `C(C(=O)O)C(C(=O)O)C(C(=O)O)CC(C)C`  
+
+In this formulation, Monomer 1 features the vinyl group necessary for controlled crosslinking, while Monomer 2 contains multiple hydroxyl groups to promote robust crosslinking density. Each monomer is designed to balance the molecular weights and achieve desired thermal and mechanical properties in TSMPs.",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
