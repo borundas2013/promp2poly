@@ -1,0 +1,1252 @@
+[
+  {
+    "timestamp": "20250825_112305",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112305",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112305",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112305",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112305",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOC(=O)C(C)=O"
+  },
+  {
+    "timestamp": "20250825_112311",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112311",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112311",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_112311",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112311",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112318",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112318",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112318",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4\nMonomer 2: CC(CN)CCCN"
+  },
+  {
+    "timestamp": "20250825_112318",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112318",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112325",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112325",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4\nMonomer 2: Nc2ccc(SSc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112325",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112325",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112325",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CC(=O)OCCCC"
+  },
+  {
+    "timestamp": "20250825_112332",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112332",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112332",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112332",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112332",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112339",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112339",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112339",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112339",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112339",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112344",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112344",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112344",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112344",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6\nMonomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112344",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112353",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_112353",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112353",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112353",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112353",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112402",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112402",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3OCC4CO4\nMonomer 2: CCCCCCCCCN"
+  },
+  {
+    "timestamp": "20250825_112402",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112402",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112402",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112409",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112409",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112409",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112409",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2: Nc2ccc(SSc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112409",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_112416",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_112416",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6\nMonomer 2: CCCCCCCCCCCCCCCN"
+  },
+  {
+    "timestamp": "20250825_112416",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112416",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:\nMonomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112416",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112425",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112425",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112425",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4\nMonomer 2: NCCNCCN"
+  },
+  {
+    "timestamp": "20250825_112425",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3"
+  },
+  {
+    "timestamp": "20250825_112425",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4\nMonomer 2: NCCNCCN"
+  },
+  {
+    "timestamp": "20250825_112431",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112431",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3OCC4CO4\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112431",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112431",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112431",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4\nMonomer 2: Nc2ccc(SSc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112437",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_112437",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOC(=O)C(C)=O"
+  },
+  {
+    "timestamp": "20250825_112437",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1\nMonomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_112437",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112437",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_112444",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_112444",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=CC(=O)OCCCC"
+  },
+  {
+    "timestamp": "20250825_112444",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: Nc1cccc(N)c1"
+  },
+  {
+    "timestamp": "20250825_112444",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112444",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_112453",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O"
+  },
+  {
+    "timestamp": "20250825_112453",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112453",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=CC(=O)OC(C)(C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112453",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CC(=O)OCCCC"
+  },
+  {
+    "timestamp": "20250825_112453",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "To achieve Tg of 100°C and Er of 40Mpa, consider this monomer combination:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_112459",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC)OC(=O)CCCCCCCC5OC5CC6OC6CC7OC7CC\nMonomer 2: CC1COCC1COC3COC4C(=O)NCCS(C(=O)OCC5CO5)C(=O)NCCS(C(=O)OCC6CO6)C1=O"
+  },
+  {
+    "timestamp": "20250825_112459",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC)OC(=O)CCCCCCCC5OC5CC6OC6CC7OC7CC\nMonomer 2: CC1(C)CC(N(CC2CO2)CC3CC(CC3CC2)N)CC1"
+  },
+  {
+    "timestamp": "20250825_112459",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: C1OC1COC3COC4C(OC2CO2)COC34\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112459",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C"
+  },
+  {
+    "timestamp": "20250825_112459",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112508",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112508",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6\nMonomer 2: Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112508",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:\nMonomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6\nMonomer 2: CC(CN)CCCN"
+  },
+  {
+    "timestamp": "20250825_112508",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4\nMonomer 2: CCc1cc(C)c(N)c(CC)c1N"
+  },
+  {
+    "timestamp": "20250825_112508",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112513",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112513",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100MPa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_112513",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2: Nc2ccc(SSc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112513",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_112513",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "To achieve Tg of 100°C and Er of 100Mpa, consider this monomer combination:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112522",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: C=C(C)C(=O)OCCCC\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112522",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112522",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_112522",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112522",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112528",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6\nMonomer 2: Nc1cccc(N)c1"
+  },
+  {
+    "timestamp": "20250825_112528",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: CCCCCCCCCN"
+  },
+  {
+    "timestamp": "20250825_112528",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:\nMonomer 1: CC(C/C=C\\CC(=O)OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)C(=O)OCC(O)COc6ccc(C(C)(C)c5ccc(OCC4CO4)cc5)cc6\nMonomer 2: Nc2ccc(SSc1ccc(N)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_112528",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Based on your requirements, I suggest the following monomers:\nMonomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112528",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112533",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4\nMonomer 2: Nc1cccc(N)c1"
+  },
+  {
+    "timestamp": "20250825_112533",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: Nc2ccc(Oc1ccc(N)cc1)cc2\nMonomer 2: CC(C)(C)C CS"
+  },
+  {
+    "timestamp": "20250825_112533",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112533",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30 MPa:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112533",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CC(=O)OCCCC"
+  },
+  {
+    "timestamp": "20250825_112538",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4\nMonomer 2: Nc1cccc(N)c1"
+  },
+  {
+    "timestamp": "20250825_112538",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=C(C)C(=O)OC\nMonomer 2: CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O"
+  },
+  {
+    "timestamp": "20250825_112538",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4\nMonomer 2: Nc1cccc(N)c1"
+  },
+  {
+    "timestamp": "20250825_112538",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "To achieve Tg of 200°C and Er of 27Mpa, consider this monomer combination:\nMonomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_112538",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4\nMonomer 2: CCc1cc(C)c(N)c(CC)c1N"
+  },
+  {
+    "timestamp": "20250825_112545",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100MPa:\nMonomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2: CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112545",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112545",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_112545",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOC(=O)C(C)=O"
+  },
+  {
+    "timestamp": "20250825_112545",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O\nMonomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_112554",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2: CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112554",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "To achieve Tg of 50°C and Er of 20Mpa, consider this monomer combination:\nMonomer 1: C=C(C)C(=O)OC\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_112554",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Sure! Here's a TSMP that matches your request:\nMonomer 1: C=CCOC(CC)(CO)CO\nMonomer 2: C=C(C)C(=O)OCCCC"
+  },
+  {
+    "timestamp": "20250825_112554",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: c3cc(N(CC1CC1)CC2CO2)ccc3OCC4CO4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112554",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:\nMonomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  }
+]

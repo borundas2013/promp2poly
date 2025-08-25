@@ -8,7 +8,8 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
 
 from promp2poly.AfterFineTuning.Data_util.template import *
 import random
-
+API_KEY = ""
+MODEL_ID = "gpt-4o-mini-2024-07-18"
 
 client=OpenAI(api_key=API_KEY)
 

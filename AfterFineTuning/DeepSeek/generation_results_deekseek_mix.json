@@ -1,0 +1,1252 @@
+[
+  {
+    "timestamp": "20250825_112957",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (rich in C1OC1): CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4\nMonomer 2 (rich in NC): NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_112957",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112957",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_112957",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_112957",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113006",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113006",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing C=C/CCS groups:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113006",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113006",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing vinyl(C=C)/thiol(CCS):\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113006",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113018",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 200°C and Er = 27 MPa, incorporating vinyl(C=C) and vinyl(C=C) functionalities.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCO"
+  },
+  {
+    "timestamp": "20250825_113018",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 200°C and Er = 27 MPa, incorporating vinyl(C=C) and vinyl(C=C) functionalities.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113018",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 200°C and Er = 27 MPa, incorporating vinyl(C=C) and vinyl(C=C) functionalities.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in C=C): C=C(C)C(=C)OCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113018",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 200°C and Er = 27 MPa, incorporating vinyl(C=C) and vinyl(C=C) functionalities.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113018",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 200°C and Er = 27 MPa, incorporating vinyl(C=C) and vinyl(C=C) functionalities.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)"
+  },
+  {
+    "timestamp": "20250825_113026",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 100 MPa that includes acrylate(C=C(C=O)) and vinyl(C=C) groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113026",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 100 MPa that includes acrylate(C=C(C=O)) and vinyl(C=C) groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113026",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 100 MPa that includes acrylate(C=C(C=O)) and vinyl(C=C) groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113026",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 100 MPa that includes acrylate(C=C(C=O)) and vinyl(C=C) groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113026",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 100 MPa that includes acrylate(C=C(C=O)) and vinyl(C=C) groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_113034",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113034",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113034",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_113034",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113034",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_113043",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 40 MPa that includes epoxy(C1OC1) and imine(NC) groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC)OC(=O)CCCCCCCC5OC5CC6OC6CC7OC7CC\nMonomer 2: CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113043",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 40 MPa that includes epoxy(C1OC1) and imine(NC) groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_113043",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 40 MPa that includes epoxy(C1OC1) and imine(NC) groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: c3cc(N(CC1CC1)CC2CO2)ccc3OCC4CO4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113043",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 40 MPa that includes epoxy(C1OC1) and imine(NC) groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: NCCCOCCOCCCN"
+  },
+  {
+    "timestamp": "20250825_113043",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 100°C and Er ≈ 40 MPa that includes epoxy(C1OC1) and imine(NC) groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113053",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113053",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113053",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113053",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113053",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 150°C and Er ≈ 30 MPa that includes vinyl(C=C) and thiol(CCS) groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113105",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC"
+  },
+  {
+    "timestamp": "20250825_113105",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)"
+  },
+  {
+    "timestamp": "20250825_113105",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113105",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113105",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_113112",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2 (C=C groups): CC(C)(c1ccc(C)cc1)ccc2cc(C)c(cc2)c1"
+  },
+  {
+    "timestamp": "20250825_113112",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2 (C=C groups): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_113112",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2 (C=C groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113112",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4\nMonomer 2 (C=C groups): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113112",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C groups): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113122",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 50°C and Er ≈ 20 MPa that includes vinyl(C=C) and hydroxyl(=O) groups.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 50°C, Er ≈ 20Mpa, and containing C=C/CC(=O) groups:\nMonomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113122",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 50°C and Er ≈ 20 MPa that includes vinyl(C=C) and hydroxyl(=O) groups.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 50°C, Er ≈ 20Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113122",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 50°C and Er ≈ 20 MPa that includes vinyl(C=C) and hydroxyl(=O) groups.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 50°C, Er ≈ 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113122",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 50°C and Er ≈ 20 MPa that includes vinyl(C=C) and hydroxyl(=O) groups.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 50°C, Er ≈ 20Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113122",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 50°C and Er ≈ 20 MPa that includes vinyl(C=C) and hydroxyl(=O) groups.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 50°C, Er ≈ 20Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_113130",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (C1OC1 groups): CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4\nMonomer 2 (NC groups): CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113130",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (contains C1OC1): Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4\nMonomer 2 (contains NC): CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113130",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 40Mpa, with epoxy and imine groups:\nMonomer 1 (C1OC1): CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2 (NC): NCc1cccc(CN)c1"
+  },
+  {
+    "timestamp": "20250825_113130",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (contains C1OC1): C1OC1COC3COC4C(OC2CO2)COC34\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113130",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 40 MPa, and containing epoxy(C1OC1) in monomer1 and imine(NC) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and incorporating C1OC1/NC groups:\nMonomer 1 (C1OC1): CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2 (NC): CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113140",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and involving vinyl and thiol groups:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113140",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 150°C, Er ≈ 30Mpa, and containing C=C/CCS groups:\nMonomer 1 (C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113140",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 150°C, Er ≈ 30Mpa, and containing C=C/CCS groups:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113140",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here is a pair of monomers fulfilling the criteria of Tg ≈ 150°C, Er ≈ 30Mpa, and containing C=C/CCS groups:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113140",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 150°C, Er ≈ 30Mpa, and containing C=C/CCS groups:\nMonomer 1 (C=C): C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2 (CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113152",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a valid monomer pair designed with the required functionalities:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=C)COC(=O)NCC1(C)CC(NC(=O)OCC(C)(C)C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113152",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (C=C): c3cc(N(CC1CO1)CC2CO2)ccc3OCC4CO4\nMonomer 2 (C=C): CC(N)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113152",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a valid monomer pair designed with the required functionalities:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCC"
+  },
+  {
+    "timestamp": "20250825_113152",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113152",
+    "prompt_data": "Create a thermoset polymer with Tg = 200°C, Er = 27 MPa, and monomers featuring vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "I've selected monomers containing the specified reactive groups for your polymer system:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113200",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2 (C=C groups): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_113200",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): O=C(OCC1CO1)C3CC2OC2CC3C(=O)OCC4CO4\nMonomer 2 (C=C groups): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113200",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 100°C, Er ≈ 100Mpa, with C=C(C=O) and C=C groups:\nMonomer 1 (C=C(C=O) groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C groups): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3"
+  },
+  {
+    "timestamp": "20250825_113200",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a valid monomer pair designed with the required functionalities:\nMonomer 1 (C=C(C=O) groups): O=C(OCC1CO1)C3CC2OC2CC3C(=O)OCC4CO4\nMonomer 2 (C=C groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113200",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 100°C, Er near 100 MPa, and containing acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113207",
+    "prompt_data": "Generate a TSMP with Tg = 50°C and Er = 20 MPa, using functional groups vinyl(C=C) and hydroxyl(=O).",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113207",
+    "prompt_data": "Generate a TSMP with Tg = 50°C and Er = 20 MPa, using functional groups vinyl(C=C) and hydroxyl(=O).",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113207",
+    "prompt_data": "Generate a TSMP with Tg = 50°C and Er = 20 MPa, using functional groups vinyl(C=C) and hydroxyl(=O).",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_113207",
+    "prompt_data": "Generate a TSMP with Tg = 50°C and Er = 20 MPa, using functional groups vinyl(C=C) and hydroxyl(=O).",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (C=C groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 ( =O groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113207",
+    "prompt_data": "Generate a TSMP with Tg = 50°C and Er = 20 MPa, using functional groups vinyl(C=C) and hydroxyl(=O).",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in =O): C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_113212",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 40 MPa, using functional groups epoxy(C1OC1) and imine(NC).",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2: NCCOCCOCCN"
+  },
+  {
+    "timestamp": "20250825_113212",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 40 MPa, using functional groups epoxy(C1OC1) and imine(NC).",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113212",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 40 MPa, using functional groups epoxy(C1OC1) and imine(NC).",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here is a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC)OC(=O)CCCCCCCC5OC5CC6OC6CC7OC7CC\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_113212",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 40 MPa, using functional groups epoxy(C1OC1) and imine(NC).",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here is a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2: NCCCOCCOCCCN"
+  },
+  {
+    "timestamp": "20250825_113212",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 40 MPa, using functional groups epoxy(C1OC1) and imine(NC).",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: C1OC1COC3COC4C(OC2CO2)COC34\nMonomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_113222",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 150°C, Er ≈ 30Mpa, and containing C=C/CCS groups:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113222",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113222",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113222",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg ≈ 150°C, Er ≈ 30Mpa, and containing C=C/CCS groups:\nMonomer 1 (C=C): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1\nMonomer 2 (CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113222",
+    "prompt_data": "Propose two monomers that form a TSMP with Tg around 150°C, Er near 30 MPa, and containing vinyl(C=C) in monomer1 and thiol(CCS) in monomer2 groups.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (contains C=C): C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O\nMonomer 2 (contains CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113234",
+    "prompt_data": "Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_113234",
+    "prompt_data": "Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing vinyl groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C"
+  },
+  {
+    "timestamp": "20250825_113234",
+    "prompt_data": "Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113234",
+    "prompt_data": "Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a pair of monomers containing vinyl groups designed for Tg ≈ 200°C and Er ≈ 27Mpa:\nMonomer 1: C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113234",
+    "prompt_data": "Generate a TSMP with Tg = 200°C and Er = 27 MPa, using functional groups vinyl(C=C) and vinyl(C=C).",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3"
+  },
+  {
+    "timestamp": "20250825_113242",
+    "prompt_data": "Create a thermoset polymer with Tg = 100°C, Er = 100 MPa, and monomers featuring acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O) in Monomer 1, C=C in Monomer 2:\nMonomer 1 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113242",
+    "prompt_data": "Create a thermoset polymer with Tg = 100°C, Er = 100 MPa, and monomers featuring acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113242",
+    "prompt_data": "Create a thermoset polymer with Tg = 100°C, Er = 100 MPa, and monomers featuring acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O) in Monomer 1, C=C in Monomer 2:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCOC3CO3)cc4\nMonomer 2: O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_113242",
+    "prompt_data": "Create a thermoset polymer with Tg = 100°C, Er = 100 MPa, and monomers featuring acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (C=C(C=O) groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C groups): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_113242",
+    "prompt_data": "Create a thermoset polymer with Tg = 100°C, Er = 100 MPa, and monomers featuring acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2 groups.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O) in Monomer 1, C=C in Monomer 2:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113248",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (O=C): CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O"
+  },
+  {
+    "timestamp": "20250825_113248",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in =O): O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_113248",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here is a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2 (rich in =O): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113248",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_113248",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2 (rich in =O): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113254",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and containing C1OC1/NC groups:\nMonomer 1: CC(C/C=C\\CC(=O)OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)C(=O)OCC(O)COc6ccc(C(C)(C)c5ccc(OCC4CO4)cc5)cc6\nMonomer 2: NCCOCCOCCN"
+  },
+  {
+    "timestamp": "20250825_113254",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that matches the required properties and functional groups:\nMonomer 1 (rich in C1OC1): c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4\nMonomer 2 (rich in NC): NCCCOCCOCCCN"
+  },
+  {
+    "timestamp": "20250825_113254",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "The following monomers feature your desired functional groups and adhere to the requested properties:\nMonomer 1 (C1OC1): c3cc(N(CC1CC1)CC2CO2)ccc3OCC4CO4\nMonomer 2 (NC): NCCOCCOCCN"
+  },
+  {
+    "timestamp": "20250825_113254",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (C1OC1): C1OC1COC3COC4C(OC2CO2)COC34\nMonomer 2 (NC): NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_113254",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 100°C and Er = 40 MPa, incorporating epoxy(C1OC1) and imine(NC) functionalities.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here is a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C1OC1): CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2 (rich in NC): NCc1cccc(CN)c1"
+  },
+  {
+    "timestamp": "20250825_113304",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing C=C/CCS groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113304",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing vinyl(C=C)/thiol(CCS):\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113304",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here is a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing vinyl(C=C)/thiol(CCS):\nMonomer 1 (C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113304",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 150°C, Er = 30Mpa, and containing vinyl(C=C)/thiol(CCS):\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113304",
+    "prompt_data": "Generate a TSMP with Tg = 150°C and Er = 30 MPa, using functional groups vinyl(C=C) and thiol(CCS).",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP that matches your request:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_113316",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 200°C and Er ≈ 27 MPa that includes vinyl(C=C) and vinyl(C=C) groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113316",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 200°C and Er ≈ 27 MPa that includes vinyl(C=C) and vinyl(C=C) groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4\nMonomer 2 (rich in C=C): O=c1cccc(C=C)cccc1O"
+  },
+  {
+    "timestamp": "20250825_113316",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 200°C and Er ≈ 27 MPa that includes vinyl(C=C) and vinyl(C=C) groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 200°C, Er = 27Mpa, and containing C=C groups:\nMonomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O\nMonomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_113316",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 200°C and Er ≈ 27 MPa that includes vinyl(C=C) and vinyl(C=C) groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in C=C): C=C(C)C(=C)COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(COC(=O)CCCCCC(C"
+  },
+  {
+    "timestamp": "20250825_113316",
+    "prompt_data": "Design a shape memory polymer with Tg ≈ 200°C and Er ≈ 27 MPa that includes vinyl(C=C) and vinyl(C=C) groups.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a valid monomer pair fulfilling the criteria of Tg ≈ 200°C, Er ≈ 27Mpa, and containing C=C groups:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C"
+  },
+  {
+    "timestamp": "20250825_113323",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 100 MPa, using functional groups acrylate(C=C(C=O)) and vinyl(C=C).",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a valid monomer pair designed with the required functionalities:\nMonomer 1 (rich in C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (rich in C=C): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_113323",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 100 MPa, using functional groups acrylate(C=C(C=O)) and vinyl(C=C).",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_113323",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 100 MPa, using functional groups acrylate(C=C(C=O)) and vinyl(C=C).",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4\nMonomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_113323",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 100 MPa, using functional groups acrylate(C=C(C=O)) and vinyl(C=C).",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O)/C=C groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_113323",
+    "prompt_data": "Generate a TSMP with Tg = 100°C and Er = 100 MPa, using functional groups acrylate(C=C(C=O)) and vinyl(C=C).",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 100Mpa, and containing C=C(C=O) & C=C groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_113331",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that matches your request:\nMonomer 1 (C=C groups): C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2 (C=O groups): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113331",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here is a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=CC(=O)OCCCC"
+  },
+  {
+    "timestamp": "20250825_113331",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here is a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CCS groups:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_113331",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C\nMonomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_113331",
+    "prompt_data": "Suggest a TSMP system that satisfies Tg = 50°C and Er = 20 MPa, incorporating vinyl(C=C) and hydroxyl(=O) functionalities.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers fulfilling the criteria of Tg = 50°C, Er = 20Mpa, and containing C=C/CO groups:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  }
+]

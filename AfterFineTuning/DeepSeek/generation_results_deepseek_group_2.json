@@ -1,0 +1,1252 @@
+[
+  {
+    "timestamp": "20250825_154602",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2 (contains NC): CC(N)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154602",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing C1OC1 and NC groups, ideal for TSMP design:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154602",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing C1OC1 and NC groups, ideal for TSMP design:\nMonomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154602",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing C1OC1 and NC groups, ideal for TSMP design:\nMonomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154602",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154611",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C=C groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 includes CCS groups: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154611",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C=C groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 includes CCS groups: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154611",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154611",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C=C groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 includes CCS groups: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_154611",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_154623",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154623",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154623",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154623",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCO"
+  },
+  {
+    "timestamp": "20250825_154623",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154635",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing C=C(C=O) and C=C groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(="
+  },
+  {
+    "timestamp": "20250825_154635",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154635",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154635",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154635",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing C=C(C=O) and C=C groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(="
+  },
+  {
+    "timestamp": "20250825_154647",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC"
+  },
+  {
+    "timestamp": "20250825_154647",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a pair of monomers containing vinyl and hydroxyl groups for potential TSMP formation:\nMonomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154647",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_154647",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_154647",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154654",
+    "prompt_data": "Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6\nMonomer 2 (contains NC): NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_154654",
+    "prompt_data": "Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4\nMonomer 2 (contains NC): CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154654",
+    "prompt_data": "Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4\nMonomer 2 (contains NC): CC(CN)CCCN"
+  },
+  {
+    "timestamp": "20250825_154654",
+    "prompt_data": "Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2 (contains NC): CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154654",
+    "prompt_data": "Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): C1OC1COC3COC4C(OC2CO2)COC34\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154703",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_154703",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C=C groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 includes CCS groups: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154703",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (contains CCS): O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_154703",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154703",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154714",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed with the required functionalities:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCO"
+  },
+  {
+    "timestamp": "20250825_154714",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCO"
+  },
+  {
+    "timestamp": "20250825_154714",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154714",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154714",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP designed with the required functionalities:\nMonomer 1 (contains C=C): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154721",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154721",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154721",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154721",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154721",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154728",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2 (contains =O): O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_154728",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains vinyl(C=C)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains hydroxyl(=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154728",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=CC(=O)OCCCC"
+  },
+  {
+    "timestamp": "20250825_154728",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains vinyl(C=C)): C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2 (contains =O): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154728",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_154736",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4\nMonomer 2 (contains NC): CC(N)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154736",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers containing C1OC1 and NC groups, ideal for TSMP design:\nMonomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4\nMonomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154736",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C1OC1 groups: C1OC1COC3COC4C(OC2CO2)COC34\nMonomer 2 includes NC groups: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154736",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154736",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): O=C(OCC1CO1)C3CC2OC2CC3C(=O)OCC4CO4\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154744",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154744",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154744",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154744",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP designed with the required functionalities:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_154744",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_154755",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154755",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2 (contains C=C): C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C"
+  },
+  {
+    "timestamp": "20250825_154755",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=C)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154755",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (contains C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (contains C=C): C=CCc1ccccc1OCC(O)COc2ccccc2C(=O)OCC(O)COc3ccccc3C(=O)OCC(O)COc4ccccc4C(=O)NCC1(C)CC(N)CC(C)(C)CC(C)(C)N(CCC(C)OCC(O)COc5ccccc5C(=O)OCC(O)COc6ccccc6C(=O)OCC(O)COc7ccccc7C(=O)OCC(O)COc8ccccc8C(=O)N)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154755",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154802",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers that match the required functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154802",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154802",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154802",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154802",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154807",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers containing vinyl and hydroxyl groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154807",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here is a pair of monomers containing vinyl and hydroxyl groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154807",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains vinyl(C=C)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains hydroxyl(=O)): C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154807",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers containing vinyl and hydroxyl groups respectively:\nMonomer 1 (contains vinyl(C=C)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains hydroxyl(=O)): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154807",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Here's a pair of monomers containing vinyl and hydroxyl groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154815",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP using monomers with the requested functional groups:\nMonomer 1 (contains C1OC1): O=C(OCC1CO1)C3CC2OC2CC3C(=O)OCC4CO4\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154815",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers containing C1OC1 and NC groups, ideal for TSMP design:\nMonomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3OCC4CO4\nMonomer 2: CC(N)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154815",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here's a monomer pair incorporating C1OC1 and NC groups for potential TSMP formation:\nMonomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2: CC(CN)CCCN"
+  },
+  {
+    "timestamp": "20250825_154815",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6\nMonomer 2 (contains NC): NCCCOCCOCCCN"
+  },
+  {
+    "timestamp": "20250825_154815",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): Cc3cc(c2cc(C)c(OCC1CO1)c(C(C)(C)C)c2)cc(C(C)(C)C)c3OCC4CO4\nMonomer 2 (contains NC): CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154824",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here is a pair of monomers containing vinyl and thiol groups designed for TSMPs:\nMonomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154824",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2 (contains CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_154824",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers containing vinyl(C=C) and thiol(CCS) groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2: CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_154824",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C=C groups: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2 includes CCS groups: C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_154824",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=Cc1cccc(C=C)c1\nMonomer 2 (contains CCS): C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O"
+  },
+  {
+    "timestamp": "20250825_154829",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154829",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a pair of monomers containing the specified functional groups for potential TSMP formation:\nMonomer 1 (contains C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154829",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers containing C=C groups suitable for TSMPs:\nMonomer 1: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154829",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154829",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Monomer 1 contains C=C groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 contains C=C groups: C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154840",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): O=C(OCC1CO1)C3CC2OC2CC3C(=O)OCC4CO4\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154840",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154840",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154840",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here is a pair of monomers containing C=C(C=O) and C=C groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C"
+  },
+  {
+    "timestamp": "20250825_154840",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes acrylate(C=C(C=O)) in monomer1 and the other includes vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers containing C=C(C=O) and C=C groups, ideal for TSMP design:\nMonomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2: C=CCOCC(CO)(COCC=C)COCC=C"
+  },
+  {
+    "timestamp": "20250825_154848",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a pair of monomers containing vinyl and hydroxyl groups for potential TSMP formation:\nMonomer 1: C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2: CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C=O)C(=O)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154848",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_154848",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2"
+  },
+  {
+    "timestamp": "20250825_154848",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Monomer 1 will be based on vinyl(C=C): c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2 will be based on =O: CC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O"
+  },
+  {
+    "timestamp": "20250825_154848",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2 (contains =O): C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_154854",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here's a pair of monomers containing C1OC1 and NC groups, ideal for TSMP design:\nMonomer 1: CC(C/C=C\\CC(=O)OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)C(=O)OCC(O)COc6ccc(C(C)(C)c5ccc(OCC4CO4)cc5)cc6\nMonomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_154854",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here is a pair of monomers containing C1OC1 and NC groups, ideal for TSMP design:\nMonomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7\nMonomer 2: CC(N)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)COCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154854",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4\nMonomer 2 (contains NC): CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N"
+  },
+  {
+    "timestamp": "20250825_154854",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C1OC1): CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2 (contains NC): CC1(C)CC(N)CC(C)(CN)C1"
+  },
+  {
+    "timestamp": "20250825_154854",
+    "prompt_data": "Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C1OC1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4\nMonomer 2 includes NC: CC1(C)CC(N)CC(C)(CN)C1"
+  },
+  {
+    "timestamp": "20250825_154859",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS"
+  },
+  {
+    "timestamp": "20250825_154859",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCOCC(CO)(COCC=C)COCC=C\nMonomer 2 (contains CCS): CC(C)(C)C6CC2(CCS)C1CC1(COC(=O)CCS)COC(=O)CCS2"
+  },
+  {
+    "timestamp": "20250825_154859",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1\nMonomer 2 (contains CCS): CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_154859",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (contains CCS): CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_154859",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains CCS): CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_154905",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=C)C6CCCCC1CCCCC4CCCCC2CCCCC3CCCCC5OC1C(=O)OC2C(=O)NCCS"
+  },
+  {
+    "timestamp": "20250825_154905",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O\nMonomer 2 (contains C=C): CC(C)(C)N1CCN(CC)(CC)c3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3"
+  },
+  {
+    "timestamp": "20250825_154905",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3\nMonomer 2 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154905",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that matches the criteria of containing C=C groups in each monomer:\nMonomer 1 (contains C=C): CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6\nMonomer 2 (contains C=C): NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN"
+  },
+  {
+    "timestamp": "20250825_154905",
+    "prompt_data": "Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=C)OCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=Cc1cccc(C=C)c1"
+  },
+  {
+    "timestamp": "20250825_154916",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Monomer 1 includes C=C(C=O) groups for controlled crosslinking: c3cc(N(CC1CC1)CC2CO2)ccc3Cc6ccc(N(CC4CC4)CC5CO5)cc6\nMonomer 2 features C=C groups for vinyl chemistry: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154916",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3"
+  },
+  {
+    "timestamp": "20250825_154916",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a group-compliant monomer pair:\nMonomer 1 includes C=C(C=O) groups: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2 includes C=C groups: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O"
+  },
+  {
+    "timestamp": "20250825_154916",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here is a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): O=C(O)COC(=O)NCC1(C)CC(NC(=O)OCC(CO)(CO)COC(=O)NCC2(C)CC(NC(=O)OCC(CO)(CO)COC(=O)NCC3(C)CC(NC(=O)OCC(CO)(CO)COC(=O)NCC4(C)CC(NC(=O)OCC(CO)(CO)COC(=O)NCC5(C)CC(NC(=O)OCC(CO)(CO)COC(=O)NCC6(C)CC(NC(=O)OCC(CO)(CO)COC(=O)N)CC(C)(CN)C4)C3)C2)C1)c1ccccc1OCC(O)COC(=O)NCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS"
+  },
+  {
+    "timestamp": "20250825_154916",
+    "prompt_data": "Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains C=C): C=C(C)C(=C)OCOCCOC(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154925",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains vinyl(C=C)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains hydroxyl(=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(C)C(=O)OCC(O)CC(O)CC(O)CC(O)C(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154925",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Monomer 1 will include C=C groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 will include =O groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)(COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)C(=O)C(=C)C"
+  },
+  {
+    "timestamp": "20250825_154925",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Monomer 1 with C=C groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 with =O groups: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4"
+  },
+  {
+    "timestamp": "20250825_154925",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2\nMonomer 2 (contains =O): C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1"
+  },
+  {
+    "timestamp": "20250825_154925",
+    "prompt_data": "Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Here's a TSMP that includes the requested functional groups:\nMonomer 1 (contains C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2 (contains =O): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
+  }
+]

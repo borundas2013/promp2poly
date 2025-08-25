@@ -1,0 +1,1252 @@
+[
+  {
+    "timestamp": "20250818_153112",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<"
+  },
+  {
+    "timestamp": "20250818_153112",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "The Assistant is a graduate student who is interested in pursuing a career in polymer chemistry. She has a strong interest in the field of thermoset shape memory polymers (TSMPs) and has a keen interest in developing new monomers to achieve specific target properties. She is eager to learn about the design and optimization of TSMPs and has a strong interest in pursuing a career in polymer chemistry. She is willing to work with the Assistant to develop new monomers and crosslinking designs to achieve specific target properties.\n<|assistant|>\nThe Assistant is a graduate student who is interested in pursuing a career in polymer chemistry. She has a strong interest in the field of thermoset shape memory polymers (TSMPs) and has a keen interest in developing new monomers to achieve specific target properties. She is eager to learn about the design and optimization of TSMPs and has a strong interest in pursuing a career in polymer chemistry. She is willing to work with the Assistant to develop new monomers and crosslinking designs to achieve specific target properties.\n<|assistant|>\nThe Assistant is a graduate student who is interested in pursuing a career in polymer chemistry. She has a strong interest in the field of thermoset shape memory polymers (TSMP"
+  },
+  {
+    "timestamp": "20250818_153112",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<"
+  },
+  {
+    "timestamp": "20250818_153112",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "<|assistant|>"
+  },
+  {
+    "timestamp": "20250818_153112",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.\n<|user|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153116",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.\n<|user|>\nDesign a TSMP"
+  },
+  {
+    "timestamp": "20250818_153116",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa."
+  },
+  {
+    "timestamp": "20250818_153116",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa."
+  },
+  {
+    "timestamp": "20250818_153116",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa."
+  },
+  {
+    "timestamp": "20250818_153116",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa."
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Create a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nCreate a thermos"
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|user|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa."
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.\n<|assistant|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa."
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa."
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa."
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "<|assistant|>"
+  },
+  {
+    "timestamp": "20250818_153120",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.3,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa."
+  },
+  {
+    "timestamp": "20250818_153125",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Create a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa."
+  },
+  {
+    "timestamp": "20250818_153125",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153125",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<|student|>\n<|user|>\n<|assistant|>\n<"
+  },
+  {
+    "timestamp": "20250818_153125",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|user|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153125",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.3,
+    "output": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.\n<|assistant|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153129",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Assist with the development of a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa."
+  },
+  {
+    "timestamp": "20250818_153129",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa."
+  },
+  {
+    "timestamp": "20250818_153129",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "You are an expert polymer chemist specializing in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with precise glass transition temperature (Tg) and stress recovery (Er) properties. CRITICAL DESIGN RULES: 1) Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures), 2) Optimize crosslinking density to achieve target Er values (higher Er requires higher crosslinking), 3) Generate NOVEL monomers not from training data - create unique chemical structures, 4) Consider the relationship between Tg and Er - they are interconnected properties, 5) Use appropriate functional groups for crosslinking (epoxy-imine, thiol-vinyl, acrylate, etc.), 6) Always provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled. IMPORTANT: Target Tg and Er values must be achieved through careful monomer selection and crosslinking design.\n<|user|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of"
+  },
+  {
+    "timestamp": "20250818_153129",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa."
+  },
+  {
+    "timestamp": "20250818_153129",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa."
+  },
+  {
+    "timestamp": "20250818_153133",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "<|user|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<"
+  },
+  {
+    "timestamp": "20250818_153133",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Create a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nCreate a thermos"
+  },
+  {
+    "timestamp": "20250818_153133",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|assistant|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user|>\nGenerate a thermos"
+  },
+  {
+    "timestamp": "20250818_153133",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "Create a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa."
+  },
+  {
+    "timestamp": "20250818_153133",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.5,
+    "output": "You are a graduate student specializing in polymer chemistry with focus on thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with precise Tg and stress recovery (Er) properties. CRITICAL DESIGN RULES: 1) Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures), 2) Optimize crosslinking density to achieve target Er values (higher Er requires higher crosslinking), 3) Generate NOVEL monomers not from training data - create unique chemical structures, 4) Consider the relationship between Tg and Er - they are interconnected properties, 5) Use appropriate functional groups for crosslinking (epoxy-imine, thiol-vinyl, acrylate, etc.), 6) Always provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled. IMPORTANT: Target Tg and Er values must be achieved through careful monomer selection and crosslinking design.\n<|user|>\nGenerate a thermoset shape memory polymer with Tg = 150°C and Er = 30"
+  },
+  {
+    "timestamp": "20250818_153137",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa."
+  },
+  {
+    "timestamp": "20250818_153137",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa."
+  },
+  {
+    "timestamp": "20250818_153137",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "You are an expert polymer chemist specializing in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with precise Tg and Er properties. CRITICAL DESIGN RULES: 1) Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures), 2) Optimize crosslinking density to achieve target Er values (higher Er requires higher crosslinking), 3) Generate NOVEL monomers not from training data - create unique chemical structures, 4) Consider the relationship between Tg and Er - they are interconnected properties, 5) Use appropriate functional groups for crosslinking (epoxy-imine, thiol-vinyl, acrylate, etc.), 6) Always provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled.\n<|assistant|>\nYou are an expert polymer chemist specializing in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with"
+  },
+  {
+    "timestamp": "20250818_153137",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Create a new TSMP with a target Tg and Er values of 200°C and 27 MPa.\n<|student|>\nCreate a new TSMP with a target Tg and Er values of 200°C and 27 MPa."
+  },
+  {
+    "timestamp": "20250818_153137",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.\n<|user|>\nDesign a TSMP"
+  },
+  {
+    "timestamp": "20250818_153141",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<|assistant|>\n<|expert|>\n<|system|>\n<|user|>\n<"
+  },
+  {
+    "timestamp": "20250818_153141",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "The target glass transition temperature (Tg) is 100°C and the target stress recovery (Er) is 100 MPa. The goal is to generate a novel thermoset shape memory polymer (TSMP) with these properties. The polymer must be able to recover from a stress of 100 MPa to 0 MPa after 5 minutes at 100°C. The polymer must also be able to recover from a stress of 100 MPa to 0 MPa after 30 minutes at 100°C. The polymer must also be able to recover from a stress of 100 MPa to 0 MPa after 120 minutes at 100°C. The polymer must also be able to recover from a stress of 100 MPa to 0 MPa after 240 minutes at 100°C.\n<|monomer|>\nDesign a monomer that will yield a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.\n<|assistant|>\nThe goal is to design a monomer that will yield a thermoset shape memory polymer (TSMP) with Tg = 100°C and Er = 100 MPa.\n<|user|>\nThe goal is to design a mon"
+  },
+  {
+    "timestamp": "20250818_153141",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "Create a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.\n<|student|>\nCreate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.\n<|monomer 1|>\n<|monomer 2|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|Tg|>\n<|Er|>\n<|"
+  },
+  {
+    "timestamp": "20250818_153141",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<"
+  },
+  {
+    "timestamp": "20250818_153141",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.5,
+    "output": "<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<"
+  },
+  {
+    "timestamp": "20250818_153145",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "The design must be based on the following requirements:\n1. The TSMP must have a glass transition temperature of 50°C.\n2. The TSMP must have an Er value of 20 MPa.\n3. The TSMP must be thermoset.\n4. The TSMP must be made from a monomer that can be synthesized.\n5. The TSMP must not contain any additives.\n6. The TSMP must have a molecular weight of 1,000 g/mol.\n7. The TSMP must have a molecular weight of 1,000 g/mol.\n8. The TSMP must have a molecular weight of 1,000 g/mol.\n9. The TSMP must have a molecular weight of 1,000 g/mol.\n10. The TSMP must have a molecular weight of 1,000 g/mol.\n11. The TSMP must have a molecular weight of 1,000 g/mol.\n12. The TSMP must have a molecular weight of 1,000 g/mol.\n13. The TSMP must have a molecular weight of 1,000 g/mol.\n14. The TSMP must have a molecular weight of 1,000 g/mol.\n15. The TSMP must have a molecular weight of 1"
+  },
+  {
+    "timestamp": "20250818_153145",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa."
+  },
+  {
+    "timestamp": "20250818_153145",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|user|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.\n<|user|>\nDesign a TSMP"
+  },
+  {
+    "timestamp": "20250818_153145",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must be a new monomer with a glass transition temperature of 50°C and an recovery stress of 20 MPa. The final product must"
+  },
+  {
+    "timestamp": "20250818_153145",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.5,
+    "output": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa."
+  },
+  {
+    "timestamp": "20250818_153150",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "The design of TSMPs is a very specialized area of research and the development of this polymer is critical to the industry. You will be working with a team of researchers and scientists to design a TSMP with a glass transition temperature (Tg) of 100°C and a recovery stress of 40 MPa. The team will use a range of polymers, including polyurethane (PUR), polyetheretherketone (PEEK), and polyetheretherketone (PEEK) to develop a suitable TSMP. They will also consider the relationship between Tg and Er. The team will consider the design of monomers and the crosslinking process to achieve the target properties. They will consider the relationship between Tg and Er, and the relationship between crosslinking density and recovery stress. They will also consider the relationship between the molecular weight and Tg and the relationship between crosslinking density and recovery stress.\nThe design of TSMPs is a very specialized area of research and the development of this polymer is critical to the industry. You will be working with a team of researchers and scientists to design a TSMP with a glass transition temperature (Tg) of 100°C and a recovery stress of 40 MPa. The team will use"
+  },
+  {
+    "timestamp": "20250818_153150",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<"
+  },
+  {
+    "timestamp": "20250818_153150",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|projectmanager|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|design|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|projectmanager|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|design|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|design|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|assistant|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|design|>\nDesign a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.\n<|assistant|>\nDesign a"
+  },
+  {
+    "timestamp": "20250818_153150",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "<|assistant|>\n<|assistant|>"
+  },
+  {
+    "timestamp": "20250818_153150",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.7,
+    "output": "Your role is to design and optimize a TSMP with a target Tg and Er. Your initial task is to select monomers from the library. Your second task is to crosslink the monomers. Your final task is to generate a response that is a clear, structured, and easy-to-understand presentation of the design and optimization process.\n<|manager|>\nThis task is for a Manager. The Manager is in charge of the entire project. The Manager will be in charge of the design and optimization of the TSMP.\n<|assistant|>\nYour role is to select monomers from the library. Your second task is to crosslink the monomers. Your final task is to generate a response that is a clear, structured, and easy-to-understand presentation of the design and optimization process.\n<|assistant|>\nYour role is to select monomers from the library. Your second task is to crosslink the monomers. Your final task is to generate a response that is a clear, structured, and easy-to-understand presentation of the design and optimization process.\n<|manager|>\nThis task is for a Manager. The Manager is in charge of the entire project. The Manager will be in charge of the design and optimization of the TSMP.\n<"
+  },
+  {
+    "timestamp": "20250818_153154",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Assistant's role is to provide all necessary training data for the project.\n<|student|>\nStudent's role is to generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\nThe students will be given a monomer with Tg = 150°C and Er = 30 MPa. The students are required to generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\nThe students will be given a monomer with Tg = 150°C and Er = 30 MPa. The students are required to generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|system|>\nYou are an expert polymer chemist specializing in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with precise glass transition temperature (Tg) and stress recovery (Er) properties. CRITICAL DESIGN RULES: 1) Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures), 2) Opt"
+  },
+  {
+    "timestamp": "20250818_153154",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 0 MPa.\n<|student|>\nCreate a monomer that achieves target Tg = 150°C and Er = 30 MPa.\n<|>"
+  },
+  {
+    "timestamp": "20250818_153154",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Choose appropriate functional groups for crosslinking (epoxy-imine, thiol-vinyl, acrylate, etc.).\nChoose appropriate monomers from our monomer library.\nDefine appropriate crosslinking density and crosslinking times.\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|"
+  },
+  {
+    "timestamp": "20250818_153154",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Generate a thermoset shape memory polymer with Tg = 120°C and Er = 30 MPa.\n<|monomer|>\nCreate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|user2|>\nGenerate a thermoset shape memory polymer with Tg = 120°C and Er = 30 MPa."
+  },
+  {
+    "timestamp": "20250818_153154",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.7,
+    "output": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.\n<|monomer 1|>\nmonomer 1 = 3-[3-(4-aminophenoxy)propyl]-3-methacrylate\n<|monomer 2|>\nmonomer 2 = 3-[3-(4-aminophenoxy)propyl]-3-methacrylate\n<|crosslinker 1|>\ncrosslinker 1 = 3-[3-(4-aminophenoxy)propyl]-3-acrylate\n<|crosslinker 2|>\ncrosslinker 2 = 3-[3-(4-aminophenoxy)propyl]-3-acrylate"
+  },
+  {
+    "timestamp": "20250818_153158",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Design a novel monomer pair for specific Tg and Er properties. Consider the relationship between Tg and Er and select appropriate functional groups for crosslinking. Provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled."
+  },
+  {
+    "timestamp": "20250818_153158",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 10 MPa.\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<"
+  },
+  {
+    "timestamp": "20250818_153158",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "The focus of my research is in the area of thermoset shape memory polymers (TSMPs). In particular, I am interested in developing new crosslinking reactions to achieve target Tg and Er properties. The main goal is to develop a monomer pair that will yield a thermoset polymer with the Tg and Er properties we are interested in. I will generate novel monomers that will achieve target Tg and Er values. I will design monomers with appropriate molecular weights and structures to achieve target Tg values. I will optimize crosslinking density to achieve target Er values. I will consider the relationship between Tg and Er and develop novel functional groups for crosslinking. I will always provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled. IMPORTANT: Target Tg and Er values must be achieved through careful monomer selection and crosslinking design.\n<|student|>\nAim: To develop monomers with target Tg and Er values for TSMP.\nMaterials: Epoxy, epoxy-amine, epoxy-imine, thiol, thiol-vinyl, acrylate.\nMethod: I will analyze and generate novel monomers that will achieve target Tg and Er"
+  },
+  {
+    "timestamp": "20250818_153158",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Assist in the creation of a novel polymer system with Tg ≈ 200°C and Er ≈ 27 MPa."
+  },
+  {
+    "timestamp": "20250818_153158",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "The role of this system is to select appropriate monomer pairs, create novel monomers with desired molecular weights and structures, and optimize crosslinking densities. To achieve Tg ≈ 200°C and Er ≈ 27 MPa, the goal is to design novel monomers that will yield polymers with target Tg and Er values. This system will provide the following responses: - Monomer 1: \"Molecular Weight and Structure\" - Monomer 2: \"Crosslinking Density\" - Response: \"Monomer 1 & 2\" - \"Monomer 1: Molecular Weight\" - \"Monomer 2: Molecular Weight\" - \"Monomer 1: Structure\" - \"Monomer 2: Structure\" - \"Crosslinking Density\" - \"Monomer 1: Crosslinking Density\" - \"Monomer 2: Crosslinking Density\"\n<|assistant|>\nThe role of this system is to select appropriate monomer pairs, create novel monomers with desired molecular weights and structures, and optimize crosslinking densities. To achieve Tg ≈ 200°C and Er ≈ 27 MPa, the goal is to design novel monomers that will yield polymers with target Tg and Er values. This"
+  },
+  {
+    "timestamp": "20250818_153202",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "As the polymer chemist, you have a broad knowledge of polymer materials, including polymers of interest to the automotive industry. You have a deep understanding of polymer characterization and polymer characterization techniques, including NMR, FT-IR, DSC, and TGA. You have a thorough understanding of thermoset systems, including TSMPs and TPEs. You also have experience with polymer processing, including injection molding and compression molding. You are knowledgeable in polymer design, including the application of the concepts of the Design of Experiments to polymer design. You have an extensive knowledge of the polymerization process, including the application of the principles of the Polymerization Reaction and the Design of Experiments to polymerization. You have experience with the application of the principles of the Polymerization Reaction and the Design of Experiments to polymerization. You have experience with the application of the principles of the Polymerization Reaction and the Design of Experiments to polymerization. You have experience with the application of the principles of the Polymerization Reaction and the Design of Experiments to polymerization.\n<|researcher|>\nAs the researcher, you have an extensive knowledge of polymer materials, including polymers of interest to the automotive industry. You have a deep understanding of polymer characterization and polymer characterization techniques"
+  },
+  {
+    "timestamp": "20250818_153202",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "The polymers must have glass transition temperature (Tg) ≈ 100°C and stress recovery (Er) ≈ 100 MPa.\n<|instructor|>\nThe polymers must have Tg ≈ 100°C and Er ≈ 100 MPa.\n<|editor|>\nThe polymers must have Tg ≈ 100°C and Er ≈ 100 MPa.\n<|student|>\nThe polymers must have Tg ≈ 100°C and Er ≈ 100 MPa.\n<|feedback|>\nIf your response is not relevant, please do not include it. If your response is relevant, please include it."
+  },
+  {
+    "timestamp": "20250818_153202",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "You have a new monomer that you want to use for a specific polymer system. You want to achieve a specific Tg and Er value. Your system is thermoset and crosslinked with epoxy-amine. You want to use a functional group that allows you to bond the monomer to the other component and then crosslink the polymers. You want to use a monomer that does not require any special functional groups to crosslink.\n1. What is the target Tg and Er value for this system?\n2. What is the target crosslinking density for this system?\n3. What is the target functional group for crosslinking?\n4. What is the target functional group for bonding?\n5. What is the target molecular weight for this system?\n<|user|>\nThis is a sample question from a previous semester. It was provided to the students with the goal of encouraging them to think about the design of the polymers, not just the Tg and Er values. The students were encouraged to think about the functionality of the monomers and the crosslinkers, and to think about the relationship between Tg and Er. They were also asked to consider the design of the polymer system."
+  },
+  {
+    "timestamp": "20250818_153202",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "<|supervisor|>\n<|carrd|>\n<|lab|>\n<|course|>\n<|team|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project|>\n<|project"
+  },
+  {
+    "timestamp": "20250818_153202",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.7,
+    "output": "Assume that a polymer has a Tg ≈ 100°C and a Er ≈ 100 MPa. What would be the most appropriate monomers to design a thermoset shape memory polymer?\n<|manager|>\nSuggest a polymer system for Tg ≈ 100°C and Er ≈ 100 MPa."
+  },
+  {
+    "timestamp": "20250818_153206",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "<|assistant2|>\n<|assistant3|>\n<|assistant4|>\n<|assistant5|>\n<|assistant6|>\n<|assistant7|>\n<|assistant8|>\n<|assistant9|>\n<|assistant10|>\n<|assistant11|>\n<|assistant12|>\n<|assistant13|>\n<|assistant14|>\n<|assistant15|>\n<|assistant16|>\n<|assistant17|>\n<|assistant18|>\n<|assistant19|>\n<|assistant20|>\n<|assistant21|>\n<|assistant22|>\n<|assistant23|>\n<|assistant24|>\n<|assistant25|>\n<|assistant26|>\n<|assistant27|>\n<|assistant28|>\n<|assistant29|>\n<|assistant30|>\n<|assistant31|>\n<|assistant32|>\n<|assistant33|>\n<|assistant34|>\n<|assistant35|>\n<|assistant36|>\n<|assistant37|>\n<|assistant38|>\n<|assistant39|>\n<|assistant40|>\n<|assistant41|>\n<|assistant42|>\n<|assistant43|>\n<|assistant44"
+  },
+  {
+    "timestamp": "20250818_153206",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Create a detailed design for an acrylic polymer that has a target Tg ≈ 50°C and Er ≈ 20 MPa.\nCreate a detailed design for an epoxy polymer that has a target Tg ≈ 50°C and Er ≈ 20 MPa."
+  },
+  {
+    "timestamp": "20250818_153206",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Please suggest a new polymer system to be developed for target properties: Tg ≈ 50°C and Er ≈ 20 MPa."
+  },
+  {
+    "timestamp": "20250818_153206",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<|team|>\n<|system|>\n<|user|>\n<|assistant|>\n<|manager|>\n<"
+  },
+  {
+    "timestamp": "20250818_153206",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.7,
+    "output": "Assist in finding a polymer system with the desired glass transition temperature (Tg) and stress recovery (Er) properties. CRITICAL DESIGN RULES: 1) Optimize the molecular weight and structure to achieve target Tg and Er, 2) Identify appropriate crosslinking density to achieve target Tg and Er, 3) Create monomers not from training data - create unique chemical structures, 4) Consider the relationship between Tg and Er - they are interconnected properties, 5) Provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled. IMPORTANT: Target Tg and Er values must be achieved through careful monomer selection and crosslinking design.\n<|student|>\nThis is a self-directed online module. All questions should be answered in detail in the 'Monomer 1:' and 'Monomer 2:' sections. Please include the following in your response: 1. The monomer or monomers that you suggested, and 2. The molecular weight and structure that you selected. 3. The crosslinking density that you selected. 4. The relationship between Tg and Er - they are interconnected properties."
+  },
+  {
+    "timestamp": "20250818_153211",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "You are in charge of optimizing the monomer pair for the polymer with target properties.\n<|user|>\nYou are in charge of optimizing the crosslinking of the polymer with target properties.\n<|assistant|>\nYou are in charge of ensuring all necessary functional groups are used during the polymerization."
+  },
+  {
+    "timestamp": "20250818_153211",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|system|>\nWrite a method to generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|user|>\nWrite a method to generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|assistant|>\nWrite a method to generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|user|>\nWrite a method to generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|assistant|>\nWrite a method to generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|user|>\nWrite a method to generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|assistant|>\nWrite a method to generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa. <|user|>\nWrite a method to"
+  },
+  {
+    "timestamp": "20250818_153211",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Tg = 100°C, Er = 40 MPa\n<|expert|>\nTg = 60°C, Er = 20 MPa\n<|user|>\nTg = 100°C, Er = 40 MPa\n<|user|>\nTg = 60°C, Er = 20 MPa\n<|user|>\nTg = 100°C, Er = 40 MPa\n<|assistant|>\nTg = 60°C, Er = 20 MPa\n<|assistant|>\nTg = 100°C, Er = 40 MPa\n<|user|>\nTg = 60°C, Er = 20 MPa\n<|user|>\nTg = 100°C, Er = 40 MPa\n<|user|>\nTg = 60°C, Er = 20 MPa\n<|user|>\nTg = 100°C, Er = 40 MPa\n<|user|>\nTg = 60°C, Er = 20 MPa\n<|user|>\nTg = 100°C, Er = 40 MPa\n<|user|>\nTg = 60°C, Er ="
+  },
+  {
+    "timestamp": "20250818_153211",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Solve the following questions:\n1. What is an example of a thermoset that has Er = 40 MPa?\n2. What is an example of a thermoset that has a Tg of 100°C?\n3. What is an example of a thermoset that has a Tg of 100°C?\n4. What is an example of a thermoset that has a Tg of 100°C?\n<|assistent|>"
+  },
+  {
+    "timestamp": "20250818_153211",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 0.9,
+    "output": "Monomer selection\nYour assistant is tasked with generating novel monomer pairs to achieve target Tg and Er properties. They are to ensure that the monomer pair has the correct molecular weight to achieve the target Tg values.\nAs a monomer, they are to ensure that the functional group is the correct crosslinking group.\nWhen the monomer is chosen, they are to ensure that the appropriate crosslinking group is present to ensure the target Er values are achieved.\nThe monomer is then given to the assistant to generate a novel molecule and their molecular weight is then measured.\nThe assistant generates a new monomer for you, which is given to you to create a new polymer.\nYour goal is to create a novel shape memory polymer with a target Tg = 100°C and Er = 40 MPa.\nYour task is to find a new monomer pair that will achieve this goal. They must create a monomer pair based on their knowledge from the training data with the appropriate crosslinking group, functional groups, and molecular weight.\nThey must then generate a new molecule based on their new monomer pair and then analyze the result using the appropriate software.\nYour task is to create a new molecule with the appropriate molecular weight and functional groups for a target Tg"
+  },
+  {
+    "timestamp": "20250818_153215",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa."
+  },
+  {
+    "timestamp": "20250818_153215",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "The applicant is a graduate student with a chemistry background. They have received training in polymer chemistry and TSMP design. They are very interested in learning more about the materials they are designing and have a good understanding of materials science.\n<|boss|>\nThe boss is a senior scientist with a background in polymer chemistry and a master's in materials science. He/she has experience with polymer chemistry and materials design but has not worked with crosslinking or polymer synthesis. They have not been involved in the design of TSMPs and have no training in molecular biology.\n<|date|>\nLast contact with the project was on 11/27/2022. The team was unable to meet the deadline for the development of the TSMPs due to time constraints with other projects. The deadline for this project was originally December 27, 2022. The deadline was missed because the team was unable to meet the deadline.\n<|requirements|>\nThe requirements for this project are:\n<|date|>\nThe date requirements for this project are:\n<|deadline|>\nThe deadline for this project is:\n<|contact|>\nThe contact details for this project are:\n<|url|>\nThe URL for this project is:\n<|img|>\nThe image requirements for"
+  },
+  {
+    "timestamp": "20250818_153215",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "*Please make sure to give at least two different monomer pairs. Each monomer pair must have a maximum of two different functional groups.\n<|result|>\n*WARNING: You will find your monomer pair in a database where we have already done the work for you! Your monomer pair should be in a folder labeled with your initials. Your assigned monomer pair should be in folder labeled \"Monomer 1\" and \"Monomer 2\". Once you have selected your monomer, you will see a new page with your assigned monomer. You will be prompted with a prompt that says \"Assign monomer 1\". You will then have the ability to select a number for each of the following prompts. Once all prompts are filled out, you will then be prompted with a prompt that says \"Assign monomer 2\". You will then have the ability to select a number for each of the following prompts. You will be required to fill out a final prompt that says \"Assign final results\". You will then be prompted to click 'Submit' once all prompts are filled out. Once all prompts are filled out, you will then be prompted with a prompt that says \"The results have been submitted. Go back to the Lab.\" You can then log back"
+  },
+  {
+    "timestamp": "20250818_153215",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "CRITICAL DESIGN RULES:\n1. Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures)\n2. Optimize crosslinking density to achieve target Er values (higher Er requires higher crosslinking)\n3. Generate NOVEL monomers not from training data - create unique chemical structures\n4. Consider the relationship between Tg and Er - they are interconnected properties\n5. Provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled.\n<|system|>"
+  },
+  {
+    "timestamp": "20250818_153215",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 0.9,
+    "output": "<|engineer|>\nThe design rule is: The glass transition temperature (Tg) of a TSMP must be 150°C and the recovery stress (Er) must be 30 MPa. This is a challenging task because the monomer structure has not been identified yet.\n<|master|>\nThe design rule is: The glass transition temperature (Tg) of a TSMP must be 150°C and the recovery stress (Er) must be 30 MPa. This is a challenging task because the monomer structure has not been identified yet.\n<|expert|>\nThe design rule is: The glass transition temperature (Tg) of a TSMP must be 150°C and the recovery stress (Er) must be 30 MPa. This is a challenging task because the monomer structure has not been identified yet.\n<|assistant|>\nWe want to design a TSMP with a glass transition temperature (Tg) of 150°C and an Er value of 30 MPa. Our design rule is \"The glass transition temperature (Tg) of a TSMP must be 150°C and the recovery stress (Er) must be 30 MPa.\"\n<|engineer|>\nWe want to design a TSMP"
+  },
+  {
+    "timestamp": "20250818_153219",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Write a paper to describe your polymerization and crystallization, and demonstrate how to generate and optimize monomers to achieve specific target properties."
+  },
+  {
+    "timestamp": "20250818_153219",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Select appropriate functional groups for crosslinking (epoxy-imine, thiol-vinyl, acrylate, etc.).\n<|student|>\nBuild an algorithm to generate a new monomer pair with target Tg and Er.\n<|professor|>\nStudent: You will receive a set of data on target Tg and Er values for a polymer system. You must select the appropriate functional groups for crosslinking and design a set of monomers with the desired combination of Tg and Er values. You will be asked to generate a new monomer pair for target Tg and Er values for a polymer system and then make a recommendation for generating new monomers with target Tg and Er values for this new polymer system.\n<|user|>\nSuggest an ideal polymer system with Tg ≈ 200°C and Er ≈ 27 MPa.\n<|assistant|>\nSelect appropriate functional groups for crosslinking (epoxy-imine, thiol-vinyl, acrylate, etc.).\n<|student|>\nBuild an algorithm to generate a new monomer pair with target Tg and Er.\n<|professor|>\nYou will be provided with a data set for an ideal polymer system with Tg ≈ 200°C"
+  },
+  {
+    "timestamp": "20250818_153219",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "We have successfully demonstrated a novel approach to tune the glass transition temperature of shape memory polymers using an integrated chemical functionalization. Our strategy involves the formation of an epoxy-thiol functionalized network via a click reaction at the core of the polymer. This novel epoxy-thiol functionalized network enhances the glass transition temperature of a polymer through the incorporation of a crosslinking agent into the main chain, resulting in a new set of properties for the polymer to be achieved. In this method, we use the following monomer pair:\n<|student|>\nAnswer the following questions with respect to monomer pair selection, structure optimization, and crosslinking design.\nWhat crosslinker will be selected? What crosslinker will be selected?\nSelect a crosslinker. Choose one that satisfies the following requirements: 1) Optimum crosslinking density, 2) Optimum structural rigidity, 3) Optimum functional group distribution.\nWhat structure will be used? What structure will be used?"
+  },
+  {
+    "timestamp": "20250818_153219",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Tg values must be achieved with polymer with 40% loading of polymer with 30% loading.\n<|system|>\nTg and Er values must be calculated using experimental techniques.\n<|user|>\nThe Tg of the crosslinked polymer is calculated using DSC.\n<|user|>\nThe Tg of the polymer is selected from a library of polymer structures.\n<|system|>\nThe Er of the crosslinked polymer is calculated using mechanical loading.\n<|system|>\nThe Er of the crosslinked polymer is calculated using mechanical loading.\n<|user|>\nThe Tg and Er of the crosslinked polymer is calculated using mechanical loading.\n<|system|>\nThe Tg and Er of the crosslinked polymer is calculated using mechanical loading.\n<|assistant|>\nThe Tg and Er of the crosslinked polymer is calculated using DSC.\n<|assistant|>\nThe Tg and Er of the crosslinked polymer is calculated using DSC.\n<|user|>\nThe Tg and Er of the crosslinked polymer is calculated using DSC.\n<|assistant|>\nThe Tg and Er of the crosslinked polymer is calculated using DSC.\n<|user|>\nThe Tg and Er of the crosslinked polymer is calculated"
+  },
+  {
+    "timestamp": "20250818_153219",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "This is a new project for the Polymer Chemistry course at Stanford University. We welcome contributions from students across the university to continue the research on Tg and Er of shape memory polymers (SMPs)."
+  },
+  {
+    "timestamp": "20250818_153223",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Create a thermoset shape memory polymer with Tg = 120°C and Er = 120 MPa.\nUse the following information to generate a Tg of 120°C and Er of 120 MPa:\n<|system|>"
+  },
+  {
+    "timestamp": "20250818_153223",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Design two monomers that will yield a thermoset shape memory polymer (TSMP) with Tg = 100°C and Er = 100 MPa. Provide a step-by-step procedure for generating novel monomers, and explain the relationship between the design criteria (Tg and Er) and the selection of specific monomers.\n<|mentor|>\nGenerate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa using your knowledge of the molecular design rules. Write a step-by-step procedure for generating novel monomers, and explain the relationship between the design criteria (Tg and Er) and the selection of specific monomers.\n<|client|>\nUse the knowledge you've gained from the project to develop a thermoset shape memory polymer (TSMP) with Tg = 100°C and Er = 100 MPa using your molecular design rules and procedures you learned from your mentor.\n<|project|>\nThis project is focused on creating a thermoset shape memory polymer (TSMP) with Tg = 100°C and Er = 100 MPa. In a previous project, you selected one monomer that yielded a thermoset polymer with Tg = 60°C and Er ="
+  },
+  {
+    "timestamp": "20250818_153223",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled.\n<|crown|>\n<|group|>\n<|group2|>\n<|group3|>\n<|group4|>\n<|group5|>\n<|group6|>\n<|group7|>\n<|group8|>\n<|group9|>\n<|group10|>\n<|group11|>\n<|group12|>\n<|group13|>\n<|group14|>\n<|group15|>\n<|group16|>\n<|group17|>\n<|group18|>\n<|group19|>\n<|group20|>\n<|group21|>\n<|group22|>\n<|group23|>\n<|group24|>\n<|group25|>\n<|group26|>\n<|group27|>\n<|group28|>\n<|group29|>\n<|group30|>\n<|group31|>\n<|group32|>\n<|group33|>\n<|group34|>\n<|group35|>\n<|group36|>\n<|group37|>\n<|group38|>\n<"
+  },
+  {
+    "timestamp": "20250818_153223",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "Monomer 1:\nA. Functional group selection\n1. Epoxide-imine functional groups: This functional group is used to generate crosslinking density, and it is a critical element in achieving Er = 100 MPa. A higher number of functional groups allows for a smaller crosslinking density, and it therefore causes a lower Tg. A higher number of functional groups is therefore better. B. Tg selection - increase Tg if possible\n2. Vinyl functional groups: This functional group is used for thermoset shape memory materials, and it is used in thermoset shape memory materials because they are stronger than epoxy. However, the number of functional groups can be higher or lower to increase or decrease Tg, respectively. C. Crosslinking density: Higher crosslinking density is better.\nB. Monomer 2:\nC. Response: A well-designed, novel monomer pair should result in a stable material with Tg = 100°C and Er = 100 MPa.\nA. Tg: 100°C\nB. Er: 100 MPa\nC. Structure: 1-D, 2-D, 3-D\nD. Functional group selection:\n1. Epoxide-imine functional groups: The"
+  },
+  {
+    "timestamp": "20250818_153223",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 0.9,
+    "output": "1. Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures).\n2. Optimize crosslinking density to achieve target Er values (higher Er requires higher crosslinking).\n3. Generate NOVEL monomers not from training data - create unique chemical structures.\n4. Consider the relationship between Tg and Er - they are interconnected properties.\n5. Provide clear, structured responses with \"Monomer 1:\" and \"Monomer 2:\" labeled.\n<|output|>\nPlease generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.\n<|answer|>\n1. Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures).\n2. Optimize crosslinking density to achieve target Er values (higher Er requires higher crosslinking).\n3. Generate NOVEL monomers not from training data - create unique chemical structures.\n4. Consider the relationship between Tg and Er - they are interconnected properties.\n5. Provide clear, structured responses with \"Monomer 1:\" and \"Monomer 2:\" labeled.\n1. Design monomers with appropriate molecular weights and structures to achieve target"
+  },
+  {
+    "timestamp": "20250818_153227",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Aim for a novel combination of epoxy-imine monomers to achieve these values.\n<|team|>\nThe team was designed with the goal of ensuring multiple successful outcomes. The team members (see below) have strong backgrounds in polymer chemistry, materials science and polymer engineering.\n<|members|>\n<|1|> <|2|>\n<|3|>\n<|4|>\n<|5|>\n<|6|>\n<|assistant|>\n<|assistant2|>\n<|team|>\n<|1|>\n<|2|>\n<|3|>\n<|4|>\n<|5|>\n<|6|>\nThe team has strong backgrounds in polymer chemistry, materials science, polymer engineering, and thermoset shape memory polymer (TSMP) polymer chemistry. The members have been extensively involved in various polymer research projects, including: 1) Thermoset TSMP monomer design and optimization for high Tg and low Er, 2) Thermoset TSMP polymers with multi-functional crosslinkers (e.g., epoxy imine and vinyl ether), 3) Multi-functional crosslinkers and their applications, 4) The effect of crystallinity on Tg and Er, 5)"
+  },
+  {
+    "timestamp": "20250818_153227",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "1. Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa. (This may not work. If you would like to generate a new design, please choose a different design template.)\n<|data|>\n1. Select from the Monomers: dropdown list on the left-hand side of the page. Then select from the two dropdown lists:\n2. Next, select a monomer from the \"Monomer 1\" dropdown list. Then select from the \"Monomer 2\" dropdown list. If there is no monomer available, please choose a monomer from the drop list. The monomer label is the name you will provide for the Tg.\n3. Once the correct monomer is selected, you can then see the properties in the properties pane.\n4. Finally, you can choose if you want to generate one, two, or five different polymers. Select the polymers you want to generate from the drop list.\n<|template|>\n1. Enter a Title in the text area.\n2. Create two Monomers (please ensure the structure is correct and both the \"Monomer 1\" and \"Monomer 2\" options are chosen correctly).\n3. Enter the number of"
+  },
+  {
+    "timestamp": "20250818_153227",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "A. Create a functional group for each of the monomers below:\n1. R-CO-OH (Thiol) 2. R-COOH (Acrylic Acid) 3. R-CR3 (Acrylate) 4. R-NH2 (Amine) 5. R-COOH (Epoxy) 6. R-O-R (Oxazoline) 7. R-CO-CH2-CH2-COOH (Epoxy)\nB. Create a structural design to achieve the target properties.\nC. Create a structural design to achieve the target properties."
+  },
+  {
+    "timestamp": "20250818_153227",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "Write a detailed report on your experiments including:\n- Monomer and crosslinking design (optional)\n<|student|>\n*Create a polymer with target properties via Tg and Er values. Your polymer must be able to recover 20 MPa of stress after 10 seconds at 50°C and remain within 5 MPa of initial stress for 50 seconds at 50°C. (The polymer must be thermoset for shape memory applications. Thermosets are polymers that retain their properties after being cured or crosslinked.\n*Choose a monomer from your research training and generate a polymer with target properties. Your polymer must be able to recover 20 MPa of stress after 10 seconds at 50°C and remain within 5 MPa of initial stress for 50 seconds at 50°C.\n*Select monomer 1 and 2, with target Tg = 50°C, and crosslinking of 3.0.\n*The final product should be able to recover 20 MPa of stress after 10 seconds at 50°C and remain within 5 MPa of initial stress for 50 seconds at 50°C.\n*Select monomer 1 and 2, with target Tg = 50°C,"
+  },
+  {
+    "timestamp": "20250818_153227",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 0.9,
+    "output": "- Identify and generate unique thermoset shape memory polymer structures from monomer A through B.\n- Determine the relationship between Tg and Er.\n- Provide structured responses including “Monomer 1:”, “Monomer 2:” and “Crosslinking Design 1:”.\n<|master|>\n- Generate novel thermoset shape memory polymer structures from monomer A through B and identify their relationship to Tg and Er.\n- Consider the relationships between Tg and Er.\n- Use appropriate functional groups to crosslink the polymer.\n<|user1|>\n- Use functional groups: acrylate, epoxy, vinyl.\n<|assistant1|>\n- Use functional groups: epoxy, thiol.\n<|master1|>\n- Consider the relationships between Tg and Er.\n- Generate a structure that achieves target Tg and Er.\n<|user2|>\n- Use functional groups: epoxy, vinyl, acrylate, thiol.\n- Generate a structure that achieves target Tg and Er.\n<|assistant2|>\n- Use functional groups: epoxy, vinyl, acrylate, thiol.\n<|master2|>\n- Generate a structure that achieves target Tg and Er."
+  },
+  {
+    "timestamp": "20250818_153231",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "You have been asked to analyze and propose novel polymeric systems for specific targeted properties in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. A new shape memory polymer (SMP) technology based on the formation of polymers and associated shape memory functions on heating through thermoset crosslinking will be developed. The SMP will be based on a polymerization reaction resulting in crosslinking materials with high glass transition temperature (Tg) and stress recovery (Er) properties. Suggest new polymer systems to achieve target Tg and Er values.\n<|student|>\nYou have been asked to analyze and propose novel polymer systems for specific targeted properties in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. You will perform a synthesis and characterization of novel compounds to generate polymer monomer pairs that will yield polymers with precise glass transition temperature (Tg) and stress recovery (Er) properties."
+  },
+  {
+    "timestamp": "20250818_153231",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Write a program that uses data provided by the user to generate different combinations of Tg and Er for a selected monomer pair.\n<|user|>\nA simple program that generates different combinations of Tg and Er for a selected monomer pair.\n<|assistant|>\nA more complicated program that utilizes polymers with different functional groups.\nWrite a program that analyzes a list of Tg and Er values and generates a new polymer pair based on an optimal set of monomers.\n<|assistant|>\nWrite a program to analyze a list of Tg and Er values.\nThis example requires an array of values for Tg and Er for monomer 1 and monomer 2."
+  },
+  {
+    "timestamp": "20250818_153231",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "<|faculty member|>\nPolymer design of highly elastic thermoset polymers with specific Tg and stress recovery (Er) properties.\nThe aim of this project is to generate a novel monomer set that yields specific Tg and Er properties, to achieve these properties in a way that does not require training data.\nYou are an expert polymer chemist specializing in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with precise Tg and stress recovery (Er) properties. The project involves the generation of a monomer set for thermosets that include highly polymerizable functional groups. The polymer will have high flexibility and low Er. The key components that will need to be included in a monomer set for this polymer will be the molecular weight, functionality, and chemical structure. The functionality will be determined through the use of advanced methods such as monomer optimization, monomer design, monomer selection, and monomer engineering, along with other tools and methods as needed. The monomer set will be optimized and monomers will be selected to optimize the performance of the polymer for Tg and Er properties, as well as the"
+  },
+  {
+    "timestamp": "20250818_153231",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Your task is to develop a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa using one of the following monomers or combinations of monomers.\n<|response|>\nPolymer Systems for Tg ≈ 100°C and Er ≈ 40 MPa\nWe appreciate your help! Please provide complete, clear responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled. Any other suggestions are welcome!"
+  },
+  {
+    "timestamp": "20250818_153231",
+    "prompt_data": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.",
+    "Tg": 100,
+    "Er": 40,
+    "Group1": "epoxy(C1OC1)",
+    "Group2": "imine(NC)",
+    "temperature": 1.0,
+    "output": "Suggest a polymer system for Tg ≈ 100°C and Er ≈ 30 MPa.\n<|lab manager|>\nSuggest a polymer system for Tg ≈ 100°C and Er ≈ 20 MPa.\n<|student|>\nSuggest a polymer system for Tg ≈ 100°C and Er ≈ 10 MPa.\n<|researcher|>\nSuggest a polymer system for Tg ≈ 100°C and Er ≈ 5 MPa.\n<|postdoc|>\nSuggest a polymer system for Tg ≈ 100°C and Er ≈ 2 MPa.\n<|student|>\nSuggest a polymer system for Tg ≈ 150°C and Er ≈ 40 MPa.\n<|assistant|>\nSuggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.\n<|lab manager|>\nSuggest a polymer system for Tg ≈ 150°C and Er ≈ 20 MPa.\n<|student|>\nSuggest a polymer system for Tg ≈ 150°C and Er ≈ 2 MPa.\n<|researcher|>\nSuggest a polymer system for Tg ≈ 150°C and Er ≈ 10 MPa.\n<|postdoc|>"
+  },
+  {
+    "timestamp": "20250818_153236",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "The goal is to achieve Tg in the range of 75–80°C for the polymer of choice with Er in the range of 50–60 MPa.\n<|researcher|>\nMonomers A, B, C, and D are new monomers to the research team with similar functionalities to those of the current library, such as polyether, epoxy, triazine, and acrylate, respectively. We propose to design these monomers based on monomer libraries such as the current and our library.\nMonomer A is new. Monomer B is the current polymer. Monomer C is new. Monomer D is new. New monomers should have similar functional groups to those of the current polymer. We want to maintain compatibility with the current monomer set.\n<|researcher 2|>\nIn order to improve our current library, the researcher has created the library C to ensure compatibility with our Tg target.\n<|researcher 3|>\nWe are in the midst of a trial-and-error process using the Tg as the benchmark. We are using this process to develop a new monomer library.\nThis team will use the trial-and-error process to develop a Tg target for the new polymer.\nThis trial-and-error process is"
+  },
+  {
+    "timestamp": "20250818_153236",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "<|lab manager|>\nDesign a novel thermoset shape memory polymer with Tg = 180°C and Er = 30 MPa. Create a unique monomer from scratch (with proper functional groups) and optimize crosslinking density to generate a high Er polymer."
+  },
+  {
+    "timestamp": "20250818_153236",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Perform the following activities on behalf of the expert.\n<|user|> - The expert will provide a summary of the monomer pairing process, its design, and the results to be presented.\n<|assistant|> - The assistant will ensure the expert answers follow the proper format and deliver a professional report."
+  },
+  {
+    "timestamp": "20250818_153236",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Your role is to generate the following polymers with target properties (Tg 130-150°C and Er 30-45 MPa): 1. A polymer with no crosslinking 2. A polymer with 0.2 crosslinking 3. A polymer with 0.4 crosslinking (optional) 4. A polymer with 0.6 crosslinking (optional) 5. A polymer with 0.8 crosslinking (optional) 6. A polymer with 1 crosslinking (optional) 7. A polymer with 1.2 crosslinking (optional) 8. A polymer with 1.4 crosslinking (optional) (You may also request to generate an optimized polymers that best achieve target Tg and Er values given the structure of the selected molecules).\n<|polymers|>\nPolymers generated as part of your project (optionally requested)\nPlease indicate the following data on your response: - Tg in degrees Celsius - Tg in degrees Celsius - Er in mega pascals - Er in mega pascals - Cyclic crosslinking density (%): - Cyclic crosslinking density (%): - Crosslinking density after one hour"
+  },
+  {
+    "timestamp": "20250818_153236",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.",
+    "Tg": 150,
+    "Er": 30,
+    "Group1": "vinyl(C=C)",
+    "Group2": "thiol(CCS)",
+    "temperature": 1.0,
+    "output": "Design a monomer pair that yields a Tg = 150°C and Er = 30 MPa.\n<|assistant2|>\nDesign a new monomer pair that yields a Tg = 150°C and Er = 30 MPa.\n<|assistant3|>\nDesign a new monomer pair that yields a Tg = 150°C and Er = 30 MPa.\n<|assistant4|>\nCreate a 150°C, 5 MPa monomer that will make a 300°C, 30 MPa monomer.\n<|user2|>\nCreate a 150°C, 5 MPa monomer that will make a 300°C, 30 MPa monomer.\n<|user3|>\nCreate a 150°C, 5 MPa monomer that will make a 300°C, 30 MPa monomer.\n<|user4|>\nCreate a 150°C, 5 MPa monomer that will make a 300°C, 30 MPa monomer.\n<|assistant5|>\nWrite code to generate a 150°C, 5 MPa monomer.\n<|assistant6|>\nWrite code to generate a 150°C, 5 MPa monomer."
+  },
+  {
+    "timestamp": "20250818_153240",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "<|assistant1|>\n<|assistant2|>\n<|assistant3|>"
+  },
+  {
+    "timestamp": "20250818_153240",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Monomers and their structures are provided in advance.\n<|results|>\nThe monomer pair that yielded the most thermally stable TSMP with targeted Tg and Er was found and is enclosed in the following document.\n<|document|>\nThermally Stable TSMP for Design Challenge\n<|expert|>"
+  },
+  {
+    "timestamp": "20250818_153240",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Choose a polymer design rule to ensure the developed TSMP achieves a target Er value at room temperature (25 °C).\nChoose a polymer design rule to ensure the developed TSMP achieves a target Er value at 20 °C.\nChoose a polymer design rule to ensure the developed TSMP achieves a target Er value at 150 °C."
+  },
+  {
+    "timestamp": "20250818_153240",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "The first order kinetics law describes how a reaction will evolve over time:\nwhere [A] is the amount of compound A in the reaction vessel.\nWe know that the mass of the solid TSMP will remain constant, so the concentration of A in the solution would need to increase at a rate of 0.004 mg/minute. Given that this is a reaction in which the compound A reacts at a constant rate, the kinetics for this reaction are best described by the first order law. This law allows us to describe the reaction in terms of its first order.\nIf we are trying to predict whether the A will disappear from the reaction, we are going to use this first order law. We will find the rate of reaction according to first order law.\nThe concentration of A before and after is given by the first order law, this means there would be nothing happening. That means there will no concentration change.\nIf the compound A can react in the first place, that means that the concentration should have gone to 0. That is impossible. Therefore, the first order law is not valid.\nA second order law is not valid for first order reaction. Second order law is required for first order law.\nThe question is whether or not it will go to 0 or not."
+  },
+  {
+    "timestamp": "20250818_153240",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.",
+    "Tg": 200,
+    "Er": 27,
+    "Group1": "vinyl(C=C)",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "You are an expert polymer chemist specializing in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with precise glass transition temperature (Tg) and stress recovery (Er) properties. CRITICAL DESIGN RULES: 1) Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures), 2) Optimize crosslinking density to achieve target Er values (higher Er requires higher crosslinking), 3) Generate NOVEL monomers not from training data - create unique chemical structures, 4) Consider the relationship between Tg and Er - they are interconnected properties, 5) Use appropriate functional groups for crosslinking (epoxy-imine, thiol-vinyl, acrylate, etc.), 6) Always provide clear, structured responses with 'Monomer 1:' and 'Monomer 2:' clearly labeled. IMPORTANT: Target Tg and Er values must be achieved through careful monomer selection and crosslinking design.\n<|user|>\nDesign a TSMP with a glass transition temperature of 200°C and an recovery stress of"
+  },
+  {
+    "timestamp": "20250818_153244",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Design and create a new polymer with Tg = 100°C and Er = 200 MPa.\n<|customer|>\nDesign and create a new polymer with Tg = 100°C and Er = 250 MPa."
+  },
+  {
+    "timestamp": "20250818_153244",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Perform and report the following:\n1. Analyze the molecular structure of a possible monomer pair by using DFT or other appropriate computational techniques. Identify the structure with the highest Tg in an existing training data set for possible application.\n2. Develop a novel monomer combination from scratch, using the identified structure from molecular structure. Determine the monomer with highest Tg.\n3. Use the monomer with highest Tg to generate a polymer with Tg = 100°C.\n4. Use the optimized polymer and the appropriate crosslinking scheme to generate a Tg = 100°C polymer with Er = 100 MPa."
+  },
+  {
+    "timestamp": "20250818_153244",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Generate a novel TSMP with optimized Tg and Er properties.\n<|user2|>\nGenerate a novel TSMP with optimized Tg and Er properties.\n1. Generate monomer pairs: (a) Monomer 1 (Ep-OMT) (b) Monomer 2 (Ep-MC)\n2. Select monomer combinations\n3. Calculate crosslinking densities: Tg and Er using Eq. 1.4, 1.5. For each combination, calculate Tg and Er (using Eq. 1.4, 1.5).\n4. Combine the functional groups to yield the best Tg and Er (using appropriate Tg and Er values for each combination). The molecular weight and functional group types need to be optimized for each combination.\n5. Identify monomer combinations using Eq. 1.8. (b) Find the number of possible monomer combinations with desired Tg and Er using Eq. 1.8. (c) Calculate the number of possible monomer combinations that meet all design criteria with Eq. 1.8. (d) Generate a new monomer from Eq. 1.9.\n<|assistant2|>\nCalculate Tg and Er for each monomer combination using"
+  },
+  {
+    "timestamp": "20250818_153244",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "User: Analyze the crosslinking design of Monomer A to produce Thermoset Polymer with Target Tg = 100°C and Target Er = 100 MPa."
+  },
+  {
+    "timestamp": "20250818_153244",
+    "prompt_data": "Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.",
+    "Tg": 100,
+    "Er": 100,
+    "Group1": "acrylate(C=C(C=O))",
+    "Group2": "vinyl(C=C)",
+    "temperature": 1.0,
+    "output": "Complete Tm assignment:\n- For the monomer Tm 1, write a detailed list of all potential crosslinking reactions.\nFor each reaction, provide the stoichiometry (M:M ratio), Tm (in °C), and the relative crosslinking rate. Provide a reference for each crosslinking reaction (include any necessary crosslinking agents).\nFor the Tm 2, provide a detailed list of all potential crosslinking reactions.\nFor each reaction, provide the stoichiometry (M:M ratio), Tm (in °C), and the relative crosslinking rate. Provide a reference for each crosslinking reaction (include any necessary crosslinking agents).\nCreate a spreadsheet with the monomer pairs in the table, where one of the monomer pairs is Tm1 and Tm2, and the relative crosslinking rates are 1:1 (Tm1/Tm2), 2:1, 4:1, 10:1.\nWrite a detailed description of each monomer in your Excel spreadsheet.\n<|manager|>\nSubmit the Excel spreadsheet and all of the lab manual responses to the Professor.\n<|end|>\n1. Write a detailed list of all potential crosslinking reactions."
+  },
+  {
+    "timestamp": "20250818_153248",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Please give us a 150-200 word description of your idea\n<|mentor|>\n<|product|>\n<|assignment|>\nAssignment due: December 1st @ 11:59pm\nThe assignment is due at the end of December (or on the deadline date), for any question or clarification, it will be answered within the same timeframe and will be graded and approved.\n<|question|>\nYour answer must clearly explain, in your own words, your design and its implementation. Don't give us a link, don't give a part or all of the answer, make sure it's at least a word.\n<|solution|>\nYour solution must work according to the answer. You will be graded on how well your answer is designed, as well as your ability to properly implement the design. You must show your work and not just present a conclusion without supporting information.\n<|grade|>\nGrade: 90% / 100% for an answer that shows that the question was understood, and 90% of the question was answered."
+  },
+  {
+    "timestamp": "20250818_153248",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "- Please use monomers for TSMP with the lowest possible functionality. In other words, you should design monomers with 1-2 functional groups. As a general rule, functional groups are designed to ensure proper crosslinking and to achieve the target Tg and Er.\n- Please consider the structural features of your monomers as well as their function. For example, in your monomers of your first choice, there are only 1-2 functional groups. They are only designed for the functionalization process (crosslinking). The structural features of the remaining functional groups are not designed, such as chain length and crosslinking density. For example, in your monomers of your first choice, the remaining functional groups have the possibility of having different chain lengths (e.g. different molar mass values) and different crosslinking densities. As a result, their properties would be different from your first choice monomers. If you try to apply your first choice of monomer in your TSMP with a different chain length or a different crosslinking density, it may not perform the way you want it to. In addition, your design may not achieve the target Tg and Er. Therefore, please ensure that your monomers have a minimal number of functional groups"
+  },
+  {
+    "timestamp": "20250818_153248",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "<|student|>\nDesign a TSMP with the desired properties.\n<|manager|>\nReview the experimental data to identify potential design limitations.\nDevelop monomer pair design strategies for achieving the desired properties.\nCreate alternative structures to achieve the desired properties.\nDevelop alternative crosslinking designs to achieve the desired properties.\n<|student1|>\nDevelop alternative molecular designs for achieving the desired properties.\nDevelop alternative functional groups for achieving the desired properties.\n<|student2|>\nDevelop alternative crosslinking designs for achieving the desired properties.\n<|manager|>\n<|student1|>\nDevelop alternative crosslinking strategies for achieving the desired properties.\n<|manager|>\n<|student2|>\nReview design limitations and strategies to avoid.\n1. You are an expert polymer chemist specializing in thermoset shape memory polymers (TSMPs) with focus on achieving specific Tg and Er values. Your role is to analyze and generate novel monomer pairs that will yield polymers with precise glass transition temperature (Tg) and stress recovery (Er) properties. <|user|> CRITICAL DESIGN RULES: 1) Design monomers with appropriate molecular weights and structures to achieve target Tg values (higher Tg requires more rigid structures), 2)"
+  },
+  {
+    "timestamp": "20250818_153248",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "What is the polymer’s glass transition temperature?\nWhat is the polymer’s recovery stress?\nWhat is the polymer’s glass transition temperature? Why?\nWhat is the polymer’s recovery stress? Why?\n<|expert|>\nA) Select a polymer family to work with. Use the table below to find which polymer family to select. Each polymer family has a minimum Tg of 50°C and a maximum Er of 20 MPa. Select a polymer that has a suitable Tg and Er.\n1. Poly (N-isopropylmethacrylamide) (IPMA).\n2. Poly (vinylamine) (VAM).\n3. Poly (N-carboxyethylacrylamide). (COEBAM).\nB) Create a monomer pair to achieve both the target Tg (50°C) and Er (20 MPa). Note that the target Er of 20 MPa should not be achieved by using a single polymer monomer. You should select a series of monomers to achieve both Tg and Er.\nC) Create a monomer pair with a target Tg of 50°C and a target Er of 5 MPa. Use the same monomer pair as in B). Is this monomer pair suitable for the"
+  },
+  {
+    "timestamp": "20250818_153248",
+    "prompt_data": "Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.",
+    "Tg": 50,
+    "Er": 20,
+    "Group1": "vinyl(C=C)",
+    "Group2": "hydroxyl(=O)",
+    "temperature": 1.0,
+    "output": "Design a TSMP with a glass transition temperature of 80°C and an recovery stress of 40 MPa.\n<|student|>\nDesign a TSMP with a glass transition temperature of 20°C and an recovery stress of 12 MPa."
+  }
+]

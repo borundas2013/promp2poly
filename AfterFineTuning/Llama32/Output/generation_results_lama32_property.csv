@@ -1,0 +1,376 @@
+SL,Monomer 1,Monomer 2,Output_text,Group1,Group2,Temperature,Tg,Er,Prompt
+1,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+2,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+3,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+4,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+5,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+6,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.
+7,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CC(=O)OCCCC,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=CC(=O)OCCCC",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.
+8,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.
+9,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.
+10,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.3,150,30,Design a TSMP with a glass transition temperature of 150°C and an recovery stress of 30 MPa.
+11,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.
+12,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=CC(=O)OCCCC,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=CC(=O)OCCCC",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.
+13,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.
+14,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.
+15,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a polymer system for Tg ≈ 200°C and Er ≈ 27 MPa.
+16,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+17,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+18,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+19,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+20,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCOCC(CO)(COCC=C)COCC=C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+21,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.
+22,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,C=CCOCC(CO)(COCC=C)COCC=C,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.
+23,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.
+24,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.
+25,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.3,50,20,Generate a thermoset shape memory polymer with Tg = 50°C and Er = 20 MPa.
+26,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOC(=O)C(C)=O,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(C)=O",epoxy(C1OC1),imine(NC),0.5,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+27,CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4
+Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.5,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+28,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,Nc2ccc(Cc1ccc(N)cc1)cc2,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2",epoxy(C1OC1),imine(NC),0.5,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+29,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CCCCCCCCCCN,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CCCCCCCCCCN",epoxy(C1OC1),imine(NC),0.5,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+30,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",epoxy(C1OC1),imine(NC),0.5,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+31,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),thiol(CCS),0.5,150,30,Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.
+32,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=CC(=O)OCCCC,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=CC(=O)OCCCC",vinyl(C=C),thiol(CCS),0.5,150,30,Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.
+33,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS,"Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS",vinyl(C=C),thiol(CCS),0.5,150,30,Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.
+34,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CCCCCCCCCCN,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CCCCCCCCCCN",vinyl(C=C),thiol(CCS),0.5,150,30,Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.
+35,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.5,150,30,Generate a thermoset shape memory polymer with Tg = 150°C and Er = 30 MPa.
+36,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.5,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+37,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CCCCCCCCCCCCCCCN,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CCCCCCCCCCCCCCCN",vinyl(C=C),vinyl(C=C),0.5,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+38,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.5,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+39,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,Nc2ccc(Cc1ccc(N)cc1)cc2,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2",vinyl(C=C),vinyl(C=C),0.5,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+40,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,Nc2ccc(Cc1ccc(N)cc1)cc2,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2",vinyl(C=C),vinyl(C=C),0.5,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+41,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CCCCCCCCCCCCCCCN,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CCCCCCCCCCCCCCCN",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+42,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+43,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+44,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+45,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+46,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCOCC(CO)(COCC=C)COCC=C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+47,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+48,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+49,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+50,CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4,Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4
+Monomer 2: Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+51,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+52,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+53,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+54,C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2,Nc2ccc(SSc1ccc(N)cc1)cc2,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2
+Monomer 2: Nc2ccc(SSc1ccc(N)cc1)cc2",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+55,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,NCCOCCOCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: NCCOCCOCCN",epoxy(C1OC1),imine(NC),0.7,100,40,Suggest a polymer system for Tg ≈ 100°C and Er ≈ 40 MPa.
+56,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+57,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+58,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 150°C and Er ≈ 30Mpa:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N",vinyl(C=C),thiol(CCS),0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+59,C=CCOC(CC)(CO)CO,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=CCOC(CC)(CO)CO
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O",vinyl(C=C),thiol(CCS),0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+60,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3",vinyl(C=C),thiol(CCS),0.7,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+61,C=CC(=O)OCCCC,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=CC(=O)OCCCC
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.7,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+62,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,Nc2cccc(S(=O)(=O)c1cccc(N)c1)c2,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: Nc2cccc(S(=O)(=O)c1cccc(N)c1)c2",vinyl(C=C),vinyl(C=C),0.7,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+63,C=CC(=O)OCCCC,C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O,"Here's a TSMP that matches your request:
+Monomer 1: C=CC(=O)OCCCC
+Monomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O",vinyl(C=C),vinyl(C=C),0.7,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+64,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.7,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+65,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS",vinyl(C=C),vinyl(C=C),0.7,200,27,Design a TSMP with a glass transition temperature of 200°C and an recovery stress of 27 MPa.
+66,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=CCOCC(CO)(COCC=C)COCC=C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+67,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,CCCCCCCCCN,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: CCCCCCCCCN",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+68,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,CCCCCCCCCCN,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: CCCCCCCCCCN",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+69,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,CCCCCCCCCCCCCCCN,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: CCCCCCCCCCCCCCCN",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+70,C=CCOC(CC)(CO)CO,C=CCOCC(CO)(COCC=C)COCC=C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=CCOC(CC)(CO)CO
+Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+71,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,Nc2ccc(Cc1ccc(N)cc1)cc2,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+72,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+73,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=CCOCC(CO)(COCC=C)COCC=C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+74,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+75,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+76,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=CCOC(CC)(CO)CO,"Here's a pair of monomers fulfilling the criteria of Tg = 100°C, Er = 40Mpa, and one being more rigid than the other:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=CCOC(CC)(CO)CO",epoxy(C1OC1),imine(NC),0.9,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+77,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",epoxy(C1OC1),imine(NC),0.9,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+78,CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6
+Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.9,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+79,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,NCc1cccc(CN)c1,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: NCc1cccc(CN)c1",epoxy(C1OC1),imine(NC),0.9,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+80,CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6,Nc2cccc(S(=O)(=O)c1cccc(N)c1)c2,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:
+Monomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6
+Monomer 2: Nc2cccc(S(=O)(=O)c1cccc(N)c1)c2",epoxy(C1OC1),imine(NC),0.9,100,40,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 40 MPa.
+81,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+82,C1OC1COC3COC4C(OC2CO2)COC34,NCCCOCCOCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C1OC1COC3COC4C(OC2CO2)COC34
+Monomer 2: NCCCOCCOCCCN",vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+83,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"Based on your requirements, I suggest the following monomers:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+84,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2",vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+85,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4",vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+86,C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C,Nc1cccc(N)c1,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C
+Monomer 2: Nc1cccc(N)c1",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+87,CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4
+Monomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+88,CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:
+Monomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+89,C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,"Here's a TSMP that matches your request:
+Monomer 1: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1
+Monomer 2: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+90,CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4
+Monomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),vinyl(C=C),0.9,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+91,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+92,C=Cc1ccccc1,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=Cc1ccccc1
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+93,Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4,Nc1cccc(N)c1,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4
+Monomer 2: Nc1cccc(N)c1",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+94,C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4,O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC=C)ccc2OCC3CO3)c4
+Monomer 2: O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+95,C=COC(=O)CCCCCC(C)(C)C,C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O,"Here's a TSMP that matches your request:
+Monomer 1: C=COC(=O)CCCCCC(C)(C)C
+Monomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 100 MPa.
+96,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,CC1(C)CC(N)CC(C)(CN)C1,"Sure! Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4
+Monomer 2: CC1(C)CC(N)CC(C)(CN)C1",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+97,C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+98,CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+99,CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4,CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OCCOCC1CO1)cc2)c4ccc(OCCOCC3CO3)cc4
+Monomer 2: CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+100,CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6
+Monomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)N",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a TSMP with a glass transition temperature of 50°C and an recovery stress of 20 MPa.
+101,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=Cc1cccc(C=C)c1,"Here's a TSMP that matches your request:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=Cc1cccc(C=C)c1",epoxy(C1OC1),imine(NC),1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+102,C=CC(=O)OCCCC,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:
+Monomer 1: C=CC(=O)OCCCC
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",epoxy(C1OC1),imine(NC),1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+103,C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2,O=C(OCC1CO1)C1,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 40Mpa:
+Monomer 1: C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2
+Monomer 2: O=C(OCC1CO1)C1",epoxy(C1OC1),imine(NC),1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+104,c3cc(N(CC1CO1)CC2CO2)ccc3OCC4CO4,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3OCC4CO4
+Monomer 2: COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)N",epoxy(C1OC1),imine(NC),1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+105,C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"Here's a TSMP that matches your request:
+Monomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",epoxy(C1OC1),imine(NC),1,100,40,Generate a thermoset shape memory polymer with Tg = 100°C and Er = 40 MPa.
+106,CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4,Nc1cccc(N)c1,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4
+Monomer 2: Nc1cccc(N)c1",vinyl(C=C),thiol(CCS),1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+107,CC(C/C=C\CC(=O)OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)C(=O)OCC(O)COc6ccc(C(C)(C)c5ccc(OCC4CO4)cc5)cc6,CCc1cc(C)c(N)c(CC)c1N,"Here's a TSMP that matches your request:
+Monomer 1: CC(C/C=C\CC(=O)OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)C(=O)OCC(O)COc6ccc(C(C)(C)c5ccc(OCC4CO4)cc5)cc6
+Monomer 2: CCc1cc(C)c(N)c(CC)c1N",vinyl(C=C),thiol(CCS),1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+108,CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6,CCCCCCCCCCCCCCCN,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(C4CCC(OCC(O)COC3CCC(C(C)(C)C2CCC(OCC1CO1)CC2)CC3)CC4)C6CCC(OCC5CO5)CC6
+Monomer 2: CCCCCCCCCCCCCCCN",vinyl(C=C),thiol(CCS),1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+109,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,CCCCCCCCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: CCCCCCCCCCN",vinyl(C=C),thiol(CCS),1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+110,Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4,CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N,"Based on your requirements, I suggest the following monomers:
+Monomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4
+Monomer 2: CCC(COCC(C)COCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N",vinyl(C=C),thiol(CCS),1,150,30,Suggest a polymer system for Tg ≈ 150°C and Er ≈ 30 MPa.
+111,CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4,CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:
+Monomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4
+Monomer 2: CCC(COCC(C)OCC(C)N)(COCC(C)OCC(C)N)COCC(C)OCC(C)N",vinyl(C=C),vinyl(C=C),1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+112,CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4,NCCOCCOCCN,"Here's a TSMP that matches your request:
+Monomer 1: CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4
+Monomer 2: NCCOCCOCCN",vinyl(C=C),vinyl(C=C),1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+113,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+Monomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4",vinyl(C=C),vinyl(C=C),1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+114,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,C=Cc1cccc(C=C)c1,"Here's a TSMP that matches your request:
+Monomer 1: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+Monomer 2: C=Cc1cccc(C=C)c1",vinyl(C=C),vinyl(C=C),1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+115,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2,"Here is a TSMP designed for Tg ≈ 200°C and Er ≈ 27Mpa:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2",vinyl(C=C),vinyl(C=C),1,200,27,Generate a thermoset shape memory polymer with Tg = 200°C and Er = 27 MPa.
+116,CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC)OC(=O)CCCCCCCC5OC5CC6OC6CC7OC7CC,NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CC3OC3CC4OC4CC)OC(=O)CCCCCCCC5OC5CC6OC6CC7OC7CC
+Monomer 2: NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+117,CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4,NCc1cccc(CN)c1,"Here's a TSMP that matches your request:
+Monomer 1: CC(COc3ccc(C(C)(C)c2ccc(OCC(C)OCC1CO1)cc2)cc3)OCC4CO4
+Monomer 2: NCc1cccc(CN)c1",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+118,C=CCOC(CC)(CO)CO,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C and Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C,"Here is a TSMP designed for Tg ≈ 100°C and Er ≈ 100Mpa:
+Monomer 1: C=CCOC(CC)(CO)CO
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C and Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+119,C=CC(=O)OC(C)(C)C,C=CCOCC(CO)(COCC=C)COCC=C,"Sure! Here's a TSMP that matches your request:
+Monomer 1: C=CC(=O)OC(C)(C)C
+Monomer 2: C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+120,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Great choice of properties and groups. Here's a compatible monomer pair:
+Monomer 1: C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a TSMP with a glass transition temperature of 100°C and an recovery stress of 100 MPa.
+121,CC(C/C=C\CC(=O)OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)C(=O)OCC(O)COc6ccc(C(C)(C)c5ccc(OCC4CO4)cc5)cc6,O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS,"Here's a TSMP that matches your request:
+Monomer 1: CC(C/C=C\CC(=O)OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)C(=O)OCC(O)COc6ccc(C(C)(C)c5ccc(OCC4CO4)cc5)cc6
+Monomer 2: O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+122,c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7,Nc2ccc(SSc1ccc(N)cc1)cc2,"Based on your requirements, I suggest the following monomers:
+Monomer 1: c1ccc3c(c1)c2ccccc2C3(c5ccc(OCCOCC4CO4)cc5)c7ccc(OCCOCC6CO6)cc7
+Monomer 2: Nc2ccc(SSc1ccc(N)cc1)cc2",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+123,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N,"Here is a TSMP designed for Tg ≈ 50°C and Er ≈ 20Mpa:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: CC(N)COCC(C)OCC(C)OCC(C)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)N",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+124,c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6,CCCCCCCCCCCCCCCN,"Based on your requirements, I suggest the following monomers:
+Monomer 1: c3cc(N(CC1CO1)CC2CO2)ccc3Cc6ccc(N(CC4CO4)CC5CO5)cc6
+Monomer 2: CCCCCCCCCCCCCCCN",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.
+125,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4,Nc2ccc(Cc1ccc(N)cc1)cc2,"Based on your requirements, I suggest the following monomers:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCC3CO3)cc4
+Monomer 2: Nc2ccc(Cc1ccc(N)cc1)cc2",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a polymer system for Tg ≈ 50°C and Er ≈ 20 MPa.

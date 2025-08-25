@@ -1,0 +1,283 @@
+SL,Monomer 1,Monomer 2,Output_text,Group1,Group2,Temperature,Tg,Er,Prompt
+1,C1OC1,NCCCOCCOCCCN,"The specified monomers match the following chemical groups:
+- C1OC1 in Monomer 1: C1OC1
+- NC in Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+2,Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4,NCCCOCCOCCCN,"The specified monomers match the following chemical groups:
+- C1OC1 in Monomer 1: Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC4CO4
+- NC in Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+3,C1OC1,NCCCOCCOCCCN,"The specified monomers match the following chemical groups:
+- C1OC1 in Monomer 1: C1OC1
+- NC in Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+4,C1OC1,NCCCOCCOCCCN,"The specified monomers match the following chemical groups:
+- C1OC1 in Monomer 1: C1OC1
+- NC in Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+5,C1OC1,NCCCOCCOCCCN,"The specified monomers match the following chemical groups:
+- C1OC1 in Monomer 1: C1OC1
+- NC in Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.3,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+6,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2:
+C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.3,150,30,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes thiol(CCS) in monomer2."
+7,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2:
+C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.3,150,30,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes thiol(CCS) in monomer2."
+8,C=C,C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O,"The first chemical group appears in monomer 1:
+C=C in position 3
+The second chemical group appears in monomer 2:
+C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O",vinyl(C=C),thiol(CCS),0.3,150,30,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes thiol(CCS) in monomer2."
+9,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2:
+C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.3,150,30,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes thiol(CCS) in monomer2."
+10,N/A,N/A,"The first chemical group appears in monomer 1:
+C=C in position 3
+The second chemical group appears in monomer 2:
+C=C(CCS) in position 3",vinyl(C=C),thiol(CCS),0.3,150,30,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes thiol(CCS) in monomer2."
+11,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The first chemical group in monomer 1 is C=C, the second one is C=C. The perfect match is:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+12,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The first chemical group in monomer 1 is C=C, the second one is C=C. The perfect match is:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+13,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The first chemical group in monomer 1 is C=C, the second one is C=C. The perfect match is:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+14,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,"The first chemical group in monomer 1 is C=C, the second one is C=C. The perfect match is:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+15,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=Cc1cccc(C=C)c1,"The first chemical group in monomer 1 is C=C, the second one is C=C. The perfect match is:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=Cc1cccc(C=C)c1",vinyl(C=C),vinyl(C=C),0.3,200,27,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+16,N/A,N/A,The specified monomers are not sufficient monomers for TS design. Please specify more than two monomers.,acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+17,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,"The following monomers are suitable for crosslinking:
+Monomer 1 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C): C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+18,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCOCC(CO)(COCC=C)COCC=C,"The following monomers match the functional group profile for your PS polymer. Please customize with other groups if needed:
+Monomer 1 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C): C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+19,N/A,N/A,"The first monomer contains C=C(C=O) groups, the second monomer contains C=C groups.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+20,N/A,N/A,"The first monomer contains C=C(C=O) groups, the second monomer contains C=C groups.",acrylate(C=C(C=O)),vinyl(C=C),0.3,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+21,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(=O)C(=C)C,"The specified monomers feature:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(=O)C(=C)C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+22,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,(C=C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(=O)C(=C)C),"The specified monomers feature:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(=O)C(=C)C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+23,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,(C=C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"The specified monomers match the following chemical groups:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+24,N/A,N/A,The first chemical group (C=C) in MONOMER 1 isn't available. Please choose another one.,vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+25,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O,"The specified monomers feature:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=COCC=CO): C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O",vinyl(C=C),hydroxyl(=O),0.3,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+26,C1OC1COC3COC4C(OC2CO2)COC34,NCCNCCN,"The first chemical group appears in monomer 1:
+C1OC1COC3COC4C(OC2CO2)COC34
+The second chemical group appears in monomer 2:
+NCCNCCN",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+27,C1OC1COC3COC4C(OC2CO2)COC34,NCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"The first chemical group appears in monomer 1:
+C1OC1COC3COC4C(OC2CO2)COC34 and in monomer 2:
+NCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+28,N/A,N/A,The first chemical structure is not from scientific data - it's not necessarily chemical. The second chemical structure is commonly used in chemistry. Please define your TSMPs using appropriate functional groups.,epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+29,C1OC1COC3COC4C(OC2CO2)COC34,NCCCOCCOCCCN,"The first chemical group appears in monomer 1:
+C1OC1COC3COC4C(OC2CO2)COC34
+The second chemical group appears in monomer 2:
+NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+30,C1OC1COC3COC4C(OC2CO2)COC34,NCc1cccc(CN)c1,"The first chemical group appears in monomer 1:
+C1OC1COC3COC4C(OC2CO2)COC34 and in monomer 2:
+NCc1cccc(CN)c1You asked for a TSMP: a thermoset polymer system where one group appears in monomer 1 and the other group appears in monomer 2. Here's a possible combination:
+C1OC1COC3COC4C(OC2CO2)COC34: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+NCc1cccc(CN)c1You asked for a TSMP: a thermoset polymer system where one group appears in monomer 1 and the other group appears in monomer 2. Here's a possible combination:
+C1OC1COC3COC4C(OC2CO2)COC34: C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3",epoxy(C1OC1),imine(NC),0.5,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+31,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The following monomers are available for use:
+monomer1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+32,N/A,N/A,The monomer with 'C=C' in it will work best.,vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+33,N/A,N/A,"The first monomer includes C=C groups, while the second monomer includes CCS groups. What would be a good combination for crosslinking?",vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+34,N/A,N/A,Your polymer system includes monomers with groups suitable for crosslinking. Please generate another one.,vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+35,N/A,N/A,Your polymer system includes monomers with groups suitable for crosslinking. Please generate another one.,vinyl(C=C),thiol(CCS),0.5,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+36,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2:
+C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+37,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+38,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1,"To meet the functional group constraints of C=C and C=C, I suggest this monomer combination:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+39,N/A,N/A,"The first monomer includes C=C groups, while the second monomer includes C=C groups. Please get your design in through the fireball!",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+40,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2:
+C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1",vinyl(C=C),vinyl(C=C),0.5,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+41,N/A,N/A,The first chemical group (C=C(C=O) or C=C) has not been included.,acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+42,C=C(C=O),C=C,"The first chemical group in monomer 1 is C=C(C=O), the second one is C=C. Please select a different group.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+43,N/A,N/A,This monomer pair includes groups commonly used for thermoset shape memory polymers (TSMPs). The first monomer contains C=C(C=O) groups while the second contains C=C groups. Please note that not all monomers may be available.,acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+44,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=Cc1cccc(C=C)c1,"For the target functional group profile [C=C(C=O)]s and [C=C]s, try this combination:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=Cc1cccc(C=C)c1",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+45,N/A,N/A,"This monomer pair includes groups commonly used for thermoset shape memory polymers (TSMPs). The first monomer contains C=C(C=O) groups for crosslinking, while the second contains C=C groups for crosslinking. Please contact us about your needs.",acrylate(C=C(C=O)),vinyl(C=C),0.5,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+46,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,(C=COCC=C)OCC=COC(=O)C(=C)C,"This monomer pair includes groups commonly used for polymer formation:
+monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2 (C=COCC=C)OCC=COC(=O)C(=C)C: C=C(C)=O C=C(C)=O C=C(C)=O C=C(C)=O C=C(C)=O C=C(C)C=COC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+47,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,(C=C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"The specified monomers feature:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+48,N/A,N/A,We can help you design with other groups as well.,vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+49,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The following monomers are suitable for crosslinking:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+50,N/A,N/A,The first chemical group (C=C) in MONOMER 1 isn't available. Please choose another one.,vinyl(C=C),hydroxyl(=O),0.5,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+51,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,NCc1cccc(CN)c1,"For the target property values 'Tg 62°C' and 'Er 20Mpa', using this monomer combination:
+Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2: NCc1cccc(CN)c1",epoxy(C1OC1),imine(NC),0.7,100,40,Design a thermoset shape memory polymer using monomers that include epoxy(C1OC1) in monomer1 and imine(NC) in monomer2.
+52,N/A,N/A,Your polymer system includes monomers with groups suitable for crosslinking.,epoxy(C1OC1),imine(NC),0.7,100,40,Design a thermoset shape memory polymer using monomers that include epoxy(C1OC1) in monomer1 and imine(NC) in monomer2.
+53,N/A,N/A,"The first monomer contains C1OC1 groups, the second monomer contains NC groups.",epoxy(C1OC1),imine(NC),0.7,100,40,Design a thermoset shape memory polymer using monomers that include epoxy(C1OC1) in monomer1 and imine(NC) in monomer2.
+54,Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC2CO2,CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,"The following monomers match the functional group profile for your PS formulation:
+Monomer 1 (C1OC1): Cc3cc(c2cc(C)c(OCC1CO1)c(C)c2)cc(C)c3OCC2CO2
+Monomer 2 (NC): CC(N)COCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N",epoxy(C1OC1),imine(NC),0.7,100,40,Design a thermoset shape memory polymer using monomers that include epoxy(C1OC1) in monomer1 and imine(NC) in monomer2.
+55,N/A,N/A,"The first monomer contains C1OC1 groups, the second monomer contains NC groups.",epoxy(C1OC1),imine(NC),0.7,100,40,Design a thermoset shape memory polymer using monomers that include epoxy(C1OC1) in monomer1 and imine(NC) in monomer2.
+56,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"You asked the polymer chemistry question:
+For the target Tg = 94°C and Er = 21Mpa, use monomers with this property value: monomer1:C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O and monomer2:C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+57,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,CCSOCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The following monomers match the required functional groups:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2 (CCS): CCSOCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+58,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS,"The first monomer includes C=C groups, while the second one includes CCS groups. Try this combination: monomer1 = C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C and monomer2 = CCCC(=O)OCC(CC)(COC(=O)CCS)COC(=O)CCS.",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+59,N/A,N/A,This polymer system includes monomers with groups suitable for thermoset shape memory applications. Next request one monomer.,vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+60,C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The first monomer contains C=C groups, while the second monomer contains CCS groups. Possible combinations are:
+Monomer 1: C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O
+Monomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.7,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+61,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+62,C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The first chemical group appears in monomer 1:
+C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3
+The second chemical group appears in monomer 2:
+C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+63,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"This chemical will not work with your targeted functionalities. Here's a different compound:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+64,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The first chemical group appears in monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+65,N/A,N/A,"For the target structure, are you more interested in the chemical groups we use or the physical properties we opt for?",vinyl(C=C),vinyl(C=C),0.7,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+66,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1,"Your polymer pair includes:
+Monomer 1: C=C(C=O) C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=CCOCC(COCC=C)(COCC=C)COC(=O)NCC1(C)CC(NC(=O)OCC(COCC=C)(COCC=C)COCC=C)CC(C)(C)C1",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+67,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCOCC(CO)(COCC=C)COCC=C,Your polymer must include both C=C(C=O) and C=C groups for proper crosslinking. Please design with this functionality in mind.,acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+68,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The following monomers match the functional group profile for your PS polymer. Are you interested in using other groups as well?
+Monomer 1 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C): C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+69,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C),C=Cc1cccc(C=C)c1,"The following monomers match the functional group profile for your shape memory polymer:
+Monomer 1 (C=C(C=O)): C=C(C=O)
+Monomer 2 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Can you come up with a better combination?",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+70,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,(O=C(O)OCC(CO)(COCC=C)COCC=C),"You asked the chemistry question, which could be used for chemical analysis. Here is a possible monomer pair:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=Cc1cccc(C=C)c1",acrylate(C=C(C=O)),vinyl(C=C),0.7,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+71,N/A,N/A,"Your polymer system includes monomers with groups suitable for crosslinking:
+monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2 (O=C(O)OCC(CO)(COCC=C)COCC=C) : C=C(C=C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+72,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4,The specified monomers do not match any available monomers. Please specify different monomers.,vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+73,N/A,N/A,"Here is a possible monomer pair for your shape memory polymer:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+74,C=C(C)C(=C)OCOCCOC(=O)C(=C)C,(O=C(O)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C),The specified monomers do not match any available forms. Please specify another pair.,vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+75,C1OC1,NCCCOCCOCCCN,"The specified monomers match the following chemical groups:
+Monomer 1 (C=C): C=C(C)C(=C)OCOCCOC(=O)C(=C)C
+Monomer 2 (O=C(O)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C): C=C(O)OCC(COC(=O)CC*S)(COC(=O)CC*S)COC(=O)CC*S",vinyl(C=C),hydroxyl(=O),0.7,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+76,N/A,N/A,"The specified monomers match the following chemical groups:
+- C1OC1 in Monomer 1: C1OC1
+- NC in Monomer 2: NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+77,N/A,N/A,"For the target molecule ""C1OC1 C1OC1"", I need monomers with this functionality: epoxy (C1OC1) and imine (NC). Could you suggest one?",epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+78,N/A,N/A,I've selected monomers with your desired functional groups.,epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+79,N/A,N/A,The given monomers match the requirements or or are close relatives.,epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+80,N/A,N/A,The given monomers are not sufficient to make any TSMPs. Please choose more than two monomers.,epoxy(C1OC1),imine(NC),0.9,100,40,Suggest a TSMP system with one monomer having epoxy(C1OC1) in monomer1 and the other featuring imine(NC) in monomer2.
+81,N/A,N/A,We can help you design with other groups as well.,vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.
+82,N/A,N/A,The first chemical group (C=C) in monomer 1 isn't available. Please choose another one.,vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.
+83,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCCCOC(=O)C(=C)C,"This monomer pair includes more than one type of group, not enough for make.",vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.
+84,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,The following monomers are suitable for crosslinking with epoxy-imine groups: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C and C=C(C)C(=O)OCCCCOC(=O)C(=C)C.,vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.
+85,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"This monomer pair includes groups commonly used for polymer chemistry:
+monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2 (CCS): C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),thiol(CCS),0.9,150,30,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring thiol(CCS) in monomer2.
+86,N/A,N/A,"The first compound includes C=C groups, while the second one does not.",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+87,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"Your chemical structure must include both C=C groups and C=C groups for proper functional group placement. For example:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+88,N/A,N/A,"The first chemical group appearing in each monomer is:
+- C=C in monomer 1
+- C=C in monomer 2",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+89,N/A,N/A,Could you suggest a good monomer pair for your polymer design?,vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+90,C=C(C=O)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4,"The first chemical group appears in monomer 1: C=C, C=C(C=O), C=C(C=O)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+The second chemical group appears in monomer 2: C=C(C=O), O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4",vinyl(C=C),vinyl(C=C),0.9,200,27,"Generate two monomers for a TSMP, ensuring one includes vinyl(C=C) in monomer1 and the other includes vinyl(C=C) in monomer2."
+91,C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2,C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2,"This chemical will work well with:
+C1OC1 in C1OC1 for monomer 1
+C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+92,C=CCc4ccc(OCC1CO1)c(c2cc(CC)c(CC2)C)c4,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"Here's a candidate monomer pair with one group eligible for TPX chemistry:
+Monomer 1: C=CCc4ccc(OCC1CO1)c(c2cc(CC)c(CC2)C)c4
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+93,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O,"The following monomers are suitable for crosslinking:
+Monomer 1 (C=C(C=O)): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C): C=CC(=O)OCCn1c(=O)n(CCOC(=O)C=C)c(=O)n(CCOC(=O)C=C)c1=O",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+94,N/A,N/A,"The first monomer contains C=C(C=O) groups, while the second one features C=C groups. Some groups may not be in the actual materials.",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+95,CC=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"To meet your requirements, I suggest this monomer combination:
+Monomer 1: CC=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",acrylate(C=C(C=O)),vinyl(C=C),0.9,100,100,Suggest a TSMP system with one monomer having acrylate(C=C(C=O)) in monomer1 and the other featuring vinyl(C=C) in monomer2.
+96,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS,"The specified monomers match the requirements for Tg = 62°C and Er = 34Mpa. Try this monomer combination:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+Monomer 2: O=c1n(CCS)c(=O)n(CCS)c(=O)n1CCS",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+97,N/A,N/A,"To create a shape memory polymer, need monomers with both vinyl (C=C) and hydroxyl groups. Could you suggest some?",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+98,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,(O=C(O)OCC(CO)(COCC=C)COCC=C) : C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O,"The following monomers match the desired functional group profile for your shape memory polymer:
+Monomer 1 (C=C): C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (O=C(O)OCC(CO)(COCC=C)COCC=C) : C=C(CCS)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+99,N/A,N/A,"Your design includes:
+136 monomers with 'C=C' in one monomer and 'O=' in the other
+One monomer is more than 10 characters long.",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+100,(C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2),(C=COC(=O)CCCCCC(C)(C)C),"This monomer pair includes more than one group for crosslinking:
+Monomer 1 (C=C(C)C(=O)OCC(O)COc2ccc(C(C)(C)c1ccc(OCC(O)COC(=O)C(=C)C)cc1)cc2) is considered for use.
+Monomer 2 (C=COC(=O)CCCCCC(C)(C)C) is considered for use.",vinyl(C=C),hydroxyl(=O),0.9,50,20,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and hydroxyl(=O) in monomer2.
+101,CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6,NCc1cccc(CN)c1,"Sure! Here's a possible monomer pair:
+Monomer 1: CC(C)(c4ccc(OCC(O)COc3ccc(C(C)(C)c2ccc(OCC1CO1)cc2)cc3)cc4)c6ccc(OCC5CO5)cc6
+Monomer 2: NCc1cccc(CN)c1",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+102,N/A,N/A,This monomer is not available. Please choose another one.,epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+103,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O,NCCCOCCOCCCN,"The first chemical group appears in monomer 1:
+C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)=O
+The second chemical group appears in monomer 2:
+NCCCOCCOCCCN",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+104,CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4,CC1(C)CC(N)CC(C)(CN)C1,"Here's a possible monomer pair for TSMP formation:
+-monomer 1: CC(C)(c2ccc(OC1CO1)cc2)c4ccc(OC3CO3)cc4
+-monomer 2: CC1(C)CC(N)CC(C)(CN)C1",epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+105,N/A,N/A,The first chemical structure is not from educational purposes and cannot be used for commercial purposes. Please input your own chemical structures.,epoxy(C1OC1),imine(NC),1,100,40,"Generate two monomers for a TSMP, ensuring one includes epoxy(C1OC1) in monomer1 and the other includes imine(NC) in monomer2."
+106,N/A,N/A,"You need a thermoset system with both Tg and Er properties close to 58°C and 73Mpa, using monomers like C=C(C=O) and C=C. Please create a training example.",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+107,C=C(C=O)Cc1ccc(=O)cc1,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,"The first monomer contains C=C groups, while the second monomer contains CCS groups. For optimal crosslinking density, combine monomers with these functional groups: 'C=C(C=O)' ( vinyl) and 'C=C(C=O)Cc1ccc(=O)cc1'. Recommended third monomer: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+108,N/A,N/A,The specified monomers do not match any available monomers. Please specify another ones.,vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+109,N/A,N/A,This monomer pair includes more than one possible chemical groups for potential crosslinking.,vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+110,N/A,N/A,"To create a shape memory polymer, some monomers must include C=C groups (vinyl rings) and others must include CCS groups (thiol groups). Please design with appropriate functional groups.",vinyl(C=C),thiol(CCS),1,150,30,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and thiol(CCS) in monomer2.
+111,N/A,N/A,Your target property values for Tg and Er must be achieved through careful monomer selection.,vinyl(C=C),vinyl(C=C),1,200,27,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.
+112,C=C(C=O)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOC(=O)C(C)=O,"To create a shape memory polymer, need monomers with both vinyl groups (C=C) and property targets like Tg and Er. Possible monomers: C=C(C=O)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C and C=C(C)C(=O)OCCOCCOCCOC(=O)C(C)=O.",vinyl(C=C),vinyl(C=C),1,200,27,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.
+113,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O,"The first nine monomers are suitable for crosslinking:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O",vinyl(C=C),vinyl(C=C),1,200,27,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.
+114,N/A,N/A,A thermoset polymer consists of two monomers bound together through vinyl groups. Which monomers should we use?,vinyl(C=C),vinyl(C=C),1,200,27,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.
+115,N/A,N/A,"For the target functional group composition 15+monomers, I need a polymer system with 4 instances of C=C and 2 instances of C=C. Can you recommend some monomers?",vinyl(C=C),vinyl(C=C),1,200,27,Design a thermoset shape memory polymer using monomers that include vinyl(C=C) in monomer1 and vinyl(C=C) in monomer2.
+116,N/A,N/A,You need a thermoset system with both Tg and Er properties close to your target values or replaceable groups.,acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+117,C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C,C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C,Your system should work with monomers like C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C your monomer 1 should contain C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C(C=O) C=C your monomer 2 should contain,acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+118,CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4,C=CCOCC(CO)(COCC=C)COCC=C,"The following monomers are suitable for your polymer system:
+Monomer 1 (C=C(C=O)): CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4
+Monomer 2 (C=C): C=CCOCC(CO)(COCC=C)COCC=C",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+119,O=C(O)C(=O)OCCOCCOCCOC(=O)C(=C)C,C=Cc1cccc(C=C)c1,"You requested a shape memory polymer (SP) using monomers with C=C(C=O) and C=C functionalities. Here's a candidate:
+Monomer 1 (C=C(C=O)): O=C(O)C(=O)OCCOCCOCCOC(=O)C(=C)C
+Monomer 2 (C=C): C=Cc1cccc(C=C)c1",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+120,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=Cc1cccc(C=C)c1,"For the target functional group profile (such as C=C(C=O) and C=C), try this monomer combination:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=Cc1cccc(C=C)c1",acrylate(C=C(C=O)),vinyl(C=C),1,100,100,Design a thermoset shape memory polymer using monomers that include acrylate(C=C(C=O)) in monomer1 and vinyl(C=C) in monomer2.
+121,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1,"The given monomers are not fully structured but here's a related design:
+Monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+Monomer 2: C=C(CCS)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCSC(=O)NCC1(C)CC(NC(=O)SCCC(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS)CC(C)(C)C1",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+122,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,"To meet the functional group constraints of C=C and C=O, try this combination:
+monomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C
+monomer 2: C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+123,N/A,N/A,I'm playing with chemical groups that might work for your polymer chemistry. Please specify which ones.,vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+124,N/A,N/A,The specified monomers don't match any available structures. Please choose another ones.,vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
+125,N/A,N/A,"For your polymer system, I need monomers with groups that match your target Tg and Er values. Please create one.",vinyl(C=C),hydroxyl(=O),1,50,20,Suggest a TSMP system with one monomer having vinyl(C=C) in monomer1 and the other featuring hydroxyl(=O) in monomer2.
