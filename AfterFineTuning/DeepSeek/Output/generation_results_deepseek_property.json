@@ -1067,7 +1067,7 @@
     "Group1": "vinyl(C=C)",
     "Group2": "thiol(CCS)",
     "temperature": 1.0,
-    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: Nc2ccc(Oc1ccc(N)cc1)cc2\nMonomer 2: CC(C)(C)C CS"
+    "output": "Great choice of properties and groups. Here's a compatible monomer pair:\nMonomer 1: Nc2ccc(Oc1ccc(N)cc1)cc2\nMonomer 2: CC(C)(C)CCS"
   },
   {
     "timestamp": "20250825_112533",

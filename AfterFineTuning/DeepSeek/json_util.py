@@ -28,7 +28,7 @@ def extract_monomers(text: str):
     monomer2 = m2.group(1).strip() if m2 else None
     return monomer1, monomer2
 
-def save_monomers_to_csv(filepath, output_csv="extracted_monomers_gpt4o_mini_group1.csv"):
+def save_monomers_to_csv(filepath, output_csv="extracted_monomers_deepseek_group_2.csv"):
     """
     Extract monomer SMILES and save to CSV file
     
@@ -68,8 +68,8 @@ def save_monomers_to_csv(filepath, output_csv="extracted_monomers_gpt4o_mini_gro
                 # Add to CSV data
                 csv_data.append({
                     'SL': i,
-                    'Monomer 1': monomer1 if monomer1 else 'N/A',
-                    'Monomer 2': monomer2 if monomer2 else 'N/A',
+                    'Monomer 1': monomer1 if monomer1 else 'Not found',
+                    'Monomer 2': monomer2 if monomer2 else 'Not found',
                     'Output_text': output_text,
                     'Group1': group1,
                     'Group2': group2,
@@ -328,7 +328,7 @@ def read_multiple_csv_with_validation(csv_filepaths):
                         pass
                 
                 # Count as valid if both monomers are valid
-                if mol1 is not None and  mol2 is not None:
+                if mol1 is not None and mol2 is not None:
                     df['Fixed Monomer 1'][idx] = monomer1
                     df['Fixed Monomer 2'][idx] = monomer2
                     valid_count += 1
@@ -484,9 +484,9 @@ def load_dataset_gpt4():
 
 
 
-#save_monomers_to_csv("Output/generation_results_lama32_group_2.json","Output/generation_results_lama32_group_2.csv")
-#save_monomers_to_csv("Output/generation_results_lama32_property.json","Output/generation_results_lama32_property.csv")
-#save_monomers_to_csv("Output/generation_results_lama32_mix.json","Output/generation_results_lama32_mix.csv")
+# save_monomers_to_csv("Output/generation_results_deepseek_group_2.json","Output/generation_results_deepseek_group_2.csv")
+# save_monomers_to_csv("Output/generation_results_deepseek_property.json","Output/generation_results_deepseek_property.csv")
+# save_monomers_to_csv("Output/generation_results_deepseek_mix.json","Output/generation_results_deepseek_mix.csv")
 
 # save_monomers_to_csv("Output/Fewshot/generation_results_lama32_group_fewshot.json","Output/Fewshot/generation_results_lama32_group_fewshot.csv")
 # save_monomers_to_csv("Output/Fewshot/generation_results_lama32_property_fewshot.json","Output/Fewshot/generation_results_lama32_property_fewshot.csv")
@@ -499,14 +499,14 @@ def load_dataset_gpt4():
 #   "Output/old/extracted_monomers_gpt4o_mini_property.csv"
 # ]
 csv_files = [
-    "Output/generation_results_lama32_group_2.csv",
-   "Output/generation_results_lama32_mix.csv",
- "Output/generation_results_lama32_property.csv"
+    "Output/generation_results_deepseek_group_2.csv",
+   "Output/generation_results_deepseek_mix.csv",
+ "Output/generation_results_deepseek_property.csv"
 ]
 
 
 #read_multiple_csv_with_validation(csv_files)
-remove_duplicate_monomer_pairs("Output/Combined_Llama.csv")
+remove_duplicate_monomer_pairs("Output/Combined_deepseek.csv")
 
 
 
