@@ -15,6 +15,7 @@ import os
 # Add the parent directory to Python path to access Data_util
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 os.chdir("GPT4")
+#os.chdir("GPT4")
 
 
 
@@ -94,6 +95,7 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
         
         
         valid_df= df[(df['Fixed Monomer 1']!='Not found') & (df['Fixed Monomer 2']!='Not found')]
+        
        
         #df=pd.DataFrame({'Fixed Monomer 1':monomer_1,'Fixed Monomer 2':monomer_2})
         
@@ -122,6 +124,7 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
         print(f"Count of group1: {group1_match/number_of_group_smiles*100:.2f}%")
         print(f"Count of reaction: {reaction_match}")
         print(f"Count of reaction: {reaction_match/len(valid_df)*100:.2f}%")
+        print("Valid df: ",len(valid_df))
        
         
     except Exception as e:
@@ -134,37 +137,61 @@ def count_functional_groups(smiles, smarts_pattern):
         return 0
     return len(mol.GetSubstructMatches(Chem.MolFromSmarts(smarts_pattern)))
 
+vinyl_vinyl=0
+epoxy_imini=0
+vinyl_hydroxyl=0
+vinyl_thiol=0
+vinyl_acrylate=0
+other=0
+
+
 def check_reaction_consistency(smiles1, smiles2):
+    global vinyl_vinyl, epoxy_imini, vinyl_hydroxyl, vinyl_thiol, vinyl_acrylate, other
     threshold=2
     if count_functional_groups(smiles1, 'C=C') >= threshold and count_functional_groups(smiles2, 'C=C') >= threshold:
+        vinyl_vinyl+=1
         return True
     elif count_functional_groups(smiles1, 'C1OC1') >= threshold and count_functional_groups(smiles2, 'NC') >= threshold:
+        epoxy_imini+=1
         return True
     elif count_functional_groups(smiles1, 'NC') >= threshold and count_functional_groups(smiles2, 'C1OC1') >= threshold:
+        epoxy_imini+=1
         return True
     elif count_functional_groups(smiles1, 'CCS') >= threshold and count_functional_groups(smiles2, 'C=C') >= threshold:
+        vinyl_thiol+=1
         return True
     elif count_functional_groups(smiles1, 'C=C') >= threshold and count_functional_groups(smiles2, 'CCS') >= threshold:
+        vinyl_thiol+=1
         return True
     elif count_functional_groups(smiles1, 'C=C') >= threshold and count_functional_groups(smiles2, 'O') >= threshold:
+        vinyl_hydroxyl+=1
         return True
     elif count_functional_groups(smiles1, 'O') >= threshold and count_functional_groups(smiles2, 'C=C') >= threshold:
+        vinyl_hydroxyl+=1
         return True
     elif count_functional_groups(smiles1, 'C=C(C=O)') >= threshold and count_functional_groups(smiles2, 'C=C') >= threshold:
+        vinyl_acrylate+=1
         return True
     elif count_functional_groups(smiles1, 'C=C') >= threshold and count_functional_groups(smiles2, 'C=C(C=O)') >= threshold:
+        vinyl_acrylate+=1
         return True
-    elif count_functional_groups(smiles1, 'C=O') >= threshold and count_functional_groups(smiles2, 'NC') >= threshold:
+    elif count_functional_groups(smiles1, 'C=O') >= threshold and count_functional_groups(smiles2, 'NC') >= threshold:  #vinyl_hydroxyl
+        other+=1
         return True
-    elif count_functional_groups(smiles1, 'NC') >= threshold and count_functional_groups(smiles2, 'C=O') >= threshold:
+    elif count_functional_groups(smiles1, 'NC') >= threshold and count_functional_groups(smiles2, 'C=O') >= threshold:  #vinyl_hydroxyl
+        other+=1
         return True
     elif count_functional_groups(smiles1, 'C(=O)O') >= threshold and count_functional_groups(smiles2, 'C1OC1') >= threshold:
+        other+=1
         return True
     elif count_functional_groups(smiles1, 'C1OC1') >= threshold and count_functional_groups(smiles2, 'C(=O)O') >= threshold:
+        other+=1
         return True
     elif count_functional_groups(smiles1, 'CS') >= threshold and count_functional_groups(smiles2, 'C1OC1') >= threshold:
+        other+=1
         return True
     elif count_functional_groups(smiles1, 'C1OC1') >= threshold and count_functional_groups(smiles2, 'CS') >= threshold:
+        other+=1
         return True
     else:
         return False
@@ -211,6 +238,12 @@ def check_group_consistency(group1, group2, smiles1, smiles2):
 
 
 #read_multiple_csv_with_validation(csv_files)
-remove_duplicate_monomer_pairs("Output/Combined_fewshot.csv")
+remove_duplicate_monomer_pairs("Output/Fewshot/Combined_fewshot.csv")
+print("Vinyl-vinyl: ",vinyl_vinyl)
+print("Epoxy-imine: ",epoxy_imini)
+print("Vinyl-hydroxyl: ",vinyl_hydroxyl)
+print("Vinyl-thiol: ",vinyl_thiol)
+print("Vinyl-acrylate: ",vinyl_acrylate)
+print("Other: ",other)
 
 

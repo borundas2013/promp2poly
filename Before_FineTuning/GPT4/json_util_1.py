@@ -3,31 +3,14 @@ import os
 import os
 
 
-#os.chdir("Llama32")
+os.chdir("GPT4")
 from rdkit import Chem
 from rdkit.Chem import AllChem
 import csv
 import pandas as pd
 import pandas as pd
 from rdkit import Chem
-import re
-os.chdir("GPT4")
 
-def extract_monomers(text: str):
-    # If the input has literal "\n", convert to real newlines
-    if "\\n" in text:
-        text = text.replace("\\n", "\n")
-
-    # Monomer 1: capture up to the next "Monomer 2:" or end of string
-    m1 = re.search(r"Monomer\s*1\s*:\s*(.+?)(?=\s*(?:Monomer\s*2\s*:|$))",
-                   text, flags=re.IGNORECASE | re.DOTALL)
-    # Monomer 2: capture to end of line
-    m2 = re.search(r"Monomer\s*2\s*:\s*([^\r\n\"']+)",
-                   text, flags=re.IGNORECASE)
-
-    monomer1 = m1.group(1).strip() if m1 else None
-    monomer2 = m2.group(1).strip() if m2 else None
-    return monomer1, monomer2
 
 def save_monomers_to_csv(filepath, output_csv="extracted_monomers_gpt4o_mini_group1.csv"):
     """
@@ -63,14 +46,15 @@ def save_monomers_to_csv(filepath, output_csv="extracted_monomers_gpt4o_mini_gro
                 prompt = obj.get('prompt_data', 'N/A')
                 
                 # Extract SMILES using common patterns
-                monomer1, monomer2 = None, None #extract_monomers(output_text)
+                monomer1 = None
+                monomer2 = None
                 
                 
                 # Add to CSV data
                 csv_data.append({
                     'SL': i,
-                    'Monomer 1': monomer1 if monomer1 else 'N/A',
-                    'Monomer 2': monomer2 if monomer2 else 'N/A',
+                    'Monomer 1': monomer1 if monomer1 else 'Not found',
+                    'Monomer 2': monomer2 if monomer2 else 'Not found',
                     'Output_text': output_text,
                     'Group1': group1,
                     'Group2': group2,
@@ -288,7 +272,6 @@ def read_multiple_csv_with_validation(csv_filepaths):
                 monomer1 = str(row['Monomer 1']).strip()
                 monomer2 = str(row['Monomer 2']).strip()
                 
-                
                 # Skip if monomers are empty or invalid
                 if monomer1 in ['nan', 'Not found', 'N/A', ''] or monomer2 in ['nan', 'Not found', 'N/A', '']:
                     df['Fixed Monomer 1'][idx] = 'Not found'
@@ -329,7 +312,7 @@ def read_multiple_csv_with_validation(csv_filepaths):
                         pass
                 
                 # Count as valid if both monomers are valid
-                if mol1 is not None and  mol2 is not None:
+                if mol1 is not None or mol2 is not None:
                     df['Fixed Monomer 1'][idx] = monomer1
                     df['Fixed Monomer 2'][idx] = monomer2
                     valid_count += 1
@@ -439,7 +422,7 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
         print(f"Total monomer pairs: {total_monomer_pairs}")
         print(f"Unique monomer pairs: {unique_monomer_pairs/total_monomer_pairs*100:.2f}%")
         print(f"Total monomer pairs: {total_monomer_pairs}")
-        df.to_csv('Unique_monomer_pairs.csv', index=False)
+        #df.to_csv(output_csv, index=False)
        
         # return df_no_duplicates
         
@@ -485,13 +468,13 @@ def load_dataset_gpt4():
 
 
 
-#save_monomers_to_csv("Output/generation_results_lama32_group_2.json","Output/generation_results_lama32_group_2.csv")
-#save_monomers_to_csv("Output/generation_results_lama32_property.json","Output/generation_results_lama32_property.csv")
-#save_monomers_to_csv("Output/generation_results_lama32_mix.json","Output/generation_results_lama32_mix.csv")
+# save_monomers_to_csv("Output/Zeroshot/generation_results_gpt4o_mini_group_zeroshot.json","Output/Zeroshot/generation_results_gpt4o_mini_group_zeroshot.csv")
+# save_monomers_to_csv("Output/Zeroshot/generation_results_gpt4o_mini_property_zeroshot.json","Output/Zeroshot/generation_results_gpt4o_mini_property_zeroshot.csv")
+# save_monomers_to_csv("Output/Zeroshot/generation_results_gpt4o_mini_mix_zeroshot.json","Output/Zeroshot/generation_results_gpt4o_mini_mix_zeroshot.csv")
 
-# save_monomers_to_csv("Output/Fewshot/generation_results_lama32_group_fewshot.json","Output/Fewshot/generation_results_lama32_group_fewshot.csv")
-# save_monomers_to_csv("Output/Fewshot/generation_results_lama32_property_fewshot.json","Output/Fewshot/generation_results_lama32_property_fewshot.csv")
-# save_monomers_to_csv("Output/Fewshot/generation_results_lama32_mix_fewshot.json","Output/Fewshot/generation_results_lama32_mix_fewshot.csv")
+# save_monomers_to_csv("Output/Fewshot/generation_results_gpt4o_mini_group_fewshot.json","Output/Fewshot/generation_results_gpt4o_mini_group_fewshot.csv")
+# save_monomers_to_csv("Output/Fewshot/generation_results_gpt4o_mini_property_fewshot.json","Output/Fewshot/generation_results_gpt4o_mini_property_fewshot.csv")
+# save_monomers_to_csv("Output/Fewshot/generation_results_gpt4o_mini_mix_fewshot.json","Output/Fewshot/generation_results_gpt4o_mini_mix_fewshot.csv")
 
 
 # csv_files = [
@@ -506,16 +489,8 @@ csv_files = [
 ]
 
 
-#read_multiple_csv_with_validation(csv_files)
-remove_duplicate_monomer_pairs("Output/Fewshot/Combined_fewshot.csv")
-
-
-
-
-# # Example
-# txt = 'Monomer 1: CC(C)(c2ccc(OCCOCCOCCOCC1CO1)cc2)c4ccc(OCCOCCOCCOCC3CO3)cc4\\nMonomer 2: Nc2ccc(S(=O)(=O)c1ccc(N)cc1)cc2'
-# txt="Based on your requirements, I suggest the following monomers:\nMonomer 1: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C\nMonomer 2: C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(=C)C"
-# print(extract_monomers(txt))
+read_multiple_csv_with_validation(csv_files)
+#remove_duplicate_monomer_pairs("Output/Combined_fewshot.csv")
 
 
 

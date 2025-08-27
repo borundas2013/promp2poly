@@ -11,6 +11,7 @@ import pandas as pd
 import pandas as pd
 from rdkit import Chem
 import re
+os.chdir("Llama32")
 
 def extract_monomers(text: str):
     # If the input has literal "\n", convert to real newlines
@@ -355,7 +356,7 @@ def read_multiple_csv_with_validation(csv_filepaths):
             print(f"Valid pairs: {valid_count}/{total_rows} ({success_rate:.1f}%)")
             print(f"Not found pairs: {not_valid_count}")
             print(f"Valid pairs (excluding 'Not found'): {valid_count}/{valid_count + not_valid_count} ({(valid_count / (valid_count + not_valid_count)) * 100:.1f}%)")
-            df.to_csv("Output/"+os.path.basename(csv_filepath).replace(".csv", "_fixed.csv"), index=False)
+            #df.to_csv("Output/"+os.path.basename(csv_filepath).replace(".csv", "_fixed.csv"), index=False)
         
         # Overall summary
         print("\n" + "=" * 80)

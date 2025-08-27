@@ -15,7 +15,7 @@ import os
 # Add the parent directory to Python path to access Data_util
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 #os.chdir("Llama32")
-#os.chdir("GPT4")
+os.chdir("DeepSeek")
 
 
 

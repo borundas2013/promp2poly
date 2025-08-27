@@ -371,9 +371,65 @@ def read_multiple_csv_with_validation(csv_filepaths):
         raise
 
 # Test the new method with multiple CSV files
-
-
 def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
+    
+    try:
+        if not os.path.exists(csv_filepath):
+            raise FileNotFoundError(f"CSV file not found: {csv_filepath}")
+            
+        # Generate output CSV filename if not provided
+        if output_csv is None:
+            base_name = os.path.splitext(os.path.basename(csv_filepath))[0]
+            output_csv = f"{base_name}_no_duplicates.csv"
+            
+        print(f"Reading CSV file: {csv_filepath}")
+        print("=" * 60)
+        
+        # Try different encodings
+        try:
+            df = pd.read_csv(csv_filepath, encoding='utf-8')
+        except UnicodeDecodeError:
+            try:
+                df = pd.read_csv(csv_filepath, encoding='latin-1')
+            except UnicodeDecodeError:
+                df = pd.read_csv(csv_filepath, encoding='cp1252')
+        
+        print(f"Original file: {len(df)} rows, {len(df.columns)} columns")
+        print(f"Columns found: {list(df.columns)}")
+        
+        # Check if required columns exist
+        required_columns = ['Fixed Monomer 1', 'Fixed Monomer 2']
+        missing_columns = [col for col in required_columns if col not in df.columns]
+        
+        if missing_columns:
+            print(f"Warning: Required columns not found: {missing_columns}")
+            print("Available columns:")
+            for col in df.columns:
+                print(f"  - {col}")
+            return None
+        total_monomer_pairs = len(df)
+        monomer_1= df[df['Fixed Monomer 1']!='Not found']['Fixed Monomer 1'].tolist()
+        monomer_2= df[df['Fixed Monomer 2']!='Not found']['Fixed Monomer 2'].tolist()
+        df=pd.DataFrame({'Fixed Monomer 1':monomer_1,'Fixed Monomer 2':monomer_2})
+        
+        df=df.drop_duplicates()
+        unique_monomer_pairs = len(df)
+        
+        
+        print(f"Unique monomer pairs: {unique_monomer_pairs}")
+        print(f"Total monomer pairs: {total_monomer_pairs}")
+        print(f"Unique monomer pairs: {unique_monomer_pairs/total_monomer_pairs*100:.2f}%")
+        print(f"Total monomer pairs: {total_monomer_pairs}")
+        df.to_csv('Unique_monomer_pairs.csv', index=False)
+       
+        # return df_no_duplicates
+        
+    except Exception as e:
+        print(f"Error processing CSV file: {e}")
+        return None
+
+
+def remove_duplicate_monomer_pairs2(csv_filepath, output_csv=None):
     
     try:
         if not os.path.exists(csv_filepath):
@@ -483,8 +539,8 @@ csv_files = [
 ]
 
 
-read_multiple_csv_with_validation(csv_files)
-#remove_duplicate_monomer_pairs("Output/Combined_both.csv")
+#read_multiple_csv_with_validation(csv_files)
+remove_duplicate_monomer_pairs("Output/Combined_gpt.csv")
 
 
 

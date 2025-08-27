@@ -238,7 +238,7 @@ def check_group_consistency(group1, group2, smiles1, smiles2):
 
 
 #read_multiple_csv_with_validation(csv_files)
-remove_duplicate_monomer_pairs("Output/Combined_fewshot.csv")
+remove_duplicate_monomer_pairs("Output/Fewshot/Combined_fewshot.csv")
 print("Vinyl-vinyl: ",vinyl_vinyl)
 print("Epoxy-imine: ",epoxy_imini)
 print("Vinyl-hydroxyl: ",vinyl_hydroxyl)
