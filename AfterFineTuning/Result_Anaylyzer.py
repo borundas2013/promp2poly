@@ -28,13 +28,13 @@ def create_mae_bar_plot(df):
     # Set the positions of the bars
     x = range(len(valid_data))
     
-    # Create bars for Tg MAE
+    # Create bars for Tg MAE with deeper colors
     bars1 = ax.bar([i - bar_width/2 for i in x], valid_data['Diff Tg (MAE)'], 
-                    bar_width, label='Glass Transition Temperature (T$_g$)', color='skyblue', alpha=0.8)
+                    bar_width, label='Glass Transition Temperature (T$_g$)', color='darkblue', alpha=0.8)
     
-    # Create bars for Er MAE
+    # Create bars for Er MAE with deeper colors
     bars2 = ax.bar([i + bar_width/2 for i in x], valid_data['Diff Er (MAE)'], 
-                    bar_width, label='Recovery Stress (E$_r$)', color='lightcoral', alpha=0.8)
+                    bar_width, label='Recovery Stress (E$_r$)', color='darkred', alpha=0.8)
     
     # Customize the plot
     ax.set_xlabel('Models', fontsize=16, fontweight='bold')
@@ -44,6 +44,11 @@ def create_mae_bar_plot(df):
     ax.set_xticklabels(valid_data['Models'], rotation=45, ha='right', fontsize=14, fontweight='bold')
     ax.legend(fontsize=14, prop={'weight': 'bold'})
     ax.grid(axis='y', alpha=0.3)
+    
+    # Make y-axis tick labels bold and bigger
+    ax.tick_params(axis='y', labelsize=14)
+    for label in ax.get_yticklabels():
+        label.set_fontweight('bold')
     
     # Add value labels on top of bars
     for bar in bars1:
@@ -222,17 +227,22 @@ def draw_sampling_temperature_plot(gpt_df, deepseek_df, llama_df):
 
 
 # Read the CSV file
-#df = read_csv_file('Result_Summary.csv')
-gpt_df = read_csv_file("GPT4/Output/Combined_gpt.csv")
-deepseek_df = read_csv_file("DeepSeek/Output/Combined_deepseek.csv")
-llama_df = read_csv_file("LLama32/Output/Combined_llama.csv")
-
-
-# Create the MAE bar plot
-if gpt_df is not None and deepseek_df is not None and llama_df is not None:
-    #valid_data = create_mae_bar_plot(df)
-    draw_sampling_temperature_plot(gpt_df, deepseek_df, llama_df)
+df = read_csv_file('Result_Summary.csv')
+#gpt_df = read_csv_file("GPT4/Output/Combined_gpt.csv")
+##deepseek_df = read_csv_file("DeepSeek/Output/Combined_deepseek.csv")
+#llama_df = read_csv_file("LLama32/Output/Combined_llama.csv")
+if df is not None:
+    valid_data = create_mae_bar_plot(df)
     print("\nData used for plotting:")
-    #print(valid_data[['Models', 'Diff Tg (MAE)', 'Diff Er (MAE)']])
+    print(valid_data[['Models', 'Diff Tg (MAE)', 'Diff Er (MAE)']])
 else:
     print("Failed to read the CSV file.")
+
+# Create the MAE bar plot
+# if gpt_df is not None and deepseek_df is not None and llama_df is not None:
+#     #valid_data = create_mae_bar_plot(df)
+#     #draw_sampling_temperature_plot(gpt_df, deepseek_df, llama_df)
+#     print("\nData used for plotting:")
+#     #print(valid_data[['Models', 'Diff Tg (MAE)', 'Diff Er (MAE)']])
+# else:
+#     print("Failed to read the CSV file.")
