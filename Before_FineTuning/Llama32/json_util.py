@@ -430,7 +430,8 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
         monomer_1= df[df['Fixed Monomer 1']!='Not found']['Fixed Monomer 1'].tolist()
         monomer_2= df[df['Fixed Monomer 2']!='Not found']['Fixed Monomer 2'].tolist()
         df=pd.DataFrame({'Fixed Monomer 1':monomer_1,'Fixed Monomer 2':monomer_2})
-        
+        pd_1=df
+  
         df=df.drop_duplicates()
         unique_monomer_pairs = len(df)
         
@@ -440,7 +441,7 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
         print(f"Unique monomer pairs: {unique_monomer_pairs/total_monomer_pairs*100:.2f}%")
         print(f"Total monomer pairs: {total_monomer_pairs}")
         df.to_csv('Unique_monomer_pairs.csv', index=False)
-       
+        print(f"Valid df: {len(pd_1)}")
         # return df_no_duplicates
         
     except Exception as e:

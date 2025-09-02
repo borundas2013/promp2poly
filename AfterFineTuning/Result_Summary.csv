@@ -1,11 +1,12 @@
-﻿,Property Query,Group Query,Mix Query,Toatl Query,Total Response,Total Response  With SMILES,No Response/Partial Response,Valid SMILES ( Both SMILES),Valid Samples Rate ( Both Monomer),Unique Sample ( Both Monomer),Unique Sample Rate ( Both Monomer),Group Matching Rate ( Both Monomer),Reactivity Rate ( Both Monomer),,,Diff Tg (MAE),Diff Er (MAE)
-GPT(Fine-Tuned),125,125,125,375,375,360,15,290,77.3,213,56.8,69.19,76.21,,,72.9,26.45
-,,,,,,,,,,,,,,,,,
-GPT (Zero Shot),125,125,125,375,375,235,140,199,53.1,197,52.53,67.4,71.36,,,52.74,49.64
-GPT(Fewshot),125,125,125,375,375,243,132,216,57.6,215,57.3,76.3,73.15,,,38.82,30.48
-,,,,,,,,,,,,,,,,,
-Llama3.2(Zeroshot),125,125,125,375,375,0,375,0,0,0,0,0,0,,,,
-Llama3.2(Fewshot),125,125,125,375,375,259,116,230,61.3,120,32,51.35,83.67,,,55.58,19.84
-,,,,,,,,,,,,,,,,,
-DeepSeek,125,125,125,375,375,374,1,368,98.1,243,64.8,94.69,90.76,,,69.2,20.8
-Llama3.2,125,125,125,375,375,372,3,363,96.8,252,67.2,92.89,86.23,,,72.8,20.1
+﻿Models,Property Query,Group Query,Mix Query,Toatl Query,Total Response,Total Response  With SMILES,No Response/Partial Response,Valid SMILES ( Both SMILES),Valid Samples Rate ( Both Monomer),Unique Sample ( Both Monomer),Unique Sample Rate ( Both Monomer),Group Matching Rate ( Both Monomer),Reactivity Rate ( Both Monomer),,,Diff Tg (MAE),Diff Er (MAE),,Number of Group Samples ( among valid)
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+GPT (Zero Shot),125,125,125,375,375,235,140,199,53.1,197,52.53,67.3,71.4,,,52.74,49.64,,199
+GPT(Fewshot),125,125,125,375,375,243,132,216,57.6,215,57.3,76.4,73.15,,,38.82,30.48,,216
+,,,,,,,,,,,,,,,,,,,
+Llama3.2(Zeroshot),125,125,125,375,375,0,375,0,0,0,0,0,0,,,,,,0
+Llama3.2(Fewshot),125,125,125,375,375,259,116,251,66.9,120,32,51.35,83.67,,,55.58,19.84,,148
+,,,,,,,,,,,,,,,,,,,
+DeepSeek,125,125,125,375,375,374,1,368,98.1,243,64.8,94.69,90.76,,,69.2,20.8,,245
+Llama3.2,125,125,125,375,375,372,3,363,96.8,252,67.2,92.89,86.23,,,72.8,20.1,,239
+GPT(Fine-Tuned),125,125,125,375,375,360,15,290,77.3,213,56.8,69.19,76.21,,,72.9,26.45,,185

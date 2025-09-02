@@ -99,7 +99,7 @@ def remove_duplicate_monomer_pairs(csv_filepath, output_csv=None):
        
         #df=pd.DataFrame({'Fixed Monomer 1':monomer_1,'Fixed Monomer 2':monomer_2})
         
-        valid_df=valid_df.drop_duplicates()
+        #valid_df=valid_df.drop_duplicates()
         
         
        
