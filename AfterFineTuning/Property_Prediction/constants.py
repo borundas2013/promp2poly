@@ -5,13 +5,14 @@ class Constants:
     
     # Training parameters
     BATCH_SIZE = 32
-    LEARNING_RATE = 1e-4
+    LEARNING_RATE = 0.0005
     DEFAULT_EPOCHS = 100
     VALIDATION_SPLIT = 0.2
     
     # Model architecture
     LAYER_SIZES = [512, 256, 128]
     DROPOUT_RATE = 0.2
+    WEIGHT_DECAY = 0.01
     
     # File paths
     MODEL_DIR = 'saved_models'

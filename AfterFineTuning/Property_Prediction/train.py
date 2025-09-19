@@ -33,8 +33,8 @@ def plot_training_history(history, save_dir):
 def main():
     # Get the root directory and setup paths
     root_dir = Path(__file__).parent.parent.parent # Gets the directory containing train.py
-    data_path = root_dir / 'Data' / 'unique_smiles_Er.csv'
-    model_save_dir = root_dir / 'Result _Section_Analyzer'/'Property_Prediction'/'PropertyRewards' / 'Property_Prediction' / 'saved_models22'
+    data_path = root_dir /"AfterFineTuning" / "Property_Prediction" / 'unique_smiles_Er.csv'
+    model_save_dir = root_dir / "AfterFineTuning" / 'Property_Prediction' / 'saved_models_new_CNN'
     plots_dir = model_save_dir / 'training_plots'
     
     # Create directories if they don't exist    
@@ -65,15 +65,15 @@ def main():
             epochs=Constants.DEFAULT_EPOCHS
         )
         
-        # # Plot and save training history
-        # print("Saving training plots...")
-        # plot_training_history(history, plots_dir)
+        # Plot and save training history
+        print("Saving training plots...")
+        plot_training_history(history, plots_dir)
         
-        # # Save model
-        # print("Saving model...")
-        # predictor.save_models(model_save_dir)
-        # # Load the saved models
-        # print("\nLoading saved models...")
+        # Save model
+        print("Saving model...")
+        predictor.save_models(model_save_dir)
+        # Load the saved models
+        print("\nLoading saved models...")
         loaded_predictor = PropertyPredictor(model_path=model_save_dir)
         
         # Make predictions using loaded model

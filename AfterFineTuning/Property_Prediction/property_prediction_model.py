@@ -26,7 +26,7 @@ class PropertyNet(nn.Module):
             nn.Linear(input_size, 256),
             self.bn1,
             nn.ReLU(),
-            nn.Dropout(0.5),
+           nn.Dropout(0.5),
             
             # First hidden layer
             nn.Linear(256, 128),
@@ -73,7 +73,7 @@ class PropertyPredictor:
         
         # Get the root directory of the project
         self.root_dir = Path(__file__).parent.parent.parent
-        self.model_dir = self.root_dir / "Reward_model" / "PropertyRewards" / "Property_Prediction" / "saved_models"
+        self.model_dir = self.root_dir /  "Property_Prediction" / "saved_models_new_CNN"
         
         self.feature_size = 200
         self.radius = 2
@@ -139,14 +139,14 @@ class PropertyPredictor:
 
     def train(self, train_data, validation_split=0.2, epochs=100, batch_size=32):
         # Add L2 regularization and set initial learning rate
-        weight_decay = 0.02
+        #weight_decay = 0.02
         initial_lr = 0.001
-        self.er_optimizer = optim.AdamW(self.er_model.parameters(), lr=initial_lr, weight_decay=weight_decay)
-        self.tg_optimizer = optim.AdamW(self.tg_model.parameters(), lr=initial_lr, weight_decay=weight_decay)
+        self.er_optimizer = optim.AdamW(self.er_model.parameters(), lr=initial_lr)
+        self.tg_optimizer = optim.AdamW(self.tg_model.parameters(), lr=initial_lr)
         
         # Learning rate schedulers
-        er_scheduler = optim.lr_scheduler.ReduceLROnPlateau(self.er_optimizer, mode='min', factor=0.5, patience=10, verbose=True)
-        tg_scheduler = optim.lr_scheduler.ReduceLROnPlateau(self.tg_optimizer, mode='min', factor=0.5, patience=10, verbose=True)
+        er_scheduler = optim.lr_scheduler.ReduceLROnPlateau(self.er_optimizer, mode='min', factor=0.5, patience=10 )
+        tg_scheduler = optim.lr_scheduler.ReduceLROnPlateau(self.tg_optimizer, mode='min', factor=0.5, patience=10)
         
         # Early stopping parameters
         best_er_loss = float('inf')
@@ -259,7 +259,7 @@ class PropertyPredictor:
         }
         
         best_val_loss = float('inf')
-        # patience_counter = 0  # Commented out early stopping
+        patience_counter = 0  # Commented out early stopping
         
         for epoch in range(epochs):
             # Training phase
@@ -305,14 +305,14 @@ class PropertyPredictor:
             if avg_val_loss < best_val_loss:
                 best_val_loss = avg_val_loss
                 history['best_model_state'] = model.state_dict().copy()
-                # patience_counter = 0  # Commented out early stopping
-            # else:
-            #     patience_counter += 1  # Commented out early stopping
+                patience_counter = 0  # Commented out early stopping
+            else:
+                patience_counter += 1  # Commented out early stopping
             
-            # Early stopping check (commented out)
-            # if patience_counter >= patience:
-            #     print(f'Early stopping triggered for {model_name} model at epoch {epoch + 1}')
-            #     break
+            #Early stopping check (commented out)
+            if patience_counter >= patience:
+                print(f'Early stopping triggered for {model_name} model at epoch {epoch + 1}')
+                break
                 
             if (epoch + 1) % 10 == 0:
                 print(f'Epoch [{epoch+1}/{epochs}]')

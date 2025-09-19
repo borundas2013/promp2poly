@@ -16,7 +16,7 @@ from sklearn.metrics import r2_score
 def load_predictor():
     """Load the trained predictor model"""
     root_dir = Path(__file__).parent.parent
-    model_dir = root_dir / 'Property_Prediction/saved_models22'
+    model_dir = root_dir / 'Property_Prediction/saved_models_new_CNN'
     return PropertyPredictor(model_path=str(model_dir))
 
 
@@ -38,7 +38,7 @@ if __name__ == "__main__":
   
 
     # Initialize columns (optional but neat)
-    for col in ["Predicted Tg","Predicted Er","Difference Tg","Difference Er"]:
+    for col in ["Predicted Tg New","Predicted Er New","Difference Tg New","Difference Er New"]:
         if col not in df.columns:
             df[col] = np.nan
 
@@ -80,8 +80,8 @@ if __name__ == "__main__":
             # If your predictor can fail, skip this sample gracefully
             continue
 
-        df.at[index, 'Predicted Tg'] = tg_pred
-        df.at[index, 'Predicted Er'] = er_pred
+        df.at[index, 'Predicted Tg New'] = tg_pred
+        df.at[index, 'Predicted Er New'] = er_pred
 
         diff_tg = abs(actual_tg - tg_pred)
         diff_er = abs(actual_er - er_pred)
@@ -97,8 +97,8 @@ if __name__ == "__main__":
 
         print(f"Actual Tg: {actual_tg}, Predicted Tg: {tg_pred}, Difference Tg: {diff_tg}")
         print(f"Actual Er: {actual_er}, Predicted Er: {er_pred}, Difference Er: {diff_er}")
-        df.at[index, 'Difference Tg'] = diff_tg
-        df.at[index, 'Difference Er'] = diff_er
+        df.at[index, 'Difference Tg New'] = diff_tg
+        df.at[index, 'Difference Er New'] = diff_er
         
 
         abs_errs_tg.append(diff_tg)
@@ -113,7 +113,7 @@ if __name__ == "__main__":
         n_eval += 1
         
 
-        
+    #df.to_csv(str("updated_"+file_path), index=False)
 
     # --- Metrics ---
     if n_eval == 0:

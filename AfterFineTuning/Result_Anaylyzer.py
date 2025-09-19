@@ -17,7 +17,7 @@ def create_mae_bar_plot(df):
     valid_data = df[df['Models'].notna() & df['Models'].str.strip() != ''].copy()
     
     # Clean up the data - remove any rows with NaN MAE values
-    valid_data = valid_data.dropna(subset=['Diff Tg (MAE)', 'Diff Er (MAE)'])
+    valid_data = valid_data.dropna(subset=['Diff Tg New (MAE)', 'Diff Er New (MAE)'])
     
     # Create the figure and axis
     fig, ax = plt.subplots(figsize=(12, 8))
@@ -29,12 +29,12 @@ def create_mae_bar_plot(df):
     x = range(len(valid_data))
     
     # Create bars for Tg MAE with deeper colors
-    bars1 = ax.bar([i - bar_width/2 for i in x], valid_data['Diff Tg (MAE)'], 
+    bars1 = ax.bar([i - bar_width/2 for i in x], valid_data['Diff Tg New (MAE)'], 
                     bar_width, label='Glass Transition Temperature (T$_g$)', color='darkblue', alpha=0.8)
     
     # Create bars for Er MAE with deeper colors
-    bars2 = ax.bar([i + bar_width/2 for i in x], valid_data['Diff Er (MAE)'], 
-                    bar_width, label='Recovery Stress (E$_r$)', color='darkred', alpha=0.8)
+    bars2 = ax.bar([i + bar_width/2 for i in x], valid_data['Diff Er New (MAE)'], 
+                    bar_width, label='Rubbery Modulus (E$_r$)', color='darkred', alpha=0.8)
     
     # Customize the plot
     ax.set_xlabel('Models', fontsize=16, fontweight='bold')
@@ -65,7 +65,7 @@ def create_mae_bar_plot(df):
     plt.tight_layout()
     
     # Save the plot as SVG
-    plt.savefig('mae_comparison_plot.svg', format='svg', dpi=300, bbox_inches='tight')
+    plt.savefig('mae_comparison_plot_new.svg', format='svg', dpi=300, bbox_inches='tight')
     
     # Show the plot
     plt.show()
@@ -122,12 +122,7 @@ def draw_sampling_temperature_plot(gpt_df, deepseek_df, llama_df):
     deepseek_df= deepseek_df[(deepseek_df['Fixed Monomer 1']!='Not found') & (deepseek_df['Fixed Monomer 2']!='Not found')]
     llama_df= llama_df[(llama_df['Fixed Monomer 1']!='Not found') & (llama_df['Fixed Monomer 2']!='Not found')]
 
-    # unique_gpt_df = gpt_df.drop_duplicates(subset=['Fixed Monomer 1', 'Fixed Monomer 2'])
-    # unique_deepseek_df = deepseek_df.drop_duplicates(subset=['Fixed Monomer 1', 'Fixed Monomer 2'])
-    # unique_llama_df = llama_df.drop_duplicates(subset=['Fixed Monomer 1', 'Fixed Monomer 2'])
-
-    # print(f"Unique samples - GPT4: {len(unique_gpt_df)}, DeepSeek: {len(unique_deepseek_df)}, Llama32: {len(unique_llama_df)}")
-
+   
     # Find and analyze duplicates
     duplicate_analysis = find_duplicate_samples(gpt_df, deepseek_df, llama_df)
     
@@ -228,20 +223,20 @@ def draw_sampling_temperature_plot(gpt_df, deepseek_df, llama_df):
 
 # Read the CSV file
 df = read_csv_file('Result_Summary.csv')
-#gpt_df = read_csv_file("GPT4/Output/Combined_gpt.csv")
-##deepseek_df = read_csv_file("DeepSeek/Output/Combined_deepseek.csv")
-#llama_df = read_csv_file("LLama32/Output/Combined_llama.csv")
+# gpt_df = read_csv_file("GPT4/Output/Combined_gpt.csv")
+# deepseek_df = read_csv_file("DeepSeek/Output/Combined_deepseek.csv")
+# llama_df = read_csv_file("LLama32/Output/Combined_llama.csv")
 if df is not None:
     valid_data = create_mae_bar_plot(df)
-    print("\nData used for plotting:")
-    print(valid_data[['Models', 'Diff Tg (MAE)', 'Diff Er (MAE)']])
+    # print("\nData used for plotting:")
+    # print(valid_data[['Models', 'Diff Tg (MAE)', 'Diff Er (MAE)']])
 else:
     print("Failed to read the CSV file.")
 
-# Create the MAE bar plot
+
 # if gpt_df is not None and deepseek_df is not None and llama_df is not None:
-#     #valid_data = create_mae_bar_plot(df)
-#     #draw_sampling_temperature_plot(gpt_df, deepseek_df, llama_df)
+   
+#     draw_sampling_temperature_plot(gpt_df, deepseek_df, llama_df)
 #     print("\nData used for plotting:")
 #     #print(valid_data[['Models', 'Diff Tg (MAE)', 'Diff Er (MAE)']])
 # else:
